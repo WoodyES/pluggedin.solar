@@ -30,7 +30,7 @@ export default function Nav() {
     }}>
       <Link to="/" style={{ textDecoration: "none", display: "flex", alignItems: "center", gap: 10 }}>
         <div style={{ width: 30, height: 30, borderRadius: 8, background: `linear-gradient(135deg,${T.solarBright},${T.solar})`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "1rem", boxShadow: `0 2px 8px ${T.solarBorder}` }}>☀</div>
-        <span style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, letterSpacing: "-0.02em" }}>plugin<span style={{ color: T.solar }}>.solar</span></span>
+        <span style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, letterSpacing: "-0.02em" }}>pluggedin<span style={{ color: T.solar }}>.solar</span></span>
       </Link>
 
       <div style={{ display: "flex", gap: 36, alignItems: "center" }}>

@@ -9,10 +9,10 @@ export default function Footer() {
           <div>
             <Link to="/" style={{ textDecoration: "none", display: "flex", alignItems: "center", gap: 10 }}>
               <div style={{ width: 30, height: 30, borderRadius: 8, background: `linear-gradient(135deg,${T.solarBright},${T.solar})`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "1rem", boxShadow: `0 2px 8px ${T.solarBorder}` }}>☀</div>
-              <span style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, letterSpacing: "-0.02em" }}>plugin<span style={{ color: T.solar }}>.solar</span></span>
+              <span style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, letterSpacing: "-0.02em" }}>pluggedin<span style={{ color: T.solar }}>.solar</span></span>
             </Link>
             <p style={{ fontSize: "0.82rem", color: T.inkFaint, marginTop: 14, maxWidth: 280, lineHeight: 1.65 }}>
-              Independent UK plug-in solar comparison, news, and savings tools. Not affiliated with any manufacturer or energy supplier.
+              Independent UK plug-in solar comparison, news, and savings tools by pluggedin.solar. Not affiliated with any manufacturer or energy supplier.
             </p>
           </div>
           <div style={{ display: "flex", gap: 56 }}>
@@ -57,7 +57,7 @@ export default function Footer() {
         </div>
 
         <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 12 }}>
-          <div style={{ fontSize: "0.78rem", color: T.inkFaint }}>&copy; 2026 plugin.solar &middot; Independent &middot; Ad-free</div>
+          <div style={{ fontSize: "0.78rem", color: T.inkFaint }}>&copy; 2026 pluggedin.solar &middot; Independent &middot; Ad-free</div>
           <div style={{ fontSize: "0.72rem", color: T.inkFaint, maxWidth: 460, lineHeight: 1.6, textAlign: "right" }}>
             Estimates are indicative. Actual savings depend on placement, shading, and tariff. Update tariffs quarterly &mdash; <a href="https://www.ofgem.gov.uk" target="_blank" rel="noreferrer" style={{ color: T.solar }}>Ofgem.gov.uk</a>
           </div>

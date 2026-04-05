@@ -4,7 +4,7 @@ You are helping me build an online business that exists to help users find out a
 
 Initially the business will subsist on affiliate and banner ad income.
 
-# plugin.solar
+# pluggedin.solar
 
 UK plug-in solar comparison site. React + Vite, targeting Vercel deployment.
 
@@ -48,7 +48,7 @@ files/                — original standalone component files (reference only)
 - Compliant kits NOT yet available — expected July 2026 when BSI product standard publishes
 - 800W is the UK regulatory cap
 - Product recommendations are placeholders until kits launch
-- Domain: plugin.solar
+- Domain: pluggedin.solar
 
 ## APIs
 - postcodes.io — geocoding UK postcodes
