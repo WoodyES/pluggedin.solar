@@ -4,7 +4,7 @@ You are helping me build an online business that exists to help users find out a
 
 Initially the business will subsist on affiliate and banner ad income.
 
-# pluggedin.solar
+# Pluggedin.solar
 
 UK plug-in solar comparison site. React + Vite, targeting Vercel deployment.
 

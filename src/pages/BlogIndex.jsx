@@ -63,7 +63,7 @@ export default function BlogIndex() {
             display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center",
             textAlign: "center", gap: 12, minHeight: 200,
           }}>
-            <div style={{ fontSize: "2rem" }}>\u270F\uFE0F</div>
+            <div style={{ fontSize: "2rem" }}>✏️</div>
             <div style={{ fontFamily: T.display, fontSize: "1rem", fontWeight: 700, color: T.inkMid }}>More posts coming soon</div>
             <div style={{ fontSize: "0.8rem", color: T.inkFaint, lineHeight: 1.6 }}>Product reviews, DNO notification guides, and kit comparison tables &mdash; as soon as compliant kits launch.</div>
           </div>

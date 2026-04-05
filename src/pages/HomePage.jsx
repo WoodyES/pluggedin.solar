@@ -6,10 +6,10 @@ import PanelFinderQuiz from "../components/PanelFinderQuiz";
 
 // ─── CALCULATOR DATA ────────────────────────────────────────────────────────
 const PLACEMENTS = [
-  { id: "garden",        label: "Garden / roof",        angle: 35, aspect: 0,  icon: "\uD83C\uDF3F" },
-  { id: "balcony_south", label: "South balcony",        angle: 90, aspect: 0,  icon: "\uD83C\uDFD9\uFE0F" },
-  { id: "balcony_ew",    label: "East / West balcony",  angle: 90, aspect: 90, icon: "\u2194\uFE0F" },
-  { id: "flat_roof",     label: "Flat roof / ground",   angle: 20, aspect: 0,  icon: "\uD83C\uDFE0" },
+  { id: "garden",        label: "Garden / roof",        angle: 35, aspect: 0,  icon: "🌿" },
+  { id: "balcony_south", label: "South balcony",        angle: 90, aspect: 0,  icon: "🏙️" },
+  { id: "balcony_ew",    label: "East / West balcony",  angle: 90, aspect: 90, icon: "↔️" },
+  { id: "flat_roof",     label: "Flat roof / ground",   angle: 20, aspect: 0,  icon: "🏠" },
 ];
 const PANEL_SIZES = [
   { watts: 400, kWp: 0.4, label: "400W", cost: 450 },
@@ -24,7 +24,7 @@ const PRESENCE = [
 const SUPPLIERS = [
   { id: "ofgem",  label: "Ofgem cap (default)", rate: 24.50 },
   { id: "oe",     label: "Octopus Flexible",    rate: 24.50 },
-  { id: "agile",  label: "Octopus Agile \u26A1",rate: null },
+  { id: "agile",  label: "Octopus Agile ⚡",rate: null },
   { id: "bg",     label: "British Gas",         rate: 24.50 },
   { id: "edf",    label: "EDF Energy",          rate: 24.50 },
   { id: "eon",    label: "E.ON Next",           rate: 24.50 },
@@ -34,15 +34,15 @@ const SUPPLIERS = [
 ];
 const FAQ_ITEMS = [
   { q: "Is plug-in solar legal in the UK?",
-    a: "Not quite yet \u2014 but it will be very soon. The government confirmed on 15 March 2026 that it will legalise plug-in solar. The wiring regulations (BS 7671 Amendment 4) were updated on 15 April 2026 to enable the framework, but compliant products cannot legally be connected until the BSI publishes the product standard \u2014 expected around July 2026. Until then, connecting a kit to your ring main is technically non-compliant. The calculator gives you accurate savings projections so you\u2019re ready to buy the moment kits are available." },
+    a: "Not quite yet — but it will be very soon. The government confirmed on 15 March 2026 that it will legalise plug-in solar. The wiring regulations (BS 7671 Amendment 4) were updated on 15 April 2026 to enable the framework, but compliant products cannot legally be connected until the BSI publishes the product standard — expected around July 2026. Until then, connecting a kit to your ring main is technically non-compliant. The calculator gives you accurate savings projections so you're ready to buy the moment kits are available." },
   { q: "Do I need an electrician?",
-    a: "No. Once compliant kits are on sale, you plug the inverter cable into a standard 13A socket. You do need to notify your Distribution Network Operator (DNO) within 28 days under G98 rules \u2014 but that\u2019s a simple online form, not a site visit." },
+    a: "No. Once compliant kits are on sale, you plug the inverter cable into a standard 13A socket. You do need to notify your Distribution Network Operator (DNO) within 28 days under G98 rules — but that's a simple online form, not a site visit." },
   { q: "Can I install this if I rent?",
-    a: "Plug-in solar is specifically designed for renters and flat-dwellers who can\u2019t access their roof. The panels attach to a balcony rail or sit in a garden, and you take them when you move. Most standard ASTs don\u2019t prohibit temporary external fixtures." },
-  { q: "What\u2019s the payback period?",
-    a: "Typically 4\u20136 years for an 800W system in southern England at the Ofgem Q2 2026 cap (24.5p/kWh). The Carbon Brief analysis puts 15-year net savings at ~\u00A31,100 for a typical London household." },
+    a: "Plug-in solar is specifically designed for renters and flat-dwellers who can't access their roof. The panels attach to a balcony rail or sit in a garden, and you take them when you move. Most standard ASTs don't prohibit temporary external fixtures." },
+  { q: "What's the payback period?",
+    a: "Typically 4–6 years for an 800W system in southern England at the Ofgem Q2 2026 cap (24.5p/kWh). The Carbon Brief analysis puts 15-year net savings at ~£1,100 for a typical London household." },
   { q: "Can I get paid for electricity I export?",
-    a: "Yes, but at much lower rates. The Smart Export Guarantee (SEG) pays ~3\u20136p per kWh exported, versus 24p+ to import. Maximise savings by using solar when it\u2019s generating \u2014 fridges, routers, and always-on devices are ideal." },
+    a: "Yes, but at much lower rates. The Smart Export Guarantee (SEG) pays ~3–6p per kWh exported, versus 24p+ to import. Maximise savings by using solar when it's generating — fridges, routers, and always-on devices are ideal." },
   { q: "What size system should I buy?",
     a: "800W is the UK regulatory cap and best value. Smaller 400W systems work if you have limited space. Use the calculator to compare payback periods for your postcode and placement." },
 ];
@@ -85,7 +85,7 @@ function Hero({ gridData }) {
     try {
       const r = await fetch(`https://api.postcodes.io/postcodes/${postcode.replace(/\s/g, "")}`);
       const json = await r.json();
-      if (json.status !== 200) { setErr("Postcode not found \u2014 try the full calculator below"); setLoading(false); return; }
+      if (json.status !== 200) { setErr("Postcode not found — try the full calculator below"); setLoading(false); return; }
       const { latitude: lat, longitude: lon, admin_district } = json.result;
       try {
         const pr = await fetch(`https://re.jrc.ec.europa.eu/api/v5_2/PVcalc?lat=${lat}&lon=${lon}&peakpower=0.8&loss=14&outputformat=json&mountingplace=free&angle=35&aspect=0`);
@@ -96,7 +96,7 @@ function Hero({ gridData }) {
         const kwh = 0.8 * (870 + Math.max(0, Math.min(1, (58 - lat) / 8)) * 180);
         setResult({ area: admin_district || postcode.toUpperCase(), saving: Math.round(kwh * 0.55 * 24.50 / 100), kwh: Math.round(kwh) });
       }
-    } catch (_) { setErr("Could not look up postcode \u2014 check your connection"); }
+    } catch (_) { setErr("Could not look up postcode — check your connection"); }
     setLoading(false);
   }
 
@@ -132,18 +132,18 @@ function Hero({ gridData }) {
 
         <div className="fu3" style={{ maxWidth: 500 }}>
           <div style={{ display: "flex", gap: 10, marginBottom: 12 }}>
-            <input type="text" placeholder="Enter your postcode\u2026" value={pc}
+            <input type="text" placeholder="Enter your postcode..." value={pc}
               onChange={e => setPC(e.target.value.toUpperCase())}
               onKeyDown={e => e.key === "Enter" && quickCalc(pc)}
               style={{ flex: 1, padding: "15px 18px", borderRadius: 10, border: `1.5px solid ${result ? T.solarBorder : T.border}`, background: T.surface, color: T.ink, fontSize: "1rem", outline: "none", fontFamily: T.body, letterSpacing: "0.05em", boxShadow: "0 1px 4px rgba(0,0,0,0.05)" }}
             />
             <button onClick={() => quickCalc(pc)} disabled={loading}
               style={{ padding: "15px 26px", borderRadius: 10, border: "none", background: loading ? T.border : T.solar, color: loading ? T.inkFaint : "#fff", fontWeight: 700, fontSize: "0.9rem", fontFamily: T.display, whiteSpace: "nowrap", boxShadow: loading ? "none" : `0 2px 16px ${T.solarBorder}` }}>
-              {loading ? "\u27F3" : "Show saving \u2192"}
+              {loading ? "⟳" : "Show saving →"}
             </button>
           </div>
 
-          {err && <div style={{ fontSize: "0.8rem", color: T.red, marginBottom: 12 }}>\u26A0 {err}</div>}
+          {err && <div style={{ fontSize: "0.8rem", color: T.red, marginBottom: 12 }}>⚠ {err}</div>}
 
           {result && (
             <div className="fu" style={{ padding: "20px 24px", borderRadius: 12, border: `1.5px solid ${T.solarBorder}`, background: T.surface, display: "flex", gap: 24, alignItems: "center", boxShadow: `0 4px 24px ${T.solarGlow}` }}>
@@ -166,7 +166,7 @@ function Hero({ gridData }) {
         <div className="fu4" style={{ display: "flex", gap: 24, marginTop: 48, alignItems: "center", flexWrap: "wrap" }}>
           {["Confirmed by government March 2026", "Kits expected July 2026", "PVGIS irradiance data", "Live UK grid stats"].map((s, i) => (
             <div key={i} style={{ display: "flex", alignItems: "center", gap: 7, fontSize: "0.78rem", color: T.inkFaint, fontWeight: 400 }}>
-              <span style={{ color: T.green, fontSize: "0.85rem" }}>\u2713</span>{s}
+              <span style={{ color: T.green, fontSize: "0.85rem" }}>✓</span>{s}
             </div>
           ))}
         </div>
@@ -178,9 +178,9 @@ function Hero({ gridData }) {
 // ─── WHY NOW ────────────────────────────────────────────────────────────────
 function WhyNow() {
   const stats = [
-    { num: "Mar 2026", label: "Confirmed",   sub: "Government announced the framework \u00B7 15 March 2026", accent: T.green },
-    { num: "~\u00A3500",    label: "Typical cost", sub: "800W kit \u00B7 no installer \u00B7 no wiring required",       accent: T.solar },
-    { num: "\u00A31,100",   label: "15-yr saving", sub: "Carbon Brief analysis \u00B7 typical London household",   accent: T.sky },
+    { num: "Mar 2026", label: "Confirmed",   sub: "Government announced the framework · 15 March 2026", accent: T.green },
+    { num: "~£500",    label: "Typical cost", sub: "800W kit · no installer · no wiring required",       accent: T.solar },
+    { num: "£1,100",   label: "15-yr saving", sub: "Carbon Brief analysis · typical London household",   accent: T.sky },
   ];
   return (
     <section style={{ padding: "80px 32px", background: T.surface, borderTop: `1px solid ${T.border}`, borderBottom: `1px solid ${T.border}` }}>
@@ -207,9 +207,9 @@ function WhyNow() {
 // ─── FOR WHO ────────────────────────────────────────────────────────────────
 function ForWho() {
   const groups = [
-    { icon: "\uD83C\uDFE2", title: "Renters",       body: "4.6 million privately rented households in England. Traditional solar requires a landlord, a roof, and \u00A310,000+. Plug-in needs none of those \u2014 and when kits arrive in shops, you can take yours with you when you move." },
-    { icon: "\uD83C\uDFD9\uFE0F", title: "Flat-dwellers", body: "380,000+ homes in England have a balcony. The plan: clip panels to your railings, plug into a standard socket, start generating. No structural modifications, no planning permission, no landlord approval needed." },
-    { icon: "\uD83C\uDFE1", title: "Homeowners too", body: "Already have roof solar? A balcony kit will cover your base load \u2014 fridge, router, standby devices \u2014 maximising the value of every watt you generate throughout the day." },
+    { icon: "🏢", title: "Renters",       body: "4.6 million privately rented households in England. Traditional solar requires a landlord, a roof, and £10,000+. Plug-in needs none of those — and when kits arrive in shops, you can take yours with you when you move." },
+    { icon: "🏙️", title: "Flat-dwellers", body: "380,000+ homes in England have a balcony. The plan: clip panels to your railings, plug into a standard socket, start generating. No structural modifications, no planning permission, no landlord approval needed." },
+    { icon: "🏡", title: "Homeowners too", body: "Already have roof solar? A balcony kit will cover your base load — fridge, router, standby devices — maximising the value of every watt you generate throughout the day." },
   ];
   return (
     <section style={{ padding: "80px 32px" }}>
@@ -243,11 +243,11 @@ function QuizSection() {
             </p>
             <div style={{ display: "flex", flexDirection: "column", gap: 12 }}>
               {[
-                { icon: "\uD83D\uDCCD", text: "Installation location" },
-                { icon: "\uD83E\uDDED", text: "Panel orientation" },
-                { icon: "\uD83D\uDCCF", text: "Available space" },
-                { icon: "\uD83D\uDD0B", text: "Battery preference" },
-                { icon: "\uD83D\uDCB7", text: "Budget range" },
+                { icon: "📍", text: "Installation location" },
+                { icon: "🧭", text: "Panel orientation" },
+                { icon: "📏", text: "Available space" },
+                { icon: "🔋", text: "Battery preference" },
+                { icon: "💷", text: "Budget range" },
               ].map((s, i) => (
                 <div key={i} style={{ display: "flex", alignItems: "center", gap: 10, fontSize: "0.85rem", color: T.inkMid }}>
                   <span style={{ fontSize: "1.1rem" }}>{s.icon}</span>
@@ -309,7 +309,7 @@ function Calculator({ gridData }) {
     try {
       const r = await fetch(`https://api.postcodes.io/postcodes/${clean}`);
       const j = await r.json();
-      if (j.status !== 200) { setPvgisError("Postcode not found \u2014 please check it."); return; }
+      if (j.status !== 200) { setPvgisError("Postcode not found — please check it."); return; }
       const { latitude: lat, longitude: lon, admin_district } = j.result;
       setLocation({ lat, lon, area: admin_district || clean });
       fetchPVGIS(lat, lon, panelSize.kWp, placement.angle, placement.aspect);
@@ -326,7 +326,7 @@ function Calculator({ gridData }) {
     } catch (_) {
       const n = Math.max(0, Math.min(1, (58 - lat) / 8));
       setPvgisKwh(kWp * (870 + n * 180) * (aspect !== 0 ? 0.82 : (angle >= 80 ? 0.78 : 1.0)));
-      setPvgisError("Latitude estimate used \u2014 PVGIS temporarily unavailable.");
+      setPvgisError("Latitude estimate used — PVGIS temporarily unavailable.");
     } finally { setPvgisLoading(false); }
   }
 
@@ -349,7 +349,7 @@ function Calculator({ gridData }) {
 
   return (
     <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, alignItems: "start" }}>
-      {/* LEFT \u2014 inputs */}
+      {/* LEFT — inputs */}
       <div style={{ padding: "32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.bg }}>
         <CLabel>Your postcode</CLabel>
         <div style={{ display: "flex", gap: 8, marginBottom: 8 }}>
@@ -360,11 +360,11 @@ function Calculator({ gridData }) {
           />
           <button onClick={() => geocodeAndFetch(postcodeInput)} disabled={pvgisLoading}
             style={{ padding: "12px 18px", borderRadius: 9, border: "none", background: pvgisLoading ? T.border : T.solar, color: pvgisLoading ? T.inkFaint : "#fff", fontWeight: 700, fontFamily: T.display, boxShadow: pvgisLoading ? "none" : `0 2px 10px ${T.solarBorder}` }}>
-            {pvgisLoading ? "\u27F3" : "Go"}
+            {pvgisLoading ? "⟳" : "Go"}
           </button>
         </div>
-        {location && <div style={{ fontSize: "0.75rem", color: T.green, marginBottom: 4, fontWeight: 500 }}>\u2713 PVGIS data loaded for {location.area}</div>}
-        {pvgisError && <div style={{ fontSize: "0.75rem", color: T.solar, marginBottom: 4 }}>\u26A0 {pvgisError}</div>}
+        {location && <div style={{ fontSize: "0.75rem", color: T.green, marginBottom: 4, fontWeight: 500 }}>✓ PVGIS data loaded for {location.area}</div>}
+        {pvgisError && <div style={{ fontSize: "0.75rem", color: T.solar, marginBottom: 4 }}>⚠ {pvgisError}</div>}
 
         <Divider />
 
@@ -413,11 +413,11 @@ function Calculator({ gridData }) {
         </div>
       </div>
 
-      {/* RIGHT \u2014 results */}
+      {/* RIGHT — results */}
       <div style={{ padding: "32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface, boxShadow: "0 2px 16px rgba(0,0,0,0.05)" }}>
         {!hasResults ? (
           <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", gap: 16, padding: "60px 20px" }}>
-            <div style={{ width: 64, height: 64, borderRadius: 16, background: T.solarLight, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "2rem" }}>\uD83D\uDCCD</div>
+            <div style={{ width: 64, height: 64, borderRadius: 16, background: T.solarLight, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "2rem" }}>📍</div>
             <div style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, lineHeight: 1.5 }}>Enter your postcode to see your estimate</div>
             <div style={{ fontSize: "0.78rem", color: T.inkFaint, lineHeight: 1.6 }}>Real PVGIS irradiance &mdash; no two postcodes are identical</div>
           </div>
@@ -426,15 +426,15 @@ function Calculator({ gridData }) {
             <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 20 }}>
               <span style={{ fontFamily: T.display, fontSize: "0.9rem", fontWeight: 700, color: T.ink }}>{location?.area}</span>
               <button onClick={share} style={{ padding: "6px 14px", borderRadius: 20, border: `1.5px solid ${copied ? T.green : T.border}`, background: copied ? T.greenLight : "transparent", color: copied ? T.green : T.inkFaint, fontSize: "0.72rem", fontFamily: T.body }}>
-                {copied ? "\u2713 Copied" : "\u2B06 Share"}
+                {copied ? "✓ Copied" : "⬆ Share"}
               </button>
             </div>
 
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
-              <RCard label="Annual generation" value={`${annualGen.toFixed(0)} kWh`} sub="PVGIS \u00B7 your postcode" hi />
-              <RCard label="Annual saving" value={`\u00A3${annualSaving.toFixed(0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
+              <RCard label="Annual generation" value={`${annualGen.toFixed(0)} kWh`} sub="PVGIS · your postcode" hi />
+              <RCard label="Annual saving" value={`£${annualSaving.toFixed(0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
               <RCard label="Payback period" value={`${payback.toFixed(1)} yrs`} />
-              <RCard label="CO\u2082 offset / yr" value={`${co2Kg.toFixed(0)} kg`} sub="207g/kWh \u00B7 DESNZ" />
+              <RCard label="CO₂ offset / yr" value={`${co2Kg.toFixed(0)} kg`} sub="207g/kWh · DESNZ" />
             </div>
 
             <div style={{ padding: "20px", borderRadius: 12, background: lifetime > 0 ? T.greenLight : T.redLight, border: `1.5px solid ${lifetime > 0 ? T.greenBorder : "rgba(220,38,38,0.18)"}`, textAlign: "center", marginBottom: 16 }}>
@@ -483,7 +483,7 @@ function Calculator({ gridData }) {
               </div>
             ) : (
               <div className="fu" style={{ padding: "18px", borderRadius: 10, border: `1px solid ${T.greenBorder}`, background: T.greenLight, textAlign: "center" }}>
-                <div style={{ fontSize: "1.5rem", marginBottom: 8 }}>\u2705</div>
+                <div style={{ fontSize: "1.5rem", marginBottom: 8 }}>✅</div>
                 <div style={{ fontFamily: T.display, fontSize: "0.95rem", fontWeight: 700, color: T.ink }}>You&rsquo;re on the list</div>
                 <div style={{ fontSize: "0.75rem", color: T.inkMid, marginTop: 6 }}>We&rsquo;ll alert you when compliant kits hit UK shops.</div>
               </div>
@@ -498,9 +498,9 @@ function Calculator({ gridData }) {
 // ─── HOW IT WORKS ───────────────────────────────────────────────────────────
 function HowItWorks() {
   const steps = [
-    { n: "01", title: "Buy a compliant kit",         body: "Once the BSI product standard is published (expected July 2026), compliant kits will be available from EcoFlow, Amazon, Lidl, and others. Expect to pay \u00A3500\u2013\u00A3750 for an 800W system." },
-    { n: "02", title: "Install it yourself",          body: "Mount on your balcony rail, flat roof, or garden. South-facing at ~35\u00B0 is ideal, but east/west works well. No tools, no trades." },
-    { n: "03", title: "Plug in and notify your DNO",  body: "Connect the cable to a standard 13A socket. Notify your Distribution Network Operator within 28 days via a simple online form \u2014 G98 rules." },
+    { n: "01", title: "Buy a compliant kit",         body: "Once the BSI product standard is published (expected July 2026), compliant kits will be available from EcoFlow, Amazon, Lidl, and others. Expect to pay £500–£750 for an 800W system." },
+    { n: "02", title: "Install it yourself",          body: "Mount on your balcony rail, flat roof, or garden. South-facing at ~35° is ideal, but east/west works well. No tools, no trades." },
+    { n: "03", title: "Plug in and notify your DNO",  body: "Connect the cable to a standard 13A socket. Notify your Distribution Network Operator within 28 days via a simple online form — G98 rules." },
   ];
   return (
     <section id="how-it-works" style={{ padding: "80px 32px", borderTop: `1px solid ${T.border}` }}>

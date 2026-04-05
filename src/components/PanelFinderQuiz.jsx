@@ -10,10 +10,10 @@ const QUESTIONS = [
     label: "Where will you install?",
     sub: "This affects how much sunlight your panels will receive.",
     options: [
-      { id: "balcony",   icon: "\uD83C\uDFD9\uFE0F", label: "Balcony railing",    desc: "Clipped to a south, east or west-facing railing" },
-      { id: "garden",    icon: "\uD83C\uDF3F", label: "Garden",              desc: "Ground-mounted or angled frame on lawn or patio" },
-      { id: "flat_roof", icon: "\uD83C\uDFE0", label: "Flat roof / terrace", desc: "Low-angle mount on a flat surface with open sky" },
-      { id: "shed",      icon: "\uD83D\uDED6", label: "Shed or garage roof", desc: "Angled roof on an outbuilding, facing roughly south" },
+      { id: "balcony",   icon: "🏙️", label: "Balcony railing",    desc: "Clipped to a south, east or west-facing railing" },
+      { id: "garden",    icon: "🌿", label: "Garden",              desc: "Ground-mounted or angled frame on lawn or patio" },
+      { id: "flat_roof", icon: "🏠", label: "Flat roof / terrace", desc: "Low-angle mount on a flat surface with open sky" },
+      { id: "shed",      icon: "🛖", label: "Shed or garage roof", desc: "Angled roof on an outbuilding, facing roughly south" },
     ],
   },
   {
@@ -21,20 +21,20 @@ const QUESTIONS = [
     label: "Which way does your space face?",
     sub: "South is ideal, but east/west still works well.",
     options: [
-      { id: "south",      icon: "\u2600\uFE0F", label: "South",          desc: "Gets direct sun most of the day \u2014 maximum output" },
-      { id: "south_east", icon: "\uD83C\uDF05", label: "South-east",     desc: "Strong morning sun, good overall production" },
-      { id: "south_west", icon: "\uD83C\uDF07", label: "South-west",     desc: "Strong afternoon sun, great for evening usage" },
-      { id: "east_west",  icon: "\u2194\uFE0F", label: "East or West",   desc: "About 80% of south-facing output \u2014 still worthwhile" },
+      { id: "south",      icon: "☀️", label: "South",          desc: "Gets direct sun most of the day — maximum output" },
+      { id: "south_east", icon: "🌅", label: "South-east",     desc: "Strong morning sun, good overall production" },
+      { id: "south_west", icon: "🌇", label: "South-west",     desc: "Strong afternoon sun, great for evening usage" },
+      { id: "east_west",  icon: "↔️", label: "East or West",   desc: "About 80% of south-facing output — still worthwhile" },
     ],
   },
   {
     id: "space",
     label: "How much space do you have?",
-    sub: "A standard panel is roughly 1.7m \u00D7 1m. More panels = more watts.",
+    sub: "A standard panel is roughly 1.7m × 1m. More panels = more watts.",
     options: [
-      { id: "small",  icon: "\uD83D\uDCD0", label: "Compact",   desc: "Room for 1 panel \u2014 about 1.7m of railing or ground" },
-      { id: "medium", icon: "\uD83D\uDCCF", label: "Standard",  desc: "Room for 2 panels side by side \u2014 about 2\u20133m" },
-      { id: "large",  icon: "\uD83D\uDCD0", label: "Plenty",    desc: "3m+ of railing or open ground \u2014 go max 800W" },
+      { id: "small",  icon: "📐", label: "Compact",   desc: "Room for 1 panel — about 1.7m of railing or ground" },
+      { id: "medium", icon: "📏", label: "Standard",  desc: "Room for 2 panels side by side — about 2–3m" },
+      { id: "large",  icon: "📐", label: "Plenty",    desc: "3m+ of railing or open ground — go max 800W" },
     ],
   },
   {
@@ -42,31 +42,31 @@ const QUESTIONS = [
     label: "Interested in a battery?",
     sub: "A battery stores daytime solar for use in the evening. Optional add-on.",
     options: [
-      { id: "yes",   icon: "\uD83D\uDD0B", label: "Yes please",  desc: "I want to store surplus energy for evenings" },
-      { id: "maybe", icon: "\uD83E\uDD14", label: "Maybe later",  desc: "I'd consider adding one down the line" },
-      { id: "no",    icon: "\u26A1",       label: "No thanks",    desc: "I'll use solar as it generates \u2014 keep it simple" },
+      { id: "yes",   icon: "🔋", label: "Yes please",  desc: "I want to store surplus energy for evenings" },
+      { id: "maybe", icon: "🤔", label: "Maybe later",  desc: "I'd consider adding one down the line" },
+      { id: "no",    icon: "⚡",       label: "No thanks",    desc: "I'll use solar as it generates — keep it simple" },
     ],
   },
   {
     id: "budget",
-    label: "What\u2019s your budget?",
+    label: "What's your budget?",
     sub: "Prices are estimates for when compliant kits arrive (~July 2026).",
     options: [
-      { id: "low",  icon: "\uD83D\uDCB7", label: "Under \u00A3400",  desc: "Entry-level 400W panel-only kit" },
-      { id: "mid",  icon: "\uD83D\uDCB7", label: "\u00A3400\u2013\u00A3700",  desc: "Mid-range 600\u2013800W kit, best value per watt" },
-      { id: "high", icon: "\uD83D\uDCB7", label: "\u00A3700+",       desc: "Premium 800W kit with battery or smart features" },
+      { id: "low",  icon: "💷", label: "Under £400",  desc: "Entry-level 400W panel-only kit" },
+      { id: "mid",  icon: "💷", label: "£400–£700",  desc: "Mid-range 600–800W kit, best value per watt" },
+      { id: "high", icon: "💷", label: "£700+",       desc: "Premium 800W kit with battery or smart features" },
     ],
   },
 ];
 
 // ─── PLACEHOLDER PRODUCT CATALOGUE ─────────────────────────────────────────
 const PRODUCTS = [
-  { id: "ecoflow-800",        name: "EcoFlow PowerStream 800W",         brand: "EcoFlow", watts: 800, battery: true,  price: "~\u00A3799",   features: ["800W dual-panel kit", "600Wh plug-in battery", "App with live monitoring", "Balcony & garden mount"], best: ["garden", "flat_roof", "shed"], badge: "Best overall",    accent: T.solar },
-  { id: "anker-800",          name: "Anker SOLIX 800W Balcony Kit",     brand: "Anker",   watts: 800, battery: false, price: "~\u00A3599",   features: ["800W dual-panel", "Micro-inverter included", "Lightweight balcony brackets", "Wi-Fi monitoring"],     best: ["balcony"],                    badge: "Best for balconies", accent: T.sky },
-  { id: "ecoflow-600",        name: "EcoFlow PowerStream 600W",         brand: "EcoFlow", watts: 600, battery: true,  price: "~\u00A3649",   features: ["600W dual-panel kit", "600Wh battery option", "App monitoring", "Compact balcony mount"],             best: ["balcony"],                    badge: "Mid-range pick",    accent: T.solar },
-  { id: "generic-400",        name: "Plug-in Solar Starter 400W",       brand: "Various", watts: 400, battery: false, price: "~\u00A3349",   features: ["Single 400W panel", "Micro-inverter included", "Simple bracket mount", "No app required"],            best: ["balcony", "garden"],          badge: "Budget friendly",   accent: T.green },
-  { id: "premium-800-battery", name: "EcoFlow PowerStream 800W + Delta", brand: "EcoFlow", watts: 800, battery: true,  price: "~\u00A31,099", features: ["800W dual-panel kit", "1kWh Delta battery", "Full home backup mode", "Smart scheduling"],             best: ["garden", "flat_roof", "shed"], badge: "Premium choice",    accent: T.solar },
-  { id: "anker-600",          name: "Anker SOLIX 600W Kit",             brand: "Anker",   watts: 600, battery: false, price: "~\u00A3449",   features: ["600W dual-panel", "Micro-inverter included", "Balcony & ground mount", "App monitoring"],             best: ["balcony", "garden"],          badge: "Great value",       accent: T.sky },
+  { id: "ecoflow-800",        name: "EcoFlow PowerStream 800W",         brand: "EcoFlow", watts: 800, battery: true,  price: "~£799",   features: ["800W dual-panel kit", "600Wh plug-in battery", "App with live monitoring", "Balcony & garden mount"], best: ["garden", "flat_roof", "shed"], badge: "Best overall",    accent: T.solar },
+  { id: "anker-800",          name: "Anker SOLIX 800W Balcony Kit",     brand: "Anker",   watts: 800, battery: false, price: "~£599",   features: ["800W dual-panel", "Micro-inverter included", "Lightweight balcony brackets", "Wi-Fi monitoring"],     best: ["balcony"],                    badge: "Best for balconies", accent: T.sky },
+  { id: "ecoflow-600",        name: "EcoFlow PowerStream 600W",         brand: "EcoFlow", watts: 600, battery: true,  price: "~£649",   features: ["600W dual-panel kit", "600Wh battery option", "App monitoring", "Compact balcony mount"],             best: ["balcony"],                    badge: "Mid-range pick",    accent: T.solar },
+  { id: "generic-400",        name: "Plug-in Solar Starter 400W",       brand: "Various", watts: 400, battery: false, price: "~£349",   features: ["Single 400W panel", "Micro-inverter included", "Simple bracket mount", "No app required"],            best: ["balcony", "garden"],          badge: "Budget friendly",   accent: T.green },
+  { id: "premium-800-battery", name: "EcoFlow PowerStream 800W + Delta", brand: "EcoFlow", watts: 800, battery: true,  price: "~£1,099", features: ["800W dual-panel kit", "1kWh Delta battery", "Full home backup mode", "Smart scheduling"],             best: ["garden", "flat_roof", "shed"], badge: "Premium choice",    accent: T.solar },
+  { id: "anker-600",          name: "Anker SOLIX 600W Kit",             brand: "Anker",   watts: 600, battery: false, price: "~£449",   features: ["600W dual-panel", "Micro-inverter included", "Balcony & ground mount", "App monitoring"],             best: ["balcony", "garden"],          badge: "Great value",       accent: T.sky },
 ];
 
 function recommend(answers) {
@@ -240,7 +240,7 @@ function ProductCard({ product: p, primary }) {
       <div style={{ display: "flex", flexDirection: "column", gap: primary ? 8 : 6 }}>
         {p.features.map((f, i) => (
           <div key={i} style={{ display: "flex", alignItems: "center", gap: 8, fontSize: primary ? "0.84rem" : "0.78rem", color: T.inkMid }}>
-            <span style={{ color: T.green, fontSize: "0.8rem", flexShrink: 0 }}>\u2713</span>{f}
+            <span style={{ color: T.green, fontSize: "0.8rem", flexShrink: 0 }}>✓</span>{f}
           </div>
         ))}
       </div>

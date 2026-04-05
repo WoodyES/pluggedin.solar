@@ -5,10 +5,10 @@ import SectionLabel from "../components/SectionLabel";
 
 // ─── DATA ───────────────────────────────────────────────────────────────────
 const PLACEMENTS = [
-  { id: "garden",        label: "Garden / roof",        angle: 35, aspect: 0,  icon: "\uD83C\uDF3F" },
-  { id: "balcony_south", label: "South balcony",        angle: 90, aspect: 0,  icon: "\uD83C\uDFD9\uFE0F" },
-  { id: "balcony_ew",    label: "East / West balcony",  angle: 90, aspect: 90, icon: "\u2194\uFE0F" },
-  { id: "flat_roof",     label: "Flat roof / ground",   angle: 20, aspect: 0,  icon: "\uD83C\uDFE0" },
+  { id: "garden",        label: "Garden / roof",        angle: 35, aspect: 0,  icon: "🌿" },
+  { id: "balcony_south", label: "South balcony",        angle: 90, aspect: 0,  icon: "🏙️" },
+  { id: "balcony_ew",    label: "East / West balcony",  angle: 90, aspect: 90, icon: "↔️" },
+  { id: "flat_roof",     label: "Flat roof / ground",   angle: 20, aspect: 0,  icon: "🏠" },
 ];
 const PANEL_SIZES = [
   { watts: 400, kWp: 0.4, label: "400W", cost: 450 },
@@ -23,7 +23,7 @@ const PRESENCE = [
 const SUPPLIERS = [
   { id: "ofgem",  label: "Ofgem cap (default)", rate: 24.50 },
   { id: "oe",     label: "Octopus Flexible",    rate: 24.50 },
-  { id: "agile",  label: "Octopus Agile \u26A1",rate: null },
+  { id: "agile",  label: "Octopus Agile ⚡",rate: null },
   { id: "bg",     label: "British Gas",         rate: 24.50 },
   { id: "edf",    label: "EDF Energy",          rate: 24.50 },
   { id: "eon",    label: "E.ON Next",           rate: 24.50 },
@@ -68,7 +68,7 @@ export default function CalculatorPage({ gridData }) {
     try {
       const r = await fetch(`https://api.postcodes.io/postcodes/${clean}`);
       const j = await r.json();
-      if (j.status !== 200) { setPvgisError("Postcode not found \u2014 please check it."); return; }
+      if (j.status !== 200) { setPvgisError("Postcode not found — please check it."); return; }
       const { latitude: lat, longitude: lon, admin_district } = j.result;
       setLocation({ lat, lon, area: admin_district || clean });
       fetchPVGIS(lat, lon, panelSize.kWp, placement.angle, placement.aspect);
@@ -85,7 +85,7 @@ export default function CalculatorPage({ gridData }) {
     } catch (_) {
       const n = Math.max(0, Math.min(1, (58 - lat) / 8));
       setPvgisKwh(kWp * (870 + n * 180) * (aspect !== 0 ? 0.82 : (angle >= 80 ? 0.78 : 1.0)));
-      setPvgisError("Latitude estimate used \u2014 PVGIS temporarily unavailable.");
+      setPvgisError("Latitude estimate used — PVGIS temporarily unavailable.");
     } finally { setPvgisLoading(false); }
   }
 
@@ -116,7 +116,7 @@ export default function CalculatorPage({ gridData }) {
         </p>
 
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, alignItems: "start" }}>
-          {/* LEFT \u2014 inputs */}
+          {/* LEFT — inputs */}
           <div style={{ padding: "32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface }}>
             <CLabel>Your postcode</CLabel>
             <div style={{ display: "flex", gap: 8, marginBottom: 8 }}>
@@ -127,11 +127,11 @@ export default function CalculatorPage({ gridData }) {
               />
               <button onClick={() => geocodeAndFetch(postcodeInput)} disabled={pvgisLoading}
                 style={{ padding: "12px 18px", borderRadius: 9, border: "none", background: pvgisLoading ? T.border : T.solar, color: pvgisLoading ? T.inkFaint : "#fff", fontWeight: 700, fontFamily: T.display, boxShadow: pvgisLoading ? "none" : `0 2px 10px ${T.solarBorder}` }}>
-                {pvgisLoading ? "\u27F3" : "Go"}
+                {pvgisLoading ? "⟳" : "Go"}
               </button>
             </div>
-            {location && <div style={{ fontSize: "0.75rem", color: T.green, marginBottom: 4, fontWeight: 500 }}>\u2713 PVGIS data loaded for {location.area}</div>}
-            {pvgisError && <div style={{ fontSize: "0.75rem", color: T.solar, marginBottom: 4 }}>\u26A0 {pvgisError}</div>}
+            {location && <div style={{ fontSize: "0.75rem", color: T.green, marginBottom: 4, fontWeight: 500 }}>✓ PVGIS data loaded for {location.area}</div>}
+            {pvgisError && <div style={{ fontSize: "0.75rem", color: T.solar, marginBottom: 4 }}>⚠ {pvgisError}</div>}
             <Divider />
 
             <CLabel>System size</CLabel>
@@ -179,11 +179,11 @@ export default function CalculatorPage({ gridData }) {
             </div>
           </div>
 
-          {/* RIGHT \u2014 results */}
+          {/* RIGHT — results */}
           <div style={{ padding: "32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface, boxShadow: "0 2px 16px rgba(0,0,0,0.05)" }}>
             {!hasResults ? (
               <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", gap: 16, padding: "60px 20px" }}>
-                <div style={{ width: 64, height: 64, borderRadius: 16, background: T.solarLight, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "2rem" }}>\uD83D\uDCCD</div>
+                <div style={{ width: 64, height: 64, borderRadius: 16, background: T.solarLight, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "2rem" }}>📍</div>
                 <div style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, lineHeight: 1.5 }}>Enter your postcode to see your estimate</div>
                 <div style={{ fontSize: "0.78rem", color: T.inkFaint, lineHeight: 1.6 }}>Real PVGIS irradiance &mdash; no two postcodes are identical</div>
               </div>
@@ -192,14 +192,14 @@ export default function CalculatorPage({ gridData }) {
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 20 }}>
                   <span style={{ fontFamily: T.display, fontSize: "0.9rem", fontWeight: 700, color: T.ink }}>{location?.area}</span>
                   <button onClick={share} style={{ padding: "6px 14px", borderRadius: 20, border: `1.5px solid ${copied ? T.green : T.border}`, background: copied ? T.greenLight : "transparent", color: copied ? T.green : T.inkFaint, fontSize: "0.72rem", fontFamily: T.body }}>
-                    {copied ? "\u2713 Copied" : "\u2B06 Share"}
+                    {copied ? "✓ Copied" : "⬆ Share"}
                   </button>
                 </div>
                 <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
-                  <RCard label="Annual generation" value={`${annualGen.toFixed(0)} kWh`} sub="PVGIS \u00B7 your postcode" hi />
-                  <RCard label="Annual saving" value={`\u00A3${annualSaving.toFixed(0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
+                  <RCard label="Annual generation" value={`${annualGen.toFixed(0)} kWh`} sub="PVGIS · your postcode" hi />
+                  <RCard label="Annual saving" value={`£${annualSaving.toFixed(0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
                   <RCard label="Payback period" value={`${payback.toFixed(1)} yrs`} />
-                  <RCard label="CO\u2082 offset / yr" value={`${co2Kg.toFixed(0)} kg`} sub="207g/kWh \u00B7 DESNZ" />
+                  <RCard label="CO₂ offset / yr" value={`${co2Kg.toFixed(0)} kg`} sub="207g/kWh · DESNZ" />
                 </div>
 
                 <div style={{ padding: "20px", borderRadius: 12, background: lifetime > 0 ? T.greenLight : T.redLight, border: `1.5px solid ${lifetime > 0 ? T.greenBorder : "rgba(220,38,38,0.18)"}`, textAlign: "center", marginBottom: 16 }}>
@@ -248,7 +248,7 @@ export default function CalculatorPage({ gridData }) {
                   </div>
                 ) : (
                   <div className="fu" style={{ padding: "18px", borderRadius: 10, border: `1px solid ${T.greenBorder}`, background: T.greenLight, textAlign: "center" }}>
-                    <div style={{ fontSize: "1.5rem", marginBottom: 8 }}>\u2705</div>
+                    <div style={{ fontSize: "1.5rem", marginBottom: 8 }}>✅</div>
                     <div style={{ fontFamily: T.display, fontSize: "0.95rem", fontWeight: 700, color: T.ink }}>You&rsquo;re on the list</div>
                     <div style={{ fontSize: "0.75rem", color: T.inkMid, marginTop: 6 }}>We&rsquo;ll alert you when compliant kits hit UK shops.</div>
                   </div>

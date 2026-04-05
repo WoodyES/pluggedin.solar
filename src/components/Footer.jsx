@@ -44,11 +44,11 @@ export default function Footer() {
               { label: "Carbon Intensity API",  badge: "live",      bc: T.green,    href: "https://carbonintensity.org.uk" },
               { label: "Ofgem tariffs",         badge: "Q2 2026",   bc: T.solar,    href: "https://www.ofgem.gov.uk/check-if-energy-price-cap-affects-you" },
               { label: "System costs",          badge: "Apr 2026",  bc: T.solar,    href: "https://www.ecoflow.com/uk" },
-              { label: "CO\u2082 intensity factor", badge: "DESNZ 2024", bc: T.inkFaint, href: "https://www.gov.uk/government/collections/uk-energy-in-brief" },
+              { label: "CO₂ intensity factor", badge: "DESNZ 2024", bc: T.inkFaint, href: "https://www.gov.uk/government/collections/uk-energy-in-brief" },
             ].map(s => (
               <a key={s.label} href={s.href} target="_blank" rel="noreferrer" style={{ display: "flex", alignItems: "center", gap: 7, textDecoration: "none" }}>
                 <span style={{ fontSize: "0.6rem", padding: "3px 8px", borderRadius: 20, background: `${s.bc}18`, color: s.bc, fontWeight: 600, whiteSpace: "nowrap", border: `1px solid ${s.bc}30` }}>
-                  {s.badge === "live" ? "\u25CF live" : s.badge}
+                  {s.badge === "live" ? "● live" : s.badge}
                 </span>
                 <span style={{ fontSize: "0.78rem", color: T.inkMid }}>{s.label}</span>
               </a>
