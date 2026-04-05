@@ -115,6 +115,63 @@ function GlobalStyles() {
       .prose pre { background: ${T.surfaceAlt}; padding: 16px 20px; border-radius: 10px; overflow-x: auto; margin-bottom: 24px; }
       .prose pre code { background: none; padding: 0; }
       .prose img { max-width: 100%; border-radius: 10px; margin: 24px 0; }
+
+      /* ─── RESPONSIVE ─────────────────────────────────── */
+      @media (max-width: 768px) {
+        /* Nav */
+        .nav-links { display: none !important; }
+        .nav-hamburger { display: flex !important; }
+        .mobile-menu { display: flex !important; }
+
+        /* Grid overrides */
+        .grid-2 { grid-template-columns: 1fr !important; }
+        .grid-3 { grid-template-columns: 1fr !important; }
+        .grid-2-calc { grid-template-columns: 1fr !important; }
+
+        /* Hero result card */
+        .hero-result { flex-direction: column !important; gap: 16px !important; }
+        .hero-result > div:nth-child(2) { width: 100% !important; height: 1px !important; align-self: auto !important; }
+        .hero-result a { margin-left: 0 !important; width: 100% !important; text-align: center !important; }
+
+        /* Footer */
+        .footer-top { flex-direction: column !important; }
+        .footer-cols { flex-direction: column !important; gap: 28px !important; }
+        .footer-bottom { flex-direction: column !important; text-align: center !important; }
+        .footer-bottom > div:last-child { text-align: center !important; }
+
+        /* Blog grid */
+        .blog-grid { grid-template-columns: 1fr !important; }
+
+        /* FAQ grid */
+        .faq-grid { grid-template-columns: 1fr !important; }
+
+        /* Quiz results alts */
+        .quiz-alts { grid-template-columns: 1fr !important; }
+
+        /* Section padding */
+        .section-pad { padding-left: 16px !important; padding-right: 16px !important; }
+
+        /* Calculator RCards */
+        .rcards { grid-template-columns: 1fr 1fr !important; }
+
+        /* Supplier grid */
+        .supplier-grid { grid-template-columns: 1fr !important; }
+
+        /* Placement grid */
+        .placement-grid { grid-template-columns: 1fr !important; }
+
+        /* Data sources */
+        .data-sources { flex-direction: column !important; gap: 10px !important; }
+
+        /* Hero postcode input */
+        .hero-postcode { flex-direction: column !important; }
+        .hero-postcode button { width: 100% !important; }
+        .hero-postcode input { width: 100% !important; }
+      }
+
+      @media (max-width: 480px) {
+        .rcards { grid-template-columns: 1fr !important; }
+      }
     `}</style>
   );
 }

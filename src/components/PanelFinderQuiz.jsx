@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import T from "../tokens";
+import EmailCapture from "./EmailCapture";
 
 // ─── QUIZ DATA ─────────────────────────────────────────────────────────────
 
@@ -136,13 +137,18 @@ export default function PanelFinderQuiz() {
 
         <div style={{ marginTop: 32 }}>
           <div style={{ fontSize: "0.65rem", fontWeight: 700, letterSpacing: "0.14em", textTransform: "uppercase", color: T.inkFaint, fontFamily: T.display, marginBottom: 16 }}>Also consider</div>
-          <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16 }}>
+          <div className="quiz-alts" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 16 }}>
             {alts.map(p => <ProductCard key={p.id} product={p} />)}
           </div>
         </div>
 
         <div style={{ marginTop: 32, padding: "16px 20px", borderRadius: 12, border: `1px solid ${T.border}`, background: T.surfaceAlt, fontSize: "0.78rem", color: T.inkMid, lineHeight: 1.7 }}>
           <strong style={{ color: T.ink }}>Placeholder products.</strong> BSI-compliant plug-in solar kits are not yet available in the UK. These recommendations are based on expected specifications. We&rsquo;ll update with real, buyable products as soon as they launch (~July 2026).
+        </div>
+
+        {/* Email signup */}
+        <div style={{ marginTop: 28 }}>
+          <EmailCapture />
         </div>
 
         <div style={{ display: "flex", gap: 12, marginTop: 28 }}>

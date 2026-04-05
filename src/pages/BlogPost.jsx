@@ -1,6 +1,7 @@
 import { useParams, Link, Navigate } from "react-router-dom";
 import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
+import EmailCapture from "../components/EmailCapture";
 import posts from "../data/posts";
 
 export default function BlogPost() {
@@ -14,7 +15,7 @@ export default function BlogPost() {
   const prev = posts[idx - 1];
 
   return (
-    <section style={{ padding: "100px 32px 80px" }}>
+    <section className="section-pad" style={{ padding: "100px 20px 80px" }}>
       <div style={{ maxWidth: 680, margin: "0 auto" }}>
         <Link to="/blog" style={{ fontSize: "0.8rem", color: T.inkFaint, textDecoration: "none", fontWeight: 500, display: "inline-flex", alignItems: "center", gap: 6, marginBottom: 24 }}
           onMouseEnter={e => e.target.style.color = T.ink}
@@ -45,6 +46,11 @@ export default function BlogPost() {
             <Link to="/calculator" style={{ padding: "8px 16px", borderRadius: 8, background: T.solar, color: "#fff", fontSize: "0.8rem", fontWeight: 600, fontFamily: T.display, textDecoration: "none" }}>Calculator</Link>
             <Link to="/quiz" style={{ padding: "8px 16px", borderRadius: 8, border: `1.5px solid ${T.border}`, background: T.surface, color: T.ink, fontSize: "0.8rem", fontWeight: 600, fontFamily: T.display, textDecoration: "none" }}>Find your kit</Link>
           </div>
+        </div>
+
+        {/* Email signup */}
+        <div style={{ marginTop: 32 }}>
+          <EmailCapture />
         </div>
 
         {/* Prev/Next */}

@@ -101,7 +101,7 @@ function Hero({ gridData }) {
   }
 
   return (
-    <section style={{ minHeight: "100vh", display: "flex", flexDirection: "column", justifyContent: "center", padding: "110px 32px 70px", position: "relative", overflow: "hidden", maxWidth: 960, margin: "0 auto" }}>
+    <section className="section-pad" style={{ minHeight: "100vh", display: "flex", flexDirection: "column", justifyContent: "center", padding: "110px 20px 70px", position: "relative", overflow: "hidden", maxWidth: 960, margin: "0 auto" }}>
       <div style={{ position: "absolute", top: "0%", right: "-5%", width: 520, height: 520, borderRadius: "50%", background: `radial-gradient(circle,${T.solarLight} 0%,transparent 65%)`, pointerEvents: "none", zIndex: 0 }} />
       <div style={{ position: "absolute", bottom: "5%", left: "-12%", width: 360, height: 360, borderRadius: "50%", background: `radial-gradient(circle,${T.skyLight} 0%,transparent 65%)`, pointerEvents: "none", zIndex: 0 }} />
 
@@ -131,7 +131,7 @@ function Hero({ gridData }) {
         </p>
 
         <div className="fu3" style={{ maxWidth: 500 }}>
-          <div style={{ display: "flex", gap: 10, marginBottom: 12 }}>
+          <div className="hero-postcode" style={{ display: "flex", gap: 10, marginBottom: 12 }}>
             <input type="text" placeholder="Enter your postcode..." value={pc}
               onChange={e => setPC(e.target.value.toUpperCase())}
               onKeyDown={e => e.key === "Enter" && quickCalc(pc)}
@@ -146,7 +146,7 @@ function Hero({ gridData }) {
           {err && <div style={{ fontSize: "0.8rem", color: T.red, marginBottom: 12 }}>⚠ {err}</div>}
 
           {result && (
-            <div className="fu" style={{ padding: "20px 24px", borderRadius: 12, border: `1.5px solid ${T.solarBorder}`, background: T.surface, display: "flex", gap: 24, alignItems: "center", boxShadow: `0 4px 24px ${T.solarGlow}` }}>
+            <div className="fu hero-result" style={{ padding: "20px 24px", borderRadius: 12, border: `1.5px solid ${T.solarBorder}`, background: T.surface, display: "flex", gap: 24, alignItems: "center", boxShadow: `0 4px 24px ${T.solarGlow}` }}>
               <div>
                 <div style={{ fontFamily: T.display, fontSize: "2.6rem", fontWeight: 800, color: T.solar, lineHeight: 1 }}>&pound;{result.saving}</div>
                 <div style={{ fontSize: "0.75rem", color: T.inkFaint, marginTop: 4, fontWeight: 500 }}>estimated annual saving</div>
@@ -183,10 +183,10 @@ function WhyNow() {
     { num: "£1,100",   label: "15-yr saving", sub: "Carbon Brief analysis · typical London household",   accent: T.sky },
   ];
   return (
-    <section style={{ padding: "80px 32px", background: T.surface, borderTop: `1px solid ${T.border}`, borderBottom: `1px solid ${T.border}` }}>
+    <section className="section-pad" style={{ padding: "80px 20px", background: T.surface, borderTop: `1px solid ${T.border}`, borderBottom: `1px solid ${T.border}` }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Why now</SectionLabel>
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(3,1fr)", gap: 24, marginTop: 40 }}>
+        <div className="grid-3" style={{ display: "grid", gridTemplateColumns: "repeat(3,1fr)", gap: 24, marginTop: 40 }}>
           {stats.map((s, i) => (
             <div key={i} style={{ padding: "36px 32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.bg, position: "relative", overflow: "hidden" }}>
               <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: 3, background: `linear-gradient(90deg,${s.accent},${s.accent}00)`, borderRadius: "16px 16px 0 0" }} />
@@ -212,10 +212,10 @@ function ForWho() {
     { icon: "🏡", title: "Homeowners too", body: "Already have roof solar? A balcony kit will cover your base load — fridge, router, standby devices — maximising the value of every watt you generate throughout the day." },
   ];
   return (
-    <section style={{ padding: "80px 32px" }}>
+    <section className="section-pad" style={{ padding: "80px 20px" }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Who is this for</SectionLabel>
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(3,1fr)", gap: 20, marginTop: 40 }}>
+        <div className="grid-3" style={{ display: "grid", gridTemplateColumns: "repeat(3,1fr)", gap: 20, marginTop: 40 }}>
           {groups.map((g, i) => (
             <div key={i} style={{ padding: "32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface, boxShadow: "0 1px 6px rgba(0,0,0,0.04)" }}>
               <div style={{ fontSize: "2rem", marginBottom: 18 }}>{g.icon}</div>
@@ -232,10 +232,10 @@ function ForWho() {
 // ─── QUIZ SECTION (embedded) ────────────────────────────────────────────────
 function QuizSection() {
   return (
-    <section id="quiz" style={{ padding: "80px 32px", background: T.surface, borderTop: `1px solid ${T.border}`, borderBottom: `1px solid ${T.border}` }}>
+    <section id="quiz" className="section-pad" style={{ padding: "80px 20px", background: T.surface, borderTop: `1px solid ${T.border}`, borderBottom: `1px solid ${T.border}` }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Find your kit</SectionLabel>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48, marginTop: 40, alignItems: "start" }}>
+        <div className="grid-2" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48, marginTop: 40, alignItems: "start" }}>
           <div>
             <h2 style={{ fontFamily: T.display, fontSize: "2rem", fontWeight: 800, marginBottom: 12, letterSpacing: "-0.02em" }}>Not sure which kit is right for you?</h2>
             <p style={{ color: T.inkMid, fontSize: "0.9rem", lineHeight: 1.7, marginBottom: 24 }}>
@@ -271,7 +271,7 @@ function QuizSection() {
 // ─── CALCULATOR SECTION ─────────────────────────────────────────────────────
 function CalculatorSection({ gridData }) {
   return (
-    <section id="calculator" style={{ padding: "60px 32px 80px" }}>
+    <section id="calculator" className="section-pad" style={{ padding: "60px 20px 80px" }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Calculator</SectionLabel>
         <h2 style={{ fontFamily: T.display, fontSize: "2rem", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>See what you&rsquo;ll save before kits go on sale</h2>
@@ -348,9 +348,9 @@ function Calculator({ gridData }) {
   const tariffPct = ((tariff - 10) / 40) * 100;
 
   return (
-    <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, alignItems: "start" }}>
+    <div className="grid-2-calc" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, alignItems: "start" }}>
       {/* LEFT — inputs */}
-      <div style={{ padding: "32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.bg }}>
+      <div style={{ padding: "24px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.bg }}>
         <CLabel>Your postcode</CLabel>
         <div style={{ display: "flex", gap: 8, marginBottom: 8 }}>
           <input type="text" placeholder="e.g. BN1 1AA" value={postcodeInput}
@@ -378,21 +378,21 @@ function Calculator({ gridData }) {
         </div>
 
         <CLabel>Placement</CLabel>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 8, marginBottom: 20 }}>
+        <div className="placement-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 8, marginBottom: 20 }}>
           {PLACEMENTS.map(p => (
             <CChip key={p.id} active={placement.id === p.id} onClick={() => setPlacement(p)}>{p.icon} {p.label}</CChip>
           ))}
         </div>
 
         <CLabel>Home during the day?</CLabel>
-        <div style={{ display: "flex", gap: 8, marginBottom: 20 }}>
+        <div style={{ display: "flex", gap: 8, marginBottom: 20, flexWrap: "wrap" }}>
           {PRESENCE.map(p => (
             <CChip key={p.id} active={presence.id === p.id} onClick={() => setPresence(p)}>{p.label}</CChip>
           ))}
         </div>
 
         <CLabel>Supplier &middot; Ofgem Q2 2026 &middot; <a href="https://www.ofgem.gov.uk/check-if-energy-price-cap-affects-you" target="_blank" rel="noreferrer" style={{ color: T.sky }}>verify &nearr;</a></CLabel>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 7, marginBottom: 14 }}>
+        <div className="supplier-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 7, marginBottom: 14 }}>
           {SUPPLIERS.map(s => (
             <button key={s.id} onClick={() => pickSupplier(s)}
               style={{ padding: "9px 10px", borderRadius: 7, border: `1.5px solid ${supplier.id === s.id ? T.solar : T.border}`, background: supplier.id === s.id ? T.solarLight : T.surface, color: supplier.id === s.id ? T.solar : T.inkMid, fontSize: "0.75rem", fontWeight: supplier.id === s.id ? 600 : 400, fontFamily: T.body, textAlign: "left" }}>
@@ -414,9 +414,9 @@ function Calculator({ gridData }) {
       </div>
 
       {/* RIGHT — results */}
-      <div style={{ padding: "32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface, boxShadow: "0 2px 16px rgba(0,0,0,0.05)" }}>
+      <div style={{ padding: "24px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface, boxShadow: "0 2px 16px rgba(0,0,0,0.05)" }}>
         {!hasResults ? (
-          <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", gap: 16, padding: "60px 20px" }}>
+          <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", gap: 16, padding: "40px 20px" }}>
             <div style={{ width: 64, height: 64, borderRadius: 16, background: T.solarLight, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "2rem" }}>📍</div>
             <div style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, lineHeight: 1.5 }}>Enter your postcode to see your estimate</div>
             <div style={{ fontSize: "0.78rem", color: T.inkFaint, lineHeight: 1.6 }}>Real PVGIS irradiance &mdash; no two postcodes are identical</div>
@@ -430,7 +430,7 @@ function Calculator({ gridData }) {
               </button>
             </div>
 
-            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
+            <div className="rcards" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
               <RCard label="Annual generation" value={`${annualGen.toFixed(0)} kWh`} sub="PVGIS · your postcode" hi />
               <RCard label="Annual saving" value={`£${annualSaving.toFixed(0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
               <RCard label="Payback period" value={`${payback.toFixed(1)} yrs`} />
@@ -503,10 +503,10 @@ function HowItWorks() {
     { n: "03", title: "Plug in and notify your DNO",  body: "Connect the cable to a standard 13A socket. Notify your Distribution Network Operator within 28 days via a simple online form — G98 rules." },
   ];
   return (
-    <section id="how-it-works" style={{ padding: "80px 32px", borderTop: `1px solid ${T.border}` }}>
+    <section id="how-it-works" className="section-pad" style={{ padding: "80px 20px", borderTop: `1px solid ${T.border}` }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>How it works</SectionLabel>
-        <div style={{ display: "grid", gridTemplateColumns: "repeat(3,1fr)", gap: 40, marginTop: 48 }}>
+        <div className="grid-3" style={{ display: "grid", gridTemplateColumns: "repeat(3,1fr)", gap: 40, marginTop: 48 }}>
           {steps.map((s, i) => (
             <div key={i}>
               <div style={{ fontFamily: T.display, fontSize: "3.5rem", fontWeight: 800, color: T.borderFaint, lineHeight: 1, marginBottom: 20, letterSpacing: "-0.03em" }}>{s.n}</div>
@@ -524,10 +524,10 @@ function HowItWorks() {
 function FAQSection() {
   const [open, setOpen] = useState(null);
   return (
-    <section id="faq" style={{ padding: "80px 32px", background: T.surface, borderTop: `1px solid ${T.border}` }}>
+    <section id="faq" className="section-pad" style={{ padding: "80px 20px", background: T.surface, borderTop: `1px solid ${T.border}` }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>FAQ</SectionLabel>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 1, background: T.border, borderRadius: 16, overflow: "hidden", marginTop: 40 }}>
+        <div className="faq-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 1, background: T.border, borderRadius: 16, overflow: "hidden", marginTop: 40 }}>
           {FAQ_ITEMS.map((item, i) => (
             <div key={i} style={{ background: T.surface }}>
               <button onClick={() => setOpen(open === i ? null : i)}

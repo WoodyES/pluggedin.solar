@@ -1,11 +1,12 @@
 import { Link } from "react-router-dom";
 import T from "../tokens";
+import EmailCapture from "./EmailCapture";
 
 export default function Footer() {
   return (
-    <footer style={{ padding: "56px 32px 40px", borderTop: `1px solid ${T.border}`, background: T.bg }}>
+    <footer className="section-pad" style={{ padding: "56px 20px 40px", borderTop: `1px solid ${T.border}`, background: T.bg }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
-        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 48, flexWrap: "wrap", gap: 36 }}>
+        <div className="footer-top" style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", marginBottom: 48, flexWrap: "wrap", gap: 36 }}>
           <div>
             <Link to="/" style={{ textDecoration: "none", display: "flex", alignItems: "center", gap: 10 }}>
               <div style={{ width: 30, height: 30, borderRadius: 8, background: `linear-gradient(135deg,${T.solarBright},${T.solar})`, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "1rem", boxShadow: `0 2px 8px ${T.solarBorder}` }}>☀</div>
@@ -15,7 +16,7 @@ export default function Footer() {
               Independent UK plug-in solar comparison, news, and savings tools by pluggedin.solar. Not affiliated with any manufacturer or energy supplier.
             </p>
           </div>
-          <div style={{ display: "flex", gap: 56 }}>
+          <div className="footer-cols" style={{ display: "flex", gap: 56 }}>
             {[
               { heading: "Tools", links: [{ label: "Calculator", to: "/calculator" }, { label: "Find your kit", to: "/quiz" }] },
               { heading: "Learn", links: [{ label: "Blog", to: "/blog" }, { label: "FAQ", to: "/#faq" }] },
@@ -35,10 +36,15 @@ export default function Footer() {
           </div>
         </div>
 
+        {/* Email signup */}
+        <div style={{ marginBottom: 28 }}>
+          <EmailCapture variant="inline" />
+        </div>
+
         {/* Data provenance */}
         <div style={{ padding: "20px 24px", borderRadius: 12, border: `1px solid ${T.border}`, background: T.surface, marginBottom: 28 }}>
           <div style={{ fontSize: "0.65rem", fontWeight: 700, letterSpacing: "0.12em", textTransform: "uppercase", color: T.inkFaint, marginBottom: 14, fontFamily: T.display }}>Data sources</div>
-          <div style={{ display: "flex", flexWrap: "wrap", gap: "8px 28px" }}>
+          <div className="data-sources" style={{ display: "flex", flexWrap: "wrap", gap: "8px 28px" }}>
             {[
               { label: "PVGIS · EU JRC",       badge: "live",      bc: T.green,    href: "https://re.jrc.ec.europa.eu" },
               { label: "Carbon Intensity API",  badge: "live",      bc: T.green,    href: "https://carbonintensity.org.uk" },
@@ -56,7 +62,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 12 }}>
+        <div className="footer-bottom" style={{ display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: 12 }}>
           <div style={{ fontSize: "0.78rem", color: T.inkFaint }}>&copy; 2026 pluggedin.solar &middot; Independent &middot; Ad-free</div>
           <div style={{ fontSize: "0.72rem", color: T.inkFaint, maxWidth: 460, lineHeight: 1.6, textAlign: "right" }}>
             Estimates are indicative. Actual savings depend on placement, shading, and tariff. Update tariffs quarterly &mdash; <a href="https://www.ofgem.gov.uk" target="_blank" rel="noreferrer" style={{ color: T.solar }}>Ofgem.gov.uk</a>

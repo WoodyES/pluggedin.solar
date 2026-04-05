@@ -10,7 +10,7 @@ export default function BlogIndex() {
   const filtered = active === "All" ? posts : posts.filter(p => p.category === active);
 
   return (
-    <section style={{ padding: "100px 32px 80px" }}>
+    <section className="section-pad" style={{ padding: "100px 20px 80px" }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Blog</SectionLabel>
         <h1 style={{ fontFamily: T.display, fontSize: "clamp(2rem,4vw,2.8rem)", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>News, guides &amp; analysis</h1>
@@ -34,7 +34,7 @@ export default function BlogIndex() {
         </div>
 
         {/* Post grid */}
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24 }}>
+        <div className="blog-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24 }}>
           {filtered.map(post => (
             <Link key={post.slug} to={`/blog/${post.slug}`} style={{ textDecoration: "none", color: "inherit" }}>
               <article style={{

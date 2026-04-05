@@ -4,7 +4,7 @@ import PanelFinderQuiz from "../components/PanelFinderQuiz";
 
 export default function QuizPage() {
   return (
-    <section style={{ padding: "100px 32px 80px" }}>
+    <section className="section-pad" style={{ padding: "100px 20px 80px" }}>
       <div style={{ maxWidth: 600, margin: "0 auto" }}>
         <SectionLabel>Find your kit</SectionLabel>
         <h1 style={{ fontFamily: T.display, fontSize: "clamp(2rem,4vw,2.8rem)", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>Which plug-in solar kit is right for you?</h1>

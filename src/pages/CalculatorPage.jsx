@@ -107,7 +107,7 @@ export default function CalculatorPage({ gridData }) {
   const tariffPct = ((tariff - 10) / 40) * 100;
 
   return (
-    <section style={{ padding: "100px 32px 80px" }}>
+    <section className="section-pad" style={{ padding: "100px 20px 80px" }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Calculator</SectionLabel>
         <h1 style={{ fontFamily: T.display, fontSize: "clamp(2rem,4vw,2.8rem)", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>Plug-in solar savings calculator</h1>
@@ -115,9 +115,9 @@ export default function CalculatorPage({ gridData }) {
           Real PVGIS irradiance for your exact postcode &middot; Live UK grid data &middot; Shareable results link
         </p>
 
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, alignItems: "start" }}>
+        <div className="grid-2-calc" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, alignItems: "start" }}>
           {/* LEFT — inputs */}
-          <div style={{ padding: "32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface }}>
+          <div style={{ padding: "24px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface }}>
             <CLabel>Your postcode</CLabel>
             <div style={{ display: "flex", gap: 8, marginBottom: 8 }}>
               <input type="text" placeholder="e.g. BN1 1AA" value={postcodeInput}
@@ -144,21 +144,21 @@ export default function CalculatorPage({ gridData }) {
             </div>
 
             <CLabel>Placement</CLabel>
-            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 8, marginBottom: 20 }}>
+            <div className="placement-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 8, marginBottom: 20 }}>
               {PLACEMENTS.map(p => (
                 <CChip key={p.id} active={placement.id === p.id} onClick={() => setPlacement(p)}>{p.icon} {p.label}</CChip>
               ))}
             </div>
 
             <CLabel>Home during the day?</CLabel>
-            <div style={{ display: "flex", gap: 8, marginBottom: 20 }}>
+            <div style={{ display: "flex", gap: 8, marginBottom: 20, flexWrap: "wrap" }}>
               {PRESENCE.map(p => (
                 <CChip key={p.id} active={presence.id === p.id} onClick={() => setPresence(p)}>{p.label}</CChip>
               ))}
             </div>
 
             <CLabel>Supplier &middot; Ofgem Q2 2026</CLabel>
-            <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 7, marginBottom: 14 }}>
+            <div className="supplier-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 7, marginBottom: 14 }}>
               {SUPPLIERS.map(s => (
                 <button key={s.id} onClick={() => pickSupplier(s)}
                   style={{ padding: "9px 10px", borderRadius: 7, border: `1.5px solid ${supplier.id === s.id ? T.solar : T.border}`, background: supplier.id === s.id ? T.solarLight : T.surface, color: supplier.id === s.id ? T.solar : T.inkMid, fontSize: "0.75rem", fontWeight: supplier.id === s.id ? 600 : 400, fontFamily: T.body, textAlign: "left" }}>
@@ -180,9 +180,9 @@ export default function CalculatorPage({ gridData }) {
           </div>
 
           {/* RIGHT — results */}
-          <div style={{ padding: "32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface, boxShadow: "0 2px 16px rgba(0,0,0,0.05)" }}>
+          <div style={{ padding: "24px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.surface, boxShadow: "0 2px 16px rgba(0,0,0,0.05)" }}>
             {!hasResults ? (
-              <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", gap: 16, padding: "60px 20px" }}>
+              <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", gap: 16, padding: "40px 20px" }}>
                 <div style={{ width: 64, height: 64, borderRadius: 16, background: T.solarLight, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "2rem" }}>📍</div>
                 <div style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, lineHeight: 1.5 }}>Enter your postcode to see your estimate</div>
                 <div style={{ fontSize: "0.78rem", color: T.inkFaint, lineHeight: 1.6 }}>Real PVGIS irradiance &mdash; no two postcodes are identical</div>
@@ -195,7 +195,7 @@ export default function CalculatorPage({ gridData }) {
                     {copied ? "✓ Copied" : "⬆ Share"}
                   </button>
                 </div>
-                <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
+                <div className="rcards" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
                   <RCard label="Annual generation" value={`${annualGen.toFixed(0)} kWh`} sub="PVGIS · your postcode" hi />
                   <RCard label="Annual saving" value={`£${annualSaving.toFixed(0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
                   <RCard label="Payback period" value={`${payback.toFixed(1)} yrs`} />
