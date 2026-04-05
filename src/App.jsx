@@ -94,6 +94,25 @@ function GlobalStyles() {
       ::-webkit-scrollbar{width:6px}
       ::-webkit-scrollbar-track{background:${T.bg}}
       ::-webkit-scrollbar-thumb{background:${T.border};border-radius:3px}
+
+      /* Blog prose styling */
+      .prose { color: ${T.ink}; font-size: 0.95rem; line-height: 1.85; }
+      .prose h2 { font-family: ${T.display}; font-size: 1.4rem; font-weight: 700; margin: 40px 0 16px; letter-spacing: -0.01em; }
+      .prose h3 { font-family: ${T.display}; font-size: 1.15rem; font-weight: 700; margin: 32px 0 12px; }
+      .prose p { margin-bottom: 24px; }
+      .prose ul, .prose ol { margin-bottom: 24px; padding-left: 24px; }
+      .prose li { margin-bottom: 8px; line-height: 1.75; }
+      .prose li::marker { color: ${T.solar}; }
+      .prose strong { font-weight: 600; color: ${T.ink}; }
+      .prose a { color: ${T.solar}; text-decoration: underline; text-underline-offset: 2px; }
+      .prose a:hover { color: #c27f00; }
+      .prose blockquote { border-left: 3px solid ${T.solar}; padding: 12px 20px; margin: 24px 0; background: ${T.solarLight}; border-radius: 0 8px 8px 0; }
+      .prose blockquote p { margin-bottom: 0; }
+      .prose hr { border: none; height: 1px; background: ${T.border}; margin: 40px 0; }
+      .prose code { background: ${T.surfaceAlt}; padding: 2px 6px; border-radius: 4px; font-size: 0.88em; }
+      .prose pre { background: ${T.surfaceAlt}; padding: 16px 20px; border-radius: 10px; overflow-x: auto; margin-bottom: 24px; }
+      .prose pre code { background: none; padding: 0; }
+      .prose img { max-width: 100%; border-radius: 10px; margin: 24px 0; }
     `}</style>
   );
 }

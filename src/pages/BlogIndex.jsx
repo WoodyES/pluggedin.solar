@@ -1,10 +1,13 @@
+import { useState } from "react";
 import { Link } from "react-router-dom";
 import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
 import posts from "../data/posts";
 
 export default function BlogIndex() {
-  const categories = [...new Set(posts.map(p => p.category))];
+  const categories = ["All", ...new Set(posts.map(p => p.category))];
+  const [active, setActive] = useState("All");
+  const filtered = active === "All" ? posts : posts.filter(p => p.category === active);
 
   return (
     <section style={{ padding: "100px 32px 80px" }}>
@@ -12,24 +15,27 @@ export default function BlogIndex() {
         <SectionLabel>Blog</SectionLabel>
         <h1 style={{ fontFamily: T.display, fontSize: "clamp(2rem,4vw,2.8rem)", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>News, guides &amp; analysis</h1>
         <p style={{ color: T.inkMid, fontSize: "0.95rem", marginBottom: 48, lineHeight: 1.6, maxWidth: 600 }}>
-          Independent coverage of UK plug-in solar policy, product launches, and practical how-to guides. No affiliate bias &mdash; just useful information.
+          Independent coverage of UK plug-in solar policy, product launches, and practical how-to guides.
         </p>
 
-        {/* Category pills */}
-        <div style={{ display: "flex", gap: 8, marginBottom: 36 }}>
+        {/* Category filter */}
+        <div style={{ display: "flex", gap: 8, marginBottom: 36, flexWrap: "wrap" }}>
           {categories.map(cat => (
-            <span key={cat} style={{
+            <button key={cat} onClick={() => setActive(cat)} style={{
               padding: "6px 14px", borderRadius: 20,
-              border: `1px solid ${T.border}`, background: T.surface,
-              fontSize: "0.75rem", fontWeight: 600, color: T.inkMid,
+              border: `1px solid ${active === cat ? T.solar : T.border}`,
+              background: active === cat ? T.solarLight : T.surface,
+              fontSize: "0.75rem", fontWeight: 600,
+              color: active === cat ? T.solar : T.inkMid,
               fontFamily: T.display, letterSpacing: "0.02em",
-            }}>{cat}</span>
+              cursor: "pointer",
+            }}>{cat}</button>
           ))}
         </div>
 
         {/* Post grid */}
         <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24 }}>
-          {posts.map((post, i) => (
+          {filtered.map(post => (
             <Link key={post.slug} to={`/blog/${post.slug}`} style={{ textDecoration: "none", color: "inherit" }}>
               <article style={{
                 padding: "32px", borderRadius: 16,
@@ -55,18 +61,6 @@ export default function BlogIndex() {
               </article>
             </Link>
           ))}
-
-          {/* Placeholder card */}
-          <div style={{
-            padding: "32px", borderRadius: 16,
-            border: `1.5px dashed ${T.border}`, background: T.surfaceAlt,
-            display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center",
-            textAlign: "center", gap: 12, minHeight: 200,
-          }}>
-            <div style={{ fontSize: "2rem" }}>✏️</div>
-            <div style={{ fontFamily: T.display, fontSize: "1rem", fontWeight: 700, color: T.inkMid }}>More posts coming soon</div>
-            <div style={{ fontSize: "0.8rem", color: T.inkFaint, lineHeight: 1.6 }}>Product reviews, DNO notification guides, and kit comparison tables &mdash; as soon as compliant kits launch.</div>
-          </div>
         </div>
       </div>
     </section>

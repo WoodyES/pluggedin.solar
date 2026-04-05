@@ -35,48 +35,17 @@ export default function BlogPost() {
 
         <div style={{ height: 1, background: T.border, marginBottom: 40 }} />
 
-        {/* Body blocks */}
-        {post.body.map((block, i) => {
-          switch (block.type) {
-            case "p":
-              return <p key={i} style={{ fontSize: "0.95rem", color: T.ink, lineHeight: 1.85, marginBottom: 24 }}>{block.text}</p>;
-            case "h2":
-              return <h2 key={i} style={{ fontFamily: T.display, fontSize: "1.4rem", fontWeight: 700, color: T.ink, marginTop: 40, marginBottom: 16, letterSpacing: "-0.01em" }}>{block.text}</h2>;
-            case "ul":
-              return (
-                <ul key={i} style={{ marginBottom: 24, paddingLeft: 0, listStyle: "none" }}>
-                  {block.items.map((item, j) => (
-                    <li key={j} style={{ display: "flex", gap: 10, fontSize: "0.9rem", color: T.ink, lineHeight: 1.75, marginBottom: 8 }}>
-                      <span style={{ color: T.solar, flexShrink: 0, marginTop: 2 }}>&bull;</span>
-                      <span>{item}</span>
-                    </li>
-                  ))}
-                </ul>
-              );
-            case "callout":
-              return (
-                <div key={i} style={{ padding: "20px 24px", borderRadius: 12, border: `1.5px solid ${T.solarBorder}`, background: T.solarLight, marginBottom: 24 }}>
-                  <p style={{ fontSize: "0.9rem", color: T.ink, lineHeight: 1.7, fontWeight: 500 }}>{block.text}</p>
-                  <div style={{ display: "flex", gap: 12, marginTop: 14 }}>
-                    <Link to="/calculator" style={{ padding: "8px 16px", borderRadius: 8, background: T.solar, color: "#fff", fontSize: "0.8rem", fontWeight: 600, fontFamily: T.display, textDecoration: "none" }}>Calculator</Link>
-                    <Link to="/quiz" style={{ padding: "8px 16px", borderRadius: 8, border: `1.5px solid ${T.border}`, background: T.surface, color: T.ink, fontSize: "0.8rem", fontWeight: 600, fontFamily: T.display, textDecoration: "none" }}>Find your kit</Link>
-                  </div>
-                </div>
-              );
-            case "source":
-              return (
-                <a key={i} href={block.href} target="_blank" rel="noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: "0.78rem", color: T.inkFaint, textDecoration: "none", marginBottom: 24 }}
-                  onMouseEnter={e => e.currentTarget.style.color = T.solar}
-                  onMouseLeave={e => e.currentTarget.style.color = T.inkFaint}
-                >
-                  <span style={{ fontSize: "0.6rem", padding: "3px 8px", borderRadius: 20, background: `${T.sky}18`, color: T.sky, fontWeight: 600, border: `1px solid ${T.sky}30` }}>Source</span>
-                  {block.label} &nearr;
-                </a>
-              );
-            default:
-              return null;
-          }
-        })}
+        {/* Rendered markdown */}
+        <div className="prose" dangerouslySetInnerHTML={{ __html: post.html }} />
+
+        {/* CTA */}
+        <div style={{ padding: "20px 24px", borderRadius: 12, border: `1.5px solid ${T.solarBorder}`, background: T.solarLight, margin: "40px 0 24px" }}>
+          <p style={{ fontSize: "0.9rem", color: T.ink, lineHeight: 1.7, fontWeight: 500, marginBottom: 14 }}>See how much plug-in solar could save you — with real data for your postcode.</p>
+          <div style={{ display: "flex", gap: 12 }}>
+            <Link to="/calculator" style={{ padding: "8px 16px", borderRadius: 8, background: T.solar, color: "#fff", fontSize: "0.8rem", fontWeight: 600, fontFamily: T.display, textDecoration: "none" }}>Calculator</Link>
+            <Link to="/quiz" style={{ padding: "8px 16px", borderRadius: 8, border: `1.5px solid ${T.border}`, background: T.surface, color: T.ink, fontSize: "0.8rem", fontWeight: 600, fontFamily: T.display, textDecoration: "none" }}>Find your kit</Link>
+          </div>
+        </div>
 
         {/* Prev/Next */}
         <div style={{ height: 1, background: T.border, margin: "48px 0 32px" }} />
