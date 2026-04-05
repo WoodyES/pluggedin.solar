@@ -3,3 +3,7 @@ dist
 .vercel
 .DS_Store
 *.local
+
+# Local-only files (not for GitHub)
+claude.md
+*.docx
