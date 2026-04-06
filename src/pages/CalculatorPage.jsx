@@ -52,6 +52,7 @@ export default function CalculatorPage() {
   const [postcodeInput, setPostcodeInput] = useState(init.postcode);
   const [location, setLocation] = useState(null);
   const [pvgisKwh, setPvgisKwh] = useState(null);
+  const [monthlyKwh, setMonthlyKwh] = useState(null); // array of 12
   const [pvgisLoading, setPvgisLoading] = useState(false);
   const [pvgisError, setPvgisError] = useState(null);
   const [panelSize, setPanelSize] = useState(PANEL_SIZES.find(p => p.watts === init.watts) || PANEL_SIZES[2]);
@@ -60,8 +61,9 @@ export default function CalculatorPage() {
   const [supplier, setSupplier] = useState(SUPPLIERS.find(s => s.id === init.supplierId) || SUPPLIERS[0]);
   const [tariff, setTariff] = useState(init.tariff);
   const [email, setEmail] = useState("");
-  const [submitted, setSubmitted] = useState(false);
+  const [emailStatus, setEmailStatus] = useState("idle"); // idle | sending | success | error
   const [copied, setCopied] = useState(false);
+  const [showYearly, setShowYearly] = useState(true);
 
   useEffect(() => { if (init.postcode) geocodeAndFetch(init.postcode); }, []);
   useEffect(() => { if (location) fetchPVGIS(location.lat, location.lon, panelSize.kWp, placement.angle, placement.aspect); }, [panelSize, placement]);
@@ -86,10 +88,22 @@ export default function CalculatorPage() {
       const url = `https://re.jrc.ec.europa.eu/api/v5_2/PVcalc?lat=${lat}&lon=${lon}&peakpower=${kWp}&loss=14&outputformat=json&mountingplace=free&angle=${angle}&aspect=${aspect}`;
       const j = await (await fetch(url)).json();
       const kwh = j.outputs?.totals?.fixed?.E_y;
-      if (kwh) setPvgisKwh(kwh); else throw 0;
+      const monthly = j.outputs?.monthly?.fixed;
+      if (kwh) {
+        setPvgisKwh(kwh);
+        if (monthly && monthly.length === 12) {
+          setMonthlyKwh(monthly.map(m => m.E_m));
+        } else {
+          setMonthlyKwh(null);
+        }
+      } else throw 0;
     } catch (_) {
       const n = Math.max(0, Math.min(1, (58 - lat) / 8));
-      setPvgisKwh(kWp * (870 + n * 180) * (aspect !== 0 ? 0.82 : (angle >= 80 ? 0.78 : 1.0)));
+      const annual = kWp * (870 + n * 180) * (aspect !== 0 ? 0.82 : (angle >= 80 ? 0.78 : 1.0));
+      setPvgisKwh(annual);
+      // Estimate monthly distribution (UK solar curve approximation)
+      const dist = [0.04, 0.05, 0.08, 0.10, 0.12, 0.13, 0.13, 0.12, 0.09, 0.07, 0.04, 0.03];
+      setMonthlyKwh(dist.map(d => annual * d));
       setPvgisError("Latitude estimate used — PVGIS temporarily unavailable.");
     } finally { setPvgisLoading(false); }
   }
@@ -199,19 +213,46 @@ export default function CalculatorPage() {
               </div>
             ) : (
               <div className="fi">
-                <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 20 }}>
+                {/* Header + share */}
+                <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 16 }}>
                   <span style={{ fontFamily: T.display, fontSize: "0.9rem", fontWeight: 700, color: T.ink }}>{location?.area}</span>
                   <button onClick={share} style={{ padding: "6px 14px", borderRadius: 20, border: `1.5px solid ${copied ? T.green : T.border}`, background: copied ? T.greenLight : "transparent", color: copied ? T.green : T.inkFaint, fontSize: "0.72rem", fontFamily: T.body }}>
                     {copied ? "✓ Copied" : "⬆ Share"}
                   </button>
                 </div>
-                <div className="rcards" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
-                  <RCard label="Annual generation" value={`${annualGen.toFixed(0)} kWh`} sub="PVGIS · your postcode" hi />
-                  <RCard label="Annual saving" value={`£${annualSaving.toFixed(0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
-                  <RCard label="Payback period" value={`${payback.toFixed(1)} yrs`} />
-                  <RCard label="CO₂ offset / yr" value={`${co2Kg.toFixed(0)} kg`} sub="207g/kWh · DESNZ" />
+
+                {/* Monthly / Yearly toggle */}
+                <div style={{ display: "flex", background: T.bg, borderRadius: 8, padding: 3, marginBottom: 16, border: `1px solid ${T.border}` }}>
+                  {[{ label: "Monthly", val: false }, { label: "Yearly", val: true }].map(t => (
+                    <button key={t.label} onClick={() => setShowYearly(t.val)} style={{
+                      flex: 1, padding: "7px 0", borderRadius: 6, border: "none",
+                      background: showYearly === t.val ? T.surface : "transparent",
+                      boxShadow: showYearly === t.val ? "0 1px 3px rgba(0,0,0,0.08)" : "none",
+                      color: showYearly === t.val ? T.ink : T.inkFaint,
+                      fontSize: "0.78rem", fontWeight: 600, fontFamily: T.display, cursor: "pointer",
+                    }}>{t.label}</button>
+                  ))}
                 </div>
 
+                {/* Savings cards — kWh + cost */}
+                {(() => {
+                  const gen = showYearly ? annualGen : annualGen / 12;
+                  const sav = showYearly ? annualSaving : annualSaving / 12;
+                  const period = showYearly ? "year" : "month";
+                  return (
+                    <div className="rcards" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
+                      <RCard label={`Generation / ${period}`} value={`${gen.toFixed(0)} kWh`} sub="PVGIS · your postcode" hi />
+                      <RCard label={`Saving / ${period}`} value={`£${sav.toFixed(sav < 10 ? 2 : 0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
+                      <RCard label="Payback period" value={`${payback.toFixed(1)} yrs`} />
+                      <RCard label="CO₂ offset / yr" value={`${co2Kg.toFixed(0)} kg`} sub="207g/kWh · DESNZ" />
+                    </div>
+                  );
+                })()}
+
+                {/* Seasonal savings graph */}
+                {monthlyKwh && <SavingsGraph monthlyKwh={monthlyKwh} selfConsumption={presence.sc} tariff={tariff} />}
+
+                {/* 15-year net saving */}
                 <div style={{ padding: "20px", borderRadius: 12, background: lifetime > 0 ? T.greenLight : T.redLight, border: `1.5px solid ${lifetime > 0 ? T.greenBorder : "rgba(220,38,38,0.18)"}`, textAlign: "center", marginBottom: 16 }}>
                   <div style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint, marginBottom: 10 }}>15-year net saving after &pound;{panelSize.cost} system cost</div>
                   <div style={{ fontFamily: T.display, fontSize: "3rem", fontWeight: 800, color: lifetime > 0 ? T.green : T.red, lineHeight: 1, letterSpacing: "-0.03em" }}>
@@ -220,6 +261,7 @@ export default function CalculatorPage() {
                   <div style={{ fontSize: "0.72rem", color: T.inkFaint, marginTop: 8 }}>Based on constant {tariff.toFixed(1)}p tariff</div>
                 </div>
 
+                {/* Live grid */}
                 {gridData && (
                   <div style={{ padding: "14px 16px", borderRadius: 10, border: `1px solid ${T.border}`, background: T.bg, marginBottom: 16 }}>
                     <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 8 }}>
@@ -242,20 +284,34 @@ export default function CalculatorPage() {
                   </div>
                 )}
 
-                {!submitted ? (
-                  <div style={{ padding: "18px", borderRadius: 10, border: `1.5px solid ${T.solarBorder}`, background: T.solarLight }}>
+                {/* Email capture — Formspree */}
+                {emailStatus !== "success" ? (
+                  <form onSubmit={async (e) => {
+                    e.preventDefault();
+                    if (!email || !email.includes("@")) return;
+                    setEmailStatus("sending");
+                    try {
+                      const res = await fetch("https://formspree.io/f/xkopkned", {
+                        method: "POST",
+                        headers: { "Content-Type": "application/json", Accept: "application/json" },
+                        body: JSON.stringify({ email }),
+                      });
+                      setEmailStatus(res.ok ? "success" : "error");
+                    } catch { setEmailStatus("error"); }
+                  }} style={{ padding: "18px", borderRadius: 10, border: `1.5px solid ${T.solarBorder}`, background: T.solarLight }}>
                     <div style={{ fontFamily: T.display, fontSize: "0.95rem", fontWeight: 700, color: T.ink, marginBottom: 6 }}>Get the full report</div>
                     <p style={{ fontSize: "0.75rem", color: T.inkMid, lineHeight: 1.6, marginBottom: 14 }}>Kit picks &middot; DNO walkthrough &middot; Alert when compliant kits land in UK shops.</p>
                     <div style={{ display: "flex", gap: 8 }}>
-                      <input type="email" placeholder="your@email.com" value={email} onChange={e => setEmail(e.target.value)} onKeyDown={e => e.key === "Enter" && email && setSubmitted(true)}
+                      <input type="email" name="email" placeholder="your@email.com" value={email} onChange={e => setEmail(e.target.value)} required
                         style={{ flex: 1, padding: "10px 12px", borderRadius: 8, border: `1px solid ${T.border}`, background: T.bg, color: T.ink, fontSize: "0.85rem", outline: "none", fontFamily: T.body }}
                       />
-                      <button onClick={() => email && setSubmitted(true)}
-                        style={{ padding: "10px 16px", borderRadius: 8, border: "none", background: T.solar, color: "#fff", fontWeight: 700, fontSize: "0.82rem", fontFamily: T.display, whiteSpace: "nowrap", boxShadow: `0 2px 8px ${T.solarBorder}` }}>
-                        Send &rarr;
+                      <button type="submit" disabled={emailStatus === "sending"}
+                        style={{ padding: "10px 16px", borderRadius: 8, border: "none", background: emailStatus === "sending" ? T.border : T.solar, color: emailStatus === "sending" ? T.inkFaint : "#fff", fontWeight: 700, fontSize: "0.82rem", fontFamily: T.display, whiteSpace: "nowrap", boxShadow: emailStatus === "sending" ? "none" : `0 2px 8px ${T.solarBorder}`, cursor: emailStatus === "sending" ? "wait" : "pointer" }}>
+                        {emailStatus === "sending" ? "⟳" : "Send →"}
                       </button>
                     </div>
-                  </div>
+                    {emailStatus === "error" && <div style={{ fontSize: "0.75rem", color: T.red, marginTop: 8 }}>Something went wrong — please try again.</div>}
+                  </form>
                 ) : (
                   <div className="fu" style={{ padding: "18px", borderRadius: 10, border: `1px solid ${T.greenBorder}`, background: T.greenLight, textAlign: "center" }}>
                     <div style={{ fontSize: "1.5rem", marginBottom: 8 }}>✅</div>
@@ -275,6 +331,72 @@ export default function CalculatorPage() {
         </div>
       </div>
     </section>
+  );
+}
+
+// ─── SAVINGS GRAPH ─────────────────────────────────────────────────────────
+const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+
+function SavingsGraph({ monthlyKwh, selfConsumption, tariff }) {
+  const monthlySavings = monthlyKwh.map(kwh => (kwh * selfConsumption * tariff) / 100);
+  const maxSaving = Math.max(...monthlySavings);
+  const W = 400, H = 180, PAD_L = 38, PAD_R = 10, PAD_T = 10, PAD_B = 28;
+  const plotW = W - PAD_L - PAD_R;
+  const plotH = H - PAD_T - PAD_B;
+  const barW = plotW / 12 - 4;
+
+  // Y-axis ticks
+  const niceMax = Math.ceil(maxSaving / 5) * 5 || 5;
+  const ticks = [0, Math.round(niceMax / 2), niceMax];
+
+  return (
+    <div style={{ marginBottom: 16, padding: "16px", borderRadius: 12, border: `1px solid ${T.border}`, background: T.bg }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 10 }}>
+        <span style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint }}>Monthly saving estimate</span>
+        <span style={{ fontSize: "0.65rem", color: T.inkFaint }}>Based on PVGIS data</span>
+      </div>
+      <svg viewBox={`0 0 ${W} ${H}`} style={{ width: "100%", height: "auto" }}>
+        {/* Y-axis labels + grid lines */}
+        {ticks.map(t => {
+          const y = PAD_T + plotH - (t / niceMax) * plotH;
+          return (
+            <g key={t}>
+              <line x1={PAD_L} y1={y} x2={W - PAD_R} y2={y} stroke={T.border} strokeWidth="0.5" />
+              <text x={PAD_L - 6} y={y + 3} textAnchor="end" fill={T.inkFaint} fontSize="8" fontFamily={T.body}>£{t}</text>
+            </g>
+          );
+        })}
+        {/* Bars */}
+        {monthlySavings.map((s, i) => {
+          const barH = maxSaving > 0 ? (s / niceMax) * plotH : 0;
+          const x = PAD_L + (plotW / 12) * i + 2;
+          const y = PAD_T + plotH - barH;
+          return (
+            <g key={i}>
+              <rect x={x} y={y} width={barW} height={barH} rx={3} fill={T.solar} opacity={0.85} />
+              {/* Value label on tall bars */}
+              {barH > 18 && (
+                <text x={x + barW / 2} y={y + 12} textAnchor="middle" fill="#fff" fontSize="7.5" fontWeight="600" fontFamily={T.display}>
+                  £{s.toFixed(0)}
+                </text>
+              )}
+              {/* Month label */}
+              <text x={x + barW / 2} y={H - 6} textAnchor="middle" fill={T.inkFaint} fontSize="7.5" fontFamily={T.body}>
+                {MONTHS[i]}
+              </text>
+            </g>
+          );
+        })}
+      </svg>
+      <div style={{ display: "flex", justifyContent: "space-between", marginTop: 6 }}>
+        <span style={{ fontSize: "0.68rem", color: T.inkMid }}>
+          Peak: <strong>£{Math.max(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.max(...monthlySavings))]})
+        </span>
+        <span style={{ fontSize: "0.68rem", color: T.inkMid }}>
+          Low: <strong>£{Math.min(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.min(...monthlySavings))]})
+        </span>
+      </div>
+    </div>
   );
 }
 
