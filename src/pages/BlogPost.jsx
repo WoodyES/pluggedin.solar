@@ -5,11 +5,18 @@ import EmailCapture from "../components/EmailCapture";
 import SEO from "../components/SEO";
 import allPosts from "../data/posts";
 
+const MARKET_INFO = {
+  uk: { flag: "\u{1F1EC}\u{1F1E7}", label: "This article is relevant for the UK market" },
+  us: { flag: "\u{1F1FA}\u{1F1F8}", label: "This article is relevant for the US market" },
+  au: { flag: "\u{1F1E6}\u{1F1FA}", label: "This article is relevant for the Australian market" },
+};
+
 export default function BlogPost({ market = "uk" }) {
   const { slug } = useParams();
   const marketPosts = allPosts.filter(p => p.market === market);
   const post = marketPosts.find(p => p.slug === slug);
   const basePath = market === "uk" ? "/blog" : `/${market}/blog`;
+  const mi = MARKET_INFO[market];
 
   if (!post) return <Navigate to={basePath} replace />;
 
@@ -77,7 +84,12 @@ export default function BlogPost({ market = "uk" }) {
         </div>
 
         <h1 style={{ fontFamily: T.display, fontSize: "clamp(1.8rem,4vw,2.6rem)", fontWeight: 800, letterSpacing: "-0.02em", lineHeight: 1.15, marginBottom: 20 }}>{post.title}</h1>
-        <p style={{ fontSize: "1.05rem", color: T.inkMid, lineHeight: 1.7, marginBottom: 48, fontWeight: 300 }}>{post.excerpt}</p>
+        <p style={{ fontSize: "1.05rem", color: T.inkMid, lineHeight: 1.7, marginBottom: 20, fontWeight: 300 }}>{post.excerpt}</p>
+
+        <div style={{ display: "inline-flex", alignItems: "center", gap: 8, padding: "6px 14px", borderRadius: 20, background: T.surfaceAlt, border: `1px solid ${T.border}`, marginBottom: 48 }}>
+          <span style={{ fontSize: "1rem" }}>{mi.flag}</span>
+          <span style={{ fontSize: "0.75rem", color: T.inkMid, fontWeight: 500 }}>{mi.label}</span>
+        </div>
 
         <div style={{ height: 1, background: T.border, marginBottom: 40 }} />
 
