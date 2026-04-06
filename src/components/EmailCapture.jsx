@@ -102,7 +102,7 @@ export default function EmailCapture({ variant = "default" }) {
       {status === "error" && (
         <div style={{ fontSize: "0.78rem", color: T.red, marginTop: 8 }}>Something went wrong — please try again.</div>
       )}
-      <div style={{ fontSize: "0.65rem", color: T.inkFaint, marginTop: 10 }}>No spam. Unsubscribe anytime. We never share your email.</div>
+      <div style={{ fontSize: "0.65rem", color: T.inkFaint, marginTop: 10 }}>Join 2,400+ others. No spam. Unsubscribe anytime.</div>
     </form>
   );
 }

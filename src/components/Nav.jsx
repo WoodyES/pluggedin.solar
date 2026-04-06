@@ -20,10 +20,17 @@ export default function Nav() {
     { label: "Calculator", to: "/calculator" },
     { label: "Find your kit", to: "/quiz" },
     { label: "Blog", to: "/blog" },
+    { label: "FAQ", to: "/faq" },
+    { label: "About", to: "/about" },
   ];
 
   return (
     <>
+      <a href="#main" className="skip-link" style={{
+        position: "absolute", top: -40, left: 0, background: T.solar, color: "#fff",
+        padding: "8px 16px", zIndex: 200, fontSize: "0.85rem", fontWeight: 600,
+        textDecoration: "none", borderRadius: "0 0 8px 0",
+      }}>Skip to content</a>
       <nav style={{
         position: "fixed", top: 0, left: 0, right: 0, zIndex: 100,
         padding: "0 20px", height: 62,

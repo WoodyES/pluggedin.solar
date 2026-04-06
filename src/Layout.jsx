@@ -53,7 +53,9 @@ export default function Layout() {
       <div style={{ background: T.bg, color: T.ink, fontFamily: T.body, minHeight: "100vh" }}>
         <GlobalStyles />
         <Nav />
-        <Outlet />
+        <main id="main">
+          <Outlet />
+        </main>
         <Footer />
         <SpeedInsights />
         <Analytics />
@@ -104,6 +106,18 @@ function GlobalStyles() {
       .prose pre { background: ${T.surfaceAlt}; padding: 16px 20px; border-radius: 10px; overflow-x: auto; margin-bottom: 24px; }
       .prose pre code { background: none; padding: 0; }
       .prose img { max-width: 100%; border-radius: 10px; margin: 24px 0; }
+
+      /* ─── ACCESSIBILITY ───────────────────────────────── */
+      .skip-link:focus { top: 0 !important; }
+      *:focus-visible { outline: 2px solid ${T.solar}; outline-offset: 2px; }
+
+      /* ─── REDUCED MOTION ───────────────────────────────── */
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; transition-duration: 0.01ms !important; scroll-behavior: auto !important; }
+      }
+
+      /* ─── READING PROGRESS BAR ──────────────────────────── */
+      .reading-progress { position: fixed; top: 0; left: 0; height: 3px; background: ${T.solar}; z-index: 200; transition: width 0.1s linear; }
 
       /* ─── RESPONSIVE ─────────────────────────────────── */
       @media (max-width: 768px) {

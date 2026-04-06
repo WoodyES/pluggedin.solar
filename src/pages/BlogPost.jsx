@@ -1,3 +1,4 @@
+import { useState, useEffect } from "react";
 import { useParams, Link, Navigate } from "react-router-dom";
 import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
@@ -18,6 +19,18 @@ export default function BlogPost({ market = "uk" }) {
   const basePath = market === "uk" ? "/blog" : `/${market}/blog`;
   const mi = MARKET_INFO[market];
 
+  const [progress, setProgress] = useState(0);
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const onScroll = () => {
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      setProgress(docHeight > 0 ? Math.min(100, (scrollTop / docHeight) * 100) : 0);
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
   if (!post) return <Navigate to={basePath} replace />;
 
   const idx = marketPosts.indexOf(post);
@@ -25,6 +38,16 @@ export default function BlogPost({ market = "uk" }) {
   const prev = marketPosts[idx - 1];
   const readTime = post.wordcount > 0 ? `${Math.ceil(post.wordcount / 238)} min read` : null;
   const postUrl = `${basePath}/${post.slug}`;
+
+  // Related articles: same category first, then same cluster, exclude current
+  const related = marketPosts
+    .filter(p => p.slug !== post.slug)
+    .map(p => ({
+      ...p,
+      score: (p.category === post.category ? 2 : 0) + (p.cluster && p.cluster === post.cluster ? 3 : 0),
+    }))
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 3);
 
   const jsonLd = {
     "@context": "https://schema.org",
@@ -55,6 +78,8 @@ export default function BlogPost({ market = "uk" }) {
   };
 
   return (
+    <>
+    <div className="reading-progress" style={{ width: `${progress}%` }} />
     <section className="section-pad" style={{ padding: "100px 20px 80px" }}>
       <SEO
         title={post.title}
@@ -110,6 +135,28 @@ export default function BlogPost({ market = "uk" }) {
           <EmailCapture />
         </div>
 
+        {/* Related articles */}
+        {related.length > 0 && (
+          <>
+            <div style={{ height: 1, background: T.border, margin: "48px 0 32px" }} />
+            <div style={{ fontSize: "0.65rem", fontWeight: 700, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint, marginBottom: 16, fontFamily: T.display }}>You might also like</div>
+            <div style={{ display: "grid", gap: 12 }}>
+              {related.map(r => (
+                <Link key={r.slug} to={`${basePath}/${r.slug}`} style={{ textDecoration: "none", display: "flex", gap: 16, padding: "16px", borderRadius: 12, border: `1px solid ${T.border}`, background: T.surface, alignItems: "flex-start", transition: "border-color 0.15s" }}
+                  onMouseEnter={e => e.currentTarget.style.borderColor = T.solarBorder}
+                  onMouseLeave={e => e.currentTarget.style.borderColor = T.border}
+                >
+                  <div style={{ flex: 1 }}>
+                    <span style={{ fontSize: "0.6rem", fontWeight: 700, letterSpacing: "0.06em", textTransform: "uppercase", color: T.solar }}>{r.category}</span>
+                    <div style={{ fontFamily: T.display, fontSize: "0.9rem", fontWeight: 700, color: T.ink, lineHeight: 1.35, marginTop: 4 }}>{r.title}</div>
+                    <div style={{ fontSize: "0.78rem", color: T.inkFaint, marginTop: 6, lineHeight: 1.5 }}>{r.excerpt.substring(0, 100)}...</div>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </>
+        )}
+
         {/* Prev/Next */}
         <div style={{ height: 1, background: T.border, margin: "48px 0 32px" }} />
         <div style={{ display: "flex", justifyContent: "space-between", gap: 24 }}>
@@ -128,5 +175,6 @@ export default function BlogPost({ market = "uk" }) {
         </div>
       </div>
     </section>
+    </>
   );
 }

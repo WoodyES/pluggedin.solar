@@ -4,6 +4,8 @@ import CalculatorPage from "./pages/CalculatorPage";
 import QuizPage from "./pages/QuizPage";
 import BlogIndex from "./pages/BlogIndex";
 import BlogPost from "./pages/BlogPost";
+import AboutPage from "./pages/AboutPage";
+import FAQPage from "./pages/FAQPage";
 import NotFound from "./pages/NotFound";
 import posts from "./data/posts";
 
@@ -19,6 +21,8 @@ export const routes = [
       { index: true, element: <HomePage /> },
       { path: "calculator", element: <CalculatorPage /> },
       { path: "quiz", element: <QuizPage /> },
+      { path: "about", element: <AboutPage /> },
+      { path: "faq", element: <FAQPage /> },
       { path: "blog", element: <BlogIndex /> },
       {
         path: "blog/:slug",
