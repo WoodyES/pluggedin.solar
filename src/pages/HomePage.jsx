@@ -93,6 +93,7 @@ export default function HomePage() {
       />
       <Hero gridData={gridData} />
       <WhyNow />
+      <Timeline />
       <ForWho />
       <QuizSection />
       <CalculatorSection gridData={gridData} />
@@ -159,6 +160,9 @@ function Hero({ gridData }) {
         <p className="fu2" style={{ fontSize: "1.05rem", color: T.inkMid, lineHeight: 1.75, marginBottom: 44, maxWidth: 540, fontWeight: 300 }}>
           The UK government confirmed it in March 2026. Compliant kits are expected in shops around July 2026. No roof needed, no electrician, no landlord sign-off &mdash; just panels on your balcony or garden, plugged into a standard socket.
         </p>
+        <a className="fu2" href="https://www.gov.uk/government/news/plug-in-solar-panels-to-be-legalised-in-the-uk" target="_blank" rel="noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: "0.78rem", color: T.solar, fontWeight: 600, textDecoration: "none", marginBottom: 32 }}>
+          Read the gov.uk announcement &rarr;
+        </a>
 
         <div className="fu3" style={{ maxWidth: 500 }}>
           <div className="hero-postcode" style={{ display: "flex", gap: 10, marginBottom: 12 }}>
@@ -602,5 +606,66 @@ function RCard({ label, value, sub, hi }) {
       <div style={{ fontSize: "0.7rem", color: T.inkFaint, fontWeight: 500 }}>{label}</div>
       {sub && <div style={{ fontSize: "0.62rem", color: T.inkFaint, marginTop: 3, opacity: 0.8 }}>{sub}</div>}
     </div>
+  );
+}
+
+// ─── TIMELINE ──────────────────────────────────────────────────────────────
+const TIMELINE_STEPS = [
+  { date: "Mar 2026", label: "Government confirms legalisation", detail: "DESNZ announces plug-in solar will be permitted under amended wiring regulations.", done: true },
+  { date: "Apr 2026", label: "BS 7671 Amendment 4 published", detail: "IET updates the wiring regulations to enable plug-in solar connections up to 800W.", done: true },
+  { date: "Jul 2026", label: "BSI product standard published", detail: "BSI publishes the product standard. Compliant kits can legally go on sale.", done: false, current: true },
+  { date: "H2 2026", label: "First kits hit UK shops", detail: "EcoFlow STREAM and other manufacturers expected to launch BSI-compliant kits.", done: false },
+  { date: "2027+", label: "Mass adoption", detail: "Prices fall as competition grows. DNO notification goes fully digital.", done: false },
+];
+
+function Timeline() {
+  return (
+    <section className="section-pad" style={{ padding: "60px 20px 80px" }}>
+      <div style={{ maxWidth: 680, margin: "0 auto" }}>
+        <SectionLabel>Timeline</SectionLabel>
+        <h2 style={{ fontFamily: T.display, fontSize: "clamp(1.6rem,3vw,2.2rem)", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>
+          UK plug-in solar legal status
+        </h2>
+        <p style={{ color: T.inkMid, fontSize: "0.9rem", marginBottom: 40, lineHeight: 1.6 }}>
+          Where we are in the journey from announcement to available kits.
+        </p>
+
+        <div style={{ position: "relative", paddingLeft: 28 }}>
+          {/* Vertical line */}
+          <div style={{ position: "absolute", left: 9, top: 6, bottom: 6, width: 2, background: T.border }} />
+
+          {TIMELINE_STEPS.map((s, i) => (
+            <div key={i} style={{ position: "relative", marginBottom: i < TIMELINE_STEPS.length - 1 ? 32 : 0 }}>
+              {/* Dot */}
+              <div style={{
+                position: "absolute", left: -28, top: 3,
+                width: 20, height: 20, borderRadius: "50%",
+                background: s.done ? T.green : s.current ? T.solar : T.border,
+                border: `3px solid ${T.bg}`,
+                display: "flex", alignItems: "center", justifyContent: "center",
+                boxShadow: s.current ? `0 0 0 4px ${T.solarLight}` : "none",
+              }}>
+                {s.done && <span style={{ color: "#fff", fontSize: "0.6rem", fontWeight: 800 }}>✓</span>}
+              </div>
+
+              {/* Content */}
+              <div style={{
+                padding: "14px 18px", borderRadius: 10,
+                border: `1.5px solid ${s.current ? T.solarBorder : T.border}`,
+                background: s.current ? T.solarLight : T.surface,
+              }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: 4 }}>
+                  <span style={{ fontSize: "0.65rem", fontWeight: 700, letterSpacing: "0.08em", textTransform: "uppercase", color: s.done ? T.green : s.current ? T.solar : T.inkFaint }}>{s.date}</span>
+                  {s.current && <span style={{ fontSize: "0.55rem", fontWeight: 700, padding: "2px 8px", borderRadius: 20, background: `${T.solar}18`, color: T.solar, border: `1px solid ${T.solar}30` }}>WE ARE HERE</span>}
+                  {s.done && <span style={{ fontSize: "0.55rem", fontWeight: 700, padding: "2px 8px", borderRadius: 20, background: `${T.green}18`, color: T.green, border: `1px solid ${T.green}30` }}>DONE</span>}
+                </div>
+                <div style={{ fontFamily: T.display, fontSize: "0.92rem", fontWeight: 700, color: T.ink, lineHeight: 1.4 }}>{s.label}</div>
+                <div style={{ fontSize: "0.78rem", color: T.inkMid, marginTop: 4, lineHeight: 1.55 }}>{s.detail}</div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
   );
 }

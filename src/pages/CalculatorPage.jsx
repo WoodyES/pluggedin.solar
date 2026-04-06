@@ -249,6 +249,9 @@ export default function CalculatorPage() {
                   );
                 })()}
 
+                {/* Contextual explanations */}
+                <ContextCards annualSaving={annualSaving} annualGen={annualGen} selfConsumed={selfConsumed} showYearly={showYearly} />
+
                 {/* Seasonal savings graph */}
                 {monthlyKwh && <SavingsGraph monthlyKwh={monthlyKwh} selfConsumption={presence.sc} tariff={tariff} />}
 
@@ -331,6 +334,39 @@ export default function CalculatorPage() {
         </div>
       </div>
     </section>
+  );
+}
+
+// ─── CONTEXT CARDS ─────────────────────────────────────────────────────────
+const AVG_UK_BILL = 1568; // £/yr average UK electricity bill (Ofgem cap, 2-bed)
+const APPLIANCES = [
+  { name: "washing machine loads", kwh: 1.2 },
+  { name: "laptop charges", kwh: 0.05 },
+  { name: "EV miles", kwh: 0.3 },
+  { name: "kettle boils", kwh: 0.1 },
+];
+
+function ContextCards({ annualSaving, annualGen, selfConsumed, showYearly }) {
+  const billPct = ((annualSaving / AVG_UK_BILL) * 100).toFixed(0);
+  const kwhUsed = showYearly ? selfConsumed : selfConsumed / 12;
+  // Pick the most relatable appliance (aim for a value between 5 and 500)
+  const best = APPLIANCES.map(a => ({ ...a, count: Math.round(kwhUsed / a.kwh) }))
+    .find(a => a.count >= 5 && a.count <= 999) || { name: "kettle boils", count: Math.round(kwhUsed / 0.1) };
+  const period = showYearly ? "year" : "month";
+
+  return (
+    <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
+      <div style={{ padding: "12px 14px", borderRadius: 10, border: `1px solid ${T.border}`, background: T.bg }}>
+        <div style={{ fontSize: "0.68rem", color: T.inkFaint, marginBottom: 4 }}>That's roughly</div>
+        <div style={{ fontFamily: T.display, fontSize: "1.2rem", fontWeight: 800, color: T.ink }}>{billPct}%</div>
+        <div style={{ fontSize: "0.68rem", color: T.inkMid }}>of the avg UK electricity bill</div>
+      </div>
+      <div style={{ padding: "12px 14px", borderRadius: 10, border: `1px solid ${T.border}`, background: T.bg }}>
+        <div style={{ fontSize: "0.68rem", color: T.inkFaint, marginBottom: 4 }}>Equivalent to</div>
+        <div style={{ fontFamily: T.display, fontSize: "1.2rem", fontWeight: 800, color: T.ink }}>{best.count.toLocaleString()}</div>
+        <div style={{ fontSize: "0.68rem", color: T.inkMid }}>{best.name} / {period}</div>
+      </div>
+    </div>
   );
 }
 
