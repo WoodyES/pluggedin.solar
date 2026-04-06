@@ -1,4 +1,4 @@
-import { Helmet } from "react-helmet-async";
+import { Head } from "vite-react-ssg";
 
 const DOMAIN = "https://pluggedin.solar";
 const DEFAULT_DESC = "Compare UK plug-in solar kits, calculate your savings with real PVGIS data, and find the right panel for your balcony, garden, or flat roof.";
@@ -10,7 +10,7 @@ export default function SEO({ title, description, path, type = "website", jsonLd
   const url = `${DOMAIN}${path || "/"}`;
 
   return (
-    <Helmet>
+    <Head>
       <title>{fullTitle}</title>
       <meta name="description" content={desc} />
       <link rel="canonical" href={url} />
@@ -31,6 +31,6 @@ export default function SEO({ title, description, path, type = "website", jsonLd
       {jsonLd && (
         <script type="application/ld+json">{JSON.stringify(jsonLd)}</script>
       )}
-    </Helmet>
+    </Head>
   );
 }

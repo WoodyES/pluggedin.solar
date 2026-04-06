@@ -6,8 +6,9 @@
   "scripts": {
     "posts": "node scripts/build-posts.js",
     "sitemap": "node scripts/build-sitemap.js",
+    "prebuild": "npm run posts && npm run sitemap",
     "dev": "npm run posts && npm run sitemap && vite",
-    "build": "npm run posts && npm run sitemap && vite build",
+    "build": "npm run posts && npm run sitemap && vite-react-ssg build",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -15,8 +16,8 @@
     "@vercel/speed-insights": "^2.0.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-helmet-async": "^3.0.0",
-    "react-router-dom": "^6.28.0"
+"react-router-dom": "^6.28.0",
+    "vite-react-ssg": "^0.9.1-beta.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",

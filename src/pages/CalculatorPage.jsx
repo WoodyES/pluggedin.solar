@@ -1,8 +1,9 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useContext } from "react";
 import { Link } from "react-router-dom";
 import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
 import SEO from "../components/SEO";
+import GridDataContext from "../GridDataContext";
 
 // ─── DATA ───────────────────────────────────────────────────────────────────
 const PLACEMENTS = [
@@ -34,16 +35,19 @@ const SUPPLIERS = [
 ];
 
 function encodeCalcState(s) {
+  if (typeof window === "undefined") return "";
   const p = new URLSearchParams({ pc: s.postcode, w: s.watts, pl: s.placementId, pr: s.presenceId, t: s.tariff.toFixed(2), su: s.supplierId });
   return `${window.location.origin}/calculator?${p}`;
 }
 function decodeCalcState() {
+  if (typeof window === "undefined") return { postcode: "", watts: 800, placementId: "garden", presenceId: "mixed", tariff: 24.50, supplierId: "ofgem" };
   const p = new URLSearchParams(window.location.search);
   return { postcode: p.get("pc") || "", watts: parseInt(p.get("w")) || 800, placementId: p.get("pl") || "garden", presenceId: p.get("pr") || "mixed", tariff: parseFloat(p.get("t")) || 24.50, supplierId: p.get("su") || "ofgem" };
 }
 
 // ─── PAGE ───────────────────────────────────────────────────────────────────
-export default function CalculatorPage({ gridData }) {
+export default function CalculatorPage() {
+  const gridData = useContext(GridDataContext);
   const init = decodeCalcState();
   const [postcodeInput, setPostcodeInput] = useState(init.postcode);
   const [location, setLocation] = useState(null);
