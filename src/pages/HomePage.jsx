@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
 import PanelFinderQuiz from "../components/PanelFinderQuiz";
+import SEO from "../components/SEO";
 
 // ─── CALCULATOR DATA ────────────────────────────────────────────────────────
 const PLACEMENTS = [
@@ -58,9 +59,34 @@ function decodeCalcState() {
 }
 
 // ─── HOME PAGE ──────────────────────────────────────────────────────────────
+const ORG_LD = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "Pluggedin.solar",
+  url: "https://pluggedin.solar",
+  description: "UK plug-in solar comparison, savings calculator, and buying guides.",
+};
+
+const FAQ_LD = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  mainEntity: FAQ_ITEMS.map(item => ({
+    "@type": "Question",
+    name: item.q,
+    acceptedAnswer: { "@type": "Answer", text: item.a },
+  })),
+};
+
 export default function HomePage({ gridData }) {
   return (
     <>
+      <SEO
+        title="Pluggedin.solar — UK plug-in solar comparison & savings tools"
+        description="Compare UK plug-in solar kits, calculate your savings with real PVGIS data, and find the right panel for your balcony, garden, or flat roof."
+        path="/"
+        noSuffix
+        jsonLd={[ORG_LD, FAQ_LD]}
+      />
       <Hero gridData={gridData} />
       <WhyNow />
       <ForWho />

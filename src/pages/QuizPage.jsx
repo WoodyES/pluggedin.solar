@@ -1,10 +1,16 @@
 import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
 import PanelFinderQuiz from "../components/PanelFinderQuiz";
+import SEO from "../components/SEO";
 
 export default function QuizPage() {
   return (
     <section className="section-pad" style={{ padding: "100px 20px 80px" }}>
+      <SEO
+        title="Plug-in Solar Panel Finder Quiz"
+        description="Answer 5 quick questions about your space, orientation, and budget to find the best plug-in solar kit for your setup."
+        path="/quiz"
+      />
       <div style={{ maxWidth: 600, margin: "0 auto" }}>
         <SectionLabel>Find your kit</SectionLabel>
         <h1 style={{ fontFamily: T.display, fontSize: "clamp(2rem,4vw,2.8rem)", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>Which plug-in solar kit is right for you?</h1>

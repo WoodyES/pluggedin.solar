@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
+import SEO from "../components/SEO";
 
 // ─── DATA ───────────────────────────────────────────────────────────────────
 const PLACEMENTS = [
@@ -108,6 +109,11 @@ export default function CalculatorPage({ gridData }) {
 
   return (
     <section className="section-pad" style={{ padding: "100px 20px 80px" }}>
+      <SEO
+        title="Plug-in Solar Savings Calculator"
+        description="Calculate your plug-in solar savings with real PVGIS irradiance data for your UK postcode. Compare system sizes, placements, and energy tariffs."
+        path="/calculator"
+      />
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Calculator</SectionLabel>
         <h1 style={{ fontFamily: T.display, fontSize: "clamp(2rem,4vw,2.8rem)", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>Plug-in solar savings calculator</h1>

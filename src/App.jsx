@@ -10,6 +10,7 @@ import CalculatorPage from "./pages/CalculatorPage";
 import QuizPage from "./pages/QuizPage";
 import BlogIndex from "./pages/BlogIndex";
 import BlogPost from "./pages/BlogPost";
+import NotFound from "./pages/NotFound";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -64,6 +65,11 @@ export default function App() {
           <Route path="/quiz" element={<QuizPage />} />
           <Route path="/blog" element={<BlogIndex />} />
           <Route path="/blog/:slug" element={<BlogPost />} />
+          <Route path="/us/blog" element={<BlogIndex market="us" />} />
+          <Route path="/us/blog/:slug" element={<BlogPost market="us" />} />
+          <Route path="/au/blog" element={<BlogIndex market="au" />} />
+          <Route path="/au/blog/:slug" element={<BlogPost market="au" />} />
+          <Route path="*" element={<NotFound />} />
         </Routes>
         <Footer />
         <SpeedInsights />
