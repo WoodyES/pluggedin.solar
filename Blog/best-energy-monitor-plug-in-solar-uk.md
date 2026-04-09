@@ -33,6 +33,8 @@ One nice feature is energy cost tracking. Tell it what you pay per unit of elect
 
 The Tapo is WiFi-connected, which means it relies on your home network. If your WiFi is rock-solid, no problem. If you've got dead zones or poor signal, you might get dropouts in data collection. It's a minor point but worth considering if you're installing in a garage or shed far from your router.
 
+[Check the Tapo P110 on Amazon](https://amzn.to/4m9Yh9U)
+
 ### Shelly Plug S
 
 The Shelly Plug S is made by Allterco, a Bulgarian company that's carved out a niche in smart home automation. The device is similarly compact and features are broadly equivalent to the Tapo—real-time consumption, historical tracking, and cost estimation.
@@ -42,6 +44,8 @@ The Shelly's advantage is its support for local API control. Essentially, it can
 Shelly also has active community forums with advanced users discussing integrations and automation, if you're the tinkering type. It's less "locked in" than the Tapo ecosystem—you can often integrate it with other home automation systems more flexibly.
 
 For most people, the choice between Tapo and Shelly comes down to interface preference. Try both in a shop if you can, or read reviews from users in your region. They're both solid.
+
+[Check the Shelly Plus Plug on Amazon](https://amzn.to/4sfA9nK)
 
 ## Monitoring Your Panels vs. Your Inverter
 
@@ -64,6 +68,8 @@ The Emporia Vue is a device that clamps around the main supply cables entering y
 The Vue is WiFi-connected and its app is well-designed. It stores historical data and can estimate carbon savings from renewable generation. For energy-conscious households, it's addictive in the best way—you'll find yourself checking it multiple times a day, noticing patterns you'd never otherwise see.
 
 The trade-off is installation. The Vue requires you to open your consumer unit (fuse box) and clamp the sensors around the main supply cables. If you're comfortable doing electrical work, it's straightforward. If not, you'll need a qualified electrician, which adds cost. Some installation providers bundle Vue setup with solar installation, which makes sense.
+
+[Check the Emporia Vue 3 on Amazon](https://amzn.to/4bUCQ9E)
 
 ### Efergy
 

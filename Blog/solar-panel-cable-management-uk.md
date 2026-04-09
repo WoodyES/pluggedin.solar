@@ -33,6 +33,8 @@ Standard plastic cable ties (the black nylon kind everyone's got in a drawer) ar
 
 UV-resistant cable ties, often marketed as "outdoor" or "weather-resistant," are made from nylon that's been treated with UV stabilisers. They cost marginally more—maybe 5p extra per tie—but last 5+ years. Brands like Panduit and HellermannTyton are industry standards; if you're buying generic ties, look for ones explicitly marked as UV-resistant.
 
+[Check UV-resistant cable ties on Amazon](https://amzn.to/4bUB08B)
+
 When you're bundling cables together, don't cinch ties so tightly that you're crimping the insulation. Cables need room to expand and contract with temperature changes. A tie tight enough to hold the bundle but loose enough to slip a fingernail under it is about right.
 
 ## Conduit and Trunking: When Overkill Makes Sense

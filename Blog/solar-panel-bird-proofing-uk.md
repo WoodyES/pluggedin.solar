@@ -64,6 +64,8 @@ These are more robust than roof-mounted mesh because they take more weathering. 
 
 **Generic stainless steel mesh and clips** from Amazon can work, but the fit might be slightly wonky. If you go this route, measure your panel frame dimensions carefully before ordering, and expect to spend an hour figuring out the best way to attach everything.
 
+[Check solar panel bird proofing mesh kits on Amazon](https://amzn.to/4v91BGF)
+
 **DIY approach:** If you're handy, you can buy stainless steel mesh from garden centres or online and create your own frame using cable ties (UV-resistant ones, mind—normal plastic ties degrade in sunlight within 2–3 years). This is cheaper but fiddly and time-consuming.
 
 ## Installation Considerations

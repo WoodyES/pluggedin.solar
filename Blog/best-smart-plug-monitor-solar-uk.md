@@ -31,6 +31,8 @@ The cons: no local data storage (everything goes to the cloud), cloud dependency
 
 For a first smart plug, the Tapo P110 is genuinely hard to beat. It does exactly what you need—tells you how much power your inverter is generating right now. Is it perfect? No. Is it £12? Yes.
 
+[Check the Tapo P110 on Amazon](https://amzn.to/4m9Yh9U)
+
 **How it works for solar:** Plug the inverter power cable into the Tapo, plug the Tapo into the wall. The Tapo measures power flowing through. In the app, you see real-time generation. Set up daily/monthly tracking and you know exactly how much solar energy you're producing.
 
 ## Shelly Plug S: The Home Assistant Favourite (~£15)
@@ -45,6 +47,8 @@ The cons: app is less polished than Tapo or Eve, requires more setup if you want
 
 The Shelly Plug S is the choice for people who want data sovereignty and automation. If you're already running Home Assistant or thinking about it, this is the obvious pick.
 
+[Check the Shelly Plus Plug on Amazon](https://amzn.to/4sfA9nK)
+
 **How it works for solar:** Same as Tapo—plug it in between inverter and wall socket. But instead of sending data to the cloud, everything lives on your home network. You can build automations like "if solar is generating above 3000W, switch on the immersion heater" without relying on cloud APIs.
 
 ## Eve Energy: The HomeKit Option (~£30)
@@ -58,6 +62,8 @@ The pros: beautiful app, HomeKit ecosystem, Matter support, reliable, local proc
 The cons: most expensive option, only useful if you have HomeKit, Matter support is relatively new so integration is still settling.
 
 If you live in an Apple Home and own other HomeKit gear, Eve Energy integrates beautifully. You can see your solar generation alongside your home's energy use in one place.
+
+[Check the Eve Energy on Amazon](https://amzn.to/4sSyWns)
 
 **How it works for solar:** Plug it in between inverter and wall. Eve's app shows real-time watts and daily/monthly energy. If you're using HomeKit, you can set up scenes and automations (though for solar-specific stuff, Home Assistant is more powerful).
 

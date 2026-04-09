@@ -51,6 +51,8 @@ A **clamp meter** is genuinely useful for solar. Instead of holding probes on tw
 
 Brands like Uni-T, Fluke (budget range), and Metrix make solid mid-range meters. Expect better displays, more durable construction, and clearer labelling.
 
+[Check the Fluke 117 Multimeter on Amazon](https://amzn.to/4bSN4aq)
+
 The pros: clamp feature for safe current measurement, backlight for evening testing, larger display, more durable, often includes more measurement modes.
 
 The cons: more expensive than budget models, slightly more complex to use if you're a complete beginner.

@@ -233,7 +233,7 @@ Government-backed, longer inverter warranty (10 years), proven brand. Worth the 
 
 **Buy:** Anker SOLIX RS40P (£899) + Anker SOLIX battery (1–2 modules, ~£1,800–£2,500)
 
-Or: EcoFlow STREAM (£949) + EcoFlow Delta battery (3 kWh, ~£1,500)
+Or: EcoFlow STREAM (£949) + [EcoFlow Delta battery](https://amzn.to/4mfY1GL) (3 kWh, ~£1,500)
 
 Both combinations give you summer autonomy and reasonable evening offset. Choose based on panel preference (Anker or EcoFlow).
 

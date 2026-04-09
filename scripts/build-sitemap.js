@@ -38,6 +38,8 @@ urls.push({ loc: "/", priority: "1.0", changefreq: "weekly" });
 urls.push({ loc: "/calculator", priority: "0.9", changefreq: "monthly" });
 urls.push({ loc: "/quiz", priority: "0.8", changefreq: "monthly" });
 urls.push({ loc: "/blog", priority: "0.8", changefreq: "daily" });
+urls.push({ loc: "/about", priority: "0.6", changefreq: "monthly" });
+urls.push({ loc: "/faq", priority: "0.7", changefreq: "monthly" });
 
 // UK blog posts
 for (const { slug, date } of getSlugs(join(root, "Blog"))) {

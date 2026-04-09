@@ -51,6 +51,8 @@ What makes EcoFlow compelling is the app and ecosystem integration. You can see 
 
 Pricing: Delta 2 runs around £600-800, Delta 3 around £2,500-3,200 depending on sales and where you buy. Both are readily available in the UK through major retailers.
 
+[Check the EcoFlow Delta 2 on Amazon](https://amzn.to/4mfY1GL)
+
 The downside? EcoFlow is more aggressive on hardware obsolescence than some competitors. Older models sometimes lose app support, which is frustrating if you've paid good money for a system that worked perfectly fine. That said, current models are well-supported, and there's an active user community.
 
 ## Anker SOLIX C800 and C1000
@@ -65,6 +67,8 @@ The app is functional but not quite as polished as EcoFlow's. It does what you n
 
 Pricing: C800 runs about £500-700, C1000 around £800-1,000. These are genuinely competitive with EcoFlow.
 
+[Check the Anker SOLIX C1000 on Amazon](https://amzn.to/3QmpWsI)
+
 For plug-in solar specifically, the main drawback is capacity. 800Wh and 1kWh are smaller than most people ultimately want. Anker does have expandable systems, but they're less seamless than EcoFlow's expansion modules.
 
 ## Jackery Explorer 1000 Plus
@@ -78,6 +82,8 @@ For a plug-in solar context, Jackery's strength is reliability and simplicity. T
 The downside is weight. At 20kg, the 1000 Plus is noticeably heavier than equivalent capacity from Anker or EcoFlow. If your power station is sitting permanently in a shed or utility room, this doesn't matter. If you want portability, it's a trade-off.
 
 Pricing: around £2,500-3,000. It's pricier than the delta 2 or Anker equivalents, positioning itself as a premium, conservative choice rather than a feature-rich one.
+
+[Check the Jackery Explorer 1000 v2 on Amazon](https://amzn.to/4tmxjhG)
 
 Jackery also has expandable systems, though they're less slick than EcoFlow's approach.
 

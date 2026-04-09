@@ -59,6 +59,8 @@ This becomes especially relevant if you're adding components over time. When you
 
 Renogy is perhaps the best-known globally and parts are easily available online in the UK. Their connectors are solidly engineered, prices are fair, and you'll find lots of user reviews from the British solar community.
 
+[Check Renogy MC4 Extension Cables on Amazon](https://amzn.to/4mfWT5J)
+
 Link Solar is a genuinely British option, which matters because they understand our climate quirks—damp autumns, coastal salt spray, the works. Their connectors are manufactured to UK specifications and they provide clear support for local installers.
 
 For budget options, PV Connections and EcoFlow's own connectors are reasonable middle grounds. They're cheaper than premium names but still meet safety standards. Avoid anything with no discernible brand, no certification paperwork, or reviews that seem suspiciously positive.

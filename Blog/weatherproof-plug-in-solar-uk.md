@@ -51,6 +51,8 @@ UV-resistant cable ties cost about the same as standard ones (maybe 20% more) an
 
 When securing cables outdoors, always use UV-resistant ties. Look for ones marked "UV-resistant", "sunlight-resistant", or "UV stabilised". They're usually black or dark-coloured because UV absorbers are darker.
 
+[Check UV-resistant cable ties on Amazon](https://amzn.to/4bUB08B)
+
 Stainless steel cable ties are even better and last essentially forever, but they cost more (£1–2 per tie vs 10p for plastic). For a permanent outdoor installation, stainless is worth it.
 
 ## Inverter Weatherproof Covers and Enclosures

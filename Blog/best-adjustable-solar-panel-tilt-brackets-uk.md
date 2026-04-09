@@ -33,6 +33,8 @@ Wind rating is critical. Look for ground mount specifications that detail allowa
 
 Renogy and ECO-WORTHY both make solid ground mounts suitable for UK conditions. They're designed for bolt-down installation on concrete or stone, and both offer the angle adjustment that makes them worthwhile.
 
+[Check Renogy Adjustable Tilt Mounts on Amazon](https://amzn.to/4maeAng)
+
 ## Wall Mounts: Space-Saving Angles
 
 If your garden's small, or shaded, or you'd just rather not sacrifice lawn space, wall mounting is your answer. These clamp your panels directly to a south-facing wall at a fixed or adjustable angle.
