@@ -99,7 +99,7 @@ Submitting G98 is not asking permission — it's "connect and notify." You conne
 
 If you don't notify, you're technically breaching regulations. Enforcement is light now, but it will tighten as adoption grows. It's a 5-minute process — just do it.
 
-See our [complete G98 guide](/blog/g98-plug-in-solar-uk) for step-by-step instructions.
+See our [complete G98 guide](/blog/g98-dno-notification-plug-in-solar) for step-by-step instructions.
 
 ## What Happens If You Connect Before July 2026?
 
@@ -174,9 +174,9 @@ The smart move: follow the rules from day one. Use UKCA-marked kits, notify your
 To install legally and safely from July 2026:
 
 - **Product:** UKCA-marked kit (will be available from Amazon, Lidl, Iceland, Sainsbury's, and online retailers)
-- **Notification:** G98 form (see our [G98 guide](/blog/g98-plug-in-solar-uk))
+- **Notification:** G98 form (see our [G98 guide](/blog/g98-dno-notification-plug-in-solar))
 - **Landlord permission:** If renting (written approval required)
-- **Installation:** DIY or hire an electrician (see our [installation guide](/blog/plug-in-solar-installation-guide) — coming soon)
+- **Installation:** DIY or hire an electrician (see our [installation guide](/blog/how-to-install-plug-in-solar-uk) — coming soon)
 - **Support:** Our guides on this site cover everything step-by-step
 
 ## The Bottom Line
@@ -185,4 +185,4 @@ Plug-in solar is legal. It's confirmed. It's coming. But the regulatory timeline
 
 This isn't bureaucratic obstruction — it's the same process used for every electrical device in the UK. The timeline is tight, and compliant kits will be available in shops by summer. Wait the extra few months, buy a certified kit, and avoid legal ambiguity.
 
-For technical details on each part of the timeline, see our guides on [BS 7671 Amendment 4](/blog/bs7671-amendment-4-plug-in-solar), the [BSI product standard](/blog/bsi-plug-in-solar-standard-uk), and [G98 notification](/blog/g98-plug-in-solar-uk).
+For technical details on each part of the timeline, see our guides on [BS 7671 Amendment 4](/blog/bs7671-amendment-4-explained), the [BSI product standard](/blog/bsi-product-standard-plug-in-solar), and [G98 notification](/blog/g98-dno-notification-plug-in-solar).

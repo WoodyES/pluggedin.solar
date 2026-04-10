@@ -80,7 +80,7 @@ If you've ticked at least four of these, decking mounting could work. If you've 
 
 Decking works for plug-in solar when you have no better option. If you have a garden, ground mounting is usually better (easier to angle optimally, more stable, simpler cable routing). If you have a balcony, balcony mounting is better (no weight concerns, simpler installation, more secure).
 
-Decking is a fallback option, and a reasonable one if you meet the criteria above. But don't choose decking just because you like the look of the deck—choose it because your other options are genuinely worse.
+Decking is a fallback option, and a reasonable one if you meet the criteria above. But don't choose decking just because you like the look of the deck—choose it because your other options are genuinely worse. If you do mount on decking, the [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) provides a stable, angled setup that distributes weight effectively across decking boards.
 
 ## Installing on Decking: The Steps
 
@@ -93,4 +93,4 @@ Decking is a fallback option, and a reasonable one if you meet the criteria abov
 7. **Route the cable.** Along the edge with clips, under the deck if possible, or through conduit.
 8. **Test it.** Push the panel sideways. It should barely move. If it sways, add more ballast.
 
-For more on other mounting options, see our [surface placement guide](/blog/where-to-install-plug-in-solar-uk) and our detailed article on [ground mounting](/blog/ground-mount-plug-in-solar-uk).
+For more on other mounting options, see our [surface placement guide](/blog/where-to-install-plug-in-solar-uk) and our detailed article on [ground mounting](/blog/ground-mount-plug-in-solar).

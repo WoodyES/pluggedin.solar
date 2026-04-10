@@ -31,7 +31,7 @@ Imagine a garden office with zero grid connection. Pure solar autonomy.
 
 Solar panels (5–8 kW) to handle British clouds and seasonal variation: £3,000–£5,000
 
-Battery storage (8–10 kWh) to cover winter nights: £3,000–£5,000
+Battery storage (8–10 kWh) to cover winter nights: £3,000–£5,000 (systems like the [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) offer good capacity and cycle life)
 
 Charge controller, wiring, safety equipment: £500–£1,000
 
@@ -159,7 +159,7 @@ The generator will run 10–20 hours per month in winter, costing £20–£50 in
 
 **Off-grid (4–5 kWh system):** £4,000–£5,500
 
-**Grid-tied 800W + 5 kWh battery:** £2,400–£3,000
+**Grid-tied 800W + 5 kWh battery with panel:** £2,400–£3,500 (see options like the [EcoFlow 400W Portable Panel](https://amzn.to/47NBlre) paired with battery storage)
 
 The grid-tied approach is **£1,500–£2,500 cheaper** and offers:
 
@@ -218,7 +218,7 @@ It's not as romantic as "I'm completely off-grid," but it's more practical, chea
 
 - See our [garden office hub](/blog/solar-panels-for-garden-office-uk) for complete context
 - Read about [solar vs cable](/blog/garden-office-solar-vs-electric-cable) for all the options
-- Explore [sizing guidance](/blog/how-many-solar-panels-for-garden-office) for your specific setup
+- Explore [sizing guidance](/blog/garden-office-solar-how-many-panels) for your specific setup
 - Check [kit options](/blog/best-plug-in-solar-kit-uk) for available systems
 
 Build your garden office thoughtfully. Get the power infrastructure right, and you'll enjoy it for decades. Get it wrong, and you'll regret it every day.

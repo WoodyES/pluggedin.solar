@@ -107,6 +107,8 @@ Before you buy anything, ask your building. A five-minute email to the managemen
 
 Also check your buildings insurance. It might require notification that you're adding solar, though most home policies cover this without fuss.
 
+For a complete balcony kit, the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) is purpose-designed for balcony mounting with integrated inverter and all necessary hardware.
+
 ## Will Balcony Mounting Work for You?
 
 Tick the boxes:
@@ -120,4 +122,4 @@ Tick the boxes:
 
 If you've ticked all five boxes, balcony mounting is a good choice. It's simple, and you'll generate real electricity.
 
-For more on other mounting options, read our [surface placement guide](/blog/where-to-install-plug-in-solar-uk) and our detailed articles on [ground mounting](/blog/ground-mount-plug-in-solar-uk) and [flat roof ballast systems](/blog/flat-roof-ballast-solar-mount-uk). To estimate your generation, use our [savings calculator](/calculator).
+For more on other mounting options, read our [surface placement guide](/blog/where-to-install-plug-in-solar-uk) and our detailed articles on [ground mounting](/blog/ground-mount-plug-in-solar) and [flat roof ballast systems](/blog/flat-roof-ballast-mounting). To estimate your generation, use our [savings calculator](/calculator).

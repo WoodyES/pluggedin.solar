@@ -85,7 +85,7 @@ Let's clear up the myths:
 
 **Safety harness or fall protection.** For balcony and ground mounting, no. For flat roof or wall mounting at height, if you're not comfortable on a roof or ladder, hire someone—a half-hour job costs £80–150, which is reasonable insurance.
 
-**Electrical testing equipment.** You're not doing electrical testing. You're connecting things. If the system doesn't work, you disconnect and reconnect. That's troubleshooting enough.
+**Electrical testing equipment.** You're not doing electrical testing for a basic install. If you *want* to verify voltage and check for cable faults, a [multimeter like the Fluke 117](https://amzn.to/4bSN4aq) is useful — but it's optional, not essential.
 
 **A permit or planning permission.** Plug-in solar up to 800W is exempt from building control and planning in the UK (confirmed March 2026). You don't need to ask anyone's permission (except your DNO after installation, via a five-minute online form).
 
@@ -113,8 +113,9 @@ Copy this and tick as needed:
 - Spanner or adjustable wrench (£5)
 
 **All installations:**
-- Cable clips (optional but recommended, £3–10)
+- [UV-resistant cable ties](https://amzn.to/4bUB08B) (essential for outdoor cable runs, £5–10)
 - Weatherproof sealant (if running cable through wall, £5–10)
+- [IP68 cable glands](https://amzn.to/4dB57TY) (if running cable through a wall, £5–8)
 
 **Total cost if you own nothing:** £30–50 for ground mounting, £30–50 for flat roof, £50–80 for wall mounting (drill hire included). Balcony is free if you have a spanner.
 

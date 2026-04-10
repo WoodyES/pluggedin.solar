@@ -66,7 +66,7 @@ These are more robust than roof-mounted mesh because they take more weathering. 
 
 [Check solar panel bird proofing mesh kits on Amazon](https://amzn.to/4v91BGF)
 
-**DIY approach:** If you're handy, you can buy stainless steel mesh from garden centres or online and create your own frame using cable ties (UV-resistant ones, mind—normal plastic ties degrade in sunlight within 2–3 years). This is cheaper but fiddly and time-consuming.
+**DIY approach:** If you're handy, you can buy stainless steel mesh from garden centres or online and create your own frame using cable ties. Use [UV-resistant cable ties](https://amzn.to/4bUB08B)—normal plastic ties degrade in sunlight within 2–3 years. This is cheaper but fiddly and time-consuming.
 
 ## Installation Considerations
 
@@ -88,6 +88,6 @@ Bird-proofing is one of those investments that costs money upfront but saves you
 
 Budget £150–300 for a decent bird-proofing kit for a standard balcony setup, including installation. That's a fraction of what you'd pay to fix corrosion damage or replace a damaged junction box.
 
-For persistent or severe bird problems, you might also want to read our guide on [regular panel cleaning](/blog/solar-panel-cleaning-kit-uk)—keeping panels spotless can also help discourage nesting activity.
+For persistent or severe bird problems, you might also want to read our guide on [regular panel cleaning](/blog/solar-panel-cleaning-kit-guide-uk)—keeping panels spotless can also help discourage nesting activity.
 
 And if you're dealing with weather damage or thinking about moving house, we've got guides on [weatherproofing your setup](/blog/weatherproof-plug-in-solar-uk) and [flat-roof systems](/blog/flat-roof-plug-in-solar-uk) that cover other protection strategies.

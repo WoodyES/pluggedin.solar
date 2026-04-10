@@ -81,7 +81,7 @@ Check reviews mentioning customer service. Look for patterns. Is support general
 
 From 15 July 2026, compliant kits must meet the new BSI product standard for plug-in solar systems (BS 8990). This is a UK-specific standard that ensures products are safe and compatible.
 
-**What this means:** Until July 2026, there's no formal BSI product standard, so non-compliant kits are being sold. From July onwards, you shouldn't buy kits that don't meet BS 8990.
+**What this means:** Until July 2026, there's no formal BSI product standard, so non-compliant kits are being sold. From July onwards, you shouldn't buy kits that don't meet BS 8990. The [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) is government-backed and expected to achieve early BS 8990 compliance, making it a safe choice.
 
 **What to do:** If you're buying before July 2026, acknowledge that you're buying a kit that doesn't yet have BSI compliance. It's not a major problem (these systems are generally safe), but it's worth understanding.
 
@@ -97,7 +97,7 @@ If you buy a kit online and it arrives damaged, or you open it and realise you m
 
 Before you commit to a kit, confirm that you have a suitable location for it and that you understand the installation process.
 
-**What to do:** Spend 20 minutes reading our guides on [choosing a location](/blog/where-to-install-plug-in-solar-uk), [mounting options](/blog/balcony-rail-solar-mount-uk), and [installation](/blog/how-to-install-plug-in-solar-uk). Make sure you're confident about where you'll put the panel and how you'll run the cable to your socket.
+**What to do:** Spend 20 minutes reading our guides on [choosing a location](/blog/where-to-install-plug-in-solar-uk), [mounting options](/blog/balcony-rail-mounting-plug-in-solar), and [installation](/blog/how-to-install-plug-in-solar-uk). Make sure you're confident about where you'll put the panel and how you'll run the cable to your socket.
 
 If you're uncertain about any aspect of the install, ask for help (a local tradesperson can do it for £100–200) or choose a different mounting surface.
 

@@ -49,7 +49,7 @@ Energy security also has a deeper meaning for some people: autonomy. You're gene
 
 And then there's the intangible: the satisfaction of knowing you're taking direct action on energy and climate. You're doing something visible, measurable, real. Every time you see your solar panel generating on a sunny day, you know it's working. You know your money is doing what you paid it to do.
 
-That satisfaction isn't quantifiable, but it's not nothing. For some people, it's worth paying £500 on its own.
+That satisfaction isn't quantifiable, but it's not nothing. For some people, it's worth paying £500 on its own. If you want to track your real savings in real time, a smart energy monitor like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) lets you see exactly how much your system is generating and saving.
 
 The point: "worth it" isn't a single dimension. You might find plug-in solar is financially worth it *and* environmentally worth it *and* psychologically worth it. Or you might find it's financially worth it but not where you'd focus your environmental efforts. Or you might find the cost is worth it just for the satisfaction and independence.
 

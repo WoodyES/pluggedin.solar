@@ -103,6 +103,8 @@ But the point is: your entire daytime office and house load is covered by solar.
 
 **Annual generation (southern England):** 650–850 kWh = ~£175–£230 in savings
 
+For optimal panel sizing, a portable option like the [EcoFlow 400W Portable Panel](https://amzn.to/47NBlre) lets you adjust position through the day for maximum output.
+
 ### Who 800W Works For
 
 - Home office for two people, or single office with multiple monitors
@@ -178,6 +180,8 @@ If you need heating, **run a cable from the house, not solar.** Full stop.
 | Multi-person office or high-draw work | 800W + battery | Handles variable draw. Evening backup. |
 | Heating needed | **Don't use solar. Run a cable.** | Solar can't power heating. |
 | Evening-heavy use | 400W–800W + 5 kWh battery | Battery essential for evening offset. |
+
+For mounting your panels at the optimal angle, a [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) lets you adjust seasonally and keep your system generating at peak efficiency.
 
 ## The Practical Answer
 

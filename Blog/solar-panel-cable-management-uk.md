@@ -73,7 +73,7 @@ In practice, on a typical garden installation, you're clipping every 2-3 metres 
 
 Water pooling around cable entry points is a common problem. If your cable enters a building and you've not sealed around it, water can wick up the cable sheath and into the connection point.
 
-Use cable grommets and entry seals specifically designed for outdoor cables. These are rubber or plastic fittings that create a weathertight entry. They're cheap and take two minutes to install—don't skip them.
+Use cable grommets and entry seals specifically designed for outdoor cables. These are rubber or plastic fittings that create a weathertight entry. They're cheap and take two minutes to install—don't skip them. For permanent wall-mounted installations, [IP68 cable glands](https://amzn.to/4dB57TY) provide the best seal at cable penetration points.
 
 For cables running horizontally across a wall, angle the clips very slightly downward in the direction of water flow. This ensures any water that lands on the cable drains away rather than pooling at clip points.
 
@@ -96,5 +96,7 @@ Similarly, check that your stainless steel clips haven't corroded or loosened. M
 ## Tidy Installation, Better Payback
 
 A professionally managed cable run isn't just prettier (though it is). It protects your wiring, makes future maintenance easier, and signals to neighbours and guests that this is a properly thought-through system, not a bodge job. Over the decade or more that your panels will be generating, proper cable management pays for itself in durability and peace of mind.
+
+If you need to extend your cable runs, [Renogy MC4 extension cables](https://amzn.to/4mfWT5J) are reliable and widely compatible with standard solar systems.
 
 For context on how cables fit into the broader installation picture, see our full guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you're interested in the connectors those cables are carrying, we've got a deep dive on [MC4 connectors and extension cables](/blog/best-mc4-connectors-extension-cables-uk). For weatherproofing the whole setup, check [weatherproof plug-in solar installation](/blog/weatherproof-plug-in-solar-uk).

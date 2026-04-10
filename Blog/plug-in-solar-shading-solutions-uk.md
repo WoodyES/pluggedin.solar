@@ -37,9 +37,9 @@ This helps, but it's not magic. A shaded panel still generates significantly les
 
 Let's talk about what you can actually do.
 
-**Move your panels to a sunnier location.** This is the nuclear option but sometimes necessary. If your balcony gets shade from midday onwards, can you move panels to a different balcony that's sunnier? Can a ground-mounted system move to the opposite side of the garden? It's work, but if shading is severe, it's worth considering. This is the only truly permanent fix for shading from fixed sources (buildings, walls, geography).
+**Move your panels to a sunnier location.** This is the nuclear option but sometimes necessary. If your balcony gets shade from midday onwards, can you move panels to a different balcony that's sunnier? Can a ground-mounted system move to the opposite side of the garden? An adjustable mount like the [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) makes repositioning easier. It's work, but if shading is severe, it's worth considering. This is the only truly permanent fix for shading from fixed sources (buildings, walls, geography).
 
-**Change the angle of your panels.** Lower angle = lower height = possibly escaping some shadows. Raising the angle might get you above a shadow line. Small angle changes (5–10 degrees) can sometimes make a dramatic difference. This is especially true if shadows are cast by low objects like fences or low buildings. If a fence casts a shadow at 2pm in summer, raising your panel angle by 10 degrees might clear that shadow. Try it and monitor output for a week.
+**Change the angle of your panels.** Lower angle = lower height = possibly escaping some shadows. Raising the angle might get you above a shadow line. Small angle changes (5–10 degrees) can sometimes make a dramatic difference. This is especially true if shadows are cast by low objects like fences or low buildings. If a fence casts a shadow at 2pm in summer, raising your panel angle by 10 degrees with an adjustable bracket might clear that shadow. Try it and monitor output for a week.
 
 **Clear vegetation that's in the way.** If tree branches are shading your panels, you have options. Light pruning (cutting back the branch that's directly over the panel) is often your own decision on your own property. Heavier tree trimming may require permission from a neighbour if it's their tree. And if it's a council tree or protected species, you may need formal permission. It's worth asking, though — many neighbours are happy to trim a branch if it helps your solar generate.
 
@@ -107,6 +107,6 @@ Shading is devastating to solar output, but it's also often invisible. You can't
 
 Microinverters help significantly (they prevent one shaded panel from dragging down the others), but they don't solve shading. Only moving panels or removing the shade source does that.
 
-If you're getting lower output than expected and you've ruled out other problems ([check our troubleshooting guide](/blog/plug-in-solar-not-generating-uk)), shading is usually the culprit. And if you're planning your first installation, shading assessment before purchase is absolutely worth your time.
+If you're getting lower output than expected and you've ruled out other problems ([check our troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting)), shading is usually the culprit. And if you're planning your first installation, shading assessment before purchase is absolutely worth your time.
 
-For more on system performance and placement, check our guides on [panel angle optimisation](/blog/plug-in-solar-panel-angle-uk), [balcony solar mistakes to avoid](/blog/balcony-solar-mistakes-to-avoid), and [what balcony solar actually generates](/blog/how-much-does-balcony-solar-actually-generate).
+For more on system performance and placement, check our guides on [panel angle optimisation](/blog/plug-in-solar-panel-angle), [balcony solar mistakes to avoid](/blog/balcony-solar-mistakes-to-avoid), and [what balcony solar actually generates](/blog/how-much-does-balcony-solar-actually-generate).

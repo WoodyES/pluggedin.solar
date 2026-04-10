@@ -179,6 +179,8 @@ If you want to experiment without risk, consider **hiring rather than buying**. 
 
 Budget plug-in solar exists, and some of it is genuinely good value. But cheap isn't the same as good. Buy the best you can afford, not the cheapest you can find.
 
+Whichever kit you buy, a smart plug between the inverter and wall socket gives you independent generation data — so you can verify you're getting what the manufacturer claims. The [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) (around £12) or the [Shelly Plus Plug UK](https://amzn.to/4sfA9nK) (around £15) both work well.
+
 A £600 kit that runs reliably for 20 years beats a £350 kit that fails in 3. Do the maths before you buy.
 
 For a complete guide to available options, see our [buying guide](/blog/best-plug-in-solar-kit-uk).

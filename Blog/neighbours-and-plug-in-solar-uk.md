@@ -87,7 +87,7 @@ Neighbour disputes sit alongside broader questions about permission, rights, and
 
 - [Plug-in Solar for Renters in the UK](/blog/plug-in-solar-for-renters-uk) — permission frameworks
 - [Solar Panels for Flats: The Complete Guide](/blog/solar-panels-for-flats-uk) — flat-specific considerations
-- [Do You Need Planning Permission for Plug-in Solar?](/blog/plug-in-solar-planning-permission-uk) — legal landscape
+- [Do You Need Planning Permission for Plug-in Solar?](/blog/plug-in-solar-planning-permission) — legal landscape
 
 ## The Bottom Line
 

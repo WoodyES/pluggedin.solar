@@ -71,7 +71,7 @@ A ballast frame is essentially a weighted stand that holds one or two solar pane
 
 - **Two-panel landscape frame:** Holds two panels horizontally (landscape). Slightly wider footprint, often lower profile. Cost: similar.
 
-- **Single-panel frame:** For a single smaller panel. Cost: £100–£150.
+- **Single-panel frame:** For a single smaller panel. Cost: £100–£150. The [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) is a popular choice for single panels, offering adjustable angles.
 
 **Angle adjustment:** Most frames let you set tilt from 10° to 35°. Some are fixed-angle (you choose one and it's locked). Adjustable is better because you can optimize for seasonal performance later.
 

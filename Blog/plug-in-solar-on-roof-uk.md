@@ -83,7 +83,7 @@ These are edge cases. For most homeowners with a standard pitched roof, it's not
 
 If your roof is pitched and mounting there feels wrong, consider other options.
 
-**Ground mounting:** A low racking system in your garden holds panels at the optimal 30–35° angle. No roof touching. Neat, professional-looking, easy to maintain. The trade-off is garden space. Cost is similar to roof mounting (£300–£500 for racks and installation).
+**Ground mounting:** A low racking system in your garden holds panels at the optimal 30–35° angle. No roof touching. Neat, professional-looking, easy to maintain. The trade-off is garden space. Cost is similar to roof mounting (£300–£500 for racks and installation). For ground mounts, the [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) is a popular option that lets you adjust the angle seasonally for maximum year-round output.
 
 **Wall mounting:** South-facing walls work well. Panels mount on brackets, angled for optimal sun. No roof penetration, no ground space used. The panels are visible from the front, which some people dislike, but it's honest and straightforward.
 

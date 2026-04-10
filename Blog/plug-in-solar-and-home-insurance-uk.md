@@ -81,8 +81,8 @@ What does that mean for you, right now, in April 2026? It means if you can wait 
 The insurance question doesn't sit in isolation. You'll also want to understand the legal landscape and what's coming next:
 
 - [Is Plug-in Solar Legal in the UK?](/blog/is-plug-in-solar-legal-uk) — the full regulatory picture
-- [BS 7671 Amendment 4 and Plug-in Solar](/blog/bs7671-amendment-4-plug-in-solar) — what the new wiring regs mean
-- [The BSI Plug-in Solar Standard: What to Expect July 2026](/blog/bsi-plug-in-solar-standard-uk) — when compliant kits arrive
+- [BS 7671 Amendment 4 and Plug-in Solar](/blog/bs7671-amendment-4-explained) — what the new wiring regs mean
+- [The BSI Plug-in Solar Standard: What to Expect July 2026](/blog/bsi-product-standard-plug-in-solar) — when compliant kits arrive
 
 ## What About Existing Insurers? Can They Change Terms?
 
@@ -133,8 +133,8 @@ The genuine risks are electrical, and they're addressable through design and sta
 The insurance question doesn't sit in isolation. You'll also want to understand the legal landscape and what's coming next:
 
 - [Is Plug-in Solar Legal in the UK?](/blog/is-plug-in-solar-legal-uk) — the full regulatory picture
-- [BS 7671 Amendment 4 and Plug-in Solar](/blog/bs7671-amendment-4-plug-in-solar) — what the new wiring regs mean
-- [The BSI Plug-in Solar Standard: What to Expect July 2026](/blog/bsi-plug-in-solar-standard-uk) — when compliant kits arrive
+- [BS 7671 Amendment 4 and Plug-in Solar](/blog/bs7671-amendment-4-explained) — what the new wiring regs mean
+- [The BSI Plug-in Solar Standard: What to Expect July 2026](/blog/bsi-product-standard-plug-in-solar) — when compliant kits arrive
 
 ## The Bottom Line
 

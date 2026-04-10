@@ -27,7 +27,7 @@ You're connected to your electricity meter. Every unit the panels generate reduc
 
 Solar panels charge a battery. You draw power from the battery as you need it. There's no connection to the house, no inverter feeding back to the mains, no grid interaction. The battery is your entire electricity supply.
 
-When the battery is full, you can run devices. When it's empty, you're done until the sun refills it.
+When the battery is full, you can run devices. When it's empty, you're done until the sun refills it. Popular options for sheds include portable batteries like the [EcoFlow DELTA 2](https://amzn.to/4mfY1GL), which provides 1024Wh of capacity for longer runtimes between charges.
 
 **Advantage:** It works anywhere. Your shed could be at the far end of the garden with no cables running to the house. The system is entirely self-contained.
 
@@ -133,4 +133,4 @@ Off-grid battery systems are the choice for disconnected sheds, seasonal use, or
 
 Neither is objectively "better"—they solve different problems. The right choice depends on your shed's existing infrastructure and your actual usage pattern.
 
-For detailed guidance on sizing and specific product recommendations, see the [comprehensive shed solar guide](/blog/plug-in-solar-for-shed-uk). If you've got a connected shed and want to estimate your bill savings, use the [calculator](/calculator).
+For detailed guidance on sizing and specific product recommendations, see the [comprehensive shed solar guide](/blog/plug-in-solar-for-sheds-uk). If you've got a connected shed and want to estimate your bill savings, use the [calculator](/calculator).

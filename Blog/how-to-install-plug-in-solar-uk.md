@@ -31,15 +31,15 @@ You're looking for three things: **aspect, shade, and cable route.**
 
 Once you know where the panel is going, you need to know how it's going to stay there.
 
-**Balcony rail:** You have a south-facing balcony? Rail clamp, done. Takes 20 minutes. Read our [balcony mounting article](/blog/balcony-rail-solar-mount-uk) for clamp types and weight limits.
+**Balcony rail:** You have a south-facing balcony? Rail clamp, done. Takes 20 minutes. Read our [balcony mounting article](/blog/balcony-rail-mounting-plug-in-solar) for clamp types and weight limits.
 
-**Ground mounting (garden):** You have a sunny garden? Ground stakes on grass, a weighted A-frame on gravel or concrete. Takes 30 minutes. Read our [ground mounting article](/blog/ground-mount-plug-in-solar-uk) for surface-specific guidance.
+**Ground mounting (garden):** You have a sunny garden? Ground stakes on grass, a weighted A-frame on gravel or concrete. Takes 30 minutes. Read our [ground mounting article](/blog/ground-mount-plug-in-solar) for surface-specific guidance.
 
-**Flat roof:** You have a flat roof on your house, garage, or extension? Ballast frame, weighted down. Takes 20 minutes. Read our [flat roof article](/blog/flat-roof-ballast-solar-mount-uk).
+**Flat roof:** You have a flat roof on your house, garage, or extension? Ballast frame, weighted down. Takes 20 minutes. Read our [flat roof article](/blog/flat-roof-ballast-mounting).
 
-**Decking:** You have a south-facing deck? Weighted A-frame with a spreader plate. Takes 30 minutes. Read our [decking article](/blog/solar-panels-on-decking-uk) for weight distribution and cable safety.
+**Decking:** You have a south-facing deck? Weighted A-frame with a spreader plate. Takes 30 minutes. Read our [decking article](/blog/solar-panels-on-decking) for weight distribution and cable safety.
 
-**Wall:** You have a blank south-facing wall and nowhere else? Wall bracket with lag bolts into masonry. Takes 30 minutes to an hour, requires drilling. Read our [wall mounting article](/blog/wall-mount-plug-in-solar-uk).
+**Wall:** You have a blank south-facing wall and nowhere else? Wall bracket with lag bolts into masonry. Takes 30 minutes to an hour, requires drilling. Read our [wall mounting article](/blog/wall-mount-plug-in-solar).
 
 **Which is best?** Ground mounting and flat roof ballast mounting give you the best output, because you can angle the panel at 30–35 degrees (optimal for the UK). Balcony mounting is simpler but generates 30–40% less unless you use an adjustable clamp. Wall mounting is the fallback when everything else is impossible.
 
@@ -155,13 +155,13 @@ The cable from the inverter needs to reach your indoor socket.
 
 - **No trailing cables across high-traffic areas.** Cables in doorways or across paths are trip hazards and can damage the cable insulation.
 
-- **Protect the cable where it enters the building.** Use a cable grommet (a rubber ring that goes through a hole in the wall, protecting the cable from sharp edges) and seal any gaps with weatherproof sealant or foam.
+- **Protect the cable where it enters the building.** Use an [IP68 cable gland](https://amzn.to/4dB57TY) where the cable passes through a wall — it creates a watertight seal and prevents rain tracking along the cable into your house.
 
-- **Clip the cable down.** Use cable clips or cable conduit to keep it in place and tidy. This prevents wind and people from moving it.
+- **Clip the cable down.** Use [UV-resistant cable ties](https://amzn.to/4bUB08B) or cable conduit to keep it in place and tidy. This prevents wind and people from moving it.
 
 - **Choose a socket that's either outdoors (weatherproof outdoor socket) or indoors with the cable coming through a window or door.** If using an indoor socket via a window, use a foam draught excluder or weatherproof cable entry kit to prevent drafts and water ingress.
 
-- **Avoid extension cables if possible.** A single direct run is best. If you need to extend, use outdoor-rated extension cable and a weatherproof connector rated for 16 amps minimum.
+- **Avoid extension cables if possible.** A single direct run is best. If you need to extend, use a proper [MC4 extension cable](https://amzn.to/4mfWT5J) with UV-rated outdoor sheathing.
 
 **A note on sockets:** Most plug-in solar kits come with a standard UK 13-amp plug. This plugs into any normal UK socket. Some installers use outdoor sockets for aesthetics or to avoid running a cable through a window, which is fine—just make sure the socket is properly installed and rated for outdoor use.
 
@@ -215,7 +215,7 @@ You have 28 days, so you're not in a rush. But do it within that window.
 
 - Are the MC4 connectors properly connected? Disconnect and reconnect them firmly.
 
-- Is the cable damaged? Look for kinks, cuts, or exposed wire. A damaged cable won't work.
+- Is the cable damaged? Look for kinks, cuts, or exposed wire. A damaged cable won't work. If you want to test for continuity, a [multimeter like the Fluke 117](https://amzn.to/4bSN4aq) makes this quick.
 
 **The app isn't showing any data.**
 

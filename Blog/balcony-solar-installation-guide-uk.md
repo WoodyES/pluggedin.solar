@@ -69,7 +69,7 @@ They'll click together firmly. Don't force them, but make sure they're fully sea
 
 Once connected, you might hear a click or a beep from the inverter. Or nothing. Both are normal. The inverter is now powered by the panel.
 
-**Secure the cable:** Use a cable clip or two to fasten the cable to the panel frame or the railing, so it doesn't dangle or move in wind. This looks tidier and is safer.
+**Secure the cable:** Use a cable clip or two to fasten the cable to the panel frame or the railing, so it doesn't dangle or move in wind. [UV Resistant Cable Ties](https://amzn.to/4bUB08B) work well for this and won't degrade in sunlight. This looks tidier and is safer.
 
 ## Step 4: Mount the Inverter
 
@@ -96,13 +96,13 @@ Now your panel is mounted and connected. The cable from the inverter needs to ge
 
 **Prevent pinching:** If the cable goes through a window or door, protect it where it enters. You can:
 - Use a foam draught excluder (like the kind for letterboxes, about £5) to cushion the cable and prevent drafts.
-- Buy a specific cable entry kit from a solar supplier (£10–20), designed exactly for this.
+- Buy a specific cable entry kit from a solar supplier (£10–20), designed exactly for this. [IP68 Cable Glands](https://amzn.to/4dB57TY) are professional-grade and weatherproof.
 - Even a bit of foam pipe insulation wrapped around the cable works.
 
 The goal: prevent the cable from being pinched by the window or door in a way that damages the insulation or creates a fire risk. It sounds dramatic, but it's just about being sensible.
 
 **Cable length:** If your route is longer than your cable allows, you have options:
-- Buy an extension cable (outdoor-rated, from the same manufacturer or a solar supplier). Cost: £20–40.
+- Buy an extension cable (outdoor-rated, from the same manufacturer or a solar supplier). The [Renogy MC4 Extension Cable](https://amzn.to/4mfWT5J) is reliable and comes in various lengths. Cost: £20–40.
 - Reroute to a closer socket.
 - Use an indoor socket via an open window (works fine with proper cable protection).
 

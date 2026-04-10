@@ -31,7 +31,7 @@ Before we talk about what works, let's be clear about what absolutely doesn't.
 
 ## The Gold Standard: Soft Brush + Deionised Water
 
-Here's what actually works: a soft-bristled brush (natural hair is best, or soft synthetic), a bucket of deionised water, and patience.
+Here's what actually works: a soft-bristled brush (natural hair is best, or soft synthetic), a bucket of deionised water, and patience. A dedicated [Solar Panel Cleaning Brush](https://amzn.to/4shZzkH) is designed specifically for this job and avoids the risk of scratches from improvised tools.
 
 Deionised water matters because tap water leaves mineral deposits as it dries. Deionised water doesn't. You can buy deionised water from supermarkets in the car care section (usually a couple of quid for a litre bottle) or get it in bulk online. Many people also collect rainwater in a butt, which is essentially free and works just as well.
 
@@ -63,7 +63,7 @@ A good rule: check your generation data month-on-month. If you notice a sudden d
 
 You don't need a branded "solar cleaning kit" necessarily, but they do exist and bundle the essentials together. What you actually need is:
 
-- One or more soft-bristled brushes (natural or soft synthetic, 30cm wide is a decent size)
+- One or more soft-bristled brushes (natural or soft synthetic, 30cm wide is a decent size). The [Solar Panel Cleaning Brush](https://amzn.to/4shZzkH) is purpose-built and rated safe for panels.
 - A bucket
 - Deionised water (or a plan to use rainwater or distilled water)
 - For roof systems: a telescopic pole with a safe brush attachment

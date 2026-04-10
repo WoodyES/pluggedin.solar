@@ -99,7 +99,7 @@ Both paths lead to the same practical place: if you want balcony solar, you can 
 
 ## Linked: The Renters Hub
 
-For a comprehensive guide to the legal, practical, and financial side of renting and plug-in solar, see [Plug-in Solar for Renters UK: Your Complete Guide](/blog/plug-in-solar-for-renters-uk).
+For a comprehensive guide to the legal, practical, and financial side of renting and plug-in solar, see [Plug-in Solar for Renters UK: Your Complete Guide](/blog/plug-in-solar-for-renters-uk). When you're ready to purchase, look for portable systems designed for flats like the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj), which is specifically designed for balcony mounting and can be removed when you move.
 
 ## What Actually Matters When Choosing a Flat (If You're Thinking Long-Term)
 

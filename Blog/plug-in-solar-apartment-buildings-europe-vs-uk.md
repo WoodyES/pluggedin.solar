@@ -111,10 +111,10 @@ And finally: if your building is hostile, know that you might not be able to pro
 
 Apartment-specific considerations link to broader questions about permission and rights:
 
-- [What Germany Teaches the UK About Plug-in Solar](/blog/what-germany-teaches-uk-plug-in-solar) — the German context in detail
+- [What Germany Teaches the UK About Plug-in Solar](/blog/what-germany-teaches-uk-about-plug-in-solar) — the German context in detail
 - [Plug-in Solar for Renters in the UK](/blog/plug-in-solar-for-renters-uk) — tenant-specific challenges
-- [Neighbours and Plug-in Solar: Lessons from Germany](/blog/neighbours-plug-in-solar-uk) — managing social friction
-- [Renters' Rights and Solar in the UK](/blog/renters-rights-act-solar-uk) — emerging legislation
+- [Neighbours and Plug-in Solar: Lessons from Germany](/blog/neighbours-and-plug-in-solar-uk) — managing social friction
+- [Renters' Rights and Solar in the UK](/blog/renters-rights-act-2025-solar) — emerging legislation
 
 ## The Bottom Line
 

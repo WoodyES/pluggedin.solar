@@ -77,7 +77,7 @@ Daytime-use garden rooms (home office, studio, workshop). Rooms used mainly spri
 
 **What you get:**
 
-All the above, plus battery storage. You store midday solar and use it in the evening. This is where the economics really improve.
+All the above, plus battery storage. You store midday solar and use it in the evening. This is where the economics really improve. The [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) is an excellent mid-range battery choice for garden rooms, offering 1024Wh capacity and multiple output types for different devices.
 
 **Performance:**
 
@@ -286,7 +286,7 @@ Get quotes from off-grid specialists (Renogy, Victron installers). This isn't a 
 
 - See our [garden office hub](/blog/solar-panels-for-garden-office-uk) for context
 - Read [solar vs cable comparison](/blog/garden-office-solar-vs-electric-cable)
-- Learn [how to size your system](/blog/how-many-solar-panels-for-garden-office)
+- Learn [how to size your system](/blog/garden-office-solar-how-many-panels)
 - Check [kit reviews](/blog/best-plug-in-solar-kit-uk) for detailed product analysis
 - Use our [savings calculator](/calculator) to model your specific return
 

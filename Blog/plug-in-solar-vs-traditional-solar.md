@@ -143,4 +143,4 @@ Plug-in solar isn't a cheaper alternative to rooftop solar. It's a different sol
 
 Know your situation, run the numbers, and choose accordingly. Both are good. They're just good in different ways.
 
-For more detail on plug-in solar specifically, see our [complete guide](/blog/plug-in-solar-uk). For a detailed comparison of costs and savings, use our [savings calculator](/calculator).
+For more detail on plug-in solar specifically, see our [complete guide](/blog/plug-in-solar-uk-complete-guide). For a detailed comparison of costs and savings, use our [savings calculator](/calculator).

@@ -96,4 +96,4 @@ The UK has an opportunity to learn from both countries. Take Germany's structure
 
 By 2027, there will be hundreds of thousands of UK balcony solar systems. Some will be in Scotland, where yields are modest. Some in London, where returns are excellent. Most will fall somewhere in between. The lesson from Spain is simple: worry less about sunshine and more about sensible regulations, user education, and installer quality. Those matter more than latitude.
 
-For more context on the international picture, read [what Germany teaches the UK about plug-in solar](/blog/what-germany-teaches-uk-plug-in-solar). For the financial case specific to the UK, see [is plug-in solar worth it?](/blog/is-plug-in-solar-worth-it-uk) and [plug-in solar payback period in the UK](/blog/plug-in-solar-payback-period-uk).
+For more context on the international picture, read [what Germany teaches the UK about plug-in solar](/blog/what-germany-teaches-uk-about-plug-in-solar). For the financial case specific to the UK, see [is plug-in solar worth it?](/blog/is-plug-in-solar-worth-it-uk) and [plug-in solar payback period in the UK](/blog/plug-in-solar-payback-period).

@@ -164,6 +164,6 @@ It's genuinely simple. The most time-consuming part is usually finding the right
 
 - **Find your DNO:** Energy Networks Association (energynetworks.org.uk)
 - **Building regulations and legal position:** See our [complete legal guide](/blog/is-plug-in-solar-legal-uk)
-- **Wider installation guide:** See our [installation guide](/blog/plug-in-solar-installation-guide) — coming soon
+- **Wider installation guide:** See our [installation guide](/blog/how-to-install-plug-in-solar-uk) — coming soon
 
 G98 isn't bureaucratic obstruction — it's a sensible, necessary, and genuinely quick way to keep everyone informed and the grid safe. Do it.

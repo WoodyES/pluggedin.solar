@@ -28,6 +28,8 @@ The Anker SOLIX RS40P is an 800W grid-tied plug-in solar system. It comprises:
 
 **Price:** Around £899 for the base kit.
 
+[Check the Anker SOLIX on Amazon](https://amzn.to/3QmpWsI)
+
 **Expected output (southern England):** 650–850 kWh/year, or roughly £175–£230 in annual savings.
 
 ## The Headline Comparison: Anker vs EcoFlow
@@ -188,6 +190,8 @@ Neither is a bad choice. Both will likely serve you well for 15+ years.
 ## Alternatives
 
 For government-backed reliability with a longer inverter warranty, consider the **EcoFlow STREAM** (600W, £949).
+
+[Check the EcoFlow STREAM on Amazon](https://amzn.to/47Rmtbj)
 
 For a lower-cost entry point, **wait for Lidl's kit** in summer 2026.
 

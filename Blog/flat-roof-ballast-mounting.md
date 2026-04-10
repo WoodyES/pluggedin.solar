@@ -43,6 +43,8 @@ The elegance of this approach is that you're not penetrating the roof membrane a
 
 **Generic adjustable aluminium frames.** Amazon and garden centres stock budget versions. These are often adequate for UK residential use, though they're not as refined as specialist solar frames. Cost: £80–150.
 
+For flat roofs, the [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) offers excellent value—adjustable angle, corrosion-resistant construction, and straightforward ballasting.
+
 **Comparison:** A specialist frame is more durable and easier to adjust, but a budget frame will work fine if you're not planning to move it. The ballast is what does the work—the frame just holds the angle.
 
 ## Roof Checks Before You Install

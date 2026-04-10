@@ -163,4 +163,4 @@ Is it a silver bullet for energy bills? No. But it's a solid part of a broader e
 
 For your specific bill reduction, use our [savings calculator](/calculator). It'll tell you what you'll actually save in pounds and pence.
 
-And remember: the longer you keep the system, the better the financial case becomes. Year 1 might be modest savings. Year 5 onwards is where the real benefit compounds.
+And remember: the longer you keep the system, the better the financial case becomes. Year 1 might be modest savings. Year 5 onwards is where the real benefit compounds. For a complete picture of how much your home uses before and after solar, the [Emporia Vue 3](https://amzn.to/4bUCQ9E) provides detailed circuit-level monitoring to see exactly where energy is going in your home and how solar is offsetting that load.

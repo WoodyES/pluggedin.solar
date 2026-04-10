@@ -72,7 +72,7 @@ If you want to get 30–35 degrees exactly:
 
 **Balcony rail (vertical, flat against the railing):** 90 degrees. You're losing about 25–30% of potential output. If you use an adjustable clamp that lets you tilt the panel forward to 30 degrees, you recover most of that loss. Worth doing if the clamp allows it.
 
-**Ground-mounted A-frame:** Usually comes pre-set to 30–35 degrees. If it's adjustable, fine-tune it. If it's fixed, check it's close to 30 degrees; if not, shim it.
+**Ground-mounted A-frame:** Usually comes pre-set to 30–35 degrees. If it's adjustable, fine-tune it. If it's fixed, check it's close to 30 degrees; if not, shim it. The [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) lets you dial in the exact angle you need.
 
 **Flat roof ballast mount:** You set the angle yourself. Aim for 30–35 degrees. Use a spirit level to check. Adjust by moving the ballast or shimming the frame.
 

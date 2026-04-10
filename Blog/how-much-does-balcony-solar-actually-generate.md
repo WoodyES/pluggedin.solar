@@ -78,7 +78,7 @@ In the UK, we have a chance to do better. Use realistic models from the start. T
 
 Understand that December and January will be quiet. Understand that 450 kWh yearly doesn't mean 1.2 kWh daily—it means 0.75 kWh averaged across the year, but much more in summer and much less in winter. Understand that shading, orientation, and inverter efficiency all matter.
 
-With realistic expectations, your system will perform as expected. You won't be disappointed. You might even be pleasantly surprised when a particularly sunny spell delivers more than average.
+With realistic expectations, your system will perform as expected. You won't be disappointed. You might even be pleasantly surprised when a particularly sunny spell delivers more than average. To keep tabs on your actual generation against these projections, pair your system with a [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) to track monthly and seasonal output patterns and verify your system is performing as expected.
 
 ## What This Means for Payback
 
@@ -90,7 +90,7 @@ Change the variables and the payback shifts. If your system costs £600 and you'
 
 System costs will likely fall as the market develops. By 2027, economies of scale might bring typical 600W kits down to £500–600 installed. That would push payback times down to four to five years almost everywhere in the UK.
 
-For more on the long-term financial case, read our guide on [plug-in solar payback period in the UK](/blog/plug-in-solar-payback-period-uk) and [is plug-in solar worth it?](/blog/is-plug-in-solar-worth-it-uk).
+For more on the long-term financial case, read our guide on [plug-in solar payback period in the UK](/blog/plug-in-solar-payback-period) and [is plug-in solar worth it?](/blog/is-plug-in-solar-worth-it-uk).
 
 ## The Bottom Line
 
@@ -100,4 +100,4 @@ Your actual figures depend on your specific postcode, roof angle, shading, and i
 
 Realistic expectations lead to satisfied systems. And satisfied systems are the ones that end up paying for themselves and then delivering a decade of nearly-free electricity on top.
 
-For winter-specific questions, check out [plug-in solar winter output in the UK](/blog/plug-in-solar-winter-uk-output). And for the broader comparison between different system sizes, see [800W vs 400W plug-in solar](/blog/800w-vs-400w-plug-in-solar-uk).
+For winter-specific questions, check out [plug-in solar winter output in the UK](/blog/plug-in-solar-in-winter-uk). And for the broader comparison between different system sizes, see [800W vs 400W plug-in solar](/blog/800w-vs-400w-plug-in-solar).

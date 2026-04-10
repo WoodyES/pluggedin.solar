@@ -137,4 +137,4 @@ Don't fall for super-cheap multimeters from unknown sellers—they're often inac
 
 A multimeter is probably the single most useful tool you'll ever own for maintaining your plug-in solar system. It'll save you time, money, and genuine stress the first time something doesn't look right.
 
-For more detailed troubleshooting, you might want to check out our guides on [diagnosing why your system isn't generating](/blog/plug-in-solar-not-generating-uk) and [understanding microinverter problems](/blog/plug-in-solar-microinverter-problems-uk). And if you're thinking about what other tools you'll need, we've got a full guide on [essential tools for plug-in solar](/blog/what-tools-for-plug-in-solar-uk).
+For more detailed troubleshooting, you might want to check out our guides on [diagnosing why your system isn't generating](/blog/plug-in-solar-not-generating-troubleshooting) and [understanding microinverter problems](/blog/plug-in-solar-microinverter-problems-and-fixes). And if you're thinking about what other tools you'll need, we've got a full guide on [essential tools for plug-in solar](/blog/what-tools-for-plug-in-solar-uk).

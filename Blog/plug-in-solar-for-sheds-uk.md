@@ -140,6 +140,8 @@ You choose: a 200Wh battery unit (EcoFlow River 2 or similar), a single 400W sol
 
 Cost: ~£700. The panel goes up in an afternoon. The battery sits inside. By mid-morning on a sunny day, the battery is fully charged. You get ambient lights, laptop power all day, and phone charging. The small heater runs for 30 minutes before the battery needs to recharge in the sun.
 
+For summer shed storage, the [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) is a popular choice—it offers 1024Wh of capacity and can handle most shed electronics throughout a sunny day.
+
 By late September, you pack it down and bring the battery into the house to overwinter.
 
 ## The Next Step

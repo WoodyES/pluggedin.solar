@@ -37,7 +37,7 @@ If you have a garden and a south-facing aspect, ground mounting is probably your
 
 **Option 1: Ground stakes with a deeper foot.** Some specialist staking systems have a wider foot plate that distributes weight across the gravel and resists sinking. If you can find these, they're the minimal-cost option. Budget around £50–100 for a decent set.
 
-**Option 2: Weighted A-frame (better).** An A-frame that sits on the gravel is more stable because the weight of the frame holds it in place. You don't need stakes at all—just add ballast (typically 20–30kg of sand bags or concrete blocks) to keep the frame from tipping.
+**Option 2: Weighted A-frame (better).** An A-frame like the [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) sits on the gravel and is more stable because the weight of the frame holds it in place. You don't need stakes at all—just add ballast (typically 20–30kg of sand bags or concrete blocks) to keep the frame from tipping.
 
 **Installation (A-frame):** Set the frame on the gravel, angle it to 30–35 degrees facing south, and add ballast on the back (the side away from the sun). Make sure the frame doesn't wobble.
 

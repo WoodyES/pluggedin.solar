@@ -26,6 +26,8 @@ The EcoFlow STREAM Solar Plant is a grid-tied plug-in solar system designed for 
 
 **Price:** Around £949 for the base kit (two panels + inverter, no battery).
 
+[Check the EcoFlow STREAM on Amazon](https://amzn.to/47Rmtbj)
+
 **Expected output (southern England):** 500–650 kWh/year, or roughly £135–£175 in annual savings at current grid rates.
 
 ## Why EcoFlow's Government Partnership Matters
@@ -68,6 +70,8 @@ Two monocrystalline panels, 300W each. EcoFlow hasn't yet published the exact ma
 This is where EcoFlow shines. The STREAM integrates with their Delta battery ecosystem. You can buy an EcoFlow Delta battery separately (£1,500–£2,500) and pair it with the STREAM inverter. This lets you store daytime solar generation and use it in the evening—a significant leap in usability.
 
 This is genuinely useful. A 6 kWh Delta battery + STREAM system can power a typical home's evening load (lighting, cooking, entertainment) almost entirely from stored solar.
+
+[Check the EcoFlow DELTA 2 battery on Amazon](https://amzn.to/4mfY1GL)
 
 ### Monitoring and App
 
@@ -168,6 +172,8 @@ If you buy one this summer, update us on how it performs. Real-world data from a
 ## Alternatives
 
 For more wattage at a similar price, consider the **Anker SOLIX RS40P** (800W, £899).
+
+[Check the Anker SOLIX C1000 Gen 2 on Amazon](https://amzn.to/3QmpWsI)
 
 For a lower-cost option, **wait for Lidl's kit** in summer 2026.
 

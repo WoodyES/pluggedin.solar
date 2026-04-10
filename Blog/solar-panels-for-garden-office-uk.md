@@ -151,7 +151,7 @@ Summer morning. Your solar generates 400W. You store 200W in a battery (the rest
 
 That's genuinely valuable.
 
-A 5–6 kWh battery (costs £2,000–£2,500) lets you store midday solar and use it in the evening. The payback maths change completely.
+A 5–6 kWh battery (costs £2,000–£2,500) lets you store midday solar and use it in the evening. The [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) is a popular choice for garden offices, offering 1024Wh of capacity for evening use after a full day of solar charging. The payback maths change completely.
 
 ### Who Should Choose This
 
@@ -198,7 +198,7 @@ Most garden office owners choose **800W** (two 400W panels) because:
 - The output benefit is significant (nearly double)
 - If you later add battery storage, 800W gives you more to store
 
-For detailed sizing, see our guide on [400W vs 800W systems](/blog/800w-vs-400w-plug-in-solar-uk).
+For detailed sizing, see our guide on [400W vs 800W systems](/blog/800w-vs-400w-plug-in-solar).
 
 ## Off-Grid: The Third Option
 
@@ -216,7 +216,7 @@ If you want off-grid for most of the year with winter heating, budget £4,000–
 
 For most garden offices, grid-tied (with plug-in solar + optional battery) is more practical than full off-grid.
 
-See our full guide to [off-grid solar for garden offices](/blog/garden-office-off-grid-solar-uk).
+See our full guide to [off-grid solar for garden offices](/blog/garden-office-off-grid-solar).
 
 ## The Decision Framework
 
@@ -259,8 +259,8 @@ Don't let marketing push you one way. Run the maths for your specific situation.
 ## Next Steps
 
 - See our guide on [solar vs cable for garden offices](/blog/garden-office-solar-vs-electric-cable) for a detailed comparison
-- Learn how to [size a system for your office](/blog/how-many-solar-panels-for-garden-office)
-- Explore [off-grid options](/blog/garden-office-off-grid-solar-uk) if you want autonomy
+- Learn how to [size a system for your office](/blog/garden-office-solar-how-many-panels)
+- Explore [off-grid options](/blog/garden-office-off-grid-solar) if you want autonomy
 - Find out [which specific kit](/blog/best-plug-in-solar-kit-uk) to buy if you choose solar
 - Use our [savings calculator](/calculator) to work out your specific financial return
 

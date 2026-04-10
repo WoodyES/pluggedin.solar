@@ -125,4 +125,4 @@ Start simple: a smart plug on your inverter costs about £25, gives you instant 
 
 Don't overthink it. Monitoring doesn't need to be complex. It just needs to answer one question truthfully: "Am I actually saving money?" If you've got that, everything else is fine detail.
 
-For more context on what payback might look like for your situation, see our guide to [plug-in solar savings in the UK](/blog/plug-in-solar-savings-uk). And if you're curious about real generation data from systems like yours, check out [how much does balcony solar actually generate](/blog/how-much-does-balcony-solar-actually-generate).
+For more context on what payback might look like for your situation, see our guide to [plug-in solar savings in the UK](/blog/how-much-can-plug-in-solar-save). And if you're curious about real generation data from systems like yours, check out [how much does balcony solar actually generate](/blog/how-much-does-balcony-solar-actually-generate).

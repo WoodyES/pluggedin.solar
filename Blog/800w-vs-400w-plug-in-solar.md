@@ -130,7 +130,7 @@ But if space or budget is tight, 400W is perfectly sensible. It's a real system,
 
 ## Don't Forget the Battery Angle
 
-Neither system reaches its full potential without battery storage in a typical British home. A summer afternoon's surplus generation is valuable only if you're home to use it.
+Neither system reaches its full potential without battery storage in a typical British home. A summer afternoon's surplus generation is valuable only if you're home to use it. The [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) pairs an 800W solar system with integrated micro-inverter technology, specifically designed for the UK's 800W regulatory cap and proven to maximize generation from two-panel setups.
 
 Adding a battery (typically £1,500–£2,500) flips the economics. Suddenly, both 400W and 800W systems become much more interesting, because you capture daytime solar for evening use.
 

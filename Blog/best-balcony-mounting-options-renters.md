@@ -148,6 +148,8 @@ Choosing the right mount is the difference between a system that works beautiful
 - How much sun does each part of the balcony actually get?
 - What's the structural condition of the railing or floor?
 
+For a complete, renter-friendly solution, the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) includes integrated mounting options designed specifically for balcony installation without requiring landlord consent for modifications.
+
 When you buy your kit in July 2026, ask the supplier which mount they recommend for your specific situation. Most will be helpful. Some will offer multiple options. Pick the one that genuinely fits your space, not the cheapest option.
 
 A £150 mount that's stable, durable, and perfect for your balcony is money well spent. A £50 mount that wobbles in the wind and damages your railing is money wasted.

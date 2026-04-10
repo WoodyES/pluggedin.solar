@@ -51,7 +51,7 @@ Check your brackets after any storm. Look for cracks in the roof around the moun
 
 Every time a strong wind passes through, do a post-storm inspection.
 
-Walk around your panels and look for: visible cracks in the frame, bolts or clamps that have loosened, ballast that's shifted position, any leaves or branches caught in the panels, standing water in the panel frame, or visible movement when you gently push the panels.
+Walk around your panels and look for: visible cracks in the frame, bolts or clamps that have loosened, ballast that's shifted position, any leaves or branches caught in the panels, standing water in the panel frame, or visible movement when you gently push the panels. Ensure cables are secure using [UV Resistant Cable Ties](https://amzn.to/4bUB08B), and check that [IP68 Cable Glands](https://amzn.to/4dB57TY) (if you have them) are still properly sealed where cables enter the building.
 
 Tighten any loose bolts. Clear debris. If you see cracks in the frame itself, the panel may have been damaged and you should contact the manufacturer. Don't assume it still works — wind damage can cause internal fractures that fail gradually.
 
@@ -95,4 +95,4 @@ UK weather is unpredictable and powerful. Your plug-in solar panels are tough, b
 
 Storm season doesn't mean shutting down your solar investment — it means being smart about it. A bit of preparation now means you'll generate confidently all year.
 
-Want to know more about securing different installation types? Check our guides on [balcony solar common mistakes](/blog/balcony-solar-mistakes-to-avoid) and [choosing the right solar panel tilt brackets](/blog/best-solar-panel-tilt-brackets-uk).
+Want to know more about securing different installation types? Check our guides on [balcony solar common mistakes](/blog/balcony-solar-mistakes-to-avoid) and [choosing the right solar panel tilt brackets](/blog/best-adjustable-solar-panel-tilt-brackets-uk).

@@ -91,7 +91,7 @@ There's no single "right way" because kits vary. But the basic process:
 
 **5. Plug it in** — the inverter has a three-pin UK mains lead. Plug it into any standard wall socket.
 
-**6. Notify your DNO** — within 28 days using the G98 form (explained in our [G98 guide](/blog/g98-plug-in-solar-uk)). You'll need your system details and address. It's a simple online form; your DNO will acknowledge receipt.
+**6. Notify your DNO** — within 28 days using the G98 form (explained in our [G98 guide](/blog/g98-dno-notification-plug-in-solar)). You'll need your system details and address. It's a simple online form; your DNO will acknowledge receipt.
 
 Most people take 2–3 hours. If you're comfortable with a drill and basic safety, you're fine. If you'd rather someone else handled it, some electricians now offer plug-in solar installation services (though it's not yet a standard offering).
 
@@ -128,16 +128,18 @@ Plug-in solar isn't "cheaper" rooftop solar — it's a different product for a d
 
 The major retailers have confirmed their plans. Lidl, Amazon, Iceland, and Sainsbury's will stock compliant kits from summer 2026. Brands include EcoFlow (a government partner) and Anker SOLIX. Prices are expected to stay in the £400–£700 range, with battery add-ons available.
 
+For system monitoring once you've installed, the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) provides real-time energy monitoring of your plug-in solar output—a useful way to track generation and optimize your system. For storage expansion, the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) is the government-backed entry option, and the [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) is popular for battery backup.
+
 The government won't subsidise plug-in solar systems (they're not eligible for SEG or MCS), but the low upfront cost makes subsidies less necessary. The barrier to entry is choice and understanding, not money.
 
 The regulatory timeline is clear now: Amendment 4 is done, product standards are coming, kits will land in shops, and millions of UK households will suddenly have an affordable way to generate their own electricity.
 
 **Your next steps:**
 
-- Check whether your outdoor space gets good sun — our [balcony solar guide](/blog/balcony-solar-uk) walks you through this
+- Check whether your outdoor space gets good sun — our [balcony solar guide](/blog/balcony-solar-uk-guide) walks you through this
 - Understand the legal position — read our [complete regulatory guide](/blog/is-plug-in-solar-legal-uk)
 - Use our [savings calculator](/calculator) to estimate your personal payback
-- If you're a renter, see our [plug-in solar for renters guide](/blog/plug-in-solar-renters-uk)
-- Decide whether you want traditional rooftop solar instead — read our [comparison guide](/blog/plug-in-vs-rooftop-solar-uk)
+- If you're a renter, see our [plug-in solar for renters guide](/blog/plug-in-solar-for-renters-uk)
+- Decide whether you want traditional rooftop solar instead — read our [comparison guide](/blog/plug-in-solar-vs-roof-solar-uk)
 
 Plug-in solar is finally legal in the UK. From summer 2026, it will be available in high street shops. Now is the time to understand it, calculate whether it works for you, and be ready when the kits land.

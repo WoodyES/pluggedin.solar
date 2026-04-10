@@ -27,6 +27,8 @@ Here's the problem: if you just drill a hole and shove a cable through it, water
 
 You need IP68-rated cable glands (the highest water-resistance rating). They're cheap—usually £2–5 each—and they come in various sizes to fit different cable diameters. Most online electronics suppliers stock them.
 
+[Check IP68 Cable Glands on Amazon](https://amzn.to/4dB57TY)
+
 Installation is straightforward. Drill a hole (if you don't already have one), insert the cable gland, and tighten it. Some cable glands need a locknut on the inside of the box; others just screw in. Either way, it takes two minutes.
 
 Every junction box, every inverter enclosure, every place where a cable enters an electrical container needs a proper cable gland. This isn't optional. This is the difference between a system that works for ten years and one that fails in two.
@@ -123,4 +125,6 @@ Compare that to replacing a corroded microinverter (£300–500), or troubleshoo
 
 Your plug-in solar system is going to sit outside for ten-plus years. British weather is genuinely rough. Spending a bit upfront on proper protection is one of the smartest decisions you can make.
 
-For more on protecting your system, check out our guides on [maintaining your panels](/blog/maintain-plug-in-solar-panels-uk), [protecting from birds](/blog/solar-panel-bird-proofing-uk), and for grid-side connections, we've got specifics on [MC4 connectors and extension cables](/blog/best-mc4-connectors-extension-cables-uk) that cover connector-specific weatherproofing. And if you're in an exposed area, our guide on [storm-proofing your setup](/blog/storm-proof-plug-in-solar-uk) covers wind and weather resilience in more depth.
+For bird protection, [check out bird-proofing mesh kits on Amazon](https://amzn.to/4v91BGF) to stop pigeons nesting underneath your panels and damaging cables.
+
+For more on protecting your system, check out our guides on [maintaining your panels](/blog/how-to-maintain-plug-in-solar-panels-uk), [protecting from birds](/blog/solar-panel-bird-proofing-uk), and for grid-side connections, we've got specifics on [MC4 connectors and extension cables](/blog/best-mc4-connectors-extension-cables-uk) that cover connector-specific weatherproofing. And if you're in an exposed area, our guide on [storm-proofing your setup](/blog/how-to-storm-proof-your-plug-in-solar-panels) covers wind and weather resilience in more depth.

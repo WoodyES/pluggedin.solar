@@ -134,8 +134,8 @@ Amendment 4 is the critical piece, but it's not the final piece.
 ## For More Detail
 
 - Complete legal picture: see our [main legal guide](/blog/is-plug-in-solar-legal-uk)
-- Product standard details: see our [BSI standard guide](/blog/bsi-plug-in-solar-standard-uk)
-- DNO notification: see our [G98 guide](/blog/g98-plug-in-solar-uk)
-- Installation: see our [installation guide](/blog/plug-in-solar-installation-guide) — coming soon
+- Product standard details: see our [BSI standard guide](/blog/bsi-product-standard-plug-in-solar)
+- DNO notification: see our [G98 guide](/blog/g98-dno-notification-plug-in-solar)
+- Installation: see our [installation guide](/blog/how-to-install-plug-in-solar-uk) — coming soon
 
 Amendment 4 is the technical foundation. July 2026 is when the whole structure is complete.

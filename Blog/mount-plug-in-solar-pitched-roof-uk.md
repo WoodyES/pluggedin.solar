@@ -55,13 +55,13 @@ Even professionals occasionally cause slow leaks from sub-optimal drilling. It's
 
 A professional roof-mounted installation looks planned and deliberate. Panels align with the roof pitch and often occupy the upper part of the roof slope in a neat pattern. It looks like an intentional design choice.
 
-Plug-in solar on a pitched roof can look ad-hoc, especially if panels aren't aligned or if cabling is visible and unsecured. This bothers some people; others don't care. But if resale value matters to you, a professional installation looks better.
+Plug-in solar on a pitched roof can look ad-hoc, especially if panels aren't aligned or if cabling is visible and unsecured. For a tidier appearance, use [UV Resistant Cable Ties](https://amzn.to/4bUB08B) and [IP68 Cable Glands](https://amzn.to/4dB57TY) where cables enter the building. This bothers some people; others don't care. But if resale value matters to you, a professional installation looks better.
 
 ## Bracket Options for Pitched Roofs
 
 ### Option 1: Hook-Over Tile Brackets
 
-Metal brackets hook over the edge of a roof tile without drilling the tile itself. The bracket usually has a small contact point or clamp that applies pressure to the tile.
+Metal brackets hook over the edge of a roof tile without drilling the tile itself. The bracket usually has a small contact point or clamp that applies pressure to the tile. For adjustable angles, the [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) can work with roof brackets if properly adapted for pitched installations.
 
 **Pros:**
 - No drilling (slightly less invasive)
@@ -142,7 +142,7 @@ Because often, it's not the best option.
 
 **Alternative 1: Ground mounting.** If you have garden space, a low-cost ground-mounting frame (£300–£500) holds panels at the optimal 30–35° angle, south-facing. No roof penetration, no drilling, no wind loading concerns on the roof structure. You use garden space but it's genuinely simpler. This is often the better choice.
 
-**Alternative 2: Wall mounting.** A south-facing wall bracket (£100–£200) holds a small array. No roof touching. No drilling into roof tiles. Simple and reversible.
+**Alternative 2: Wall mounting.** A south-facing wall bracket with an adjustable mount like the [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) (£100–£200) holds a small array. No roof touching. No drilling into roof tiles. Simple and reversible.
 
 **Alternative 3: Balcony railing.** If you have a balcony, panels clamp to the railing. Entirely reversible.
 

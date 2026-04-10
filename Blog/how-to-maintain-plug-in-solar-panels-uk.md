@@ -25,13 +25,13 @@ Winter in the UK is hard on solar panels. Rain, wind, frost, and occasional snow
 
 Note anything you find in a simple logbook or spreadsheet. Include the date and what you saw. This log becomes invaluable over years — you'll spot patterns (e.g., "ballast always shifts in autumn winds" or "moss grows back every spring").
 
-**Clean the panels thoroughly.** After a winter of rain, grime, and wind-blown debris, panels collect a surprising layer of dirt. A soft brush or microfibre cloth and a bucket of water is all you need. Avoid harsh scrubbing or abrasive materials — they scratch the glass. On a cloudy day, spray gently with water from a garden hose to soften dirt, then wipe with a soft cloth. You might see a 5–10% output boost immediately after cleaning. It's satisfying.
+**Clean the panels thoroughly.** After a winter of rain, grime, and wind-blown debris, panels collect a surprising layer of dirt. A soft brush or microfibre cloth and a bucket of water is all you need. Avoid harsh scrubbing or abrasive materials — they scratch the glass. A dedicated [Solar Panel Cleaning Brush](https://amzn.to/4shZzkH) makes this job easier and safer than improvising. On a cloudy day, spray gently with water from a garden hose to soften dirt, then wipe with a soft cloth. You might see a 5–10% output boost immediately after cleaning. It's satisfying.
 
 **Tighten all accessible bolts.** Winter wind vibrates your system, and vibration loosens bolts over time. Check the bolts holding panels to their frame, and any bolts securing the frame to its mounting point. A socket wrench or adjustable spanner should handle these — tighten firmly but don't overtighten (you'll crack the frame or strip the bolt). If you see corrosion around a bolt (white or orange crusty material), that bolt has started rusting. Replace it with a stainless steel bolt of the same size.
 
-**Check cable connections.** If your system has MC4 connectors (the thick plugs that join panel cables), ensure they're fully seated and dry. Push them firmly together — you should hear a satisfying click. If water has pooled around connectors, gently clean the area with a dry cloth and let it air out. Moisture in connectors is the enemy of reliability.
+**Check cable connections.** If your system has MC4 connectors (the thick plugs that join panel cables), ensure they're fully seated and dry. Push them firmly together — you should hear a satisfying click. If water has pooled around connectors, gently clean the area with a dry cloth and let it air out. For exposed outdoor cable runs, [UV Resistant Cable Ties](https://amzn.to/4bUB08B) help secure and protect cables from weathering. Moisture in connectors is the enemy of reliability.
 
-**Test the basic readings.** On a clear day at midday, check your app or inverter display. Note the voltage, current, and power output. Write these down — they become your baseline. For a typical small system, you might see something like 30V input, 8–10A, and 200–250W output on a clear spring day. Over years, you'll see if output gradually declines (normal) or drops suddenly (suggests a problem).
+**Test the basic readings.** On a clear day at midday, check your app or inverter display. Note the voltage, current, and power output. A [Fluke 117 Multimeter](https://amzn.to/4bSN4aq) lets you confirm these readings independently. Write them down — they become your baseline. For a typical small system, you might see something like 30V input, 8–10A, and 200–250W output on a clear spring day. Over years, you'll see if output gradually declines (normal) or drops suddenly (suggests a problem).
 
 ## Summer (June–August): The Peak Performance Check
 
@@ -39,7 +39,7 @@ Summer means longer days, higher sun angles, and maximum generation potential. T
 
 **Verify peak output matches expectations.** On a clear, sunny day in June or July, what's your maximum output? Compare this to the system's spec sheet. If you're generating significantly less than the rated output, something's limiting you — probably shading or a system fault. Document this. If output is within 10–20% of rated capacity, that's normal (real-world conditions are never perfect).
 
-**Check for overheating issues.** On the hottest day of summer, monitor your system. Does the inverter shut down suddenly? Does the app show thermal warnings? If so, check whether the inverter is in direct sun and consider shade options. (We cover this in detail in our [microinverter problems guide](/blog/plug-in-solar-microinverter-problems-uk).)
+**Check for overheating issues.** On the hottest day of summer, monitor your system. Does the inverter shut down suddenly? Does the app show thermal warnings? If so, check whether the inverter is in direct sun and consider shade options. (We cover this in detail in our [microinverter problems guide](/blog/plug-in-solar-microinverter-problems-and-fixes).)
 
 **Clear any summer growth.** Moss can grow on panels if you're in a damp area, and climbing plants might be growing over parts of your system. Gently brush away any moss (soft brush again — don't scrub). Trim back any plants or ivy that's creeping towards your panels.
 
@@ -118,4 +118,4 @@ Anything involving mains wiring or the consumer unit.
 
 Otherwise, you've got this. Your system is tougher than you think, and a bit of seasonal attention will keep it generating brilliantly for decades.
 
-Want more detail on specific issues? Check our [troubleshooting guide](/blog/plug-in-solar-not-generating-uk) if something goes wrong, or our [storm-proofing guide](/blog/storm-proof-plug-in-solar-uk) before bad weather hits.
+Want more detail on specific issues? Check our [troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting) if something goes wrong, or our [storm-proofing guide](/blog/how-to-storm-proof-your-plug-in-solar-panels) before bad weather hits.

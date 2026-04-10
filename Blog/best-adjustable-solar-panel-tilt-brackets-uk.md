@@ -91,10 +91,14 @@ The performance benefit for a two-position system is around 8 to 12 percent annu
 
 If you're the kind of person who hates faffing with things, buy an adjustable mount anyway and just leave it at 35 degrees. You lose the optimisation benefit, but you've still got a future-proof system. You might feel inspired to adjust it later. A fixed mount, by contrast, is fixed forever—no second chances.
 
+## Cable Management With Your Mount
+
+Once your brackets are installed and the panel is secure, proper cable management is essential. Use [UV-resistant cable ties](https://amzn.to/4bUB08B) to bundle and secure cables running from the mounted panels—standard plastic ties fail in sunlight within 2–3 years, but UV-resistant alternatives last 5+ years and keep your installation looking neat.
+
 ## The Installer Question
 
 If you're hiring someone to install your mount, ensure they understand UK weather exposure and local microclimates. A good installer will assess wind loading, understand wall structure, and position panels for genuinely optimal performance, not just whatever looked easiest to install.
 
 Ask potential installers whether they'd recommend adjustable or fixed for your specific situation. If they immediately reach for the cheapest fixed option without understanding your site, find someone else. Investing an extra few hours upfront to get the angle right pays dividends for years.
 
-For more on getting your whole system installed properly, see our guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you're working with ground-mount or balcony-rail setups, we've got specific guides on [ground-mount plug-in solar](/blog/ground-mount-plug-in-solar-uk), [balcony rail solar mounts](/blog/balcony-rail-solar-mount-uk), and [wall-mount plug-in solar](/blog/wall-mount-plug-in-solar-uk).
+For more on getting your whole system installed properly, see our guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you're working with ground-mount or balcony-rail setups, we've got specific guides on [ground-mount plug-in solar](/blog/ground-mount-plug-in-solar), [balcony rail solar mounts](/blog/balcony-rail-mounting-plug-in-solar), and [wall-mount plug-in solar](/blog/wall-mount-plug-in-solar).

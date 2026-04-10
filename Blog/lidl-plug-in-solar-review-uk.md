@@ -123,6 +123,8 @@ Wait for UK customer reviews. As people install the kit through summer and autum
 | UK support | TBC | Yes | Yes |
 | Battery compatible | Probably not | Yes (Delta) | Yes (SOLIX) |
 
+If you're looking for a proven alternative ready in July 2026, the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) offers a full 800W system with better warranty and UK support, though at a higher price point than Lidl's budget option.
+
 Lidl will be the budget option. EcoFlow is the "government-backed, proven" choice. Anker is the "best wattage for money" choice.
 
 ## The Honest Assessment

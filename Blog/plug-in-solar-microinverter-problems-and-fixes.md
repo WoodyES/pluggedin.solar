@@ -31,7 +31,7 @@ Your panels are fine, the sun is shining, but the inverter isn't producing anyth
 
 Wait 2–3 minutes after restart for the inverter to fully boot up, then check the app or lights again.
 
-**If that doesn't work**: Check that the panels are actually producing power. Walk through [our troubleshooting guide](/blog/plug-in-solar-not-generating-uk) to confirm power is reaching the inverter. If the panels are producing but the inverter won't convert it, you likely have a hardware fault and the unit needs replacing under warranty.
+**If that doesn't work**: Check that the panels are actually producing power. A [Fluke 117 Multimeter](https://amzn.to/4bSN4aq) can help you test the DC voltage and confirm whether the panel is generating. Walk through [our troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting) to confirm power is reaching the inverter. If the panels are producing but the inverter won't convert it, you likely have a hardware fault and the unit needs replacing under warranty.
 
 ## Problem 2: Wi-Fi Dropout — "Your Inverter Is Offline"
 
@@ -131,4 +131,4 @@ Microinverter problems are frustrating when they happen, but they're usually fix
 
 If your microinverter is causing repeated issues, don't suffer in silence — contact the manufacturer. If they're good, they'll help. If they're not responsive, note it for your next purchase.
 
-For more on diagnosing why your panels aren't generating at all, check our [troubleshooting guide](/blog/plug-in-solar-not-generating-uk). And if you're still in the buying phase, our guide to [choosing the best plug-in solar kit](/blog/best-plug-in-solar-kit-uk) will help you pick a reliable inverter in the first place.
+For more on diagnosing why your panels aren't generating at all, check our [troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting). And if you're still in the buying phase, our guide to [choosing the best plug-in solar kit](/blog/best-plug-in-solar-kit-uk) will help you pick a reliable inverter in the first place.

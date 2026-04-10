@@ -35,7 +35,7 @@ If the app shows good input voltage but zero output, the inverter itself isn't c
 
 If the app shows lower output than expected for the time of day and cloud cover, you might have a partial shading problem or the panels need cleaning. We'll cover those checks in a moment.
 
-Most importantly: is the app itself connecting to the inverter? If it's saying "device offline" or "no connection," you might have a Wi-Fi dropout. We cover this in detail in our [plug-in solar microinverter problems guide](/blog/plug-in-solar-microinverter-problems-uk), but the quick fix is to restart the inverter, move closer to your router, or check if your Wi-Fi password has been updated recently.
+Most importantly: is the app itself connecting to the inverter? If it's saying "device offline" or "no connection," you might have a Wi-Fi dropout. We cover this in detail in our [plug-in solar microinverter problems guide](/blog/plug-in-solar-microinverter-problems-and-fixes), but the quick fix is to restart the inverter, move closer to your router, or check if your Wi-Fi password has been updated recently.
 
 ## Check 3: Physical Cable Inspection — The Unsung Hero
 
@@ -63,7 +63,7 @@ For now, if you suspect shading, the easiest test is to wait until midday on a c
 
 ## Check 5: Multimeter Testing — If You're Feeling Confident
 
-If you've got a basic digital multimeter (£10–20 from any DIY shop) and you're comfortable with a bit of electrical testing, this check will tell you whether your panel is producing power.
+If you've got a basic digital multimeter and you're comfortable with a bit of electrical testing, this check will tell you whether your panel is producing power. The [Fluke 117 Multimeter](https://amzn.to/4bSN4aq) is a reliable choice trusted by electricians for this kind of diagnostics.
 
 **Safety first**: only do this in bright sunlight with the panel connected to nothing else (disconnect the cables from the inverter first, or just make sure the inverter is powered down).
 
@@ -93,7 +93,7 @@ Before you accept defeat, try these:
 
 **Clear debris from the panels.** If it's been windy or rainy, leaves, dirt, or bird droppings can sit on your panels and block sunlight. A soft brush or gentle spray from a garden hose will often restore output within minutes.
 
-**Check your Wi-Fi.** If the app says "offline," restart your router and the inverter. Move your router closer if possible, or consider a mesh Wi-Fi system if the signal is weak in your garden or balcony.
+**Check your Wi-Fi.** If the app says "offline," restart your router and the inverter. Move your router closer if possible, or consider a mesh Wi-Fi system if the signal is weak in your garden or balcony. For real-time monitoring, the [Tapo P110 Smart Plug](https://amzn.to/4m9Yh9U) can help you track when the inverter is drawing power and diagnose connectivity issues.
 
 ## When to Call the Manufacturer vs. the Electrician
 
@@ -109,4 +109,4 @@ Work through these six checks in order, and you'll pinpoint the issue in most ca
 
 The UK plug-in solar market is young, and these systems are generally reliable. But like any new technology, the first few years are when we all learn how to maintain them properly. Hopefully, this guide saves you a service call and gets you generating again.
 
-Still stuck? Check our guide to [common microinverter problems](/blog/plug-in-solar-microinverter-problems-uk) for more specific faults and fixes.
+Still stuck? Check our guide to [common microinverter problems](/blog/plug-in-solar-microinverter-problems-and-fixes) for more specific faults and fixes.

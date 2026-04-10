@@ -107,7 +107,7 @@ For railing clamps, installation is straightforward:
 
 **5. Plug it in.** Once plugged in, the system is live. The inverter will show green if generating electricity and any is being used.
 
-**6. Notify your DNO.** Within 28 days, submit the G98 form. You'll need your system details, postcode, and DNO name. Most DNOs handle this in a few minutes. See our [G98 guide](/blog/g98-plug-in-solar-uk) for step-by-step instructions.
+**6. Notify your DNO.** Within 28 days, submit the G98 form. You'll need your system details, postcode, and DNO name. Most DNOs handle this in a few minutes. See our [G98 guide](/blog/g98-dno-notification-plug-in-solar) for step-by-step instructions.
 
 Most people finish in 2–3 hours. If you're uncomfortable with it, an electrician can supervise or handle it entirely.
 
@@ -115,7 +115,7 @@ Most people finish in 2–3 hours. If you're uncomfortable with it, an electrici
 
 If you own a house and have a south-facing roof, rooftop solar (4–10kW) will almost always save more money over 15+ years. But if you're a renter or flat owner, balcony solar is often the only option.
 
-For more on when plug-in solar makes sense versus traditional rooftop, see our [comparison guide](/blog/plug-in-vs-rooftop-solar-uk).
+For more on when plug-in solar makes sense versus traditional rooftop, see our [comparison guide](/blog/plug-in-solar-vs-roof-solar-uk).
 
 ## Getting Started
 
@@ -127,4 +127,4 @@ For more on when plug-in solar makes sense versus traditional rooftop, see our [
 
 **Check the timeline:** From July 2026, UKCA-marked kits will be in shops. Don't connect uncertified kits.
 
-Balcony solar isn't just viable in the UK — it's the breakthrough that finally makes solar accessible to renters and flat dwellers. Your balcony is probably sunnier than you think.
+Balcony solar isn't just viable in the UK — it's the breakthrough that finally makes solar accessible to renters and flat dwellers. Your balcony is probably sunnier than you think. For a complete plug-and-play balcony system, look at the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj), which comes pre-configured for 800W balcony setups with all the mounting hardware included.

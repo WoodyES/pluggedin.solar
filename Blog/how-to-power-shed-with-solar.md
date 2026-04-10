@@ -88,7 +88,7 @@ Battery capacity (measured in Wh or kilowatt-hours) dictates how long you can ru
 
 **EcoFlow STREAM or Anker SOLIX RS40P**
 
-These are purpose-built plug-in solar kits. Around £900–£950 each. They bundle a 400W solar array, a 600W inverter, and all the cabling and connectors. You mount the panels on the shed, connect the DC cables to the inverter, plug the inverter into a socket inside the shed, and you're generating.
+These are purpose-built plug-in solar kits. Around £900–£950 each. The [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) bundles a 400W solar array, a 600W inverter, and all the cabling and connectors. You mount the panels on the shed, connect the DC cables to the inverter, plug the inverter into a socket inside the shed, and you're generating.
 
 No shopping list, no compatibility puzzles. Just solar.
 
@@ -102,7 +102,7 @@ Expand the EcoFlow or Anker kit with additional panels (another 200–400W), or 
 
 ### Standalone Shed – Summer Use (~£500–£700)
 
-A 100–200Wh battery (EcoFlow River 2, Jackery Explorer, Anker 521) paired with a single 200–300W solar panel on a bracket.
+A 100–200Wh battery paired with a single 200–300W solar panel on a bracket. Options include the [Jackery Explorer 1000 v2](https://amzn.to/4tmxjhG) for higher capacity or compact models for smaller sheds.
 
 Battery alone: £300–£500. Panel: £150–£250. Total: ~£500–£700.
 
@@ -110,7 +110,7 @@ Perfectly adequate for May-to-September use.
 
 ### Standalone Shed – Year-Round (~£900–£1,200)
 
-A 300–400Wh battery system (EcoFlow River Pro, Jackery 300+) with 400–600W of solar panels in adjustable mounts.
+A 300–400Wh battery system with 400–600W of solar panels in adjustable mounts. The [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) or [Jackery Explorer 1000 v2](https://amzn.to/4tmxjhG) paired with an adjustable [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) gives year-round flexibility.
 
 Battery: £600–£800. Panels: £300–£400. Total: £900–£1,200.
 
@@ -162,4 +162,4 @@ Let's be concrete.
 
 **You need high-power tools:** Neither system is right. Plan a proper mains extension instead.
 
-Still deciding? The [detailed shed guide](/blog/plug-in-solar-for-shed-uk) explores the technical side and walks through real-world examples. Use the [calculator](/calculator) to see what solar output you can expect from your location.
+Still deciding? The [detailed shed guide](/blog/plug-in-solar-for-sheds-uk) explores the technical side and walks through real-world examples. Use the [calculator](/calculator) to see what solar output you can expect from your location.

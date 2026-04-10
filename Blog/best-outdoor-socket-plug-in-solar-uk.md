@@ -53,6 +53,8 @@ The ideal location for your outdoor socket is:
 
 **South-facing or accessible from south:** so your cables don't have to run across the entire garden. Shorter runs mean less voltage drop and easier maintenance.
 
+For weatherproofing cable entry points, [IP68 Cable Glands](https://amzn.to/4dB57TY) provide excellent protection against moisture ingress where cables pass through walls or conduit.
+
 **Protected from prevailing weather:** under eaves, or tucked into a corner that catches less rain. Even IP66 isn't designed for standing in a puddle.
 
 **Away from garden activity:** not where you're trimming hedges, washing the car, or where children play with balls that might hit it.
@@ -111,4 +113,4 @@ Here's how a typical plug-in solar outdoor socket setup works: your solar invert
 
 Alternatively, if your battery or inverter lives outside (a weatherproof cabinet, perhaps), the outdoor socket powers that directly. Either way, the socket itself needs the same protection—dedicated circuit, RCD, proper IP rating.
 
-For the full context on getting plug-in solar installed safely, see our guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you want to understand the regulatory context better, we've got a deeper dive into [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-plug-in-solar) and [weatherproof plug-in solar installation](/blog/weatherproof-plug-in-solar-uk).
+For the full context on getting plug-in solar installed safely, see our guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you want to understand the regulatory context better, we've got a deeper dive into [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-explained) and [weatherproof plug-in solar installation](/blog/weatherproof-plug-in-solar-uk).

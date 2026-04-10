@@ -71,6 +71,8 @@ EcoFlow was named an official government partner in the March 2026 announcement.
 
 **Price:** Around £949 for the base kit (two panels + micro-inverter).
 
+[Check the EcoFlow STREAM on Amazon](https://amzn.to/47Rmtbj)
+
 **Why it matters:** EcoFlow has sold over 500,000 units globally. Their Delta battery ecosystem is industry-leading. UK customer service is available. The 600W cap is a deliberate conservative choice—the system is reliable and beginner-friendly.
 
 **Fair assessment:** This is a genuinely good kit. It's not the highest-wattage available, but EcoFlow's track record and support network make it worth the price. If you want something proven and expandable, this is it.
@@ -84,6 +86,8 @@ Anker came to the market slightly later but with a system that maxes out the UK 
 **Specs:** 800W system (two 400W panels), RS40 micro-inverter, expandable SOLIX battery ecosystem, 3-5 year warranty on inverter, 25-year panel warranty.
 
 **Price:** Around £899 for the base kit.
+
+[Check the Anker SOLIX on Amazon](https://amzn.to/3QmpWsI)
 
 **Why it matters:** At £899, Anker undercuts EcoFlow by about £50 whilst offering 800W instead of 600W. That's a meaningful difference in summer output—roughly 30 per cent more generation on a sunny day. Anker's reputation for build quality is excellent.
 
@@ -169,6 +173,8 @@ This guide is current as of April 2026. All three of these kits are essentially 
 This page will be updated with real-world feedback as it comes in. If you buy one of these kits, we'd love to hear how you get on.
 
 ## The Bottom Line
+
+To track your system's real-world performance from day one, a smart plug like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) gives you independent generation data — useful for verifying the manufacturer's app is accurate.
 
 If you want proven reliability and a clear upgrade path, **EcoFlow STREAM** is the safe choice. It's not the cheapest, but it's backed by real-world success and UK support.
 

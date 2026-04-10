@@ -25,7 +25,7 @@ A panel mounted flat to a vertical wall is tilted at 90 degrees from horizontal.
 
 For a 400W panel, that's a difference between about 400W at optimal angle and 280–300W at vertical. Over the course of a year, the difference in generation is significant.
 
-**Adjustable brackets make a real difference.** Most wall brackets allow you to pivot the panel forward from the wall. If you can angle it to 30–45 degrees from the wall (which is possible with many adjustable brackets), you recover much of the lost output. The generation gets much closer to what a ground-mounted system would achieve.
+**Adjustable brackets make a real difference.** Most wall brackets allow you to pivot the panel forward from the wall. An adjustable mount like the [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) lets you angle it to 30–45 degrees from the wall, allowing you to recover much of the lost output. The generation gets much closer to what a ground-mounted system would achieve.
 
 **Cost consideration:** An adjustable bracket costs slightly more than a basic fixed bracket, typically £50–150 versus £30–80. The extra generation usually pays for itself within a few years, so if you're going to drill anyway, choose an adjustable bracket.
 

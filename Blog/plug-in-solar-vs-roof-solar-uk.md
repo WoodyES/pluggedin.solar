@@ -165,6 +165,6 @@ Neither is "wrong." They solve different problems.
 
 **You're leaning toward full installation?** Contact 2–3 MCS-certified installers in your area and request quotes. They'll assess your roof, give you generation estimates, and provide a fixed price. The [calculator](/calculator) gives you a rough estimate; installer quotes are precise.
 
-**You're leaning toward plug-in?** Check your postcode on the [calculator](/calculator) to estimate generation. Browse the [detailed plug-in solar guides](/blog/) to understand installation. If you're unsure about the difference between grid-tied and off-grid, start with [the plug-in solar overview](/blog/).
+**You're leaning toward plug-in?** Check your postcode on the [calculator](/calculator) to estimate generation. Browse the [step-by-step installation guide](/blog/how-to-install-plug-in-solar-uk) to understand the process. If you're unsure about the difference between grid-tied and off-grid, start with [the complete plug-in solar guide](/blog/plug-in-solar-uk-complete-guide).
 
 **You're unsure which path?** Install plug-in solar now (£900–£1,400), observe generation and bill impact for a year, then decide if you want to upgrade. The data will guide you better than speculation.

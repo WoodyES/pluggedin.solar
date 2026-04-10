@@ -71,7 +71,7 @@ A common mistake is using whatever cable is lying around the house. Standard 1.5
 
 The second error is running cable that's too long. Every metre of cable adds resistance. For a 20-metre run from balcony to inverter, you're losing more energy than for a 3-metre run. Plan your installation so the inverter is as close to the panel as practical. If you must run cable over a long distance, use thicker gauge.
 
-Quality matters. Cheap cable insulation degrades faster in sunlight. German forums report cases where sub-standard cable failed after 18 months of UV exposure. Buy marine-grade or solar-specific cable from a proper supplier. It costs a bit more upfront and lasts years longer.
+Quality matters. Cheap cable insulation degrades faster in sunlight. German forums report cases where sub-standard cable failed after 18 months of UV exposure. Buy marine-grade or solar-specific cable from a proper supplier. It costs a bit more upfront and lasts years longer. For cable management and securing external wiring, use [UV Resistant Cable Ties](https://amzn.to/4bUB08B) that won't degrade in sunlight and will keep your installation tidy and safe.
 
 ## 6. Skipping Monitoring
 
@@ -127,6 +127,6 @@ If they won't cover it, shop around. By the time UK plug-in solar is mainstream,
 
 None of these mistakes are inevitable. They're all preventable with a little planning, patience, and caution. The European balcony solar community has spent three years collectively learning these lessons. Benefit from their experience rather than repeating it.
 
-For more detailed information on the safety and regulatory side, read [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-plug-in-solar). And if you want to understand realistic UK output expectations, check our piece on [how much does balcony solar actually generate](/blog/how-much-does-balcony-solar-actually-generate).
+For more detailed information on the safety and regulatory side, read [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-explained). And if you want to understand realistic UK output expectations, check our piece on [how much does balcony solar actually generate](/blog/how-much-does-balcony-solar-actually-generate).
 
 The systems that last longest and generate the most are the ones installed with care and attention to detail. You're about to join millions of European households making their own renewable energy. Do it right.

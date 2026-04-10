@@ -202,7 +202,7 @@ Across the UK, for a typical 800W south-facing system with moderate self-consump
 
 For most people, expect 4.5–5.5 years. That's within the range where most consider an investment worth making.
 
-Under the [savings calculator](/calculator), you'll get your specific payback period. Use that number for your planning.
+Under the [savings calculator](/calculator), you'll get your specific payback period. Use that number for your planning. To monitor your actual payback progress in real time, a [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) smart plug can track your savings month by month so you can see exactly when you hit break-even.
 
 And remember: after payback, you're earning money (via savings) with zero additional cost. That's what makes the long payback period acceptable.
 

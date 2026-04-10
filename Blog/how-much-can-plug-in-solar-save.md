@@ -198,7 +198,7 @@ Charge your laptop, phone, electric toothbrush, and any rechargeable devices dur
 If you use electric heating or air conditioning, running it at midday means some of it comes from solar instead of grid.
 
 **4. Monitor and plan:**
-Most plug-in solar systems come with a monitoring app showing real-time generation. Watch it. On sunny days, get a sense of when you're generating peak and plan appliance use around that.
+Most plug-in solar systems come with a monitoring app showing real-time generation. Watch it. On sunny days, get a sense of when you're generating peak and plan appliance use around that. For more detailed home energy tracking, the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) smart plug shows exactly how much power each appliance draws, helping you optimize when to run them.
 
 These aren't massive optimisations. But they can move you from 65% to 75–80% self-consumption, which adds £15–£25 per year. Over 15 years, that's £250–£375 extra benefit.
 
