@@ -190,7 +190,7 @@ function Hero({ gridData }) {
                 <div style={{ fontFamily: T.display, fontSize: "2.6rem", fontWeight: 800, color: T.ink, lineHeight: 1 }}>{result.kwh}</div>
                 <div style={{ fontSize: "0.75rem", color: T.inkFaint, marginTop: 4, fontWeight: 500 }}>kWh/yr &middot; {result.area}</div>
               </div>
-              <Link to="/calculator" style={{ marginLeft: "auto", padding: "10px 18px", borderRadius: 8, background: T.ink, color: "#fff", fontSize: "0.8rem", fontWeight: 600, textDecoration: "none", whiteSpace: "nowrap", fontFamily: T.display }}>
+              <Link to={`/calculator?pc=${encodeURIComponent(pc.replace(/\s/g, "").toUpperCase())}`} style={{ marginLeft: "auto", padding: "10px 18px", borderRadius: 8, background: T.ink, color: "#fff", fontSize: "0.8rem", fontWeight: 600, textDecoration: "none", whiteSpace: "nowrap", fontFamily: T.display }}>
                 Full report &darr;
               </Link>
             </div>
