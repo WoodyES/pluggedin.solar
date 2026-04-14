@@ -49,6 +49,22 @@ export default function BlogPost({ market = "uk" }) {
     .sort((a, b) => b.score - a.score)
     .slice(0, 3);
 
+  // Build hreflang alternatives for multi-market posts
+  const hreflangMap = { uk: "en-GB", us: "en-US", au: "en-AU" };
+  const hreflang = Object.entries(hreflangMap)
+    .filter(([m]) => {
+      if (m === market) return true;
+      return allPosts.some(p => p.market === m && p.slug === slug);
+    })
+    .map(([m, lang]) => ({
+      lang,
+      href: `https://pluggedin.solar${m === "uk" ? "" : `/${m}`}/blog/${slug}`,
+    }));
+  // Add x-default pointing to UK version
+  if (hreflang.length > 1) {
+    hreflang.push({ lang: "x-default", href: `https://pluggedin.solar/blog/${slug}` });
+  }
+
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "BlogPosting",
@@ -87,6 +103,7 @@ export default function BlogPost({ market = "uk" }) {
         path={postUrl}
         type="article"
         jsonLd={[jsonLd, breadcrumbLd]}
+        hreflang={hreflang}
       />
       <div style={{ maxWidth: 680, margin: "0 auto" }}>
         {/* Breadcrumb */}
