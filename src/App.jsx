@@ -122,6 +122,26 @@ function GlobalStyles() {
       .prose pre code { background: none; padding: 0; }
       .prose img { max-width: 100%; border-radius: 10px; margin: 24px 0; }
 
+      /* ─── PRODUCT CARDS (embedded in blog markdown) ─── */
+      .product-card { border: 1.5px solid ${T.border}; border-radius: 16px; padding: 24px; background: ${T.surface}; margin: 32px 0; overflow: hidden; position: relative; }
+      .product-card.featured { border-color: ${T.solarBorder}; box-shadow: 0 4px 24px ${T.solarGlow}; }
+      .product-card .pc-accent { position: absolute; top: 0; left: 0; right: 0; height: 3px; background: linear-gradient(90deg, ${T.solar}, transparent); border-radius: 16px 16px 0 0; }
+      .product-card .pc-img { width: 100%; height: 180px; border-radius: 10px; overflow: hidden; background: ${T.surfaceAlt}; display: flex; align-items: center; justify-content: center; margin-bottom: 16px; }
+      .product-card .pc-img img { max-width: 100%; max-height: 100%; object-fit: contain; margin: 0; }
+      .product-card .pc-badge { display: inline-block; font-size: 0.6rem; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; padding: 4px 10px; border-radius: 20px; background: ${T.solar}18; color: ${T.solar}; border: 1px solid ${T.solar}30; margin-bottom: 12px; }
+      .product-card .pc-name { font-family: ${T.display}; font-size: 1.25rem; font-weight: 800; color: ${T.ink}; letter-spacing: -0.02em; line-height: 1.2; margin-bottom: 4px; }
+      .product-card .pc-name a { color: ${T.ink}; text-decoration: none; }
+      .product-card .pc-name a:hover { color: ${T.solar}; }
+      .product-card .pc-price { font-family: ${T.display}; font-size: 1.35rem; font-weight: 800; color: ${T.solar}; margin-bottom: 16px; }
+      .product-card .pc-price small { font-size: 0.72rem; color: ${T.inkFaint}; font-weight: 400; margin-left: 8px; }
+      .product-card .pc-features { list-style: none; padding: 0; margin: 0 0 16px; }
+      .product-card .pc-features li { display: flex; align-items: center; gap: 8px; font-size: 0.84rem; color: ${T.inkMid}; margin-bottom: 6px; line-height: 1.5; }
+      .product-card .pc-features li::before { content: "✓"; color: ${T.green}; font-size: 0.8rem; flex-shrink: 0; }
+      .product-card .pc-features li::marker { content: ""; }
+      .product-card .pc-cta { display: block; padding: 14px 20px; border-radius: 10px; background: ${T.solar}; color: #fff; text-align: center; text-decoration: none; font-family: ${T.display}; font-size: 0.9rem; font-weight: 700; box-shadow: 0 2px 12px ${T.solarBorder}; transition: opacity 0.15s; }
+      .product-card .pc-cta:hover { opacity: 0.88; color: #fff; }
+      .product-card .pc-note { margin-top: 12px; padding: 10px 16px; border-radius: 8px; background: ${T.surfaceAlt}; border: 1px solid ${T.border}; font-size: 0.75rem; color: ${T.inkMid}; text-align: center; }
+
       /* ─── RESPONSIVE ─────────────────────────────────── */
       @media (max-width: 768px) {
         /* Nav */

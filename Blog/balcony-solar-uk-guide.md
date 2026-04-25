@@ -127,4 +127,4 @@ For more on when plug-in solar makes sense versus traditional rooftop, see our [
 
 **Check the timeline:** From July 2026, UKCA-marked kits will be in shops. Don't connect uncertified kits.
 
-Balcony solar isn't just viable in the UK — it's the breakthrough that finally makes solar accessible to renters and flat dwellers. Your balcony is probably sunnier than you think. For a complete plug-and-play balcony system, look at the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj), which comes pre-configured for 800W balcony setups with all the mounting hardware included.
+Balcony solar isn't just viable in the UK — it's the breakthrough that finally makes solar accessible to renters and flat dwellers. Your balcony is probably sunnier than you think. For a complete plug-and-play balcony system, look at the [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system), which comes pre-configured for 800W balcony setups with all the mounting hardware included.

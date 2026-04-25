@@ -31,6 +31,23 @@ Budget or unknown-brand inverters might be cheaper, but if something goes wrong 
 
 **What to do:** Check the inverter brand before you buy. If it's an unfamiliar brand, research it. Does it have a UK presence? Are there reviews mentioning reliability? If you can't find any information, it might be a knock-off or a product with poor support.
 
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-badge">Best overall</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-price">~£799 <small>estimated</small></div>
+<ul class="pc-features">
+<li>800W dual-panel balcony or garden kit</li>
+<li>600Wh plug-in battery included</li>
+<li>App with live monitoring &amp; smart scheduling</li>
+<li>Balcony, garden &amp; flat-roof mount options</li>
+</ul>
+<a class="pc-cta" href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow →</a>
+<div class="pc-note">BSI-compliant kits expected from July 2026. Prices are estimates.</div>
+</div>
+
 ## 3. What's the Warranty?
 
 A good kit includes warranties for:
@@ -81,7 +98,7 @@ Check reviews mentioning customer service. Look for patterns. Is support general
 
 From 15 July 2026, compliant kits must meet the new BSI product standard for plug-in solar systems (BS 8990). This is a UK-specific standard that ensures products are safe and compatible.
 
-**What this means:** Until July 2026, there's no formal BSI product standard, so non-compliant kits are being sold. From July onwards, you shouldn't buy kits that don't meet BS 8990. The [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) is government-backed and expected to achieve early BS 8990 compliance, making it a safe choice.
+**What this means:** Until July 2026, there's no formal BSI product standard, so non-compliant kits are being sold. From July onwards, you shouldn't buy kits that don't meet BS 8990. The [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) is government-backed and expected to achieve early BS 8990 compliance, making it a safe choice.
 
 **What to do:** If you're buying before July 2026, acknowledge that you're buying a kit that doesn't yet have BSI compliance. It's not a major problem (these systems are generally safe), but it's worth understanding.
 

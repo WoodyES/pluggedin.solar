@@ -47,7 +47,7 @@ The practical point: don't panic if you see no output on a frozen morning. It do
 
 ## Battery Storage: Your Winter Ally
 
-If you're combining your plug-in solar with a portable power station or home battery, winter is where batteries prove their worth. A system like the [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) (a 1024Wh portable battery) charged during winter days stores that modest solar generation for evening use, making the system genuinely useful even when output is at its lowest.
+If you're combining your plug-in solar with a portable power station or home battery, winter is where batteries prove their worth. A system like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (a 1024Wh portable battery) charged during winter days stores that modest solar generation for evening use, making the system genuinely useful even when output is at its lowest.
 
 In summer, you might generate more than you use during the day, so you're exporting excess to the grid or charging a battery that you don't really need. In winter, that battery becomes critical. You generate a bit of solar during the day; you store it; you use it in the evening. Without the battery, winter solar alone won't offset much of your consumption.
 

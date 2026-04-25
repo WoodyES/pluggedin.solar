@@ -55,7 +55,7 @@ Be honest about the limits.
 
 ### The Sweet Spot: 300–400Wh Battery + 600–800W Solar
 
-**Battery:** EcoFlow River Pro (416Wh) or Jackery Explorer 300 Plus (400Wh) or Bluetti AC200L (2048Wh if you want larger). For summer use, the [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) at 1024Wh sits perfectly between these options, giving you extended evening comfort without oversizing.
+**Battery:** EcoFlow River Pro (416Wh) or Jackery Explorer 300 Plus (400Wh) or Bluetti AC200L (2048Wh if you want larger). For summer use, the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) at 1024Wh sits perfectly between these options, giving you extended evening comfort without oversizing.
 
 For most summerhouse uses, 300–400Wh is the Goldilocks zone. It's not so small that you're rationing. It's not so large that you're paying for capacity you never use. Cost: £600–£900.
 

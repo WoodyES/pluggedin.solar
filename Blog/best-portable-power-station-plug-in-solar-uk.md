@@ -29,6 +29,23 @@ For plug-in solar use, LiFePO4 is the better choice. You're charging and dischar
 
 All three major brands we're covering (EcoFlow, Anker, Jackery) offer LiFePO4 options in their current lineup, so this isn't a dealbreaker, but it's worth checking specifications when you're buying.
 
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with Delta 2 battery" /></div>
+<div class="pc-badge">Premium choice</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W + Delta 2</a></div>
+<div class="pc-price">~£1,099 <small>estimated</small></div>
+<ul class="pc-features">
+<li>800W dual-panel kit with 1kWh Delta battery</li>
+<li>Store daytime solar for evening use</li>
+<li>Full home backup mode</li>
+<li>Smart scheduling via EcoFlow app</li>
+</ul>
+<a class="pc-cta" href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow →</a>
+<div class="pc-note">BSI-compliant kits expected from July 2026. Prices are estimates.</div>
+</div>
+
 ## Understanding Wh and kWh
 
 Battery capacity is measured in watt-hours (Wh) or kilowatt-hours (kWh). If you see a battery labeled 2,400Wh, that's 2.4kWh, or enough energy to power a 1,000W load for 2.4 hours.
@@ -51,7 +68,7 @@ What makes EcoFlow compelling is the app and ecosystem integration. You can see 
 
 Pricing: Delta 2 runs around £600-800, Delta 3 around £2,500-3,200 depending on sales and where you buy. Both are readily available in the UK through major retailers.
 
-[Check the EcoFlow Delta 2 on Amazon](https://amzn.to/4mfY1GL)
+[Check the EcoFlow Delta 2 on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station)
 
 The downside? EcoFlow is more aggressive on hardware obsolescence than some competitors. Older models sometimes lose app support, which is frustrating if you've paid good money for a system that worked perfectly fine. That said, current models are well-supported, and there's an active user community.
 

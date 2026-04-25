@@ -46,6 +46,23 @@ The Anker SOLIX RS40P is an 800W grid-tied plug-in solar system. It comprises:
 
 The key tension: Anker gives you more wattage for less money, but EcoFlow has a longer inverter warranty and more proven track record in the plug-in solar space.
 
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-badge">Best overall</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-price">~£799 <small>estimated</small></div>
+<ul class="pc-features">
+<li>800W dual-panel balcony or garden kit</li>
+<li>600Wh plug-in battery included</li>
+<li>App with live monitoring &amp; smart scheduling</li>
+<li>Balcony, garden &amp; flat-roof mount options</li>
+</ul>
+<a class="pc-cta" href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow →</a>
+<div class="pc-note">BSI-compliant kits expected from July 2026. Prices are estimates.</div>
+</div>
+
 ## Confirmed Specs
 
 ### Solar Panels
@@ -191,7 +208,7 @@ Neither is a bad choice. Both will likely serve you well for 15+ years.
 
 For government-backed reliability with a longer inverter warranty, consider the **EcoFlow STREAM** (600W, £949).
 
-[Check the EcoFlow STREAM on Amazon](https://amzn.to/47Rmtbj)
+[Check the EcoFlow STREAM on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)
 
 For a lower-cost entry point, **wait for Lidl's kit** in summer 2026.
 

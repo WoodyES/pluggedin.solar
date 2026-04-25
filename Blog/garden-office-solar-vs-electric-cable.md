@@ -93,7 +93,7 @@ With battery:
 - Real energy autonomy, especially in summer/autumn
 - Works well when you spend time in the office morning/afternoon
 - Payback period drops to 5–7 years (vs 8–10 years without battery)
-- A system like the [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) (1024Wh capacity) pairs perfectly with an 800W solar setup to store daytime generation for evening use in the garden office
+- A system like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (1024Wh capacity) pairs perfectly with an 800W solar setup to store daytime generation for evening use in the garden office
 
 ### What You Sacrifice
 

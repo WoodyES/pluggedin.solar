@@ -41,7 +41,7 @@ Purpose-built for apartments and flats, balcony rail clamps grip onto standard m
 
 Most plug-in solar kits marketed for balconies (including the EcoFlow STREAM) include rail mounting hardware. If yours doesn't, universal balcony clamps are available that fit most standard railing sizes (40–90mm diameter tubes).
 
-[Check the EcoFlow STREAM with balcony mount on Amazon](https://amzn.to/47Rmtbj)
+[Check the EcoFlow STREAM with balcony mount on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)
 
 **When to use:** Any balcony with metal railings. Check that your balcony faces south, south-east, or south-west — north-facing balcony solar rarely justifies the investment.
 

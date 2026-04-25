@@ -103,7 +103,7 @@ But the point is: your entire daytime office and house load is covered by solar.
 
 **Annual generation (southern England):** 650–850 kWh = ~£175–£230 in savings
 
-For optimal panel sizing, a portable option like the [EcoFlow 400W Portable Panel](https://amzn.to/47NBlre) lets you adjust position through the day for maximum output.
+For optimal panel sizing, a portable option like the [EcoFlow 400W Portable Panel](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel) lets you adjust position through the day for maximum output.
 
 ### Who 800W Works For
 

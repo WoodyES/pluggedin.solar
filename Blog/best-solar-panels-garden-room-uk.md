@@ -77,7 +77,7 @@ Daytime-use garden rooms (home office, studio, workshop). Rooms used mainly spri
 
 **What you get:**
 
-All the above, plus battery storage. You store midday solar and use it in the evening. This is where the economics really improve. The [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) is an excellent mid-range battery choice for garden rooms, offering 1024Wh capacity and multiple output types for different devices.
+All the above, plus battery storage. You store midday solar and use it in the evening. This is where the economics really improve. The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) is an excellent mid-range battery choice for garden rooms, offering 1024Wh capacity and multiple output types for different devices.
 
 **Performance:**
 
@@ -233,7 +233,7 @@ Government-backed, longer inverter warranty (10 years), proven brand. Worth the 
 
 **Buy:** Anker SOLIX RS40P (£899) + Anker SOLIX battery (1–2 modules, ~£1,800–£2,500)
 
-Or: EcoFlow STREAM (£949) + [EcoFlow Delta battery](https://amzn.to/4mfY1GL) (3 kWh, ~£1,500)
+Or: EcoFlow STREAM (£949) + [EcoFlow Delta battery](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (3 kWh, ~£1,500)
 
 Both combinations give you summer autonomy and reasonable evening offset. Choose based on panel preference (Anker or EcoFlow).
 

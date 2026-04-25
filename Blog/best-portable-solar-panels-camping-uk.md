@@ -31,7 +31,7 @@ If weight isn't a concern and you want maximum charging speed, EcoFlow's 400W bi
 
 The 400W is overkill for casual camping but brilliant for extended off-grid trips or if you're splitting time between home solar and camping use.
 
-[Check the EcoFlow 400W Portable Panel on Amazon](https://amzn.to/47NBlre)
+[Check the EcoFlow 400W Portable Panel on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel)
 
 ## EcoFlow 160W Portable Panel (~£250)
 
@@ -39,7 +39,7 @@ The more sensible camping choice. Foldable, 7kg, and produces enough power to ch
 
 Pairs perfectly with the EcoFlow DELTA 2 via the included XT60 connector — no adapters needed.
 
-[Check the EcoFlow 400W Panel (160W also available) on Amazon](https://amzn.to/47NBlre)
+[Check the EcoFlow 400W Panel (160W also available) on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel)
 
 ## Pairing with Your Home Battery
 
@@ -47,7 +47,7 @@ Here's the clever bit: if you've already got an EcoFlow DELTA 2 or Jackery Explo
 
 **EcoFlow DELTA 2** + EcoFlow 160W panel = home solar storage during the week, camping power at weekends.
 
-[Check the EcoFlow DELTA 2 on Amazon](https://amzn.to/4mfY1GL)
+[Check the EcoFlow DELTA 2 on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station)
 
 **Jackery Explorer 1000 v2** + Jackery 200W panel = same dual-use setup with Jackery's ecosystem.
 

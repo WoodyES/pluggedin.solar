@@ -108,4 +108,4 @@ The only administrative requirement is the G98 DNO notification, which takes 10 
 
 Ready to get started? See our [complete installation guide](/blog/how-to-install-plug-in-solar-uk), or use our [savings calculator](/calculator) to estimate what plug-in solar could save you based on your postcode.
 
-[Check the EcoFlow STREAM plug-in solar kit on Amazon](https://amzn.to/47Rmtbj)
+[Check the EcoFlow STREAM plug-in solar kit on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)

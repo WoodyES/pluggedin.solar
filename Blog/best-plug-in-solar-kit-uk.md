@@ -71,7 +71,7 @@ EcoFlow was named an official government partner in the March 2026 announcement.
 
 **Price:** Around £949 for the base kit (two panels + micro-inverter).
 
-[Check the EcoFlow STREAM on Amazon](https://amzn.to/47Rmtbj)
+[Check the EcoFlow STREAM on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)
 
 **Why it matters:** EcoFlow has sold over 500,000 units globally. Their Delta battery ecosystem is industry-leading. UK customer service is available. The 600W cap is a deliberate conservative choice—the system is reliable and beginner-friendly.
 
@@ -106,6 +106,23 @@ Lidl was named as a retail partner in the government's March announcement. They'
 **Fair assessment:** When the spec drops, we'll know more. Lidl's own-brand electronics are generally reliable if not premium. The real question is warranty and UK support. We'll review it properly when it's in stock.
 
 **What to watch:** Ensure whatever Lidl stocks has UK UKCA certification or CE marking with explicit BS 7671 Amendment 4 compliance. Don't assume European stock automatically transfers.
+
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-badge">Best overall</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-price">~£799 <small>estimated</small></div>
+<ul class="pc-features">
+<li>800W dual-panel balcony or garden kit</li>
+<li>600Wh plug-in battery included</li>
+<li>App with live monitoring &amp; smart scheduling</li>
+<li>Balcony, garden &amp; flat-roof mount options</li>
+</ul>
+<a class="pc-cta" href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow →</a>
+<div class="pc-note">BSI-compliant kits expected from July 2026. Prices are estimates.</div>
+</div>
 
 ## Other Brands Coming Soon
 

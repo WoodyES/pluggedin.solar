@@ -89,7 +89,7 @@ How much will you save? Our [savings calculator](/calculator) will give you a pr
 
 A typical 800W south-facing system in southern England generates about 800 kWh per year. At the current energy price cap of 27p/kWh, and assuming you're present during the day to consume most of what you generate, that's roughly £110–£150 per year in savings.
 
-A mid-range compliant kit will cost around £500–£700 when they launch in July 2026. At £130 per year savings, that's a payback period of around 4–5 years. For renters who want to move their kit between properties, the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) is specifically designed as a portable, no-drill installation that you can take with you to your next home.
+A mid-range compliant kit will cost around £500–£700 when they launch in July 2026. At £130 per year savings, that's a payback period of around 4–5 years. For renters who want to move their kit between properties, the [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) is specifically designed as a portable, no-drill installation that you can take with you to your next home.
 
 After payback, you're generating free electricity for another 10–15 years, netting you roughly £1,000 in lifetime savings from a single kit.
 

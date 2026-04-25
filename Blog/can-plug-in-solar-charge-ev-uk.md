@@ -35,7 +35,7 @@ Add a portable power station and the equation improves further. Charge the batte
 
 The EcoFlow DELTA 2 stores 1kWh — enough for about 3 miles of driving per charge cycle. Over a year (365 cycles), that's 1,095 miles of "free" driving. It's not going to replace a petrol station, but it's not nothing either.
 
-[Check the EcoFlow DELTA 2 on Amazon](https://amzn.to/4mfY1GL)
+[Check the EcoFlow DELTA 2 on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station)
 
 For real impact, you'd want a larger battery. The Anker SOLIX C1000 or a larger EcoFlow system storing 2–3kWh per day starts to make a more noticeable dent.
 

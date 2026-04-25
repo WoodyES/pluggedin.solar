@@ -35,6 +35,23 @@ When the sun shines, the panel generates electricity. The inverter converts it. 
 
 The system is **smart**: it automatically stops exporting electricity to the grid if the grid goes down (anti-islanding protection). This protects engineers working on power lines.
 
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-badge">Best overall</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-price">~£799 <small>estimated</small></div>
+<ul class="pc-features">
+<li>800W dual-panel balcony or garden kit</li>
+<li>600Wh plug-in battery included</li>
+<li>App with live monitoring &amp; smart scheduling</li>
+<li>Balcony, garden &amp; flat-roof mount options</li>
+</ul>
+<a class="pc-cta" href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow →</a>
+<div class="pc-note">BSI-compliant kits expected from July 2026. Prices are estimates.</div>
+</div>
+
 ## The Legal Timeline — This Matters
 
 Plug-in solar has a unique legal situation in the UK. The government announcement is only part of the story.
@@ -128,7 +145,7 @@ Plug-in solar isn't "cheaper" rooftop solar — it's a different product for a d
 
 The major retailers have confirmed their plans. Lidl, Amazon, Iceland, and Sainsbury's will stock compliant kits from summer 2026. Brands include EcoFlow (a government partner) and Anker SOLIX. Prices are expected to stay in the £400–£700 range, with battery add-ons available.
 
-For system monitoring once you've installed, the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) provides real-time energy monitoring of your plug-in solar output—a useful way to track generation and optimize your system. For storage expansion, the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) is the government-backed entry option, and the [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) is popular for battery backup.
+For system monitoring once you've installed, the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) provides real-time energy monitoring of your plug-in solar output—a useful way to track generation and optimize your system. For storage expansion, the [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) is the government-backed entry option, and the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) is popular for battery backup.
 
 The government won't subsidise plug-in solar systems (they're not eligible for SEG or MCS), but the low upfront cost makes subsidies less necessary. The barrier to entry is choice and understanding, not money.
 

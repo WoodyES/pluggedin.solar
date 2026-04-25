@@ -25,7 +25,7 @@ The DELTA 2 is the most popular entry point. 1,024Wh capacity with a 1,600W inve
 
 For evening use specifically, the DELTA 2's scheduling feature is genuinely useful: set it to charge only during solar peak hours and discharge from 5pm onwards.
 
-[Check the EcoFlow DELTA 2 on Amazon](https://amzn.to/4mfY1GL)
+[Check the EcoFlow DELTA 2 on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station)
 
 ## Anker SOLIX C1000 (~£800–1,000)
 

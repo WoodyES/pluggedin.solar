@@ -61,13 +61,14 @@ const QUESTIONS = [
 ];
 
 // ─── PLACEHOLDER PRODUCT CATALOGUE ─────────────────────────────────────────
+const AWIN_BASE = "https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=";
 const PRODUCTS = [
-  { id: "ecoflow-800",        name: "EcoFlow PowerStream 800W",         brand: "EcoFlow", watts: 800, battery: true,  price: "~£799",   features: ["800W dual-panel kit", "600Wh plug-in battery", "App with live monitoring", "Balcony & garden mount"], best: ["garden", "flat_roof", "shed"], badge: "Best overall",    accent: T.solar },
-  { id: "anker-800",          name: "Anker SOLIX 800W Balcony Kit",     brand: "Anker",   watts: 800, battery: false, price: "~£599",   features: ["800W dual-panel", "Micro-inverter included", "Lightweight balcony brackets", "Wi-Fi monitoring"],     best: ["balcony"],                    badge: "Best for balconies", accent: T.sky },
-  { id: "ecoflow-600",        name: "EcoFlow PowerStream 600W",         brand: "EcoFlow", watts: 600, battery: true,  price: "~£649",   features: ["600W dual-panel kit", "600Wh battery option", "App monitoring", "Compact balcony mount"],             best: ["balcony"],                    badge: "Mid-range pick",    accent: T.solar },
-  { id: "generic-400",        name: "Plug-in Solar Starter 400W",       brand: "Various", watts: 400, battery: false, price: "~£349",   features: ["Single 400W panel", "Micro-inverter included", "Simple bracket mount", "No app required"],            best: ["balcony", "garden"],          badge: "Budget friendly",   accent: T.green },
-  { id: "premium-800-battery", name: "EcoFlow PowerStream 800W + Delta", brand: "EcoFlow", watts: 800, battery: true,  price: "~£1,099", features: ["800W dual-panel kit", "1kWh Delta battery", "Full home backup mode", "Smart scheduling"],             best: ["garden", "flat_roof", "shed"], badge: "Premium choice",    accent: T.solar },
-  { id: "anker-600",          name: "Anker SOLIX 600W Kit",             brand: "Anker",   watts: 600, battery: false, price: "~£449",   features: ["600W dual-panel", "Micro-inverter included", "Balcony & ground mount", "App monitoring"],             best: ["balcony", "garden"],          badge: "Great value",       accent: T.sky },
+  { id: "ecoflow-800",        name: "EcoFlow PowerStream 800W",         brand: "EcoFlow", watts: 800, battery: true,  price: "~£799",   features: ["800W dual-panel kit", "600Wh plug-in battery", "App with live monitoring", "Balcony & garden mount"], best: ["garden", "flat_roof", "shed"], badge: "Best overall",    accent: T.solar, image: "/images/products/stream-hero.png",  link: AWIN_BASE + encodeURIComponent("https://www.ecoflow.com/uk/stream-balcony-solar-system") },
+  { id: "anker-800",          name: "Anker SOLIX 800W Balcony Kit",     brand: "Anker",   watts: 800, battery: false, price: "~£599",   features: ["800W dual-panel", "Micro-inverter included", "Lightweight balcony brackets", "Wi-Fi monitoring"],     best: ["balcony"],                    badge: "Best for balconies", accent: T.sky, image: "/images/products/panel400-hero.jpg", link: null },
+  { id: "ecoflow-600",        name: "EcoFlow PowerStream 600W",         brand: "EcoFlow", watts: 600, battery: true,  price: "~£649",   features: ["600W dual-panel kit", "600Wh battery option", "App monitoring", "Compact balcony mount"],             best: ["balcony"],                    badge: "Mid-range pick",    accent: T.solar, image: "/images/products/stream-balcony.jpg", link: AWIN_BASE + encodeURIComponent("https://www.ecoflow.com/uk/stream-balcony-solar-system") },
+  { id: "generic-400",        name: "Plug-in Solar Starter 400W",       brand: "Various", watts: 400, battery: false, price: "~£349",   features: ["Single 400W panel", "Micro-inverter included", "Simple bracket mount", "No app required"],            best: ["balcony", "garden"],          badge: "Budget friendly",   accent: T.green, image: "/images/products/panel400-hero.jpg", link: null },
+  { id: "premium-800-battery", name: "EcoFlow PowerStream 800W + Delta", brand: "EcoFlow", watts: 800, battery: true,  price: "~£1,099", features: ["800W dual-panel kit", "1kWh Delta battery", "Full home backup mode", "Smart scheduling"],             best: ["garden", "flat_roof", "shed"], badge: "Premium choice",    accent: T.solar, image: "/images/products/stream-ultra.png", link: AWIN_BASE + encodeURIComponent("https://www.ecoflow.com/uk/stream-balcony-solar-system") },
+  { id: "anker-600",          name: "Anker SOLIX 600W Kit",             brand: "Anker",   watts: 600, battery: false, price: "~£449",   features: ["600W dual-panel", "Micro-inverter included", "Balcony & ground mount", "App monitoring"],             best: ["balcony", "garden"],          badge: "Great value",       accent: T.sky, image: "/images/products/panel400-lifestyle.jpg", link: null },
 ];
 
 function recommend(answers) {
@@ -224,6 +225,9 @@ function ProgressBar({ progress }) {
 }
 
 function ProductCard({ product: p, primary }) {
+  const imgH = primary ? 180 : 120;
+  const NameTag = p.link ? "a" : "div";
+  const nameProps = p.link ? { href: p.link, target: "_blank", rel: "noopener noreferrer sponsored", style: { textDecoration: "none", color: T.ink } } : {};
   return (
     <div style={{
       padding: primary ? "28px" : "20px", borderRadius: 16,
@@ -233,12 +237,22 @@ function ProductCard({ product: p, primary }) {
       position: "relative", overflow: "hidden",
     }}>
       <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: 3, background: `linear-gradient(90deg,${p.accent},${p.accent}00)`, borderRadius: "16px 16px 0 0" }} />
+
+      {/* Product image */}
+      {p.image && (
+        <div style={{ marginBottom: primary ? 18 : 12, borderRadius: 10, overflow: "hidden", background: T.surfaceAlt, display: "flex", alignItems: "center", justifyContent: "center", height: imgH }}>
+          <img src={p.image} alt={p.name} loading="lazy" style={{ maxWidth: "100%", maxHeight: "100%", objectFit: "contain" }} />
+        </div>
+      )}
+
       <span style={{
         display: "inline-block", fontSize: "0.6rem", fontWeight: 700, letterSpacing: "0.06em", textTransform: "uppercase",
         padding: "4px 10px", borderRadius: 20, background: `${p.accent}18`, color: p.accent, border: `1px solid ${p.accent}30`,
         marginBottom: primary ? 16 : 12,
       }}>{p.badge}</span>
-      <div style={{ fontFamily: T.display, fontSize: primary ? "1.35rem" : "1rem", fontWeight: 800, color: T.ink, letterSpacing: "-0.02em", marginBottom: 4, lineHeight: 1.2 }}>{p.name}</div>
+      <NameTag {...nameProps}>
+        <div style={{ fontFamily: T.display, fontSize: primary ? "1.35rem" : "1rem", fontWeight: 800, color: T.ink, letterSpacing: "-0.02em", marginBottom: 4, lineHeight: 1.2 }}>{p.name}</div>
+      </NameTag>
       <div style={{ display: "flex", alignItems: "center", gap: 10, marginBottom: primary ? 20 : 14 }}>
         <span style={{ fontFamily: T.display, fontSize: primary ? "1.5rem" : "1.1rem", fontWeight: 800, color: T.solar }}>{p.price}</span>
         <span style={{ fontSize: "0.72rem", color: T.inkFaint }}>estimated</span>
@@ -250,8 +264,24 @@ function ProductCard({ product: p, primary }) {
           </div>
         ))}
       </div>
+
+      {/* CTA button for products with affiliate links */}
+      {p.link && (
+        <a href={p.link} target="_blank" rel="noopener noreferrer sponsored" style={{
+          display: "block", marginTop: primary ? 18 : 14, padding: primary ? "14px 20px" : "10px 16px",
+          borderRadius: 10, background: p.accent, color: "#fff", textAlign: "center", textDecoration: "none",
+          fontFamily: T.display, fontSize: primary ? "0.9rem" : "0.8rem", fontWeight: 700,
+          boxShadow: `0 2px 12px ${p.accent}30`, transition: "opacity 0.15s",
+        }}
+          onMouseEnter={e => e.currentTarget.style.opacity = "0.88"}
+          onMouseLeave={e => e.currentTarget.style.opacity = "1"}
+        >
+          View on EcoFlow &rarr;
+        </a>
+      )}
+
       {primary && (
-        <div style={{ marginTop: 20, padding: "12px 20px", borderRadius: 10, background: T.surfaceAlt, border: `1px solid ${T.border}`, fontSize: "0.78rem", color: T.inkMid, textAlign: "center" }}>
+        <div style={{ marginTop: 16, padding: "12px 20px", borderRadius: 10, background: T.surfaceAlt, border: `1px solid ${T.border}`, fontSize: "0.78rem", color: T.inkMid, textAlign: "center" }}>
           Available when BSI-compliant kits launch &middot; we&rsquo;ll notify you
         </div>
       )}

@@ -65,7 +65,7 @@ Panels come in a few standard sizes. Here's what you'll typically find:
 
 **Medium panels** (slightly smaller format): around 1100mm × 700mm. These fit in most medium carry bags.
 
-**Portable/camping panels**: anywhere from 400mm × 300mm up to 800mm × 600mm. Often come with their own carry cases already. The [EcoFlow 400W Portable Panel](https://amzn.to/47NBlre) is a good example—it's designed to travel and comes with integrated carrying features.
+**Portable/camping panels**: anywhere from 400mm × 300mm up to 800mm × 600mm. Often come with their own carry cases already. The [EcoFlow 400W Portable Panel](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel) is a good example—it's designed to travel and comes with integrated carrying features.
 
 When buying a carry bag, measure your actual panels. Most sellers give interior dimensions. You want at least 20mm of clearance on all sides for padding.
 

@@ -55,7 +55,7 @@ If you're on a time-of-use tariff (like Octopus Agile or Intelligent), plug-in s
 
 Solar generation peaks during the middle of the day when rates are moderate. But if you add a battery, you can store cheap solar energy and avoid the expensive evening peak entirely. The savings from peak-avoidance alone can justify a battery purchase within 2–3 years.
 
-[Check the EcoFlow DELTA 2 for solar storage on Amazon](https://amzn.to/4mfY1GL)
+[Check the EcoFlow DELTA 2 for solar storage on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station)
 
 ## Do I Need to Tell My Energy Supplier?
 

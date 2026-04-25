@@ -107,7 +107,7 @@ Before you buy anything, ask your building. A five-minute email to the managemen
 
 Also check your buildings insurance. It might require notification that you're adding solar, though most home policies cover this without fuss.
 
-For a complete balcony kit, the [EcoFlow STREAM Kit](https://amzn.to/47Rmtbj) is purpose-designed for balcony mounting with integrated inverter and all necessary hardware.
+For a complete balcony kit, the [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) is purpose-designed for balcony mounting with integrated inverter and all necessary hardware.
 
 ## Will Balcony Mounting Work for You?
 

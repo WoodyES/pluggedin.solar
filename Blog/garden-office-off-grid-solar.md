@@ -31,7 +31,7 @@ Imagine a garden office with zero grid connection. Pure solar autonomy.
 
 Solar panels (5–8 kW) to handle British clouds and seasonal variation: £3,000–£5,000
 
-Battery storage (8–10 kWh) to cover winter nights: £3,000–£5,000 (systems like the [EcoFlow DELTA 2](https://amzn.to/4mfY1GL) offer good capacity and cycle life)
+Battery storage (8–10 kWh) to cover winter nights: £3,000–£5,000 (systems like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) offer good capacity and cycle life)
 
 Charge controller, wiring, safety equipment: £500–£1,000
 
@@ -159,7 +159,7 @@ The generator will run 10–20 hours per month in winter, costing £20–£50 in
 
 **Off-grid (4–5 kWh system):** £4,000–£5,500
 
-**Grid-tied 800W + 5 kWh battery with panel:** £2,400–£3,500 (see options like the [EcoFlow 400W Portable Panel](https://amzn.to/47NBlre) paired with battery storage)
+**Grid-tied 800W + 5 kWh battery with panel:** £2,400–£3,500 (see options like the [EcoFlow 400W Portable Panel](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel) paired with battery storage)
 
 The grid-tied approach is **£1,500–£2,500 cheaper** and offers:
 
