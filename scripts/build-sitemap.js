@@ -36,6 +36,7 @@ const urls = [];
 // Static pages
 urls.push({ loc: "/", priority: "1.0", changefreq: "weekly" });
 urls.push({ loc: "/calculator", priority: "0.9", changefreq: "monthly" });
+urls.push({ loc: "/report", priority: "0.9", changefreq: "monthly" });
 urls.push({ loc: "/quiz", priority: "0.8", changefreq: "monthly" });
 urls.push({ loc: "/blog", priority: "0.8", changefreq: "daily" });
 urls.push({ loc: "/about", priority: "0.6", changefreq: "monthly" });

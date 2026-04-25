@@ -18,6 +18,7 @@ export default function Nav() {
 
   const navLinks = [
     { label: "Calculator", to: "/calculator" },
+    { label: "Solar Report", to: "/report" },
     { label: "Find your kit", to: "/quiz" },
     { label: "Blog", to: "/blog" },
     { label: "FAQ", to: "/faq" },

@@ -1,6 +1,7 @@
 import Layout from "./Layout";
 import HomePage from "./pages/HomePage";
 import CalculatorPage from "./pages/CalculatorPage";
+import ReportPage from "./pages/ReportPage";
 import QuizPage from "./pages/QuizPage";
 import BlogIndex from "./pages/BlogIndex";
 import BlogPost from "./pages/BlogPost";
@@ -20,6 +21,7 @@ export const routes = [
     children: [
       { index: true, element: <HomePage /> },
       { path: "calculator", element: <CalculatorPage /> },
+      { path: "report", element: <ReportPage /> },
       { path: "quiz", element: <QuizPage /> },
       { path: "about", element: <AboutPage /> },
       { path: "faq", element: <FAQPage /> },
