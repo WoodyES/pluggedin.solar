@@ -26,12 +26,27 @@ export default function ReportPage() {
   const [location, setLocation] = useState(
     init.lat && init.lon ? { lat: init.lat, lon: init.lon, area: init.postcode } : null
   );
+  const [pinned, setPinned] = useState(false); // true once user has dragged or clicked
+  const [confirmed, setConfirmed] = useState(false);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
 
   const mapRef = useRef(null);
   const mapInstanceRef = useRef(null);
   const markerRef = useRef(null);
+
+  // Update pin lat/lon and URL state. Does not recentre the map (would be jarring mid-drag).
+  function updatePin(lat, lon) {
+    setLocation(prev => (prev ? { ...prev, lat, lon } : { lat, lon, area: "" }));
+    setPinned(true);
+    setConfirmed(false);
+    if (typeof window !== "undefined") {
+      const url = new URL(window.location.href);
+      url.searchParams.set("lat", lat.toFixed(6));
+      url.searchParams.set("lon", lon.toFixed(6));
+      window.history.replaceState({}, "", url);
+    }
+  }
 
   // Geocode postcode → lat/lon via postcodes.io
   async function geocode(pc) {
@@ -52,6 +67,8 @@ export default function ReportPage() {
       const j = await r.json();
       const { latitude, longitude, admin_district } = j.result;
       setLocation({ lat: latitude, lon: longitude, area: admin_district || clean });
+      setPinned(false);
+      setConfirmed(false);
       // Reflect in URL for share-ability
       const url = new URL(window.location.href);
       url.searchParams.set("pc", clean);
@@ -105,16 +122,25 @@ export default function ReportPage() {
             '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
         }).addTo(map);
 
-        markerRef.current = L.marker([location.lat, location.lon]).addTo(map);
+        const marker = L.marker([location.lat, location.lon], { draggable: true }).addTo(map);
+        marker.on("dragend", e => {
+          const { lat, lng } = e.target.getLatLng();
+          updatePin(lat, lng);
+        });
+        // Clicking on the map moves the pin to that spot
+        map.on("click", e => {
+          marker.setLatLng(e.latlng);
+          updatePin(e.latlng.lat, e.latlng.lng);
+        });
+        markerRef.current = marker;
         mapInstanceRef.current = map;
       } else {
-        mapInstanceRef.current.setView([location.lat, location.lon], 18);
-        if (markerRef.current) {
-          markerRef.current.setLatLng([location.lat, location.lon]);
-        } else {
-          markerRef.current = L.marker([location.lat, location.lon]).addTo(
-            mapInstanceRef.current
-          );
+        // Only recentre when the source changed (postcode geocode), not on drag
+        if (!pinned) {
+          mapInstanceRef.current.setView([location.lat, location.lon], 18);
+          if (markerRef.current) {
+            markerRef.current.setLatLng([location.lat, location.lon]);
+          }
         }
       }
     })();
@@ -165,9 +191,11 @@ export default function ReportPage() {
             maxWidth: 600,
           }}
         >
-          {location
-            ? `Map centred on ${location.area}. Drop a pin on your house in the next step.`
-            : "See where the sun travels across your property throughout the year — and find the best spot for your panels before you buy."}
+          {confirmed
+            ? `Pin confirmed at ${location.lat.toFixed(5)}, ${location.lon.toFixed(5)}.`
+            : location
+              ? `Map centred on ${location.area}. Drag the pin onto your house — or tap the map to drop it there.`
+              : "See where the sun travels across your property throughout the year — and find the best spot for your panels before you buy."}
         </p>
 
         {/* ─── POSTCODE INPUT ─── */}
@@ -273,15 +301,44 @@ export default function ReportPage() {
             <div
               style={{
                 padding: "14px 18px",
-                fontSize: "0.78rem",
-                color: T.inkFaint,
                 borderTop: `1px solid ${T.borderFaint}`,
-                lineHeight: 1.5,
+                display: "flex",
+                gap: 12,
+                alignItems: "center",
+                justifyContent: "space-between",
+                flexWrap: "wrap",
               }}
             >
-              <strong style={{ color: T.inkMid }}>Coming next:</strong> drag a
-              pin onto your house, confirm its orientation, and see the sun's
-              path across your property throughout the year.
+              <div style={{ fontSize: "0.78rem", color: T.inkFaint, lineHeight: 1.5, flex: "1 1 220px", minWidth: 0 }}>
+                {pinned ? (
+                  <>
+                    <strong style={{ color: T.green }}>✓ Pin moved.</strong>{" "}
+                    Drag again to fine-tune, or confirm to continue.
+                  </>
+                ) : (
+                  <>
+                    <strong style={{ color: T.inkMid }}>Step 2 —</strong> drag the blue pin onto your house, or tap your house on the map.
+                  </>
+                )}
+              </div>
+              <button
+                onClick={() => setConfirmed(true)}
+                disabled={confirmed}
+                style={{
+                  padding: "10px 18px",
+                  borderRadius: 10,
+                  border: "none",
+                  background: confirmed ? T.border : T.solar,
+                  color: confirmed ? T.inkFaint : "#fff",
+                  fontWeight: 700,
+                  fontSize: "0.82rem",
+                  fontFamily: T.display,
+                  cursor: confirmed ? "default" : "pointer",
+                  whiteSpace: "nowrap",
+                }}
+              >
+                {confirmed ? "✓ Location confirmed" : "Confirm location →"}
+              </button>
             </div>
           </div>
         ) : (
