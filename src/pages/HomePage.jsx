@@ -160,7 +160,7 @@ function Hero({ gridData }) {
         <p className="fu2" style={{ fontSize: "1.05rem", color: T.inkMid, lineHeight: 1.75, marginBottom: 44, maxWidth: 540, fontWeight: 300 }}>
           The UK government confirmed it in March 2026. Compliant kits are expected in shops around July 2026. No roof needed, no electrician, no landlord sign-off &mdash; just panels on your balcony or garden, plugged into a standard socket.
         </p>
-        <a className="fu2" href="https://www.gov.uk/government/news/plug-in-solar-panels-to-be-legalised-in-the-uk" target="_blank" rel="noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: "0.78rem", color: T.solar, fontWeight: 600, textDecoration: "none", marginBottom: 32 }}>
+        <a className="fu2" href="https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months" target="_blank" rel="noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: "0.78rem", color: T.solar, fontWeight: 600, textDecoration: "none", marginBottom: 32 }}>
           Read the gov.uk announcement &rarr;
         </a>
 
