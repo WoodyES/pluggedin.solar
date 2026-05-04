@@ -706,7 +706,8 @@ function RCard({ label, value, sub, hi }) {
 const TIMELINE_STEPS = [
   { date: "Mar 2026", label: "Government confirms legalisation", detail: "DESNZ announces plug-in solar will be permitted under amended wiring regulations.", done: true },
   { date: "Apr 2026", label: "BS 7671 Amendment 4 published", detail: "IET updates the wiring regulations to enable plug-in solar connections up to 800W.", done: true },
-  { date: "Jul 2026", label: "BSI product standard published", detail: "BSI publishes the product standard. Compliant kits can legally go on sale.", done: false, current: true },
+  { date: "May 2026", label: "Waiting for BSI product standard", detail: "Wiring regs are in place. We're now waiting for BSI to publish the product standard so compliant kits can go on sale.", done: false, current: true },
+  { date: "Jul 2026", label: "BSI product standard expected", detail: "BSI publishes the product standard. Compliant kits can legally go on sale.", done: false },
   { date: "H2 2026", label: "First kits hit UK shops", detail: "EcoFlow STREAM and other manufacturers expected to launch BSI-compliant kits.", done: false },
   { date: "2027+", label: "Mass adoption", detail: "Prices fall as competition grows. DNO notification goes fully digital.", done: false },
 ];
