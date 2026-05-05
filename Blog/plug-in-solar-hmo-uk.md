@@ -67,7 +67,7 @@ A landlord with a 6-bedroom HMO on a shared electricity supply installs a 400W p
 - No direct benefit. Rents don't decrease, electricity charges don't change.
 - Landlord realises 100% of the solar benefit.
 
-**Legally compliant?** Yes, provided the installation meets BS 7671 Amendment 4 and HMO fire/electrical safety standards. No regulatory body mandates that solar savings be passed to tenants.
+**Legally compliant?** Yes, provided the installation meets [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 and HMO fire/electrical safety standards. No regulatory body mandates that solar savings be passed to tenants.
 
 **Ethically sound?** Debatable. A progressive landlord might reduce electricity charges by 20% to share the benefit. Most don't.
 
@@ -129,7 +129,7 @@ Most councils will require the landlord to submit a revised electrical safety ce
 
 ## The Grey Area: Who Notifies Ofgem?
 
-G98 notification (for grid-connected systems under 3.68 kW) must be submitted by the building's electrical system owner. In an HMO:
+[G98](/blog/g98-dno-notification-plug-in-solar) notification (for grid-connected systems under 3.68 kW) must be submitted by the building's electrical system owner. In an HMO:
 
 - If the landlord owns the system and installation, the landlord (or their installer) notifies Ofgem.
 - If a tenant owns and installs, the tenant (or installer) notifies Ofgem. But this is legally murky—Ofgem's G98 form requires the "building" to be named, and a tenant doesn't own the building.

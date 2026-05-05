@@ -91,7 +91,7 @@ The plug-in solar is valuable—but don't assume it's the primary lever. Tariff 
 Without visibility into when you're consuming solar, it's impossible to optimise. Smart meters provide an In-Home Display (IHD), but they don't show export or real-time generation.
 
 The [Emporia Vue 3](https://amzn.to/4bUCQ9E) (£90) fills this gap:
-- Monitors import, export, and self-consumption in real time
+- Monitors import, export, and [self-consumption](/blog/smart-meter-solar-self-consumption-uk) in real time
 - App integration lets you see generation and demand from your phone
 - Critical for identifying the best windows to charge your EV
 
@@ -101,13 +101,13 @@ With this data, you can shift your EV charging window to coincide with peak sola
 
 ## The Practical Setup for EV Owners
 
-**Minimum:** 800W plug-in solar + Octopus Intelligent Go tariff + smart meter IHD
+**Minimum:** 800W plug-in solar + Octopus Intelligent Go tariff + [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) IHD
 - Cost: £1,200–1,500 (solar only)
 - Annual saving: £600–900 (from tariff)
 - Annual solar offset: £400–600
-- **Payback period:** 8–10 years
+- **[Payback period](/blog/plug-in-solar-payback-period-uk):** 8–10 years
 
-**Optimised:** 800W plug-in solar + battery (EcoFlow DELTA 2, £599) + Octopus Intelligent Go + Emporia Vue 3 (£90)
+**Optimised:** 800W plug-in solar + battery (EcoFlow [DELTA 2](/blog/ecoflow-delta-2-review-uk), £599) + Octopus Intelligent Go + Emporia Vue 3 (£90)
 - Cost: £1,900–2,200
 - Annual saving: £900–1,400
 - Payback period: 6–8 years

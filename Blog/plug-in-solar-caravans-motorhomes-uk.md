@@ -121,7 +121,7 @@ Options for campers:
 - Solar input: Yes, via 400W max panel
 - Weight: 11.5 kg
 - Ideal for: Campervans wanting lightweight, portable battery
-- Reality: Matches EcoFlow DELTA 2 performance, slightly higher capacity
+- Reality: Matches EcoFlow [DELTA 2](/blog/ecoflow-delta-2-review-uk) performance, slightly higher capacity
 
 **[EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)** (~£699)
 - Capacity: 1.2 kWh
@@ -341,6 +341,6 @@ Your next camping trip could be powered by the sun.
 ---
 
 **Related reading:**
-- [Flexible Solar Panels Guide](/blog/flexible-panels-guide) (coming soon)
-- [Battery Roundup: EcoFlow vs. Jackery vs. Anker](/blog/battery-comparison) (coming soon)
+- [Flexible Solar Panels Guide](/blog/best-flexible-solar-panels-uk-caravans) (coming soon)
+- [Battery Roundup: EcoFlow vs. Jackery vs. Anker](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) (coming soon)
 - [Savings Calculator](/calculator)

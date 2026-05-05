@@ -14,7 +14,7 @@ author: "Pluggedin.solar"
 
 No. There is no legal requirement to have a smart meter before installing plug-in solar panels in the UK. You can buy a kit, plug it in, and start generating regardless of what meter you have.
 
-But "not required" and "not recommended" are different things. A SMETS2 smart meter turns a good solar setup into a properly optimised one. Here's why.
+But "not required" and "not recommended" are different things. A [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) smart meter turns a good solar setup into a properly optimised one. Here's why.
 
 ## What You Lose Without a Smart Meter
 
@@ -40,7 +40,7 @@ In most cases, no. Your SMETS2 meter will simply register lower imports during d
 
 However, you should tell your supplier you've installed solar so they can:
 
-- Enable the export register (not always on by default)
+- Enable the [export register](/blog/smart-meter-export-register-solar-uk) (not always on by default)
 - Offer you an SEG tariff if they have one
 - Ensure half-hourly data collection is active
 

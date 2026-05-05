@@ -9,7 +9,7 @@ priority: 1
 
 # Best Whole-Home Energy Monitors for Solar Users UK
 
-Your smart meter tells you how much electricity you've imported from the grid. It does *not* tell you:
+Your [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) tells you how much electricity you've imported from the grid. It does *not* tell you:
 
 - How much solar you're generating right now
 - How much you're exporting to the grid
@@ -18,7 +18,7 @@ Your smart meter tells you how much electricity you've imported from the grid. I
 
 For plug-in solar owners, this blindness is costly. Without real-time visibility, you can't optimise consumption to match generation, shift loads away from peak times, or identify energy waste.
 
-This guide compares the best whole-home energy monitors for solar users, explains why a smart plug isn't enough, and shows you how to use the data to save money.
+This guide compares the best whole-home energy monitors for solar users, explains why a [smart plug](/blog/best-smart-plug-monitor-solar-uk) isn't enough, and shows you how to use the data to save money.
 
 ## Why Smart Meter IHD Isn't Enough
 
@@ -29,7 +29,7 @@ Your smart meter's In-Home Display (IHD) shows:
 
 What it *doesn't* show:
 - **Export:** Solar fed back to the grid
-- **Self-consumption:** Solar you've used (vs exported)
+- **[Self-consumption](/blog/smart-meter-solar-self-consumption-uk):** Solar you've used (vs exported)
 - **Real-time generation:** How much sun is hitting your panels *right now*
 - **Peak demand:** Which hour spiked your consumption
 - **Appliance breakdown:** Fridge, heating, EV, work equipment—all lumped together
@@ -265,4 +265,4 @@ If your actual export is low, focus on self-consumption timing (solar window) ra
 **Next steps:**
 - Learn how to use [your data to maximise EV charging savings](/blog/plug-in-solar-ev-charging-uk)
 - Discover [400W vs 800W](/blog/400w-vs-800w-plug-in-solar-uk-guide) to right-size your system based on actual consumption
-- Explore [smart tariffs and time-of-use rates](/blog/best-uk-tariffs-plug-in-solar) to amplify your savings
+- Explore [smart tariffs and time-of-use rates](/blog/best-energy-tariff-plug-in-solar-uk-2026) to amplify your savings

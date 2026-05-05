@@ -116,11 +116,11 @@ London flats and terraces often have awkward cable routing. Key considerations:
 3. Cable entry point requires IP68 gland to prevent water damage
 4. Inverter inside the property near a socket
 
-For tight spaces, use the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) inverter—compact design, wall-mountable, and fully compliant with BS 7671 Amendment 4.
+For tight spaces, use the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) inverter—compact design, wall-mountable, and fully compliant with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4.
 
 ## Smart Monitoring in London
 
-Plug-in solar performance varies dramatically in London depending on local shading. A [Tapo P110](https://amzn.to/4m9Yh9U) smart plug monitor is **essential** for London installations to track:
+Plug-in solar performance varies dramatically in London depending on local shading. A [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) monitor is **essential** for London installations to track:
 
 - Real-time generation vs. forecast
 - Daily/seasonal variation (shading impact)

@@ -119,7 +119,7 @@ The simplest way to track real generation is a [Tapo P110 smart plug](https://am
 
 If actual output is consistently 20%+ below PVGIS predictions after accounting for orientation and tilt, something is likely wrong — shading, a connection issue, or an inverter fault. See our [troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting-uk) for diagnostics.
 
-For the whole-home picture — not just generation but also consumption and self-consumption ratio — an [Emporia Vue 3](https://amzn.to/4bUCQ9E) gives you the data to optimise your system and tariff together.
+For the whole-home picture — not just generation but also consumption and [self-consumption](/blog/smart-meter-solar-self-consumption-uk) ratio — an [Emporia Vue 3](https://amzn.to/4bUCQ9E) gives you the data to optimise your system and tariff together.
 
 ## Using Our Calculator
 

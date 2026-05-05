@@ -20,7 +20,7 @@ For plug-in solar owners, this creates a double opportunity:
 2. **You export during the day** when the grid is relatively well-supplied — but some tariffs still pay decent rates
 3. **You can shift heavy loads** to cheap overnight periods using a timer
 
-A SMETS2 smart meter with half-hourly settlement is **required** for ToU tariffs. Without it, your supplier can't bill you at the correct rates.
+A SMETS2 [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) with half-hourly settlement is **required** for ToU tariffs. Without it, your supplier can't bill you at the correct rates.
 
 ## Octopus Flux: The Solar-Specific Tariff
 

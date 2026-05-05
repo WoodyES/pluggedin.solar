@@ -38,7 +38,7 @@ If your block has a communal roof and the management company permits it, a rooft
 - Explain it's a temporary, reversible installation.
 - Request written approval before ordering.
 - Some blocks prohibit any installations on communal areas for insurance or aesthetic reasons—ask first.
-- You'll likely need to prove the installation complies with BS 7671 Amendment 4 (the electrical safety standard).
+- You'll likely need to prove the installation complies with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 (the electrical safety standard).
 
 If approved, you've got the equivalent of a terraced house setup. Well worth the admin effort.
 
@@ -75,7 +75,7 @@ If approval is denied and you believe it's unreasonable, the First-tier Tribunal
 
 ## Linking Everything Together
 
-Whichever option you choose, you'll need an [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) (~£699) or similar micro-inverter to feed generated power back into your flat's circuits. For monitoring consumption and understanding your savings, the [Tapo P110](https://amzn.to/4m9Yh9U) smart plug (~£15) is invaluable—plug it into a socket and it tracks real-time usage.
+Whichever option you choose, you'll need an [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) (~£699) or similar micro-inverter to feed generated power back into your flat's circuits. For monitoring consumption and understanding your savings, the [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) (~£15) is invaluable—plug it into a socket and it tracks real-time usage.
 
 For more on how to get balcony installations approved, see our [balcony-specific guide](/blog/). And if you're in a leasehold block with multiple flats, check our guide on [HMO setups](/blog/plug-in-solar-hmo-uk) for shared installations.
 

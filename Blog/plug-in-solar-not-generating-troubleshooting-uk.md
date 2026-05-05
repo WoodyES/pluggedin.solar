@@ -44,7 +44,7 @@ If the basics are fine and the P110 confirms zero output in decent sunlight, the
 
 If a connector looks corroded or damaged, disconnect it (cover the panels with a blanket first — panels under sunlight produce voltage even when disconnected from the inverter), clean the contacts, and reconnect. If the connector is damaged, replace it with a new one — [MC4 extension cables](https://amzn.to/4mfWT5J) include fresh connectors.
 
-**Cable damage** — inspect the full length of DC cabling from panel to inverter. Look for cuts, abrasion, or punctures. Cables running across walkways, under furniture, or near sharp edges can get damaged over time. Birds can also peck cables — a known issue with outdoor installations (see our [bird proofing guide](/blog/best-bird-proofing-solar-panels-uk)).
+**Cable damage** — inspect the full length of DC cabling from panel to inverter. Look for cuts, abrasion, or punctures. Cables running across walkways, under furniture, or near sharp edges can get damaged over time. Birds can also peck cables — a known issue with outdoor installations (see our [bird proofing guide](/blog/best-bird-proofing-kits-solar-uk)).
 
 **Panel voltage check** — if you have a [Fluke 117 multimeter](https://amzn.to/4bSN4aq), you can measure the open-circuit voltage (Voc) at the panel's MC4 connectors. Disconnect the panels from the inverter first, then measure across the positive and negative MC4 connectors. A healthy 400W panel in decent sunlight should show 35-50V DC (check your specific panel's datasheet for the Voc rating). If you get zero or a very low reading, the panel or its junction box has a fault.
 

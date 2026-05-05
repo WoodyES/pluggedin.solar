@@ -30,7 +30,7 @@ These figures are based on PVGIS data for four representative UK locations, assu
 | 600W | ~640 kWh | ~£192 | 3.1 years |
 | 800W | ~850 kWh | £256 | 3.1 years |
 
-London is the sunniest major UK city, with ~1,050 kWh/m²/year of solar irradiance. A 400W system barely pays for itself if installed in a flat with flat roof; 800W makes solid economic sense over 15–20 years.
+London is the sunniest major UK city, with ~1,050 kWh/m²/year of solar irradiance. A 400W system barely pays for itself if installed in a flat with [flat roof](/blog/flat-roof-plug-in-solar-uk); 800W makes solid economic sense over 15–20 years.
 
 ### Bristol (South-West England)
 
@@ -64,7 +64,7 @@ Scotland's solar irradiance is ~800 kWh/m²/year. The longer days in summer comp
 
 ## Why Payback Is Similar Across System Sizes
 
-Notice that payback period stays roughly constant (3.1–3.9 years) *regardless of system size*? This is because the cost-per-watt scales with the system size. A 400W system costs ~£400–£500; an 800W costs ~£800–£1,000. Generation scales linearly, so the ratio stays the same.
+Notice that [payback period](/blog/plug-in-solar-payback-period-uk) stays roughly constant (3.1–3.9 years) *regardless of system size*? This is because the cost-per-watt scales with the system size. A 400W system costs ~£400–£500; an 800W costs ~£800–£1,000. Generation scales linearly, so the ratio stays the same.
 
 **What changes is absolute annual savings**: 800W saves you twice as much as 400W, but costs twice as much upfront. The payback timeline is identical.
 
@@ -73,9 +73,9 @@ This matters for your decision: you don't choose system size to improve payback;
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel balcony or garden kit</li>
@@ -106,12 +106,12 @@ Many newer ToU tariffs charge 15–20p during daytime "peak" hours and 5–8p of
 
 If your solar is generating during the peak-rate hours (roughly 8am–8pm), you save money at the higher rate. This is even more valuable than exporting to the grid.
 
-**Example: 800W system in London on Octopus Flux (15p peak) saves ~£255/year from self-consumption alone**, which is actually similar to the 30p standard—but the effective benefit is higher because you're saving peak-rate power that would have cost you more.
+**Example: 800W system in London on [Octopus Flux](/blog/octopus-flux-tariff-review-uk) (15p peak) saves ~£255/year from [self-consumption](/blog/smart-meter-solar-self-consumption-uk) alone**, which is actually similar to the 30p standard—but the effective benefit is higher because you're saving peak-rate power that would have cost you more.
 
 **However**, if you then export surplus solar during off-peak hours, some tariffs pay 15p per exported unit (Octopus Flux pays export rewards). That stacks on top.
 
 ### Export Tariff (SEG – Smart Export Guarantee)
-The UK's Smart Export Guarantee (SEG) allows small generators to sell surplus power. Rates are currently 15–20p per unit, depending on supplier. If your system exports 50% of its generation, you earn ~£40–£80/year extra.
+The UK's [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG) allows small generators to sell surplus power. Rates are currently 15–20p per unit, depending on supplier. If your system exports 50% of its generation, you earn ~£40–£80/year extra.
 
 **Example: 800W system in London with SEG export at 15p might save £256 self-consumption + ~£60 export = ~£316/year.**
 

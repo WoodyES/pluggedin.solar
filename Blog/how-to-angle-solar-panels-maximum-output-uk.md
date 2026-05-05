@@ -23,7 +23,7 @@ In practice, any angle between **25° and 45°** generates within 2% of optimal 
 
 | Mounting type | Typical angle | Output vs optimal | Notes |
 |---------------|---------------|-------------------|-------|
-| Optimal tilt mount | 35° | 100% | Best case. Ground or flat roof mount. |
+| Optimal tilt mount | 35° | 100% | Best case. Ground or [flat roof](/blog/flat-roof-plug-in-solar-uk) mount. |
 | Standard UK roof slope | 30-40° | 98-100% | Most UK roofs happen to be near-optimal |
 | Shallow roof or awning | 15-20° | 95-97% | Still excellent |
 | Flat (horizontal) | 0° | 87-89% | Ground table, flat roof without mount |

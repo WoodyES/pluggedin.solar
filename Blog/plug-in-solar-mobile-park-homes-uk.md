@@ -87,7 +87,7 @@ Most site owners now approve ballasted solar, especially if you:
 
 - Use non-penetrating mounts (no roof damage)
 - Agree to remove it if you sell
-- Confirm it meets BS 7671 and G98 standards
+- Confirm it meets [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) and [G98](/blog/g98-dno-notification-plug-in-solar) standards
 
 Some sites forbid external changes entirely; others embrace them. Check your lease and permission status before purchasing any equipment.
 
@@ -109,7 +109,7 @@ If your park home was built before 1990, get a qualified electrician to inspect 
 
 Park homes are uniquely suited to **hybrid solar + battery systems** because:
 
-1. **High daytime self-consumption** – Retirees at home mean 70–85% self-consumption (little export)
+1. **High daytime [self-consumption](/blog/smart-meter-solar-self-consumption-uk)** – Retirees at home mean 70–85% self-consumption (little export)
 2. **Winter heating demand** – Battery stores summer excess for winter use
 3. **Energy independence** – Useful if the park's mains supply is unreliable
 
@@ -196,8 +196,8 @@ For battery-enabled systems:
 **Hybrid (solar + battery):**
 
 - Panels + mount: £800–£1,200
-- EcoFlow STREAM inverter: £400–£600
-- EcoFlow DELTA 2 battery: £1,000–£1,500
+- [EcoFlow STREAM](/blog/ecoflow-stream-review-uk) inverter: £400–£600
+- EcoFlow [DELTA 2](/blog/ecoflow-delta-2-review-uk) battery: £1,000–£1,500
 - Cables, labour: £300–£400
 - **Total: £2,500–£3,700**
 

@@ -34,9 +34,9 @@ Budget or unknown-brand inverters might be cheaper, but if something goes wrong 
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel balcony or garden kit</li>
@@ -82,7 +82,7 @@ Most homes have an outdoor socket within 5–10 metres of where you're planning 
 
 A kit will come with mounting hardware suited to one or two specific surfaces (usually balcony rail, ground stakes, or A-frame). If your installation type isn't covered, you'll need to buy additional hardware.
 
-**What to do:** Check the spec sheet. It usually says "suitable for balcony rail mounting" or "ground stake included" or "compatible with weighted A-frames." If you're planning a specific install type (say, flat roof ballast mounting) and the kit doesn't mention compatibility, ask the seller whether you can use their panel with a third-party ballast frame.
+**What to do:** Check the spec sheet. It usually says "suitable for balcony rail mounting" or "ground stake included" or "compatible with weighted A-frames." If you're planning a specific install type (say, [flat roof](/blog/flat-roof-plug-in-solar-uk) ballast mounting) and the kit doesn't mention compatibility, ask the seller whether you can use their panel with a third-party ballast frame.
 
 Most panels work with any standard ballast frame, but there can be edge cases with unusual connector types or cable lengths.
 
@@ -114,7 +114,7 @@ If you buy a kit online and it arrives damaged, or you open it and realise you m
 
 Before you commit to a kit, confirm that you have a suitable location for it and that you understand the installation process.
 
-**What to do:** Spend 20 minutes reading our guides on [choosing a location](/blog/where-to-install-plug-in-solar-uk), [mounting options](/blog/balcony-rail-mounting-plug-in-solar), and [installation](/blog/how-to-install-plug-in-solar-uk). Make sure you're confident about where you'll put the panel and how you'll run the cable to your socket.
+**What to do:** Spend 20 minutes reading our guides on [choosing a location](/blog/where-to-install-plug-in-solar-uk), [mounting options](/blog/balcony-rail-solar-mount-uk), and [installation](/blog/how-to-install-plug-in-solar-uk). Make sure you're confident about where you'll put the panel and how you'll run the cable to your socket.
 
 If you're uncertain about any aspect of the install, ask for help (a local tradesperson can do it for £100–200) or choose a different mounting surface.
 

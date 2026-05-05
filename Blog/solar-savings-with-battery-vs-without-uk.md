@@ -9,9 +9,9 @@ author: pluggedin.solar
 
 # Solar Savings With vs Without a Battery: UK Calculator Comparison
 
-One of the most common questions is: *Should I add battery storage to my plug-in solar system?*
+One of the most common questions is: *Should I add [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) to my plug-in solar system?*
 
-A 600Wh battery like the EcoFlow PowerStream adds ~£200–£300 to your system cost. In return, it captures your afternoon generation and lets you use it in the evening, when electricity would otherwise cost 30p/kWh. Sounds smart, but is the payback there?
+A 600Wh battery like the EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) adds ~£200–£300 to your system cost. In return, it captures your afternoon generation and lets you use it in the evening, when electricity would otherwise cost 30p/kWh. Sounds smart, but is the payback there?
 
 This article compares savings with and without a battery, shows the real numbers, and helps you decide if battery storage makes financial sense for your situation.
 
@@ -44,7 +44,7 @@ The question becomes: **Is a 4–6 year payback acceptable for a battery that co
 **Without battery:**
 - Daytime solar (850 kWh/year): ~60% self-consumed (510 kWh), ~40% exported at 0p (340 kWh)
 - Evening import: ~7 kWh/day at 30p = £2,555/year (baseline electricity cost)
-- Solar self-consumption saving: 510 kWh × 30p = £153/year
+- Solar [self-consumption](/blog/smart-meter-solar-self-consumption-uk) saving: 510 kWh × 30p = £153/year
 - **Total annual cost without solar: £2,555**
 - **Total annual cost with solar: £2,555 - £153 = £2,402**
 - **Annual saving: £153**
@@ -65,7 +65,7 @@ The question becomes: **Is a 4–6 year payback acceptable for a battery that co
 
 ### Scenario 2: Time-of-Use Tariff (Octopus Flux, 15p peak, 5p off-peak)
 
-**User profile:** Same as above, but with Octopus Flux (peak 4–9pm, off-peak rest of day).
+**User profile:** Same as above, but with [Octopus Flux](/blog/octopus-flux-tariff-review-uk) (peak 4–9pm, off-peak rest of day).
 
 **Without battery:**
 - Daytime solar (peak hours 8am–4pm): ~500 kWh/year at 15p saved = £75
@@ -110,7 +110,7 @@ The question becomes: **Is a 4–6 year payback acceptable for a battery that co
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with Delta 2 battery" /></div>
+<div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with [Delta 2](/blog/ecoflow-delta-2-review-uk) battery" /></div>
 <div class="pc-badge">Premium choice</div>
 <div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W + Delta 2</a></div>
 <div class="pc-price">~£1,099 <small>estimated</small></div>

@@ -15,7 +15,7 @@ One of the most common misconceptions about plug-in solar: you'll get paid for e
 
 The Smart Export Guarantee (SEG) is a UK government scheme requiring large energy suppliers to offer a tariff for electricity you export to the grid from renewable generation. If you have solar panels generating more than you use, the surplus goes to the grid and your supplier pays you for it.
 
-Current SEG rates range from 3p to 25p per kWh depending on your supplier and tariff. The average is around 13p/kWh. At the top end, Good Energy's Solar Savings Exclusive tariff pays 25p/kWh for exports.
+Current [SEG](/blog/plug-in-solar-smart-meter-exports-uk) rates range from 3p to 25p per kWh depending on your supplier and tariff. The average is around 13p/kWh. At the top end, Good Energy's Solar Savings Exclusive tariff pays 25p/kWh for exports.
 
 Sounds great. But here's the catch.
 
@@ -37,7 +37,7 @@ However, this is one supplier's policy, not a market-wide guarantee. It could ch
 
 Without export payments, any electricity your plug-in solar generates that you don't use at that moment is essentially given away for free. It goes to the grid, your neighbours benefit, and you get nothing for it.
 
-This doesn't mean plug-in solar isn't worth it — it absolutely is. But it means your savings come entirely from **self-consumption**: using the solar electricity yourself instead of buying from the grid.
+This doesn't mean plug-in solar isn't worth it — it absolutely is. But it means your savings come entirely from **[self-consumption](/blog/smart-meter-solar-self-consumption-uk)**: using the solar electricity yourself instead of buying from the grid.
 
 **The maths:**
 
@@ -49,11 +49,11 @@ So the key to maximising plug-in solar value isn't generating more — it's usin
 
 **Run appliances during the day.** Dishwashers, washing machines, and tumble dryers are high-draw, flexible loads. Run them when the sun is out and your solar is generating.
 
-**Use a smart plug to monitor generation.** A [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) between your inverter and wall socket shows real-time output. When you see 400W+ being generated, that's the signal to run a load.
+**Use a [smart plug](/blog/best-smart-plug-monitor-solar-uk) to monitor generation.** A [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) between your inverter and wall socket shows real-time output. When you see 400W+ being generated, that's the signal to run a load.
 
 **Consider a battery.** A portable power station like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) stores surplus daytime generation for evening use. Instead of exporting for free, you bank it and use it when the sun goes down. This is the single most effective way to increase self-consumption from ~30-40% to ~70-80%.
 
-**Use a whole-home energy monitor.** The [Emporia Vue 3](https://amzn.to/4bUCQ9E) shows your total home consumption alongside solar generation. When generation exceeds consumption, you know you're exporting — time to turn something on or charge the battery.
+**Use a whole-home [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk).** The [Emporia Vue 3](https://amzn.to/4bUCQ9E) shows your total home consumption alongside solar generation. When generation exceeds consumption, you know you're exporting — time to turn something on or charge the battery.
 
 ## Will This Change?
 
@@ -65,11 +65,11 @@ For now, plan your finances around self-consumption only. If SEG access comes la
 
 ## Which Tariffs Work Best With Plug-in Solar?
 
-Even without SEG, your energy tariff matters. Time-of-use tariffs can amplify plug-in solar savings:
+Even without SEG, your [energy tariff](/blog/best-energy-tariff-plug-in-solar-uk-2026) matters. Time-of-use tariffs can amplify plug-in solar savings:
 
 **Octopus Agile** offers half-hourly variable pricing. Solar generation during high-price daytime periods displaces expensive grid electricity. If you also have a battery, you can charge overnight at low rates (7-12p/kWh) and use stored energy during peak periods (24-34p/kWh).
 
-**Octopus Go** gives you a guaranteed 7p/kWh overnight rate for 6 hours. Pair this with solar during the day and a battery, and you're buying grid electricity at less than a third of the standard rate.
+**[Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk)** gives you a guaranteed 7p/kWh overnight rate for 6 hours. Pair this with solar during the day and a battery, and you're buying grid electricity at less than a third of the standard rate.
 
 **Economy 7** still exists and offers cheap overnight rates. The spread between off-peak and peak rates makes battery arbitrage viable alongside solar.
 

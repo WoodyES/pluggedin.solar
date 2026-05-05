@@ -20,7 +20,7 @@ The **BSI** (British Standards Institution) is the UK's national standards body.
 A BSI standard specifies how to do something safely or how a product should perform. For example:
 - BS 1881 covers concrete testing
 - BS 9440 covers window safety
-- BS 7671 covers electrical installations (what we discussed earlier)
+- [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) covers electrical installations (what we discussed earlier)
 
 For plug-in solar, the BSI is developing a new standard specifically for small photovoltaic systems connected to low-voltage domestic networks. This standard is sometimes referred to as **PAS 6161** (Publicly Available Specification) during development, or as **BS [TBD]** once formally published.
 
@@ -58,7 +58,7 @@ Based on the regulatory framework already in place in Germany and the EU (which 
 
 **AC side safety.** The inverter-to-socket connection must be safe. The three-pin UK plug and circuit protection must be correct.
 
-**Labelling and documentation.** The kit must come with clear user instructions, safety warnings, electrical specifications, and certificates. Users must understand how to install and use it safely.
+**Labelling and documentation.** The kit must come with clear user instructions, safety warnings, electrical specifications, and certificates. Users must understand [how to install](/blog/how-to-install-plug-in-solar-uk) and use it safely.
 
 **RCD compatibility.** The inverter must work safely with the RCD (residual current device) on the household circuit that's powering it.
 
@@ -72,7 +72,7 @@ A inverter legal in Germany might not be UKCA-marked. That's because UK requirem
 
 Manufacturers can apply their existing certifications to the UK standard, and many will. But there will likely be UK-specific testing and certification. This is normal — every country does this.
 
-Major brands (EcoFlow, Anker SOLIX) have confirmed they're preparing UK-compliant kits. They'll have tested and certified their products under the new standard. When July 2026 comes, their kits will arrive with UKCA markings proving they've passed the tests.
+Major brands ([EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system), Anker SOLIX) have confirmed they're preparing UK-compliant kits. They'll have tested and certified their products under the new standard. When July 2026 comes, their kits will arrive with UKCA markings proving they've passed the tests.
 
 ## When Will It Be Published?
 
@@ -128,7 +128,7 @@ Once the product standard is published, enforcement will gradually tighten. Earl
 - Grid inspectors might spot-check systems
 - Surveyors selling properties may ask for certification
 
-It's not harsh, but it's real. The smart move is to follow the rules from day one: use UKCA-marked kits, keep the certification, and notify your DNO.
+It's not harsh, but it's real. The smart move is to follow the rules from day one: use UKCA-marked kits, keep the certification, and [notify your DNO](/blog/g98-dno-notification-plug-in-solar).
 
 ## The Official Announcement
 

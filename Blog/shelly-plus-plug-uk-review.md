@@ -9,7 +9,7 @@ priority: 2
 
 # Shelly Plus Plug UK Review: Best for Solar Monitoring?
 
-When monitoring a plug-in solar system, most people reach for a smart plug. You plug the inverter cable into it, and the plug measures AC power output. Simple. But which plug should you choose?
+When monitoring a plug-in solar system, most people reach for a [smart plug](/blog/best-smart-plug-monitor-solar-uk). You plug the inverter cable into it, and the plug measures AC power output. Simple. But which plug should you choose?
 
 The Shelly Plus Plug UK is gaining traction among privacy-conscious UK users and Home Assistant enthusiasts. Here's why it matters—and whether it's right for you.
 
@@ -140,7 +140,7 @@ Local-only mode means no dependency on Shelly cloud infrastructure. Even if Shel
 ## Common Questions
 
 **Q: Can I use Shelly Plus instead of an export meter?**  
-A: Not legally for feed-in tariffs (e.g., Smart Export Guarantee SEG). DNOs require certified metering equipment. But for personal monitoring and load optimisation, it's perfect.
+A: Not legally for feed-in tariffs (e.g., [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) SEG). DNOs require certified metering equipment. But for personal monitoring and load optimisation, it's perfect.
 
 **Q: Does it work with older WiFi routers?**  
 A: Shelly supports 802.11b/g/n (2.4 GHz). Older routers work fine. 5 GHz WiFi is not supported, so ensure your 2.4 GHz band is enabled.
@@ -167,4 +167,4 @@ Pair it with a quality micro-inverter (like [APsystems EZ1-M](/blog/apsystems-ez
 **See also:**  
 [Eve Energy vs Tapo P110 vs Shelly: Best Solar Smart Plug UK](/blog/eve-energy-vs-tapo-p110-vs-shelly-uk)  
 [APsystems EZ1-M Review UK](/blog/apsystems-ez1-m-review-uk)  
-[TP-Link Tapo P110 Smart Plug Review](/blog/tapo-p110-review-uk) *(future article)*
+[TP-Link Tapo P110 Smart Plug Review](/blog/tapo-p110-solar-monitoring-review-uk) *(future article)*

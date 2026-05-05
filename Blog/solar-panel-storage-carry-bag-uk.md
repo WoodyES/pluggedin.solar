@@ -113,4 +113,4 @@ A quality carry bag or hard case is cheap insurance. £40–80 spent on protecti
 
 If you're planning to move house with your plug-in solar system, start thinking about panel protection early. It's one of those things that's easy to overlook until you're trying to shove a panel into a van and realise you've got no way to protect it properly.
 
-For more on moving your system, check out our guide on [relocating your plug-in solar setup](/blog/taking-solar-panels-when-moving). And if you're researching which kit to buy in the first place, our [best plug-in solar kit guide](/blog/best-plug-in-solar-kit-uk) covers the key options available.
+For more on moving your system, check out our guide on [relocating your plug-in solar setup](/blog/moving-home-plug-in-solar-uk). And if you're researching which kit to buy in the first place, our [best plug-in solar kit guide](/blog/best-plug-in-solar-kit-uk) covers the key options available.

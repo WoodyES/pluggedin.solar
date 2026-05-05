@@ -39,7 +39,7 @@ For Home Assistant specifically, the Shelly is the better choice. For standalone
 
 ## Whole-Home Energy Monitoring
 
-A smart plug tells you what your solar is generating, but it can't tell you what your house is consuming at the same time. For that, you need a whole-home energy monitor.
+A smart plug tells you what your solar is generating, but it can't tell you what your house is consuming at the same time. For that, you need a whole-home [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk).
 
 ### Emporia Vue 3 (~£130)
 
@@ -57,7 +57,7 @@ Once your devices are in Home Assistant, building a dashboard takes about 15 min
 
 **Daily energy bar chart:** Solar generated vs grid imported, day by day. This shows trends and helps you spot when panels need cleaning or when something's wrong.
 
-**Self-consumption percentage:** A template sensor that calculates what proportion of your solar generation you're actually using versus exporting. Higher is better — it means you're using the free electricity rather than sending it to the grid at a fraction of the import price.
+**[Self-consumption](/blog/smart-meter-solar-self-consumption-uk) percentage:** A template sensor that calculates what proportion of your solar generation you're actually using versus exporting. Higher is better — it means you're using the free electricity rather than sending it to the grid at a fraction of the import price.
 
 **Monthly savings tracker:** Multiply self-consumed solar by your grid tariff rate. Seeing a running total of money saved is motivating and helps justify the investment.
 
@@ -69,7 +69,7 @@ Home Assistant's automation engine lets you trigger actions based on solar outpu
 
 **Smart plug scheduling.** Automatically turn on high-draw devices (immersion heater, tumble dryer via smart plug) when solar generation exceeds a threshold. This maximises self-consumption without manual effort.
 
-**Battery charging control.** If you have a portable power station like the EcoFlow DELTA 2, a smart plug can start and stop its charging based on solar surplus. Only charge the battery when solar would otherwise be exported.
+**Battery charging control.** If you have a portable power station like the [EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) [DELTA 2](/blog/ecoflow-delta-2-review-uk), a smart plug can start and stop its charging based on solar surplus. Only charge the battery when solar would otherwise be exported.
 
 **Daily summary.** A notification at 9pm summarising the day's generation, consumption, self-consumption rate, and estimated savings.
 

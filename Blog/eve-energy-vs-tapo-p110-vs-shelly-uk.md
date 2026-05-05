@@ -167,7 +167,7 @@ No electrical expertise required. Safest of all smart home devices (no rewiring,
 
 ## Common Questions
 
-**Q: Can I use one of these as a legal export meter for Feed-in Tariff or Smart Export Guarantee?**
+**Q: Can I use one of these as a legal export meter for Feed-in Tariff or [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk)?**
 
 A: No. UK regulations require certified metering equipment (usually installed by your DNO). These smart plugs are for personal monitoring only. They can't be used for billing purposes.
 

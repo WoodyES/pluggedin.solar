@@ -30,7 +30,7 @@ With those inputs, the calculator outputs:
 
 - **Annual generation** – total kWh your system will produce per year
 - **Annual savings** – pounds sterling saved on your electricity bill
-- **Payback period** – how many years before the system pays for itself
+- **[Payback period](/blog/plug-in-solar-payback-period-uk)** – how many years before the system pays for itself
 - **CO₂ offset** – tonnes of CO₂ avoided annually
 - **Monthly breakdown** – a bar chart showing generation by month, so you see the seasonal swing
 
@@ -54,9 +54,9 @@ The result is a statistical forecast of annual generation, with a ±3–5% error
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel balcony or garden kit</li>
@@ -131,10 +131,10 @@ Most users find 600W or 800W the sweet spot for cost-per-watt. The payback is si
 The calculator asks for your current supplier—not for sign-up, but to model typical tariff rates. Different suppliers and different tariff types give wildly different results:
 
 - **Standard rate** (e.g. EDF, Octopus Tracker): ~30p/kWh
-- **Time-of-Use** (e.g. Octopus Go, Flux): 15–25p during peak solar hours, 5–8p off-peak
+- **Time-of-Use** (e.g. [Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk), Flux): 15–25p during peak solar hours, 5–8p off-peak
 - **Economy 7**: 30p day, 10p night (solar helps far less because most generation is daytime)
 
-If you have a smart meter and a ToU tariff that rewards you for using solar power during the day, your savings jump significantly. For example, an 800W system on Octopus Flux (15p peak) might save £400/year vs. a standard 30p tariff saving £260/year—the same panels, different tariff.
+If you have a [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) and a ToU tariff that rewards you for using solar power during the day, your savings jump significantly. For example, an 800W system on [Octopus Flux](/blog/octopus-flux-tariff-review-uk) (15p peak) might save £400/year vs. a standard 30p tariff saving £260/year—the same panels, different tariff.
 
 The calculator uses representative rates, but if you know your exact pence-per-kWh, you can use that for a more precise estimate.
 
@@ -144,7 +144,7 @@ The calculator can model your system with or without battery storage (typically 
 
 **Without a battery:** You save money on whatever you can use immediately (daytime load). Morning solar goes to the kettle, shower, washing machine. Afternoon generation gets fed to the grid. You earn nothing for exported power under the standard arrangement (though some tariffs do pay export rates).
 
-**With a battery:** You can store midday generation and use it in the evening, increasing self-consumption. More of your solar power goes to your own appliances rather than the grid. This only saves money if:
+**With a battery:** You can store midday generation and use it in the evening, increasing [self-consumption](/blog/smart-meter-solar-self-consumption-uk). More of your solar power goes to your own appliances rather than the grid. This only saves money if:
 1. Your evening load is high (e.g. you work from home, or electric cooking)
 2. Your tariff rewards self-consumption or charges high rates in the evening
 

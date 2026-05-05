@@ -12,7 +12,7 @@ The short answer is: **your inverter can handle 2 or 4 solar panels**, but the U
 
 ## The 800W Cap: What It Actually Means
 
-The UK's 800W regulatory limit is an **alternating current (AC) cap**. This means your micro-inverter's output cannot exceed 800W when feeding electricity back into your home's circuit. This is the hard limit that the DNO (Distribution Network Operator) and BS 7671 Amendment 4 enforce.
+The UK's 800W regulatory limit is an **alternating current (AC) cap**. This means your micro-inverter's output cannot exceed 800W when feeding electricity back into your home's circuit. This is the hard limit that the DNO (Distribution Network Operator) and [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 enforce.
 
 However, on the DC side (between your solar panels and the inverter), you can install much more capacity. The constraint here is your inverter's input specification.
 
@@ -20,7 +20,7 @@ However, on the DC side (between your solar panels and the inverter), you can in
 
 Most plug-in solar micro-inverters fall into one of two categories:
 
-**2-input inverters** (e.g., EcoFlow STREAM series)
+**2-input inverters** (e.g., [EcoFlow STREAM](/blog/ecoflow-stream-review-uk) series)
 - Accept 2 solar panels
 - Typical DC input: 600–800W
 - AC output: capped at 800W
@@ -66,7 +66,7 @@ Multiple systems on different circuits become attractive if:
 3. **Load management** — distributing generation across different circuits improves household resilience
 4. **Future expansion** — you may want to add a second system now and expand later
 
-Each system requires its own G98 DNO notification, filed within 28 days of installation.
+Each system requires its own [G98](/blog/g98-dno-notification-plug-in-solar) DNO notification, filed within 28 days of installation.
 
 ## Monitoring Multiple Systems
 
@@ -119,7 +119,7 @@ Kits meeting this standard are likely to be 2-panel designs initially, with 4-pa
 - **Multiple circuits allow multiple systems**—each requires G98 notification
 - **Monitor with Tapo P110 smart plugs** for per-system tracking
 
-For a deeper dive into expanding your system, see our guide [Expanding Your Plug-in Solar System in the UK](/blog/expanding-plug-in-solar-system-uk). For multi-socket installations, check out [Can You Have Multiple Plug-in Solar Units?](/blog/multiple-plug-in-solar-units-uk).
+For a deeper dive into expanding your system, see our guide [Expanding Your Plug-in Solar System in the UK](/blog/expanding-plug-in-solar-system-uk). For multi-socket installations, check out [Can You Have Multiple Plug-in Solar Units?](/blog/multiple-plug-in-solar-units-one-circuit-uk).
 
 ---
 

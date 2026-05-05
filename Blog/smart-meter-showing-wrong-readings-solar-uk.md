@@ -12,7 +12,7 @@ author: "Pluggedin.solar"
 
 ## Why Your Readings Look Strange
 
-You've installed plug-in solar, your panels are generating, and now your smart meter is showing numbers that don't make sense. Before you panic, understand that most "wrong" readings are actually correct readings that just look unfamiliar.
+You've installed plug-in solar, your panels are generating, and now your [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) is showing numbers that don't make sense. Before you panic, understand that most "wrong" readings are actually correct readings that just look unfamiliar.
 
 Your meter used to show one thing: steadily increasing import. Now it's seeing a more complex pattern — lower imports during the day, possibly exports, and a daily rhythm it didn't have before. The meter is doing its job; your expectations just need updating.
 
@@ -63,7 +63,7 @@ Take manual readings over a week:
 
 1. Record the import register at the same time each morning (before solar generation starts)
 2. Compare to your supplier app's daily totals
-3. Note the export register reading too (if active)
+3. Note the [export register](/blog/smart-meter-export-register-solar-uk) reading too (if active)
 
 If the manual readings match the app, your meter is fine. The "wrong" readings are just the new normal with solar.
 

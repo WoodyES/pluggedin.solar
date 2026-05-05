@@ -119,7 +119,7 @@ Anker's app for the SOLIX C1000 Gen 2 is clean and functional:
 - **Alerts:** Low battery warnings, overvoltage protection, temperature alerts
 - **Solar pairing:** If you add an optional [Anker SOLIX solar panel adapter](https://amzn.to/3QmpWsI), the app displays DC input alongside AC output
 
-**For plug-in solar:** The app is excellent for proving you're using the system correctly if the DNO ever queries your G98 installation. You'll have months of data showing daily charging and discharge patterns.
+**For plug-in solar:** The app is excellent for proving you're using the system correctly if the DNO ever queries your [G98](/blog/g98-dno-notification-plug-in-solar) installation. You'll have months of data showing daily charging and discharge patterns.
 
 ## Installation and Physical Considerations
 
@@ -179,7 +179,7 @@ After payback, annual savings jump to £350–£450, making the system cash-posi
 ## Who Should Buy the Anker SOLIX C1000 Gen 2?
 
 **Best for:**
-- Households installing plug-in solar with battery storage
+- Households installing plug-in solar with [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
 - Off-peak tariff users (Agile, Economy 7, Economy 10)
 - UK homeowners prioritising long lifespan (LFP chemistry)
 - Homes in cold regions (Scotland, northern England)
@@ -206,9 +206,9 @@ The only reason to choose the EcoFlow DELTA 2 instead is the extra surge power o
 
 ## Related Articles
 
-- **[Best Batteries for UK Plug-in Solar 2026](/blog/best-batteries-plug-in-solar-uk)** — compare SOLIX, DELTA 2, Jackery, and emerging competitors
-- **[Tariff Guide: Maximising Savings with Plug-in Solar](/blog/tariff-guide-plug-in-solar)** — how to use Agile and Economy 7 with your system
-- **[How to Install Plug-in Solar in the UK](/blog/install-plug-in-solar-uk)** — step-by-step installation with battery integration
+- **[Best Batteries for UK Plug-in Solar 2026](/blog/best-solar-battery-evening-use-uk)** — compare SOLIX, DELTA 2, Jackery, and emerging competitors
+- **[Tariff Guide: Maximising Savings with Plug-in Solar](/blog/best-energy-tariff-plug-in-solar-uk-2026)** — how to use Agile and Economy 7 with your system
+- **[How to Install Plug-in Solar in the UK](/blog/how-to-install-plug-in-solar-uk)** — step-by-step installation with battery integration
 
 ---
 

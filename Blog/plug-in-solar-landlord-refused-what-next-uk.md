@@ -9,7 +9,7 @@ priority: 1
 wordcount: 950
 ---
 
-Germany's balcony solar boom was disproportionately driven by renters and apartment dwellers — the people who couldn't access traditional rooftop solar at all. The German government recognised this and in 2024 enshrined in law that tenants have the right to request balcony solar installation, and that landlords cannot refuse without a valid, objective reason.
+Germany's [balcony solar](/blog/balcony-solar-uk) boom was disproportionately driven by renters and apartment dwellers — the people who couldn't access traditional rooftop solar at all. The German government recognised this and in 2024 enshrined in law that tenants have the right to request balcony solar installation, and that landlords cannot refuse without a valid, objective reason.
 
 The UK has moved towards a similar position, though the legal framework is newer and less tested. If your landlord has refused or is likely to refuse, here's what you actually need to know.
 
@@ -41,8 +41,8 @@ Put your request in writing — email is fine. Include:
 - Where you intend to mount it (balcony railing, garden, wall bracket)
 - Confirmation that the installation is reversible and you will restore the property on departure
 - Confirmation that the kit will be your property, installed at your cost, and removed when you leave
-- The G98 notification process you'll follow
-- A note that the installation complies with BS 7671 Amendment 4 (the UK wiring standard for plug-in solar)
+- The [G98](/blog/g98-dno-notification-plug-in-solar) notification process you'll follow
+- A note that the installation complies with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 (the UK wiring standard for plug-in solar)
 
 A well-evidenced written request is much harder to refuse than a verbal one. It also creates a record if the refusal is later challenged.
 
@@ -76,4 +76,4 @@ The Stuttgart District Court ruled in one case that "a rejection without a valid
 
 If you're refused and believe the refusal is unreasonable, you have more legal footing than existed even two years ago. The direction of travel in both UK and European law is clearly towards tenant rights to make green improvements.
 
-For all tenant-specific considerations, see our [plug-in solar for renters guide](/blog/plug-in-solar-uk-renters). For the leasehold-specific situation, see our [leasehold permission guide](/blog/leasehold-flat-solar-permission-uk).
+For all tenant-specific considerations, see our [plug-in solar for renters guide](/blog/rented-flat-solar-panels-uk). For the leasehold-specific situation, see our [leasehold permission guide](/blog/leasehold-flat-solar-permission-uk).

@@ -9,7 +9,7 @@ priority: 1
 wordcount: 950
 ---
 
-When Germany's balcony solar market scaled past half a million installations, a meter problem surfaced at scale: old analogue "Ferraris" meters — the spinning disc type — physically ran backwards when plug-in solar fed electricity into the circuit. The disc spins forward when you draw from the grid and backward when you export. With no backstop mechanism on older models, export would literally subtract from your import reading, giving you free electricity.
+When Germany's [balcony solar](/blog/balcony-solar-uk) market scaled past half a million installations, a meter problem surfaced at scale: old analogue "Ferraris" meters — the spinning disc type — physically ran backwards when plug-in solar fed electricity into the circuit. The disc spins forward when you draw from the grid and backward when you export. With no backstop mechanism on older models, export would literally subtract from your import reading, giving you free electricity.
 
 The German government eventually legislated that DNOs must replace incompatible meters within four months of a Balkonkraftwerk installation. Thousands of meter replacement requests queued up. Delays were common.
 
@@ -17,11 +17,11 @@ The UK has a different but related set of issues heading our way.
 
 ## The UK Meter Landscape
 
-The UK is in the middle of a smart meter rollout. There are three categories of meter UK plug-in solar owners may have:
+The UK is in the middle of a [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) rollout. There are three categories of meter UK plug-in solar owners may have:
 
 **SMETS1 (first-generation smart meters)** — installed mainly between 2011-2018. These are partially smart but had known issues, particularly around supplier switches and loss of smart functionality. Around 4 million were still in SMETS1 mode as of 2025. Some don't accurately separate import and export.
 
-**SMETS2 (second-generation smart meters)** — the current standard. These should correctly measure both import and export, making them compatible with Smart Export Guarantee tariffs. If you have a SMETS2 meter and install plug-in solar, you should be fine.
+**[SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) (second-generation smart meters)** — the current standard. These should correctly measure both import and export, making them compatible with [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) tariffs. If you have a SMETS2 meter and install plug-in solar, you should be fine.
 
 **Traditional credit meters** — the older analogue or digital non-smart meters. These should not run backwards (modern credit meters have backstop mechanisms that prevent this), but they also can't measure export — so if you ever want to claim SEG payments, you'll need an upgrade.
 
@@ -59,6 +59,6 @@ Given that most plug-in solar self-installs can't access SEG due to the MCS cert
 
 If you have a SMETS2 meter, no action is needed. If you have a SMETS1 or traditional meter, contact your supplier and request a free upgrade. Wait times vary — some suppliers are quicker than others. Given the UK's plug-in solar launch, smart meter demand is likely to increase, so earlier requests will encounter shorter queues.
 
-After installation, use a [Tapo P110](https://amzn.to/4m9Yh9U) smart plug on the inverter output as an independent generation monitor. This gives you a reliable record of what you've generated that doesn't depend on the meter or any cloud service — useful if you ever need to demonstrate generation for a complaint or warranty claim.
+After installation, use a [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) on the inverter output as an independent generation monitor. This gives you a reliable record of what you've generated that doesn't depend on the meter or any cloud service — useful if you ever need to demonstrate generation for a complaint or warranty claim.
 
 For the broader picture on how plug-in solar interacts with tariffs, see our [best energy tariff for solar owners](/blog/best-energy-tariff-plug-in-solar-uk-2026) guide.

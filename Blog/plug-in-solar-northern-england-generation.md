@@ -25,7 +25,7 @@ Using PVGIS (the EU's standard solar irradiance model), here's what a south-faci
 | Liverpool | 670 | -19% | £101 |
 | Preston | 675 | -18% | £101 |
 
-These figures assume south-facing, unshaded roof and typical UK self-consumption of 60–70%.
+These figures assume south-facing, unshaded roof and typical UK [self-consumption](/blog/smart-meter-solar-self-consumption-uk) of 60–70%.
 
 ## Why Northern England Still Works
 
@@ -65,13 +65,13 @@ If there's significant shading, you may want to site the system on the south gab
 
 All UK plug-in solar systems (north or south) require:
 
-- **BS 7671 Amendment 4 compliance** (April 2026 standard)
-- **G98 notification** to your local DNO
+- **[BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 compliance** (April 2026 standard)
+- **[G98](/blog/g98-dno-notification-plug-in-solar) notification** to your local DNO
 - An inverter with anti-islanding protection
 
 For northern installs, an [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) is approved and widely available. Its efficiency at lower irradiance levels (common in the north) is excellent.
 
-A [Tapo P110](https://amzn.to/4m9Yh9U) smart plug monitor is especially valuable in northern locations—it lets you track generation day-by-day and season-by-season, proving whether your system is performing as expected.
+A [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) monitor is especially valuable in northern locations—it lets you track generation day-by-day and season-by-season, proving whether your system is performing as expected.
 
 ## Seasonal Variation
 
@@ -107,7 +107,7 @@ Northern installers typically charge **£100–£150 per day** (vs. south-east a
 - Wiring, connectors, testing: £200–£300
 - **Total: £1,200–£1,900**
 
-**Payback period:**
+**[Payback period](/blog/plug-in-solar-payback-period-uk):**
 
 - At £680 kWh/year and 65% self-consumption = £108 annual saving
 - 6–7 year payback (longer than the south, but still excellent)

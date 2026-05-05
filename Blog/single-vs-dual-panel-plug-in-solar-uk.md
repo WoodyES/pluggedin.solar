@@ -26,7 +26,7 @@ The financial case depends on both hardware and installation costs. A typical co
 
 The difference is usually £200–300, though prices fluctuate as the market matures ahead of the July 2026 BSI product standard launch. A dual system typically costs around 40–50% more, not double, because the micro-inverter is shared.
 
-Over a 25-year panel lifespan, that extra £250 might save you £80–120 annually in dual-panel scenarios, making the payback period around 2–3 years for most UK households.
+Over a 25-year panel lifespan, that extra £250 might save you £80–120 annually in dual-panel scenarios, making the [payback period](/blog/plug-in-solar-payback-period-uk) around 2–3 years for most UK households.
 
 ## Space and Roof Requirements
 
@@ -82,7 +82,7 @@ The choice between single and dual panels matters most during spring and autumn,
 
 **Single panel**: Choose this if your roof space is limited, you have significant shading, your daytime consumption is under 1.5 kWh, or you want to test the technology before committing more capital.
 
-**Dual panel**: Choose this if you have the space, unshaded south-facing roof, daytime consumption above 2 kWh, or you're planning to add battery storage.
+**Dual panel**: Choose this if you have the space, unshaded south-facing roof, daytime consumption above 2 kWh, or you're planning to add [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk).
 
 The single-to-dual upgrade path is also viable—buy a dual-input micro-inverter now and physically add the second panel within 2–3 years.
 
@@ -92,4 +92,4 @@ Once you've chosen your system size, check how much you'll actually generate in 
 
 If you're torn between instant energy monitoring and battery backup, the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) combines both with a built-in 400W panel option, whilst the [EcoFlow 400W Panel](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel) can be paired with any compatible micro-inverter for maximum flexibility.
 
-For energy tracking without a battery, a simple smart plug monitor like the [Tapo P110](https://amzn.to/4m9Yh9U) will show you exactly how much you're self-consuming in real time.
+For energy tracking without a battery, a simple [smart plug](/blog/best-smart-plug-monitor-solar-uk) monitor like the [Tapo P110](https://amzn.to/4m9Yh9U) will show you exactly how much you're self-consuming in real time.

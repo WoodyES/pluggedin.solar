@@ -44,7 +44,7 @@ Here's the recommended sequence:
 
 **Week 3–4:** Smart meter installed. Start collecting baseline data.
 
-**Week 5+:** Plug-in solar kit arrives. Install it. Contact your supplier to enable the export register (if not already active) and apply for SEG.
+**Week 5+:** Plug-in solar kit arrives. Install it. Contact your supplier to enable the export register (if not already active) and apply for [SEG](/blog/plug-in-solar-smart-meter-exports-uk).
 
 **Week 6:** [Notify your DNO](/blog/g98-dno-notification-plug-in-solar) (required within 28 days of installation).
 

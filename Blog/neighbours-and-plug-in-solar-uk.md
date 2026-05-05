@@ -17,7 +17,7 @@ Then your neighbour complains.
 
 Maybe they say the panels are ugly. Maybe they say the glare is blinding them. Maybe they claim the panels break the sight line or ruin the character of the building. Maybe it's all of that at once, wrapped up in a tense note pushed under your door.
 
-This isn't a hypothetical. It's happening constantly in Germany, where balcony solar has been mainstream for two years, and it's going to happen increasingly in the UK as plug-in solar becomes normal. Understanding what's happened across the channel—and what UK residents should expect—could save you months of neighbour drama.
+This isn't a hypothetical. It's happening constantly in Germany, where [balcony solar](/blog/balcony-solar-uk) has been mainstream for two years, and it's going to happen increasingly in the UK as plug-in solar becomes normal. Understanding what's happened across the channel—and what UK residents should expect—could save you months of neighbour drama.
 
 ## The German Experience: Aesthetics, Light Reflection, and Leases
 

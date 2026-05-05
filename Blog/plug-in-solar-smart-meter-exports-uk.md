@@ -12,7 +12,7 @@ One of the first technical questions plug-in solar owners ask is: "Will my smart
 
 The answer is: **it depends on which smart meter you have.**
 
-This matters because export data determines whether you're eligible for the Smart Export Guarantee (SEG), whether you can access premium tariffs like Octopus Flux, and—crucially—whether you have visibility into what your system is actually doing.
+This matters because export data determines whether you're eligible for the Smart Export Guarantee (SEG), whether you can access premium tariffs like [Octopus Flux](/blog/octopus-flux-tariff-review-uk), and—crucially—whether you have visibility into what your system is actually doing.
 
 Let's break down which meters work, which don't, and what to do if yours won't record exports.
 
@@ -42,7 +42,7 @@ All SMETS2 meters are capable of recording exports in half-hourly intervals. Thi
 
 SMETS1 was the first-generation smart meter rollout. Many of these have:
 - Limited communication (often one-way only)
-- No built-in export register
+- No built-in [export register](/blog/smart-meter-export-register-solar-uk)
 - Basic displays or no display at all
 
 **The problem:** When SMETS1 meters were installed, most homes didn't have solar. The spec didn't mandate export recording. Some SMETS1 meters can be retrofitted, but many cannot.
@@ -168,7 +168,7 @@ While waiting for a meter upgrade, you can monitor exports with third-party equi
 If your supplier offers this (Octopus does), you can receive estimated SEG payments based on:
 - Your generation (calculated from grid data)
 - Your consumption (estimated from usage patterns)
-- An assumed self-consumption ratio (typically 60–70%)
+- An assumed [self-consumption](/blog/smart-meter-solar-self-consumption-uk) ratio (typically 60–70%)
 
 **Example:** If you generated 1,000 kWh and consumed 650 kWh, you exported 350 kWh.
 

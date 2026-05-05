@@ -120,7 +120,7 @@ This warranty is one reason to avoid bargain-basement panels. A premium panel wi
 
 5. **Install correctly**: Water ingress accelerates degradation. Use [IP68 cable glands](/blog/ip68-cable-glands-solar-uk) and sealed junction boxes to keep moisture out.
 
-6. **Monitor output**: Use a smart meter or monitoring system. If output drops more than 0.7% annually for several years running, you may have a problem (shading change, fault, or unusually fast degradation).
+6. **Monitor output**: Use a [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) or monitoring system. If output drops more than 0.7% annually for several years running, you may have a problem (shading change, fault, or unusually fast degradation).
 
 ## Bottom Line for Your 25-Year System
 

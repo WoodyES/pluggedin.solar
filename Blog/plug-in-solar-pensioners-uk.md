@@ -11,7 +11,7 @@ featured: true
 
 If you're a pensioner, plug-in solar might be the single best energy decision you can make. And that's not marketing hype—it's maths.
 
-Pensioners have the highest self-consumption rate of any household group because you're home during peak solar hours. You're also most sensitive to energy price increases on a fixed income. Add in the Warm Home Discount eligibility and physical safety advantages of plug-in solar, and the case becomes almost overwhelming.
+Pensioners have the highest [self-consumption](/blog/smart-meter-solar-self-consumption-uk) rate of any household group because you're home during peak solar hours. You're also most sensitive to energy price increases on a fixed income. Add in the Warm Home Discount eligibility and physical safety advantages of plug-in solar, and the case becomes almost overwhelming.
 
 Let me walk you through why, and how to get started safely.
 
@@ -39,7 +39,7 @@ Here's a realistic scenario for a two-person pensioner household in South Englan
 
 In reality, if you're heating with electricity, that figure climbs closer to £180–200/year because you'll use more energy mid-afternoon (often peak comfort hours).
 
-**Payback period**: A typical 800W system costs £600–800. At £150–200/year savings, you'll recoup your investment in 4–5 years. After that, 25+ years of essentially free electricity generation.
+**[Payback period](/blog/plug-in-solar-payback-period-uk)**: A typical 800W system costs £600–800. At £150–200/year savings, you'll recoup your investment in 4–5 years. After that, 25+ years of essentially free electricity generation.
 
 For comparison: the state pension rose by ~8% in April 2026, but energy prices rose 12% the year before. Plug-in solar is your hedge against future price rises.
 
@@ -97,7 +97,7 @@ Most plug-in solar kits come with:
 
 ## Monitoring Your System
 
-A smart plug like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) (£15) is invaluable. It:
+A [smart plug](/blog/best-smart-plug-monitor-solar-uk) like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) (£15) is invaluable. It:
 - Shows real-time power generation
 - Logs daily/weekly/monthly output
 - Sends smartphone alerts (if you use a phone)
@@ -164,4 +164,4 @@ Energy bills will keep rising. Fixed pensions won't keep pace. But 25+ years of 
 **Related reading:**
 - [Plug-in Solar Grants and Funding UK 2026](/blog/plug-in-solar-grants-funding-uk-2026)
 - [Savings Calculator](/calculator)
-- [Choosing Your First Plug-in Solar Kit](/blog/choosing-kit-guide) (coming soon)
+- [Choosing Your First Plug-in Solar Kit](/blog/best-plug-in-solar-kit-uk) (coming soon)

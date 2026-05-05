@@ -13,7 +13,7 @@ The most common question about plug-in solar isn't "Is it worth it?" It's "How m
 
 And it deserves a concrete answer, not a vague one.
 
-The honest baseline, from Carbon Brief's analysis of real UK data, is £110 per year. But that's an average. Your specific savings depend on five variables: system size, location, orientation, self-consumption, and energy prices. Change any of those, and your savings change significantly.
+The honest baseline, from Carbon Brief's analysis of real UK data, is £110 per year. But that's an average. Your specific savings depend on five variables: system size, location, orientation, [self-consumption](/blog/smart-meter-solar-self-consumption-uk), and energy prices. Change any of those, and your savings change significantly.
 
 This guide gives you the maths so you can estimate your own savings.
 
@@ -198,7 +198,7 @@ Charge your laptop, phone, electric toothbrush, and any rechargeable devices dur
 If you use electric heating or air conditioning, running it at midday means some of it comes from solar instead of grid.
 
 **4. Monitor and plan:**
-Most plug-in solar systems come with a monitoring app showing real-time generation. Watch it. On sunny days, get a sense of when you're generating peak and plan appliance use around that. For more detailed home energy tracking, the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) smart plug shows exactly how much power each appliance draws, helping you optimize when to run them.
+Most plug-in solar systems come with a monitoring app showing real-time generation. Watch it. On sunny days, get a sense of when you're generating peak and plan appliance use around that. For more detailed home energy tracking, the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) shows exactly how much power each appliance draws, helping you optimize when to run them.
 
 These aren't massive optimisations. But they can move you from 65% to 75–80% self-consumption, which adds £15–£25 per year. Over 15 years, that's £250–£375 extra benefit.
 

@@ -151,6 +151,6 @@ Most people find that one surface is obviously best for their home. Flat-dweller
 
 Start by walking around your home and noting which surfaces face south. Then check the shade at mid-day. Then look at where your socket is. By the time you've done those three checks, you'll usually have your answer.
 
-For more detail on any specific surface, read our dedicated articles: [ground-mounted](/blog/ground-mount-plug-in-solar), [balcony rail](/blog/balcony-rail-mounting-plug-in-solar), [flat roof](/blog/flat-roof-ballast-mounting), [decking](/blog/solar-panels-on-decking), [walls](/blog/wall-mount-plug-in-solar). And if you're still uncertain about your location, use our [savings calculator](/calculator) to model what you might generate from your best option—that clarity often helps the final decision.
+For more detail on any specific surface, read our dedicated articles: [ground-mounted](/blog/ground-mount-plug-in-solar-uk), [balcony rail](/blog/balcony-rail-solar-mount-uk), [flat roof](/blog/flat-roof-ballast-solar-mount-uk), [decking](/blog/solar-panels-on-decking-uk), [walls](/blog/wall-mount-plug-in-solar-uk). And if you're still uncertain about your location, use our [savings calculator](/calculator) to model what you might generate from your best option—that clarity often helps the final decision.
 
 The installation is the easy part. Choosing the right surface is where the thinking goes. Get that right, and everything else follows.

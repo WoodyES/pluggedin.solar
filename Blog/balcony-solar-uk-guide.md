@@ -17,7 +17,7 @@ This guide walks you through everything specific to balcony installations — ho
 
 **Balcony solar** is a plug-in solar system mounted on a rented or owned flat's balcony. It's not a different technology from plug-in solar generally — it's the same 400W panel and inverter setup — but the mounting location and constraints are specific enough to warrant separate guidance.
 
-The appeal is obvious: most flats have balconies; balconies typically face south, east, or west (rarely north); and a balcony is already exposed to sunlight. For a renter, it's also portable — you can uninstall it and take it with you when you move.
+The appeal is obvious: most flats have balconies; balconies typically face south, east, or west (rarely north); and a balcony is already exposed to sunlight. For a [renter](/blog/rented-flat-solar-panels-uk), it's also portable — you can uninstall it and take it with you when you move.
 
 The constraints are equally obvious: you need permission from your landlord or freeholder; you can't drill into the building fabric of a rental; you're limited to railing-mounted or freestanding systems; and if your balcony is tiny or north-facing, output will suffer.
 
@@ -67,7 +67,7 @@ You can estimate your specific balcony's output using our [savings calculator](/
 
 **Landlord permission:** If you rent, you need written permission from your landlord or freeholder. Most modern landlords are relaxed about balcony solar (it's temporary, portable, and doesn't damage the building), but you must ask. If you install without permission, you're breaching the tenancy and they can force removal.
 
-**Building regulations:** From July 2026, balcony solar systems must comply with the BSI product standard and BS 7671. This means your kit must be UKCA marked and properly notified to your DNO via G98 within 28 days of connection. As a renter, you should still notify your DNO (the system is at your address, regardless of ownership).
+**Building regulations:** From July 2026, balcony solar systems must comply with the BSI product standard and [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide). This means your kit must be UKCA marked and properly notified to your DNO via G98 within 28 days of connection. As a renter, you should still notify your DNO (the system is at your address, regardless of ownership).
 
 **Party wall considerations:** If drilling is involved (wall brackets), your landlord may require Party Wall Act compliance depending on the building structure. Railing clamps avoid this entirely.
 
@@ -89,7 +89,7 @@ Look for these features:
 
 **Documentation.** You'll need the product manual, electrical specifications, and any safety certificates for your DNO notification (G98 form). Good kits have these readily available online.
 
-Major brands now include EcoFlow and Anker SOLIX, both of which will have UKCA-marked kits available from summer 2026. Amazon, Lidl, Iceland, and Sainsbury's will stock compliant kits. Expect to pay £400–£700 for a reliable system.
+Major brands now include EcoFlow and [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026), both of which will have UKCA-marked kits available from summer 2026. Amazon, Lidl, Iceland, and Sainsbury's will stock compliant kits. Expect to pay £400–£700 for a reliable system.
 
 Cheaper kits (£200–£300) exist from less-known brands, but they often have weak brackets, poor-quality inverters, or missing documentation. The few extra pounds are worth it.
 

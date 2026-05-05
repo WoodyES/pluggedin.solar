@@ -15,7 +15,7 @@ This guide cuts through the options and tells you what to actually buy, dependin
 
 ## The Quick Answer
 
-If you have **£900–£1,000:** Buy an **800W plug-in solar kit** (EcoFlow STREAM or Anker SOLIX RS40P). It works, it's reliable, and it'll offset 30–40 per cent of your garden room's daytime electricity.
+If you have **£900–£1,000:** Buy an **800W plug-in solar kit** (EcoFlow STREAM or [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) RS40P). It works, it's reliable, and it'll offset 30–40 per cent of your garden room's daytime electricity.
 
 If you have **£2,500–£3,500:** Buy **800W plug-in solar + a 3–5 kWh battery**. This lets you store daytime solar for evening use, making the financial return much better.
 
@@ -29,7 +29,7 @@ Now let's look at each option in detail.
 
 **Best kits:**
 
-- **EcoFlow STREAM** (£949): 600W, government-backed, proven brand, 10-year inverter warranty
+- **[EcoFlow STREAM](/blog/ecoflow-stream-review-uk)** (£949): 600W, government-backed, proven brand, 10-year inverter warranty
 - **Anker SOLIX RS40P** (£899): 800W, undercuts EcoFlow, newer to market, 3–5 year warranty
 
 **What you get:**
@@ -48,7 +48,7 @@ Winter: ~60–100 kWh = minimal value
 
 Annual return: ~£160–£220
 
-Payback period: 5–6 years
+[Payback period](/blog/plug-in-solar-payback-period-uk): 5–6 years
 
 **Pros:**
 
@@ -77,7 +77,7 @@ Daytime-use garden rooms (home office, studio, workshop). Rooms used mainly spri
 
 **What you get:**
 
-All the above, plus battery storage. You store midday solar and use it in the evening. This is where the economics really improve. The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) is an excellent mid-range battery choice for garden rooms, offering 1024Wh capacity and multiple output types for different devices.
+All the above, plus [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk). You store midday solar and use it in the evening. This is where the economics really improve. The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) is an excellent mid-range battery choice for garden rooms, offering 1024Wh capacity and multiple output types for different devices.
 
 **Performance:**
 
@@ -286,7 +286,7 @@ Get quotes from off-grid specialists (Renogy, Victron installers). This isn't a 
 
 - See our [garden office hub](/blog/solar-panels-for-garden-office-uk) for context
 - Read [solar vs cable comparison](/blog/garden-office-solar-vs-electric-cable)
-- Learn [how to size your system](/blog/garden-office-solar-how-many-panels)
+- Learn [how to size your system](/blog/how-many-solar-panels-for-garden-office)
 - Check [kit reviews](/blog/best-plug-in-solar-kit-uk) for detailed product analysis
 - Use our [savings calculator](/calculator) to model your specific return
 

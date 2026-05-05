@@ -9,7 +9,7 @@ priority: 1
 wordcount: 1100
 ---
 
-Every plug-in solar system connected to the UK grid requires a G98 notification to your Distribution Network Operator (DNO). This isn't an application — you don't need permission. It's a notification: you tell them, they acknowledge, you're done.
+Every plug-in solar system connected to the UK grid requires a [G98](/blog/g98-dno-notification-plug-in-solar) notification to your Distribution Network Operator (DNO). This isn't an application — you don't need permission. It's a notification: you tell them, they acknowledge, you're done.
 
 The process takes 10-15 minutes. Here's the complete walkthrough.
 
@@ -58,7 +58,7 @@ The form asks for:
 **System details:**
 - Type of generator: "Solar Photovoltaic" or "Plug-in Solar Energy System (PSES)"
 - Total AC output capacity: 800W (or whatever your inverter's rated AC output is)
-- Inverter manufacturer and model: e.g., "Hoymiles HMS-800-2T" or "EcoFlow STREAM"
+- Inverter manufacturer and model: e.g., "Hoymiles HMS-800-2T" or "[EcoFlow STREAM](/blog/ecoflow-stream-review-uk)"
 - Number of phases: Single (for all domestic plug-in solar)
 - Date of connection: the date you first plugged in
 
@@ -90,7 +90,7 @@ However, failing to notify creates problems:
 
 **Property sale** — a conveyancing solicitor may ask about any modifications to the electrical installation. A G98 notification demonstrates that you followed the correct process.
 
-**Future export payments** — if you ever want to access Smart Export Guarantee payments (should the MCS requirement change for plug-in solar), DNO registration is a prerequisite.
+**Future export payments** — if you ever want to access [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) payments (should the MCS requirement change for plug-in solar), DNO registration is a prerequisite.
 
 The notification takes 15 minutes. There is no fee. There is no reason not to do it.
 

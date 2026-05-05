@@ -55,7 +55,7 @@ Enphase is the premium micro inverter brand globally. They've been making micro 
 
 ### APsystems EZ1-M (~£100-130)
 
-APsystems is the value option. Smaller market share than Hoymiles or Enphase, but they've built a solid reputation in European balcony solar since 2021. The EZ1-M is their plug-in solar specific model.
+APsystems is the value option. Smaller market share than Hoymiles or Enphase, but they've built a solid reputation in European [balcony solar](/blog/balcony-solar-uk) since 2021. The EZ1-M is their plug-in solar specific model.
 
 **MPPT efficiency:** 99.5%. Competitive.
 
@@ -85,7 +85,7 @@ If you're building a DIY system from separate panels and an inverter, the brand 
 
 **Unbranded.** Any micro inverter without a recognisable brand name, published specification sheet, and clear warranty path is a risk. The inverter is the safety-critical component — don't cheap out on it.
 
-**Non-UKCA/CE certified.** After April 2026, any inverter installed in a UK home must comply with BS 7671 Amendment 4. Check the certification before buying.
+**Non-UKCA/CE certified.** After April 2026, any inverter installed in a UK home must comply with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4. Check the certification before buying.
 
 ## Testing Your Inverter
 

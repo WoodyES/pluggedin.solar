@@ -34,7 +34,7 @@ The EcoFlow STREAM Solar Plant is a grid-tied plug-in solar system designed for 
 
 The UK government announced the three companies it had technically vetted: EcoFlow, Anker, and Lidl. That vetting involved checking that the system:
 
-1. Complies with BS 7671 Amendment 4 (the new electrical standard)
+1. Complies with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 (the new electrical standard)
 2. Uses a reliable micro-inverter and safe wiring
 3. Won't introduce hazards to the grid
 4. Is realistic about performance claims
@@ -46,7 +46,7 @@ Government backing doesn't make the STREAM the "best" kit for everyone (that dep
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
 <div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
@@ -152,7 +152,7 @@ These figures assume panels on a south-facing roof with no shading. North-facing
 
 Without a battery, the STREAM only helps if you're home and drawing power during the day. If you're out at work, surplus generation goes to the grid unused (and you get paid at the export rate, which is currently very low—around 4–5p/kWh).
 
-Adding an EcoFlow Delta battery (£1,500–£2,500) changes the equation. You store midday solar for evening use. This is where the system becomes genuinely valuable. With a battery, the STREAM payback period drops from 7–8 years to 4–5 years.
+Adding an EcoFlow Delta battery (£1,500–£2,500) changes the equation. You store midday solar for evening use. This is where the system becomes genuinely valuable. With a battery, the STREAM [payback period](/blog/plug-in-solar-payback-period-uk) drops from 7–8 years to 4–5 years.
 
 But that's a separate decision and a significant additional cost.
 
@@ -178,7 +178,7 @@ The EcoFlow STREAM is a genuinely good plug-in solar kit. It's backed by:
 - Government technical vetting
 - A 10-year inverter warranty
 - Clear UK customer support
-- An upgrade path to battery storage
+- An upgrade path to [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
 
 It's not the highest-wattage option (that's Anker's 800W SOLIX), and it won't be the cheapest (Lidl's kit will undercut it). But if you want something that's proven, supported, and reliable, STREAM is a credible first choice.
 
@@ -188,7 +188,7 @@ If you buy one this summer, update us on how it performs. Real-world data from a
 
 ## Alternatives
 
-For more wattage at a similar price, consider the **Anker SOLIX RS40P** (800W, £899).
+For more wattage at a similar price, consider the **[Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) RS40P** (800W, £899).
 
 [Check the Anker SOLIX C1000 Gen 2 on Amazon](https://amzn.to/3QmpWsI)
 

@@ -22,7 +22,7 @@ MCS stands for Microgeneration Certification Scheme. It's a government-backed qu
 - Post-installation support
 
 MCS certification opens doors to:
-- The Smart Export Guarantee (SEG) scheme
+- The [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG) scheme
 - Feed-in Tariff (FIT) payments—though this scheme closed to new applications in 2019
 - Government grants and incentive schemes (where available)
 - Insurance acceptance in some cases
@@ -40,7 +40,7 @@ This is also why retail plug-in solar kits are only expected to arrive in the UK
 
 ## What You Lose Without MCS Certification
 
-Let's be clear: MCS certification is not required for plug-in solar to be legal. BS 7671 Amendment 4 (April 2026), the electrical safety standard, has no MCS requirement. Your G98 notification to your DNO has no MCS requirement. You can be fully compliant and MCS-free.
+Let's be clear: MCS certification is not required for plug-in solar to be legal. BS 7671 Amendment 4 (April 2026), the electrical safety standard, has no MCS requirement. Your [G98](/blog/g98-dno-notification-plug-in-solar) notification to your DNO has no MCS requirement. You can be fully compliant and MCS-free.
 
 But you do lose access to certain financial schemes:
 

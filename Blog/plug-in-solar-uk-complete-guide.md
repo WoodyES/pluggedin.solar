@@ -38,9 +38,9 @@ The system is **smart**: it automatically stops exporting electricity to the gri
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel balcony or garden kit</li>
@@ -58,7 +58,7 @@ Plug-in solar has a unique legal situation in the UK. The government announcemen
 
 **15 March 2026:** The UK government (Energy Secretary Ed Miliband) formally confirmed plug-in solar is legal. This was the political green light.
 
-**15 April 2026:** BS 7671 Amendment 4 was published. This is the **wiring regulations update** — the technical safety standard for electrical installations. Amendment 4 modified the wiring regs to accommodate small solar generators. Electricians can now legally install them under building regulations.
+**15 April 2026:** [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 was published. This is the **wiring regulations update** — the technical safety standard for electrical installations. Amendment 4 modified the wiring regs to accommodate small solar generators. Electricians can now legally install them under building regulations.
 
 **July 2026 (expected):** The BSI product standard will be published. This is the crucial bit most people don't understand yet. A product standard certifies that a *specific product* is safe for a *specific use*. Until this standard is published, **no kit is legally connectable to a UK ring main**, even if you're desperate to try.
 
@@ -118,9 +118,9 @@ From July 2026 onwards, you'll need to ensure your kit bears **UKCA marking** be
 
 They're often compared, but they solve different problems.
 
-**Traditional rooftop solar** (4–10kW systems, £6,000–£12,000 installed) makes sense if you own a house, have a south-facing roof with no shade, and plan to stay there 10+ years. You'll save £600–£1,200 annually, achieve payback in 8–10 years, and generate clean electricity for 25 years. You'll likely need to register with the grid (G98 or G99 depending on size), and you may be eligible for SEG (Smart Export Guarantee) payments if an export tariff is available. MCS certification is standard, which improves resale value.
+**Traditional rooftop solar** (4–10kW systems, £6,000–£12,000 installed) makes sense if you own a house, have a south-facing roof with no shade, and plan to stay there 10+ years. You'll save £600–£1,200 annually, achieve payback in 8–10 years, and generate clean electricity for 25 years. You'll likely need to register with the grid (G98 or G99 depending on size), and you may be eligible for [SEG](/blog/plug-in-solar-smart-meter-exports-uk) (Smart Export Guarantee) payments if an export tariff is available. MCS certification is standard, which improves resale value.
 
-**Plug-in solar** (400W, £400–£700) makes sense if you're a renter, don't have a south-facing roof, want zero installation fuss, or want to start small. It's plug-and-play, takes your savings immediately, and you can take it with you. It won't save as much money, but the barrier to entry is negligible.
+**Plug-in solar** (400W, £400–£700) makes sense if you're a [renter](/blog/rented-flat-solar-panels-uk), don't have a south-facing roof, want zero installation fuss, or want to start small. It's plug-and-play, takes your savings immediately, and you can take it with you. It won't save as much money, but the barrier to entry is negligible.
 
 Plug-in solar isn't "cheaper" rooftop solar — it's a different product for a different situation. For homeowners with suitable roofs, rooftop solar usually wins over 15+ years. For everyone else, plug-in is the breakthrough.
 
@@ -143,7 +143,7 @@ Plug-in solar isn't "cheaper" rooftop solar — it's a different product for a d
 
 ## Looking Ahead: Summer 2026 and Beyond
 
-The major retailers have confirmed their plans. Lidl, Amazon, Iceland, and Sainsbury's will stock compliant kits from summer 2026. Brands include EcoFlow (a government partner) and Anker SOLIX. Prices are expected to stay in the £400–£700 range, with battery add-ons available.
+The major retailers have confirmed their plans. Lidl, Amazon, Iceland, and Sainsbury's will stock compliant kits from summer 2026. Brands include EcoFlow (a government partner) and [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026). Prices are expected to stay in the £400–£700 range, with battery add-ons available.
 
 For system monitoring once you've installed, the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) provides real-time energy monitoring of your plug-in solar output—a useful way to track generation and optimize your system. For storage expansion, the [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) is the government-backed entry option, and the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) is popular for battery backup.
 
@@ -153,7 +153,7 @@ The regulatory timeline is clear now: Amendment 4 is done, product standards are
 
 **Your next steps:**
 
-- Check whether your outdoor space gets good sun — our [balcony solar guide](/blog/balcony-solar-uk-guide) walks you through this
+- Check whether your outdoor space gets good sun — our [balcony solar guide](/blog/balcony-solar-uk) walks you through this
 - Understand the legal position — read our [complete regulatory guide](/blog/is-plug-in-solar-legal-uk)
 - Use our [savings calculator](/calculator) to estimate your personal payback
 - If you're a renter, see our [plug-in solar for renters guide](/blog/plug-in-solar-for-renters-uk)

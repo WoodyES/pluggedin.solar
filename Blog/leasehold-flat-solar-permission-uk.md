@@ -35,9 +35,9 @@ Include:
 - Your flat number and lease reference
 - What you want to install: a plug-in solar panel (400W or 800W), mounted on the balcony railing with a non-penetrating clamp
 - That it's portable and fully reversible (no drilling, no structural changes)
-- That it complies with BS 7671 Amendment 4 and the BSI product standard
+- That it complies with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 and the BSI product standard
 - That the UK government confirmed plug-in solar as legal on 15 March 2026
-- That you will complete the G98 DNO notification
+- That you will complete the [G98](/blog/g98-dno-notification-plug-in-solar) DNO notification
 - A request for written consent under the terms of your lease
 
 Attach a photo of the proposed mounting location and a link to the specific kit (e.g. the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)) so they can see exactly what you're proposing.
@@ -75,7 +75,7 @@ A fee of £50-100 is annoying but manageable. Fees of £250+ for a simple, non-s
 
 If you have a residents' association or management committee, raising the issue there can be more effective than going through the managing agent. If several residents want solar panels, a collective approach is harder to refuse and shares the administrative burden.
 
-Consider proposing a building-wide policy that permits balcony solar panels of up to 800W, subject to G98 notification — this saves future residents from having to make individual applications.
+Consider proposing a building-wide policy that permits [balcony solar](/blog/balcony-solar-uk) panels of up to 800W, subject to G98 notification — this saves future residents from having to make individual applications.
 
 ## The Bottom Line
 
@@ -83,4 +83,4 @@ Getting freeholder permission for balcony solar is an administrative hurdle, not
 
 Write a clear, factual request. Reference the government announcement. Attach the product details. Follow up if you don't hear back. Most freeholders will consent once they understand what's actually being proposed.
 
-For the full renter guide, see our [renters guide](/blog/plug-in-solar-for-renters-uk). For the balcony installation itself, see our [balcony guide](/blog/balcony-solar-installation-guide-uk).
+For the full [renter](/blog/rented-flat-solar-panels-uk) guide, see our [renters guide](/blog/plug-in-solar-for-renters-uk). For the balcony installation itself, see our [balcony guide](/blog/balcony-solar-installation-guide-uk).

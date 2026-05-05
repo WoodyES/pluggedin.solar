@@ -14,7 +14,7 @@ author: "Pluggedin.solar"
 
 Two things work in your favour:
 
-1. **You can request a smart meter** without your landlord's permission. The electricity account is in your name, the meter is your supplier's property, and the upgrade is free. Your landlord has no say in this.
+1. **You can request a [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk)** without your landlord's permission. The electricity account is in your name, the meter is your supplier's property, and the upgrade is free. Your landlord has no say in this.
 
 2. **Plug-in solar doesn't require building modifications.** A [balcony kit](/blog/rented-flat-solar-panels-uk) or garden-mounted system plugs into a standard 13A socket. When you move out, you unplug it and take it with you.
 
@@ -22,7 +22,7 @@ This makes the combination of smart meter + plug-in solar genuinely portable. Yo
 
 ## Getting a Smart Meter as a Renter
 
-Contact your electricity supplier and request a SMETS2 installation. You need to be the named account holder — if your electricity is included in rent or managed by your landlord, you'll need to talk to them first.
+Contact your electricity supplier and request a [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) installation. You need to be the named account holder — if your electricity is included in rent or managed by your landlord, you'll need to talk to them first.
 
 The installation involves replacing the existing meter on the wall. This is a like-for-like swap, not a modification to the property. Your landlord cannot reasonably object, and Ofgem's guidance supports renters' right to request a smart meter.
 

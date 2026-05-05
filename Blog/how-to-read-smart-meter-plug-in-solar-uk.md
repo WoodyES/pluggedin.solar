@@ -12,7 +12,7 @@ Your smart meter is more than a billing device—it's your window into what your
 
 ## What Type of Smart Meter Do You Have?
 
-First, check if you have a SMETS2 meter (most recent UK meters) or an older SMETS1. This matters because only SMETS2 meters are guaranteed to record exports.
+First, check if you have a [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) meter (most recent UK meters) or an older SMETS1. This matters because only SMETS2 meters are guaranteed to record exports.
 
 **SMETS2 meters (2015–present):** All of them record both import and export.
 
@@ -54,7 +54,7 @@ The format breaks down as:
 00 002 02345.123 kWh
 ```
 
-This is your **export register** (SMETS2 only). The format is identical:
+This is your **[export register](/blog/smart-meter-export-register-solar-uk)** (SMETS2 only). The format is identical:
 - Register number will be 002 (export, not import)
 - Large number = **total units exported to the grid**
 
@@ -81,7 +81,7 @@ This is the **real-time power flow**, updated every few seconds:
 
 **SMETS1:** You might have an export register (Screen 3), but it often doesn't work or isn't updated. Check if the number changes week to week. If it stays at zero, your meter isn't recording exports.
 
-**No smart meter (older meter):** You have no way to verify exports. Your supplier can't see them either, which is why you might not be eligible for SEG payments.
+**No smart meter (older meter):** You have no way to verify exports. Your supplier can't see them either, which is why you might not be eligible for [SEG](/blog/plug-in-solar-smart-meter-exports-uk) payments.
 
 **Solution:** Request a smart meter upgrade from your supplier (free, your right under Ofgem rules). Installation usually takes 1–2 weeks.
 
@@ -198,7 +198,7 @@ After four weeks, you'll have solid data on:
 Your self-consumption rate and generation profile help you pick the best tariff:
 
 **High self-consumption (70%+)?**
-- Octopus Go is fine (simple 4-hour off-peak window)
+- [Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk) is fine (simple 4-hour off-peak window)
 - You don't need Flux or advanced tariffs
 
 **Lower self-consumption (40–50%)?**

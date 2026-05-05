@@ -35,7 +35,7 @@ Many homes have existing penetrations through external walls: TV aerial cables, 
 
 The most elegant solution for permanent installations: have an electrician install a dedicated outdoor socket (weatherproof, IP-rated) on the external wall, close to where the panels will be. The micro-inverter then connects directly to this outdoor socket, with no cable running through the house fabric at all. The outdoor socket is wired back to a suitable circuit internally.
 
-This is the approach BS 7671 Amendment 4 is implicitly designed around — a proper, permanent outdoor connection point rather than a workaround. It costs more upfront (an electrician's time plus the outdoor socket hardware) but is the cleanest and most compliant long-term solution.
+This is the approach [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 is implicitly designed around — a proper, permanent outdoor connection point rather than a workaround. It costs more upfront (an electrician's time plus the outdoor socket hardware) but is the cleanest and most compliant long-term solution.
 
 ## The Weatherproofing Pitfalls
 
@@ -45,7 +45,7 @@ This is the approach BS 7671 Amendment 4 is implicitly designed around — a pro
 
 **Cable ties that aren't UV-stabilised** — standard black nylon cable ties look fine initially but become brittle in 2-3 years of sun exposure. [UV-resistant cable ties](https://amzn.to/4bUB08B) are available in the same price range and last significantly longer. The extra cost is negligible; the inconvenience of a cable dropping loose in year 3 is not.
 
-**Running cable across a flat roof surface** — cables laid flat on a roof surface collect standing water and debris. Route them along the edge or secure them elevated from the surface.
+**Running cable across a [flat roof](/blog/flat-roof-plug-in-solar-uk) surface** — cables laid flat on a roof surface collect standing water and debris. Route them along the edge or secure them elevated from the surface.
 
 **Over-tightening MC4 connectors** — MC4 connectors should click together firmly but not require force. Over-tightening can crack the outer casing, compromising the weather seal. If a connector won't click, check for debris in the socket rather than applying more force.
 

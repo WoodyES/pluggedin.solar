@@ -22,7 +22,7 @@ Most semi-detached roofs can accommodate an [800W plug-in solar system](https://
 
 - **Roof pitch and aspect**: South-facing roofs between 30–50° are optimal. East or west-facing roofs are acceptable but generate 10–15% less.
 - **Structural load**: Semi-detached roofs are built to standard specifications. An 800W system weighs around 30–40 kg, well within safe limits on modern properties.
-- **Roof material**: Slate, tile, or metal are all fine. Flat roof and felt systems require a ballasted (weight-based) mount rather than penetrating fasteners.
+- **Roof material**: Slate, tile, or metal are all fine. [Flat roof](/blog/flat-roof-plug-in-solar-uk) and felt systems require a ballasted (weight-based) mount rather than penetrating fasteners.
 
 The [Renogy Tilt Mount](https://amzn.to/4maeAng) works well for semi-detached south-facing roofs, allowing you to angle panels for optimal generation.
 
@@ -74,17 +74,17 @@ For rear-garden mounts, the [Renogy Tilt Mount](https://amzn.to/4maeAng) is idea
 
 UK plug-in solar is now confirmed (government announcement, March 2026) and requires:
 
-- **BS 7671 Amendment 4 compliance** (April 2026 standard, already in force).
-- **A G98 notification** to your DNO (Distribution Network Operator).
+- **[BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 compliance** (April 2026 standard, already in force).
+- **A [G98](/blog/g98-dno-notification-plug-in-solar) notification** to your DNO (Distribution Network Operator).
 - Use of a **modern, compliant inverter** with automatic islanding protection.
 
 For a semi-detached property, ensure your installation uses an [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) inverter or equivalent (compliant and DNO-approved for plug-in solar). This handles the interface between your solar panels and the standard household socket safely.
 
 ## Monitoring and Performance
 
-Semi-detached homes vary widely in shading patterns depending on neighbouring trees and building geometry. Installing a simple smart plug monitor like the [Tapo P110](https://amzn.to/4m9Yh9U) in your circuits lets you track real-time solar generation and consumption.
+Semi-detached homes vary widely in shading patterns depending on neighbouring trees and building geometry. Installing a simple [smart plug](/blog/best-smart-plug-monitor-solar-uk) monitor like the [Tapo P110](https://amzn.to/4m9Yh9U) in your circuits lets you track real-time solar generation and consumption.
 
-You'll typically see self-consumption rates of **60–75%** for a semi-detached home with daytime occupancy (WFH, retired, or young families at home). The remaining 25–40% feeds back to the grid, earning DNO credits.
+You'll typically see [self-consumption](/blog/smart-meter-solar-self-consumption-uk) rates of **60–75%** for a semi-detached home with daytime occupancy (WFH, retired, or young families at home). The remaining 25–40% feeds back to the grid, earning DNO credits.
 
 ## Permission and Planning
 

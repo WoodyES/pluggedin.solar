@@ -11,7 +11,7 @@ priority: 1
 
 When the first compliant plug-in solar kits launch in July 2026, you'll face a fundamental choice: 400W or 800W? It's not a trivial decision—the 800W system is the regulatory cap in the UK, but 400W might be the smarter choice for many households.
 
-This guide compares them head-to-head: cost, output, self-consumption dynamics, space requirements, and the real-world scenarios where each makes sense.
+This guide compares them head-to-head: cost, output, [self-consumption](/blog/smart-meter-solar-self-consumption-uk) dynamics, space requirements, and the real-world scenarios where each makes sense.
 
 ## The Cost Difference
 
@@ -129,7 +129,7 @@ Assuming installation in summer 2026, with typical UK daytime electricity prices
 - Annual self-consumption saving: £360–420
 - Annual export value: £15–30
 - **Total annual benefit: £375–450**
-- **Payback period: 2.0–2.4 years**
+- **[Payback period](/blog/plug-in-solar-payback-period-uk): 2.0–2.4 years**
 
 **800W system (£1,450 all-in):**
 - Annual self-consumption saving: £600–750
@@ -161,6 +161,6 @@ Alternatively, if you install 400W now and discover you're exporting more than y
 ---
 
 **Next steps:**
-- Understand how plug-in solar works with battery systems in our [battery buyer's guide](/blog/best-plug-in-solar-battery-guide)
+- Understand how plug-in solar works with battery systems in our [battery buyer's guide](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
 - Learn how to optimise generation with [whole-home energy monitoring](/blog/best-whole-home-energy-monitors-uk)
 - Explore [plug-in solar and EV charging](/blog/plug-in-solar-ev-charging-uk) if you own an electric vehicle

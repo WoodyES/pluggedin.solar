@@ -13,7 +13,7 @@ wordcount: 1500
 
 If you're planning to run plug-in solar with an outdoor socket, there's a regulatory framework you need to understand. It's not as dense as it sounds, and most of it is genuinely good practice anyway.
 
-In March 2026, the UK government confirmed that plug-in solar is legitimate, and it's governed by Building Regulations and BS 7671 (the standard for electrical installation). The key rule is this: if your inverter or battery is plugged into an outdoor socket, that socket must be on a dedicated circuit—not shared with other outlets, not on the ring main where your washing machine lives.
+In March 2026, the UK government confirmed that plug-in solar is legitimate, and it's governed by Building Regulations and [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) (the standard for electrical installation). The key rule is this: if your inverter or battery is plugged into an outdoor socket, that socket must be on a dedicated circuit—not shared with other outlets, not on the ring main where your washing machine lives.
 
 That dedicated circuit must have RCD (Residual Current Device) protection, which is essentially an automatic killswitch that cuts power if electricity leaks where it shouldn't. For outdoor locations, the RCD must be 30mA. For sheltered outdoor situations, you can use standard 30mA. For exposed locations or areas where water pooling might occur, consider 10mA RCD protection.
 
@@ -113,4 +113,4 @@ Here's how a typical plug-in solar outdoor socket setup works: your solar invert
 
 Alternatively, if your battery or inverter lives outside (a weatherproof cabinet, perhaps), the outdoor socket powers that directly. Either way, the socket itself needs the same protection—dedicated circuit, RCD, proper IP rating.
 
-For the full context on getting plug-in solar installed safely, see our guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you want to understand the regulatory context better, we've got a deeper dive into [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-explained) and [weatherproof plug-in solar installation](/blog/weatherproof-plug-in-solar-uk).
+For the full context on getting plug-in solar installed safely, see our guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you want to understand the regulatory context better, we've got a deeper dive into [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-plug-in-solar) and [weatherproof plug-in solar installation](/blog/weatherproof-plug-in-solar-uk).

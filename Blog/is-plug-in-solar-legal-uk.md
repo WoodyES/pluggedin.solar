@@ -17,7 +17,7 @@ This is the most important page on Pluggedin.solar. Regulatory questions matter 
 
 **15 March 2026:** The UK government (Energy Secretary Ed Miliband) formally announced that plug-in solar is legal. This was the political decision. It made headlines, surprised nobody who'd been watching Germany, and set the regulatory machinery in motion.
 
-**15 April 2026:** BS 7671 Amendment 4 was published. This is the **Wiring Regulations update** — the technical safety standard for electrical installations. Amendment 4 modified the rules to allow small solar systems to be plugged into standard wall sockets. Electricians can now legally install them under building regulations.
+**15 April 2026:** [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 was published. This is the **Wiring Regulations update** — the technical safety standard for electrical installations. Amendment 4 modified the rules to allow small solar systems to be plugged into standard wall sockets. Electricians can now legally install them under building regulations.
 
 **July 2026 (expected):** The BSI product standard will be published. This is the crucial bit. A product standard certifies that a *specific product* is safe for a *specific use*. Until this standard exists, no kit is legally connectable, even if the wiring regs allow it and the government says it's okay.
 
@@ -116,7 +116,7 @@ The sensible approach: wait until July 2026 for UKCA-marked kits. The wait is on
 
 ## SEG (Smart Export Guarantee) and Plug-in Solar
 
-The Smart Export Guarantee allows you to export electricity back to the grid and receive payment from your supplier. Not all suppliers offer it, and rates are low (typically 10–20p per kWh, less than you pay for imported electricity), but it's an option.
+The [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) allows you to export electricity back to the grid and receive payment from your supplier. Not all suppliers offer it, and rates are low (typically 10–20p per kWh, less than you pay for imported electricity), but it's an option.
 
 Plug-in solar can participate in SEG. However, SEG was designed primarily for larger rooftop systems. The tariffs are not generous (smaller exports attract lower rates). For a 400W plug-in system, don't expect SEG to be a significant income source. It's a bonus, not the plan.
 
@@ -132,7 +132,7 @@ The same rules apply if you're a leaseholder — you may need freeholder permiss
 
 ## Build to Rent and Housing Associations
 
-Many modern rental properties are "build to rent" schemes or managed by housing associations. Their policies on balcony solar vary. Some explicitly allow it; some require permission; some prohibit it. Check your tenancy agreement or contact your landlord/managing agent before buying a kit.
+Many modern rental properties are "build to rent" schemes or managed by housing associations. Their policies on [balcony solar](/blog/balcony-solar-uk) vary. Some explicitly allow it; some require permission; some prohibit it. Check your tenancy agreement or contact your landlord/managing agent before buying a kit.
 
 ## Listed Buildings and Conservation Areas
 
@@ -185,4 +185,4 @@ Plug-in solar is legal. It's confirmed. It's coming. But the regulatory timeline
 
 This isn't bureaucratic obstruction — it's the same process used for every electrical device in the UK. The timeline is tight, and compliant kits will be available in shops by summer. Wait the extra few months, buy a certified kit, and avoid legal ambiguity.
 
-For technical details on each part of the timeline, see our guides on [BS 7671 Amendment 4](/blog/bs7671-amendment-4-explained), the [BSI product standard](/blog/bsi-product-standard-plug-in-solar), and [G98 notification](/blog/g98-dno-notification-plug-in-solar).
+For technical details on each part of the timeline, see our guides on [BS 7671 Amendment 4](/blog/bs7671-amendment-4-plug-in-solar), the [BSI product standard](/blog/bsi-plug-in-solar-standard-uk), and [G98 notification](/blog/g98-dno-notification-plug-in-solar).

@@ -23,7 +23,7 @@ BS 7671 is the UK's wiring regulations—the standard that governs every electri
 
 Currently, BS 7671 requires all photovoltaic systems to be hard-wired on a dedicated circuit with appropriate protection. Plug-in solar skips that requirement because, well, it plugs into a standard socket. That's the whole point. But here's the problem: today's kits don't meet the standard because the standard hasn't been written to accommodate them yet.
 
-The amendment that changes this—BS 7671 Amendment 4—is due on 15 April 2026. This amendment will set out exactly what's permissible for plug-in systems, how they should be installed, and what safety measures apply. When that happens, manufacturers can design kits that comply. When compliant kits exist, insurers can relax.
+The amendment that changes this—BS 7671 [Amendment 4](/blog/bs-7671-amendment-4-plain-english-guide)—is due on 15 April 2026. This amendment will set out exactly what's permissible for plug-in systems, how they should be installed, and what safety measures apply. When that happens, manufacturers can design kits that comply. When compliant kits exist, insurers can relax.
 
 The risk right now isn't that plug-in solar is inherently dangerous. It's that non-compliant installation gives your insurer a let-out clause. And you don't want to be paying insurance premiums only to find they won't honour a claim because of something you installed.
 
@@ -81,8 +81,8 @@ What does that mean for you, right now, in April 2026? It means if you can wait 
 The insurance question doesn't sit in isolation. You'll also want to understand the legal landscape and what's coming next:
 
 - [Is Plug-in Solar Legal in the UK?](/blog/is-plug-in-solar-legal-uk) — the full regulatory picture
-- [BS 7671 Amendment 4 and Plug-in Solar](/blog/bs7671-amendment-4-explained) — what the new wiring regs mean
-- [The BSI Plug-in Solar Standard: What to Expect July 2026](/blog/bsi-product-standard-plug-in-solar) — when compliant kits arrive
+- [BS 7671 Amendment 4 and Plug-in Solar](/blog/bs7671-amendment-4-plug-in-solar) — what the new wiring regs mean
+- [The BSI Plug-in Solar Standard: What to Expect July 2026](/blog/bsi-plug-in-solar-standard-uk) — when compliant kits arrive
 
 ## What About Existing Insurers? Can They Change Terms?
 
@@ -133,8 +133,8 @@ The genuine risks are electrical, and they're addressable through design and sta
 The insurance question doesn't sit in isolation. You'll also want to understand the legal landscape and what's coming next:
 
 - [Is Plug-in Solar Legal in the UK?](/blog/is-plug-in-solar-legal-uk) — the full regulatory picture
-- [BS 7671 Amendment 4 and Plug-in Solar](/blog/bs7671-amendment-4-explained) — what the new wiring regs mean
-- [The BSI Plug-in Solar Standard: What to Expect July 2026](/blog/bsi-product-standard-plug-in-solar) — when compliant kits arrive
+- [BS 7671 Amendment 4 and Plug-in Solar](/blog/bs7671-amendment-4-plug-in-solar) — what the new wiring regs mean
+- [The BSI Plug-in Solar Standard: What to Expect July 2026](/blog/bsi-plug-in-solar-standard-uk) — when compliant kits arrive
 
 ## The Bottom Line
 

@@ -70,7 +70,7 @@ If you want to install now, the current pricing of £500-700 for a complete kit 
 
 ## What to Do Now
 
-**If you want to install before July 2026:** buy a reputable CE-marked kit (like the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)) from a trusted retailer. Your installation is legal under BS 7671, your G98 notification protects you, and the product will continue to work regardless of the product standard. See our [best kit guide](/blog/best-plug-in-solar-kit-uk) for recommendations.
+**If you want to install before July 2026:** buy a reputable CE-marked kit (like the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)) from a trusted retailer. Your installation is legal under BS 7671, your [G98](/blog/g98-dno-notification-plug-in-solar) notification protects you, and the product will continue to work regardless of the product standard. See our [best kit guide](/blog/best-plug-in-solar-kit-uk) for recommendations.
 
 **If you'd rather wait:** hold off until late summer 2026 when UKCA-compliant kits are available at retail. You'll have a wider selection and potentially lower prices. The trade-off is missing the best generation months (May-July).
 

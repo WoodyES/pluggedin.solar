@@ -165,5 +165,5 @@ The future might be layered: you have a home battery (your personal backup), whi
 ## Read Next
 
 - [Solar for Apartments in Australia](/au/blog/solar-for-apartments-australia)
-- [Community Solar in Australia](/au/blog/community-solar-australia-guide)
+- [Community Solar in Australia](/au/blog/community-solar-australia)
 - [Best Solar Batteries in Australia 2026](/au/blog/best-solar-batteries-australia-2026)

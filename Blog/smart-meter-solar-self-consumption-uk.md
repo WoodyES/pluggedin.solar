@@ -18,7 +18,7 @@ A typical UK plug-in solar system achieves 60–80% self-consumption without any
 
 ## Reading Your Smart Meter Data
 
-Your SMETS2 smart meter records half-hourly import and export data. Most supplier apps display this as a bar chart showing each 30-minute slot. Here's what to look for:
+Your [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) smart meter records half-hourly import and export data. Most supplier apps display this as a bar chart showing each 30-minute slot. Here's what to look for:
 
 **Import bars during midday (10:00–15:00)** — these should be small or zero on sunny days. If they're consistently high during peak solar hours, you're running heavy loads at times when your panels can't cover them, while exporting surplus at other times. That's inefficient.
 
@@ -50,7 +50,7 @@ A [plug-in battery like the EcoFlow Delta 2](/blog/battery-storage-vs-no-battery
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with Delta 2 battery" /></div>
+<div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with [Delta 2](/blog/ecoflow-delta-2-review-uk) battery" /></div>
 <div class="pc-badge">Premium choice</div>
 <div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W + Delta 2</a></div>
 <div class="pc-price">~£1,099 <small>estimated</small></div>

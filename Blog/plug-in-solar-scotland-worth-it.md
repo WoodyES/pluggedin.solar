@@ -59,9 +59,9 @@ The pattern mirrors the rest of the UK — heavily weighted to April through Sep
 
 ## The Financial Case in Scotland
 
-An 800W system generating 660 kWh per year, with 50% self-consumption at 24p/kWh, saves roughly **£79 per year**. At a kit cost of £500-700, payback is **6-9 years**.
+An 800W system generating 660 kWh per year, with 50% [self-consumption](/blog/smart-meter-solar-self-consumption-uk) at 24p/kWh, saves roughly **£79 per year**. At a kit cost of £500-700, payback is **6-9 years**.
 
-On a time-of-use tariff (Octopus Go with 30p daytime rate), the same self-consumed electricity is worth £99 per year — payback drops to **5-7 years**.
+On a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) (Octopus Go with 30p daytime rate), the same self-consumed electricity is worth £99 per year — payback drops to **5-7 years**.
 
 Add a [battery like the EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) to capture more surplus, and savings increase by £30-50 per year. See our [battery guide](/blog/best-portable-power-stations-plug-in-solar-uk) for the full analysis.
 
@@ -75,7 +75,7 @@ Scottish electricity prices are the same as the rest of GB (the Ofgem cap is nat
 
 **Planning permission** — the rules are the same Scotland-wide under GPDO. Solar panels on domestic properties are generally permitted development. Conservation areas and listed buildings have additional restrictions — see our [planning permission guide](/blog/plug-in-solar-planning-permission).
 
-**DNO** — most of Scotland is covered by either SSEN (Highlands and Islands, plus parts of Central Scotland) or SPEN (Central Belt, Borders, Dumfries). Submit your G98 notification to the correct operator — see our [G98 guide](/blog/g98-notification-guide-uk-homeowners).
+**DNO** — most of Scotland is covered by either SSEN (Highlands and Islands, plus parts of Central Scotland) or SPEN (Central Belt, Borders, Dumfries). Submit your [G98](/blog/g98-dno-notification-plug-in-solar) notification to the correct operator — see our [G98 guide](/blog/g98-notification-guide-uk-homeowners).
 
 ## Placement Optimisation for Scotland
 

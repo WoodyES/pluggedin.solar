@@ -35,7 +35,7 @@ If the app shows good input voltage but zero output, the inverter itself isn't c
 
 If the app shows lower output than expected for the time of day and cloud cover, you might have a partial shading problem or the panels need cleaning. We'll cover those checks in a moment.
 
-Most importantly: is the app itself connecting to the inverter? If it's saying "device offline" or "no connection," you might have a Wi-Fi dropout. We cover this in detail in our [plug-in solar microinverter problems guide](/blog/plug-in-solar-microinverter-problems-and-fixes), but the quick fix is to restart the inverter, move closer to your router, or check if your Wi-Fi password has been updated recently.
+Most importantly: is the app itself connecting to the inverter? If it's saying "device offline" or "no connection," you might have a Wi-Fi dropout. We cover this in detail in our [plug-in solar microinverter problems guide](/blog/plug-in-solar-microinverter-problems-uk), but the quick fix is to restart the inverter, move closer to your router, or check if your Wi-Fi password has been updated recently.
 
 ## Check 3: Physical Cable Inspection — The Unsung Hero
 
@@ -109,4 +109,4 @@ Work through these six checks in order, and you'll pinpoint the issue in most ca
 
 The UK plug-in solar market is young, and these systems are generally reliable. But like any new technology, the first few years are when we all learn how to maintain them properly. Hopefully, this guide saves you a service call and gets you generating again.
 
-Still stuck? Check our guide to [common microinverter problems](/blog/plug-in-solar-microinverter-problems-and-fixes) for more specific faults and fixes.
+Still stuck? Check our guide to [common microinverter problems](/blog/plug-in-solar-microinverter-problems-uk) for more specific faults and fixes.

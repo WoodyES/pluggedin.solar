@@ -9,11 +9,11 @@ priority: "HIGH"
 wordcount: 2800
 ---
 
-Plug-in solar is finally here. After months of waiting, the UK government confirmed on 15 March 2026 that small plug-in solar systems—up to 800W—are legal and safe, provided they meet the new BS 7671 Amendment 4 standard (which comes into effect 15 April 2026). By summer 2026, the first compliant kits will hit the market.
+Plug-in solar is finally here. After months of waiting, the UK government confirmed on 15 March 2026 that small plug-in solar systems—up to 800W—are legal and safe, provided they meet the new [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 standard (which comes into effect 15 April 2026). By summer 2026, the first compliant kits will hit the market.
 
 But what makes a good plug-in solar kit? And which ones should you actually buy?
 
-This guide cuts through the noise. I'll walk you through what genuinely matters in a kit, the confirmed market entrants coming to the UK, and the honest buying checklist you need before handing over your money.
+This guide cuts through the noise. I'll walk you through what genuinely matters in a kit, the confirmed market entrants coming to the UK, and the honest [buying checklist](/blog/plug-in-solar-buying-checklist-uk) you need before handing over your money.
 
 ## What Makes a Good Plug-in Solar Kit?
 
@@ -110,9 +110,9 @@ Lidl was named as a retail partner in the government's March announcement. They'
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel balcony or garden kit</li>
@@ -191,7 +191,7 @@ This page will be updated with real-world feedback as it comes in. If you buy on
 
 ## The Bottom Line
 
-To track your system's real-world performance from day one, a smart plug like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) gives you independent generation data — useful for verifying the manufacturer's app is accurate.
+To track your system's real-world performance from day one, a [smart plug](/blog/best-smart-plug-monitor-solar-uk) like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) gives you independent generation data — useful for verifying the manufacturer's app is accurate.
 
 If you want proven reliability and a clear upgrade path, **EcoFlow STREAM** is the safe choice. It's not the cheapest, but it's backed by real-world success and UK support.
 

@@ -61,7 +61,7 @@ A used panel is only half the system — you still need a micro inverter to conv
 
 ## When Used Panels Make Sense
 
-**Shed or outbuilding power.** If you're building a low-stakes off-grid system for shed lighting or tool charging, used panels are ideal. The lower output doesn't matter for small loads, and the cost saving is significant. Pair with a [portable power station like the Jackery Explorer 1000 v2](https://amzn.to/4tmxjhG) for battery storage.
+**Shed or outbuilding power.** If you're building a low-stakes off-grid system for shed lighting or tool charging, used panels are ideal. The lower output doesn't matter for small loads, and the cost saving is significant. Pair with a [portable power station like the Jackery Explorer 1000 v2](https://amzn.to/4tmxjhG) for [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk).
 
 **Experimentation.** If you want to learn about solar before committing to a new system, a £50 used panel and a cheap charge controller is a low-risk way to get hands-on experience.
 
@@ -73,7 +73,7 @@ A used panel is only half the system — you still need a micro inverter to conv
 
 **If you can't test the panel.** Buying untested used panels sight-unseen from eBay is a gamble. At least 10-15% of used panels have hidden defects that only show up under load.
 
-**If BS 7671 compliance matters.** Used panels from pre-2026 may not meet the new BSI product standard for plug-in solar. If compliance and insurance coverage matter to you, buy a certified new kit.
+**If [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) compliance matters.** Used panels from pre-2026 may not meet the new BSI product standard for plug-in solar. If compliance and insurance coverage matter to you, buy a certified new kit.
 
 ## The Bottom Line
 

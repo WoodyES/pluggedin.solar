@@ -19,7 +19,7 @@ But here's the thing: winter generation isn't zero. It's not useless. It's just 
 
 ## What EU Data Shows
 
-We don't have massive UK-specific datasets for plug-in solar yet (the technology is barely legal), but we can learn a lot from Germany, Austria, and the Netherlands, where balcony solar and similar systems have been running for years. The data is consistent: winter output is genuinely low, but it's predictable.
+We don't have massive UK-specific datasets for plug-in solar yet (the technology is barely legal), but we can learn a lot from Germany, Austria, and the Netherlands, where [balcony solar](/blog/balcony-solar-uk) and similar systems have been running for years. The data is consistent: winter output is genuinely low, but it's predictable.
 
 In Germany, users of small balcony solar systems report winter monthly generation around 15 to 25 kWh from a 600W system. Compare that to summer months, which commonly hit 50 to 70 kWh. That's roughly a third of the summer figure, which aligns with the UK forecast models.
 
@@ -86,7 +86,7 @@ Track your performance. Keep notes. By the time summer rolls around again and yo
 Understanding winter performance sits alongside broader questions about generation and optimization:
 
 - [How Much Does Balcony Solar Actually Generate?](/blog/how-much-does-balcony-solar-actually-generate) — realistic annual figures
-- [The Complete Guide to Plug-in Solar Panel Angle](/blog/plug-in-solar-panel-angle) — optimizing your tilt
+- [The Complete Guide to Plug-in Solar Panel Angle](/blog/plug-in-solar-panel-angle-uk) — optimizing your tilt
 - [Best Portable Power Stations for Plug-in Solar in the UK](/blog/best-portable-power-station-plug-in-solar-uk) — pairing solar with storage
 
 ## The Bottom Line

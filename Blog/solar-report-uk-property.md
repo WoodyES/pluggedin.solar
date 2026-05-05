@@ -153,7 +153,7 @@ If a tree is casting shade, a winter prune (with permission from neighbours and 
 East or west-facing walls might avoid shade entirely. Balcony panels might avoid building shadows if you orient them differently.
 
 ### Option 4: Battery Storage
-A battery lets you store afternoon solar and use it in evening and morning. More expensive (~£200+), but gains ~15–20% effective savings if you have evening load and a Time-of-Use tariff. See [Battery vs No Battery](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) for cost-benefit analysis.
+A battery lets you store afternoon solar and use it in evening and morning. More expensive (~£200+), but gains ~15–20% effective savings if you have evening load and a [Time-of-Use tariff](/blog/best-time-of-use-tariffs-uk-2026). See [Battery vs No Battery](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) for cost-benefit analysis.
 
 ### Option 5: Different Placement
 If your roof is shaded but you have a south-facing garden or balcony, use that instead. The Solar Report should highlight alternative placements.
@@ -170,7 +170,7 @@ Here's how Solar Report grades translate to actual payback periods (for an 800W 
 | Limited | 50–70% | £130–£182 | 4.4–6.2 years |
 | Not Ideal | <50% | <£130 | >6.2 years |
 
-**Bottom line:** "Good" or better is typically worth doing. "Limited" requires either a perfect tariff, high self-consumption, or battery storage to pencil out. "Not Ideal" is usually not recommended unless you have a very favorable tariff or can optimize placement.
+**Bottom line:** "Good" or better is typically worth doing. "Limited" requires either a perfect tariff, high [self-consumption](/blog/smart-meter-solar-self-consumption-uk), or battery storage to pencil out. "Not Ideal" is usually not recommended unless you have a very favorable tariff or can optimize placement.
 
 ## How Often Should You Recheck?
 

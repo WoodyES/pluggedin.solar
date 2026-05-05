@@ -15,7 +15,7 @@ Before you assume something has failed, know this: monitoring connectivity issue
 
 ## How the Monitoring Chain Works
 
-Most plug-in solar kits — including Hoymiles-based systems like the EcoFlow STREAM, and standalone APsystems kits — use a three-step data chain:
+Most plug-in solar kits — including Hoymiles-based systems like the [EcoFlow STREAM](/blog/ecoflow-stream-review-uk), and standalone APsystems kits — use a three-step data chain:
 
 **Panels → Micro-inverter** (converts DC to AC, generates performance data wirelessly)  
 **Micro-inverter → DTU/Gateway** (a small box, sometimes built into the inverter, that collects wireless data from the inverter)  
@@ -67,7 +67,7 @@ The [EcoFlow STREAM kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid
 
 ## When It's Probably the Inverter
 
-If you've ruled out connectivity issues and the smart plug on your inverter's AC output ([Tapo P110](https://amzn.to/4m9Yh9U) works well for this) confirms zero power output even on a sunny day, you may have a genuine inverter fault. Check for:
+If you've ruled out connectivity issues and the [smart plug](/blog/best-smart-plug-monitor-solar-uk) on your inverter's AC output ([Tapo P110](https://amzn.to/4m9Yh9U) works well for this) confirms zero power output even on a sunny day, you may have a genuine inverter fault. Check for:
 
 - Status LED on the inverter showing red or flashing in an unusual pattern
 - Any error codes displayed in the app when you do get momentary connectivity

@@ -44,7 +44,7 @@ The rule is specific: it applies to the solar equipment itself, not to general c
 
 Here's where it gets slightly complicated. **MCS-certified installers can charge 0% VAT on installation labour.** Non-MCS installers cannot.
 
-Plug-in solar kits don't require MCS certification (they're not eligible for the Feed-in Tariff or SEG anyway), so most installers aren't MCS-registered. If a non-MCS installer is doing any work on your roof or electrics, they'll typically charge 20% VAT on labour.
+Plug-in solar kits don't require MCS certification (they're not eligible for the Feed-in Tariff or [SEG](/blog/plug-in-solar-smart-meter-exports-uk) anyway), so most installers aren't MCS-registered. If a non-MCS installer is doing any work on your roof or electrics, they'll typically charge 20% VAT on labour.
 
 **In practice:** Most plug-in solar customers are DIY or use local electricians. If you're buying a kit and installing it yourself, VAT is 0% on the kit. If you hire a non-MCS electrician to wire it, their labour might be 20% VAT (though some may offer it at 0% anyway—always ask).
 

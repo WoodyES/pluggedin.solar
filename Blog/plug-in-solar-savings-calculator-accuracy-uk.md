@@ -23,7 +23,7 @@ Our calculator's estimates are accurate within:
 - Generation accuracy is ±5%, but savings add a second layer of uncertainty (tariff, usage patterns, export value).
 - An estimate of £256/year could realistically be £218–£294 depending on how much you self-consume and your exact tariff.
 
-**Why wider savings uncertainty?** Because we don't know your exact usage pattern. You might work from home (high self-consumption, savings toward high end) or work away (low self-consumption, savings toward low end). The calculator has to assume a middle ground.
+**Why wider savings uncertainty?** Because we don't know your exact usage pattern. You might work from home (high [self-consumption](/blog/smart-meter-solar-self-consumption-uk), savings toward high end) or work away (low self-consumption, savings toward low end). The calculator has to assume a middle ground.
 
 ## What Our Calculator Gets Right
 
@@ -51,7 +51,7 @@ This matches real-world performance. Modern panels range 17–22% efficiency; in
 ### 3. Tilt Angle Optimization (25° for Tilted, 0° for Vertical)
 We assume:
 - **Tilted roof:** 25° angle (optimal for UK annual generation)
-- **Flat roof/garden frame:** 25° tilt (optimal)
+- **[Flat roof](/blog/flat-roof-plug-in-solar-uk)/garden frame:** 25° tilt (optimal)
 - **Vertical balcony:** 0° tilt (vertical wall)
 
 Real optimal angles vary by latitude and season. London's annual optimum is 24–26°; Glasgow's is 22–24°. We use 25° universally, which is accurate to ±0.5% (negligible).
@@ -77,7 +77,7 @@ We model:
 - **Standard variable rate:** 30p/kWh (typical 2026 rate)
 - **Custom rates:** user can input their exact tariff
 - **Time-of-Use tariffs:** if selected, we model peak (15p) and off-peak (5p) separately
-- **Export value:** 0p (standard), or user-input if they're on a SEG tariff
+- **Export value:** 0p (standard), or user-input if they're on a [SEG](/blog/plug-in-solar-smart-meter-exports-uk) tariff
 
 We don't know your exact self-consumption, so we assume a middle ground (60% self-consumed, 40% exported). Real savings depend on your usage.
 
@@ -108,7 +108,7 @@ We forecast year-1 output, which assumes new panels at peak efficiency. Real pan
 We assume 60% self-consumption, 40% export. Real scenarios range widely:
 - Work away all day: 30% self-consumed, 70% exported → savings ~£77 (not £256)
 - Work from home: 80% self-consumed, 20% exported → savings ~£205 (not £256)
-- Time-of-Use tariff: self-consumption value varies by hour
+- [Time-of-Use tariff](/blog/best-time-of-use-tariffs-uk-2026): self-consumption value varies by hour
 
 **Impact:** Savings could be £150–£300 depending on usage, not just £256.
 

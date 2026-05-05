@@ -65,7 +65,7 @@ If you do need to request permission, the approach matters:
 
 **Offer a trial period.** If your landlord is hesitant, suggest a six-month trial. Install it, prove it causes no problems, and revisit the conversation.
 
-**Document the permission.** If they agree, get it in writing. A simple email confirmation ("Yes, you can install the balcony solar mount") is sufficient. This protects you both.
+**Document the permission.** If they agree, get it in writing. A simple email confirmation ("Yes, you can install the [balcony solar](/blog/balcony-solar-uk) mount") is sufficient. This protects you both.
 
 Most landlords, when approached reasonably and given concrete information, will agree. Plug-in solar is non-invasive, it's the future of domestic energy, and savvy landlords recognise that tenant quality of life improves with modern amenities.
 
@@ -77,7 +77,7 @@ When you move to a new home, you disconnect the panel (it's just a plug-in socke
 
 At your new place, you can set it up again in roughly the same way—assuming you have suitable outdoor space and a socket within reach.
 
-You will need to notify your new District Network Operator within 28 days (it's called a G98 notification—a simple 10-minute online form). The DNO doesn't grant permission; they just need to log that there's a small generating device connected to their network. It's administrative, not prohibitive.
+You will need to notify your new District Network Operator within 28 days (it's called a [G98](/blog/g98-dno-notification-plug-in-solar) notification—a simple 10-minute online form). The DNO doesn't grant permission; they just need to log that there's a small generating device connected to their network. It's administrative, not prohibitive.
 
 Could you use the same kit at the new property? Almost certainly yes. The only scenario where you couldn't is if your new home was unsuitable (e.g., you move to a basement flat with no outdoor space or south-facing exposure)—but then you'd sell the kit and move on, rather than abandoning it as you would with roof-mounted solar.
 
@@ -89,17 +89,17 @@ How much will you save? Our [savings calculator](/calculator) will give you a pr
 
 A typical 800W south-facing system in southern England generates about 800 kWh per year. At the current energy price cap of 27p/kWh, and assuming you're present during the day to consume most of what you generate, that's roughly £110–£150 per year in savings.
 
-A mid-range compliant kit will cost around £500–£700 when they launch in July 2026. At £130 per year savings, that's a payback period of around 4–5 years. For renters who want to move their kit between properties, the [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) is specifically designed as a portable, no-drill installation that you can take with you to your next home.
+A mid-range compliant kit will cost around £500–£700 when they launch in July 2026. At £130 per year savings, that's a [payback period](/blog/plug-in-solar-payback-period-uk) of around 4–5 years. For renters who want to move their kit between properties, the [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) is specifically designed as a portable, no-drill installation that you can take with you to your next home.
 
 After payback, you're generating free electricity for another 10–15 years, netting you roughly £1,000 in lifetime savings from a single kit.
 
-That's not transformative money. But for a renter on a typical salary, it's meaningful. It's the difference between managing and struggling during winter. It's a small climate action that costs you nothing after payback. It's a financial asset you own outright—something many renters don't have much of.
+That's not transformative money. But for a [renter](/blog/rented-flat-solar-panels-uk) on a typical salary, it's meaningful. It's the difference between managing and struggling during winter. It's a small climate action that costs you nothing after payback. It's a financial asset you own outright—something many renters don't have much of.
 
 If your household uses a lot of electricity during daylight hours (working from home, running a heat pump, electric cooking), your savings will be higher. If you're out all day, your savings will be lower.
 
 ## What to Buy: The Renter's Choice
 
-When compliant kits launch in July 2026, the major retailers will include Lidl, Amazon, Iceland, and Sainsbury's. The brands to look for are EcoFlow and Anker SOLIX (both government partners in the regulation process).
+When compliant kits launch in July 2026, the major retailers will include Lidl, Amazon, Iceland, and Sainsbury's. The brands to look for are EcoFlow and [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) (both government partners in the regulation process).
 
 What should you actually look for in a kit?
 

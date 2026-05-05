@@ -20,10 +20,10 @@ Flux splits each day into three price periods:
 | **Day** | 5 AM–4 PM | ~15–18p/kWh | Solar generation time |
 | **Peak** | 4 PM–10 PM | ~24–28p/kWh | Evening demand peak |
 
-The headline feature: **export payments during peak hours (4 PM–10 PM) at 20–24p/kWh**—significantly higher than any other UK tariff. Compare that to Octopus Go's non-existent SEG payments for non-MCS systems, and Flux looks genuinely attractive for solar owners.
+The headline feature: **export payments during peak hours (4 PM–10 PM) at 20–24p/kWh**—significantly higher than any other UK tariff. Compare that to [Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk)'s non-existent [SEG](/blog/plug-in-solar-smart-meter-exports-uk) payments for non-MCS systems, and Flux looks genuinely attractive for solar owners.
 
 But there's a catch: to access Flux, you need:
-- A smart meter (SMETS2)
+- A [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) (SMETS2)
 - A home battery (minimum ~3–5 kWh usable capacity)
 - Solar panels (or you're just paying peak rates with no benefit)
 - A compatible intelligent inverter or battery management system
@@ -43,7 +43,7 @@ Let's model a realistic scenario: a household with 800W plug-in solar and a 5 kW
 3. **Peak (4 PM–10 PM)**: This is where Flux shines. If your battery is charged, you discharge it and export to the grid at 20–24p/kWh. If you self-consume, you save the peak import rate. Either way, you're avoiding or profiting from the expensive peak period.
 
 **Annual maths (rough estimate):**
-- Solar self-consumption during day: ~800–1,000 kWh/year × 18p savings = £144–180
+- Solar [self-consumption](/blog/smart-meter-solar-self-consumption-uk) during day: ~800–1,000 kWh/year × 18p savings = £144–180
 - Evening peak discharge/avoidance: ~500–700 kWh/year × 6p premium (vs. Go rate) = £30–42
 - **Total additional benefit vs. Octopus Go: £174–222/year**
 
@@ -71,7 +71,7 @@ That sounds modest. But add in the [Anker SOLIX C1000](https://amzn.to/3QmpWsI) 
 
 Octopus Flux requires:
 
-1. **SMETS2 smart meter** that records half-hourly export data. If you have an older smart meter (SMETS1), exports might not be recorded at all, making Flux worthless. Check with your DNO before switching.
+1. **[SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) smart meter** that records half-hourly export data. If you have an older smart meter (SMETS1), exports might not be recorded at all, making Flux worthless. Check with your DNO before switching.
 
 2. **Battery management system** capable of smart discharge during peak hours. Not all batteries can do this—your inverter must support remote load control or scheduling.
 

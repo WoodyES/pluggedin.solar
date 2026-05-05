@@ -9,7 +9,7 @@ priority: "MED"
 wordcount: 1200
 ---
 
-If you have a flat roof—on your house, a garage, an extension, or even a garden shed—ballast mounting opens a path that's often unavailable elsewhere: solar panels at optimal angle, zero drilling, zero roof damage. A weighted frame holds the panel in place through sheer mass, not bolts or brackets. It's simple in principle and remarkably effective in practice.
+If you have a [flat roof](/blog/flat-roof-plug-in-solar-uk)—on your house, a garage, an extension, or even a garden shed—ballast mounting opens a path that's often unavailable elsewhere: solar panels at optimal angle, zero drilling, zero roof damage. A weighted frame holds the panel in place through sheer mass, not bolts or brackets. It's simple in principle and remarkably effective in practice.
 
 ## How Ballast Mounting Works
 

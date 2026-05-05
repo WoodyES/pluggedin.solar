@@ -13,15 +13,15 @@ If you've just installed plug-in solar, your energy tariff determines how much e
 
 ## British Gas
 
-**Tariff options for solar:** Limited. British Gas primarily offers flat-rate standard variable and fixed tariffs. There is no dedicated time-of-use tariff for solar or EV owners, and their SEG export tariff is among the lowest in the market.
+**Tariff options for solar:** Limited. British Gas primarily offers flat-rate standard variable and fixed tariffs. There is no dedicated [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) for solar or EV owners, and their [SEG](/blog/plug-in-solar-smart-meter-exports-uk) export tariff is among the lowest in the market.
 
 **Import rates:** Typically at or very near the Ofgem price cap (~24p/kWh on the standard variable tariff). Fixed deals occasionally undercut this slightly.
 
 **Export payments (SEG):** British Gas offers a SEG tariff, but the rate has historically been at the lower end of the market (around 3-5p/kWh). This requires MCS certification, which most plug-in solar self-installs can't provide. There is no informal arrangement for non-MCS systems.
 
-**Smart meter support:** British Gas has been one of the largest installers of SMETS2 meters. If you're a British Gas customer, getting a smart meter is straightforward and free.
+**[Smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) support:** British Gas has been one of the largest installers of [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) meters. If you're a British Gas customer, getting a smart meter is straightforward and free.
 
-**Verdict for solar owners:** Perfectly functional but uninspiring. A British Gas flat rate works fine for basic plug-in solar self-consumption — every self-consumed kWh saves you the full import rate. But there's no tariff innovation to extract additional value from solar generation, battery storage, or load-shifting. If you're happy with a simple setup and don't plan to add battery storage, British Gas is adequate. If you want to optimise, you'll find better options elsewhere.
+**Verdict for solar owners:** Perfectly functional but uninspiring. A British Gas flat rate works fine for basic plug-in solar [self-consumption](/blog/smart-meter-solar-self-consumption-uk) — every self-consumed kWh saves you the full import rate. But there's no tariff innovation to extract additional value from solar generation, [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), or load-shifting. If you're happy with a simple setup and don't plan to add battery storage, British Gas is adequate. If you want to optimise, you'll find better options elsewhere.
 
 ## Octopus Energy
 
@@ -39,7 +39,7 @@ If you've just installed plug-in solar, your energy tariff determines how much e
 
 **Tariff options for solar:** E.ON Next offers a standard variable tariff, fixed-rate deals, and the E.ON Next Drive tariff for EV owners. Drive includes a cheap overnight rate (similar concept to Octopus Go) but is restricted to households with an EV.
 
-**Import rates:** Competitive with the price cap on standard variable. Fixed deals vary seasonally. The E.ON Next Drive overnight rate is typically 8-10p/kWh — slightly higher than Octopus Go but still meaningful.
+**Import rates:** Competitive with the price cap on standard variable. Fixed deals vary seasonally. The E.ON Next Drive overnight rate is typically 8-10p/kWh — slightly higher than [Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk) but still meaningful.
 
 **Export payments (SEG):** E.ON's SEG rate is mid-market (around 5-7p/kWh). MCS certification required. No informal arrangements for non-MCS systems.
 

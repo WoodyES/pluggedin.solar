@@ -22,7 +22,7 @@ Unlike major building works, plug-in solar is uniquely suited to first-time buye
 
 **Immediate savings:** Within the first year, you'll offset £200–300 of electricity bills (at current Ofgem rates of ~24p/kWh, a 400W panel generates 1,600–1,800 kWh annually). That's a 30–40% return on your £500–700 investment. No other home upgrade delivers that speed of payback.
 
-**No mortgage or planning approval needed.** Insulation and structural work often require permission from your mortgage lender. Plug-in solar doesn't. As long as it complies with BS 7671 Amendment 4 (electrical safety—the basic standard), you're free to install.
+**No mortgage or planning approval needed.** Insulation and structural work often require permission from your mortgage lender. Plug-in solar doesn't. As long as it complies with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 (electrical safety—the basic standard), you're free to install.
 
 **Portable:** If you move house in five years (and 40% of first-time buyers do within a decade), you take the system with you. Insulation and windows stay behind. A £500 investment follows you to your next property, compounding savings.
 

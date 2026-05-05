@@ -37,7 +37,7 @@ The **20% gap** between Devon (1,000 kWh/year) and north-west Scotland (580 kWh/
 
 2. **Shading matters more than latitude.** A shaded Devon roof underperforms a clear Newcastle roof. Local microclimate (nearby trees, building shadows) affects output more than regional location.
 
-3. **Self-consumption rates are similar across the UK.** Whether in Manchester or Exeter, homeowners with daytime occupancy see 60–70% self-consumption. The difference is absolute kWh, not rate.
+3. **[Self-consumption](/blog/smart-meter-solar-self-consumption-uk) rates are similar across the UK.** Whether in Manchester or Exeter, homeowners with daytime occupancy see 60–70% self-consumption. The difference is absolute kWh, not rate.
 
 ## Best UK Regions for Plug-in Solar
 
@@ -170,7 +170,7 @@ For these regions, **shading assessment is critical**. An unshaded Midlands roof
 
 To verify regional performance after installation, use:
 
-- [Tapo P110](https://amzn.to/4m9Yh9U) smart plug: track real-time generation and compare to PVGIS forecasts
+- [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk): track real-time generation and compare to PVGIS forecasts
 - [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) inverter: includes web-based monitoring dashboard
 - [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) battery: stores excess generation for evening/winter use
 

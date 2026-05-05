@@ -47,7 +47,7 @@ If you want something that just works without fuss, Jackery is hard to fault. Le
 
 At 27p/kWh (current UK average), shifting 2kWh of evening demand to stored solar saves roughly 54p per day — about £197 per year. A £700 battery pays for itself in under 4 years, then generates pure savings for the remaining 10–15 years of its lifespan.
 
-The real savings come from combining storage with a time-of-use tariff (like Octopus Agile), where evening rates can hit 40p/kWh or more. In that scenario, payback drops to under 3 years.
+The real savings come from combining storage with a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) (like Octopus Agile), where evening rates can hit 40p/kWh or more. In that scenario, payback drops to under 3 years.
 
 ## Which One?
 

@@ -9,7 +9,7 @@ priority: "HIGH"
 wordcount: 1500
 ---
 
-Once you install a plug-in solar system, you need to tell your electricity network operator. This is called G98 notification. It's quick, free, and essential. This guide walks you through it.
+Once you install a plug-in solar system, you need to tell your electricity network operator. This is called [G98](/blog/g98-dno-notification-plug-in-solar) notification. It's quick, free, and essential. This guide walks you through it.
 
 ## What Is G98?
 
@@ -27,7 +27,7 @@ Your DNO needs to know what's connected to their network for several practical r
 
 **Grid management:** The DNO balances supply and demand on the network. If millions of homes have solar, that's significant generation they need to account for when planning network maintenance and upgrades.
 
-**Compliance:** BS 7671 (wiring regulations) and the G98 procedure are legal requirements. Notifying your DNO is part of being compliant.
+**Compliance:** [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) (wiring regulations) and the G98 procedure are legal requirements. Notifying your DNO is part of being compliant.
 
 **Data:** The DNO maintains records of distributed generation in their area for regulatory and planning purposes.
 
@@ -88,7 +88,7 @@ Most DNOs process these automatically. You'll get a confirmation email within a 
 Have these ready before you submit:
 
 - **Panel size:** Typically 400W for plug-in solar
-- **Inverter model and make:** Check your inverter's label (e.g., "EcoFlow SPF 600W" or similar)
+- **Inverter model and make:** Check your inverter's label (e.g., "[EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) SPF 600W" or similar)
 - **Inverter maximum power output:** This is usually printed on the inverter and in the manual. Often 600W or 800W (the actual maximum the inverter can handle, which is usually higher than the panel size)
 - **Connection date:** The date you plugged it in
 - **Connection point:** Usually just "wall socket circuit" (you don't need exact circuit details for plug-in solar)

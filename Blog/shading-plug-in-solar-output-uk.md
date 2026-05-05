@@ -61,7 +61,7 @@ If you've identified shading, don't despair. There are several proven tactics.
 
 The simplest solution. If your south-facing wall has afternoon shade from a chimney, can you mount the panels on the east or west face instead? You'll get lower total output (east or west faces catch 70–80% of south-facing output), but if that avoids the shade, you still gain compared to sitting in shadow.
 
-Check your roof or garden space: could the panels go on a pergola, a garage roof, or a ground-mounted stand? A south-facing ground mount at [Renogy's tilt angle](https://amzn.to/4maeAng) (roughly 35° in the UK) will outperform a shadowed vertical wall mount.
+Check your roof or garden space: could the panels go on a pergola, a garage roof, or a ground-mounted stand? A south-facing [ground mount](/blog/ground-mount-plug-in-solar-uk) at [Renogy's tilt angle](https://amzn.to/4maeAng) (roughly 35° in the UK) will outperform a shadowed vertical wall mount.
 
 ### 2. MPPT Per Panel (If Using Micro-Inverters)
 

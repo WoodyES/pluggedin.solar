@@ -33,7 +33,7 @@ Budget kits exist. The real question is: are they worth buying?
 
 Budget systems often use newer or less-proven micro-inverter brands. Common budget choices are Hoymiles (solid, but newer to the market) or generic brands with minimal track record.
 
-High-end inverters (Enphase, SMA, or EcoFlow's units) come from manufacturers with 10+ years' proven track record and clear support paths. Budget inverters are gambles—they might work perfectly for 20 years, or they might fail in year 3.
+High-end inverters (Enphase, SMA, or [EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)'s units) come from manufacturers with 10+ years' proven track record and clear support paths. Budget inverters are gambles—they might work perfectly for 20 years, or they might fail in year 3.
 
 **What this costs you:** If a budget inverter dies in year 2 and the warranty is "contact the manufacturer in China," you're stuck. The replacement cost (£200–£400) makes your early savings disappear.
 
@@ -76,6 +76,24 @@ Budget kits sometimes use lower-grade cabling or connectors that degrade faster 
 
 This matters more than it sounds. Poor connectors can corrode, causing resistance and fire risk.
 
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-badge">Best overall</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-price">~\u00a3799 <small>estimated</small></div>
+<ul class="pc-features">
+<li>800W dual-panel balcony or garden kit</li>
+<li>600Wh plug-in battery included</li>
+<li>App with live monitoring &amp; smart scheduling</li>
+<li>Balcony, garden &amp; flat-roof mount options</li>
+</ul>
+<a class="pc-cta" href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow \u2192</a>
+<div class="pc-note">BSI-compliant kits expected from July 2026. Prices are estimates.</div>
+</div>
+
+
 ## The False Economy Problem
 
 Here's the key insight: a £350 kit that fails in year 3 is objectively worse value than a £700 kit that runs for 20 years.
@@ -100,7 +118,7 @@ The budget kit *appears* cheaper. But if it fails, you've lost money AND you're 
 
 If you're buying a budget kit, here's the absolute floor:
 
-**Certification:** UKCA or CE marked with explicit BS 7671 Amendment 4 compliance. Non-negotiable.
+**Certification:** UKCA or CE marked with explicit [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 compliance. Non-negotiable.
 
 **Micro-inverter brand:** Must be Hoymiles, APsystems, or Enphase. These are proven in the European market. Don't buy anything else unless it has 5+ years' published track record you can verify independently.
 
@@ -179,8 +197,8 @@ If you want to experiment without risk, consider **hiring rather than buying**. 
 
 Budget plug-in solar exists, and some of it is genuinely good value. But cheap isn't the same as good. Buy the best you can afford, not the cheapest you can find.
 
-Whichever kit you buy, a smart plug between the inverter and wall socket gives you independent generation data — so you can verify you're getting what the manufacturer claims. The [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) (around £12) or the [Shelly Plus Plug UK](https://amzn.to/4sfA9nK) (around £15) both work well.
+Whichever kit you buy, a [smart plug](/blog/best-smart-plug-monitor-solar-uk) between the inverter and wall socket gives you independent generation data — so you can verify you're getting what the manufacturer claims. The [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) (around £12) or the [Shelly Plus Plug UK](https://amzn.to/4sfA9nK) (around £15) both work well.
 
 A £600 kit that runs reliably for 20 years beats a £350 kit that fails in 3. Do the maths before you buy.
 
-For a complete guide to available options, see our [buying guide](/blog/best-plug-in-solar-kit-uk).
+For a [complete guide](/blog/plug-in-solar-uk) to available options, see our [buying guide](/blog/best-plug-in-solar-kit-uk).

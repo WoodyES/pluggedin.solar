@@ -54,13 +54,13 @@ Germany has ~40 million homes. The UK has ~29 million. But the UK has a higher p
 - **South-facing walls and roofs**: The UK's prevailing westerly winds and building orientations offer more south-facing properties
 - **Terraced houses**: UK terraces have smaller dimensions, making 800W panels ideal for roof or balcony space
 
-Germany's market penetration among single-family homes is high. But the UK's bigger flat sector is largely untapped—and flats are the market where plug-in solar is revolutionary. A renter in a flat can't install rooftop solar. But a plug-in panel on a balcony? That's viable.
+Germany's market penetration among single-family homes is high. But the UK's bigger flat sector is largely untapped—and flats are the market where plug-in solar is revolutionary. A [renter](/blog/rented-flat-solar-panels-uk) in a flat can't install rooftop solar. But a plug-in panel on a balcony? That's viable.
 
 ### 3. **Regulatory Clarity from Day One**
 
 Germany had a messy legality journey. Pre-2023, the legal status was ambiguous. You could do it, but suppliers and DNOs were reluctant to acknowledge it.
 
-The UK has achieved clarity immediately. As of April 2026 with BS 7671 Amendment 4, plug-in solar is unambiguously legal. The BSI product standard launches July 2026, unlocking retail availability. There's no grey zone.
+The UK has achieved clarity immediately. As of April 2026 with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4, plug-in solar is unambiguously legal. The BSI product standard launches July 2026, unlocking retail availability. There's no grey zone.
 
 This removes a massive barrier to early adopters. People who were hesitant in Germany (because they weren't sure it was actually allowed) will be confident in the UK from the start.
 
@@ -138,7 +138,7 @@ If the UK enters a severe recession and unemployment spikes, household spending 
 Probability: ~30%. Economic cycles are inevitable, but they're temporary.
 
 ### 5. **Smart Export Guarantee Scheme Delays**
-If suppliers don't launch SEG schemes for non-MCS systems, the financial case weakens. People might still install panels (payback is still <2 years via self-consumption), but growth would be slower.
+If suppliers don't launch [SEG](/blog/plug-in-solar-smart-meter-exports-uk) schemes for non-MCS systems, the financial case weakens. People might still install panels (payback is still <2 years via self-consumption), but growth would be slower.
 
 Probability: ~20%. Suppliers are watching Germany closely and will likely launch schemes once volume justifies it.
 
@@ -170,7 +170,7 @@ If growth follows Germany's pattern, we should expect:
 If the UK reaches 2–3 million plug-in systems by 2030, the implications are profound:
 
 - **Peak demand reduction:** ~2GW less load on the grid at midday summer peak
-- **Stress on evening peak:** More self-consumption = less daytime export, but evening demand (heating, cooking, EV charging) unmet
+- **Stress on evening peak:** More [self-consumption](/blog/smart-meter-solar-self-consumption-uk) = less daytime export, but evening demand (heating, cooking, EV charging) unmet
 - **Distribution network change:** Power flows become more complex—some areas export to grid, others import
 - **Grid stabilisation product:** Batteries become attractive (store midday solar for evening use)
 
@@ -185,7 +185,7 @@ Probably, but not entirely:
 - **Cannibalised segment:** Mid-income households (£40k–£70k/year) who can afford a small investment but lack capital for professional installation
 - **Remaining market:** High-income households (£70k+/year) willing to spend £8,000+ for integrated systems, batteries, and monitoring
 
-The rooftop market won't die. It'll contract and specialise. Professional installers will pivot to battery storage and integrated systems. The days of £10k+ basic solar are probably over.
+The rooftop market won't die. It'll contract and specialise. Professional installers will pivot to [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) and integrated systems. The days of £10k+ basic solar are probably over.
 
 ## The Government's Play
 

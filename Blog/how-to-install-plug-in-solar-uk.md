@@ -31,15 +31,15 @@ You're looking for three things: **aspect, shade, and cable route.**
 
 Once you know where the panel is going, you need to know how it's going to stay there.
 
-**Balcony rail:** You have a south-facing balcony? Rail clamp, done. Takes 20 minutes. Read our [balcony mounting article](/blog/balcony-rail-mounting-plug-in-solar) for clamp types and weight limits.
+**Balcony rail:** You have a south-facing balcony? Rail clamp, done. Takes 20 minutes. Read our [balcony mounting article](/blog/balcony-rail-solar-mount-uk) for clamp types and weight limits.
 
-**Ground mounting (garden):** You have a sunny garden? Ground stakes on grass, a weighted A-frame on gravel or concrete. Takes 30 minutes. Read our [ground mounting article](/blog/ground-mount-plug-in-solar) for surface-specific guidance.
+**Ground mounting (garden):** You have a sunny garden? Ground stakes on grass, a weighted A-frame on gravel or concrete. Takes 30 minutes. Read our [ground mounting article](/blog/ground-mount-plug-in-solar-uk) for surface-specific guidance.
 
-**Flat roof:** You have a flat roof on your house, garage, or extension? Ballast frame, weighted down. Takes 20 minutes. Read our [flat roof article](/blog/flat-roof-ballast-mounting).
+**[Flat roof](/blog/flat-roof-plug-in-solar-uk):** You have a flat roof on your house, garage, or extension? Ballast frame, weighted down. Takes 20 minutes. Read our [flat roof article](/blog/flat-roof-ballast-solar-mount-uk).
 
-**Decking:** You have a south-facing deck? Weighted A-frame with a spreader plate. Takes 30 minutes. Read our [decking article](/blog/solar-panels-on-decking) for weight distribution and cable safety.
+**Decking:** You have a south-facing deck? Weighted A-frame with a spreader plate. Takes 30 minutes. Read our [decking article](/blog/solar-panels-on-decking-uk) for weight distribution and cable safety.
 
-**Wall:** You have a blank south-facing wall and nowhere else? Wall bracket with lag bolts into masonry. Takes 30 minutes to an hour, requires drilling. Read our [wall mounting article](/blog/wall-mount-plug-in-solar).
+**Wall:** You have a blank south-facing wall and nowhere else? Wall bracket with lag bolts into masonry. Takes 30 minutes to an hour, requires drilling. Read our [wall mounting article](/blog/wall-mount-plug-in-solar-uk).
 
 **Which is best?** Ground mounting and flat roof ballast mounting give you the best output, because you can angle the panel at 30–35 degrees (optimal for the UK). Balcony mounting is simpler but generates 30–40% less unless you use an adjustable clamp. Wall mounting is the fallback when everything else is impossible.
 
@@ -48,9 +48,9 @@ Most people find that one option is obviously right for their home. If you're to
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel balcony or garden kit</li>

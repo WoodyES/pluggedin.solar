@@ -6,7 +6,7 @@ date: 2026-04-13
 excerpt: "Both plug-in and rooftop solar are now confirmed for UK homes. Here's how to decide which system matches your property, budget, and goals."
 ---
 
-With BS 7671 Amendment 4 now published and the government's formal backing confirmed in March 2026, UK homeowners finally have a genuine choice: plug-in solar or traditional rooftop installations. But which actually makes sense for your home?
+With [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 now published and the government's formal backing confirmed in March 2026, UK homeowners finally have a genuine choice: plug-in solar or traditional rooftop installations. But which actually makes sense for your home?
 
 The answer depends on your budget, property type, risk appetite, and long-term energy plans. Let's break down the reality.
 
@@ -22,7 +22,7 @@ If you're on a tight budget, plug-in solar isn't a compromise; it's the only rea
 
 Here's where rooftop systems truly justify their cost. A 3kW rooftop system facing south in the Midlands will generate 3,500–4,500kWh per year. That's roughly 75–85% of a typical household's annual consumption.
 
-An 800W plug-in system generates around 700–900kWh annually in the same location. Still useful—offsetting heating, water, and standby consumption—but it won't replace most people's grid dependency. You're adding roughly 12–15% to your self-consumption, not replacing it.
+An 800W plug-in system generates around 700–900kWh annually in the same location. Still useful—offsetting heating, water, and standby consumption—but it won't replace most people's grid dependency. You're adding roughly 12–15% to your [self-consumption](/blog/smart-meter-solar-self-consumption-uk), not replacing it.
 
 This is the honest conversation most installers avoid: plug-in solar is meaningful, not transformative.
 
@@ -30,7 +30,7 @@ This is the honest conversation most installers avoid: plug-in solar is meaningf
 
 With plug-in solar, you plug it in. No planning permission, no building control, no structural engineers, no scaffolding, no roofers, no lead times. You own it outright from day one. If you move house, you take it with you—or sell it as a bonus feature to the next buyer.
 
-Rooftop systems require formal notification to your Distribution Network Operator (DNO) under G98 rules, completed within 28 days of commissioning. This is simple but non-negotiable. You'll also deal with planning permission (some councils wave it, others don't), building control sign-off, and professional teams who'll need access to your roof for months.
+Rooftop systems require formal notification to your Distribution Network Operator (DNO) under [G98](/blog/g98-dno-notification-plug-in-solar) rules, completed within 28 days of commissioning. This is simple but non-negotiable. You'll also deal with planning permission (some councils wave it, others don't), building control sign-off, and professional teams who'll need access to your roof for months.
 
 For renters, leaseholders, or anyone with a temperamental roof structure, plug-in solar is simply the only legal and practical option.
 
@@ -40,9 +40,9 @@ This is a critical difference many people overlook.
 
 With a rooftop system, you can register for the Smart Export Guarantee and earn money for every unit of electricity you export to the grid. Current rates hover around 15–24p/kWh, depending on supplier. Over a year, this adds £200–500 in additional income for a typical 3kW system.
 
-Plug-in solar doesn't currently qualify for SEG. Your excess generation goes to the grid, but you're not paid for it. This is a regulatory limitation, not a technical one—but it significantly impacts payback calculations if you're typically away during the day.
+Plug-in solar doesn't currently qualify for [SEG](/blog/plug-in-solar-smart-meter-exports-uk). Your excess generation goes to the grid, but you're not paid for it. This is a regulatory limitation, not a technical one—but it significantly impacts payback calculations if you're typically away during the day.
 
-However, if you pair plug-in solar with a ToU tariff like [Octopus Go](/) and battery storage, you can arbitrage the difference between cheap overnight charging rates (7–9p/kWh) and high daytime export windows (28–30p/kWh). This changes the economics considerably.
+However, if you pair plug-in solar with a ToU tariff like [Octopus Go](/) and [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), you can arbitrage the difference between cheap overnight charging rates (7–9p/kWh) and high daytime export windows (28–30p/kWh). This changes the economics considerably.
 
 ## Who Should Choose Plug-in Solar
 

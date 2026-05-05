@@ -17,7 +17,7 @@ The data below represents a typical 800W plug-in solar system (two 400W panels i
 
 ### London (South-East England)
 
-| Month | Daily Avg | Monthly Total | Self-Consumption Potential | Key Insight |
+| Month | Daily Avg | Monthly Total | [Self-Consumption](/blog/smart-meter-solar-self-consumption-uk) Potential | Key Insight |
 |-------|-----------|---|---|---|
 | January | 0.8 kWh | 25 kWh | Very low (winter load mismatch) | Minimal value without battery |
 | February | 1.1 kWh | 31 kWh | Low (demand doesn't align) | Still winter; patience required |
@@ -100,7 +100,7 @@ For a 400W system, **divide the above figures by 2**. For example:
 
 ### High Generation Period (May–August): 40% of Annual Output
 
-Summer dominates. Four months generate ~430 kWh (40% of London's 1,073 annual). This is when you experience real savings—or real export waste if you lack battery storage.
+Summer dominates. Four months generate ~430 kWh (40% of London's 1,073 annual). This is when you experience real savings—or real export waste if you lack [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk).
 
 **Implication**: If you can only install battery storage, summer is when it matters most.
 
@@ -172,7 +172,7 @@ Annual output is one thing; actual savings depend on:
 
 **Rough savings estimate** (London, 1,073 kWh/year, 70% self-consumption, 25p/kWh):
 - 1,073 × 0.70 × £0.25 = **£188/year in electricity avoided**
-- Payback period on £800 system: ~4 years
+- [Payback period](/blog/plug-in-solar-payback-period-uk) on £800 system: ~4 years
 
 With battery storage and optimised load-shifting, payback drops to 2–3 years.
 

@@ -84,9 +84,9 @@ This is the traditional answer for most garden offices. It works, it's reliable,
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel balcony or garden kit</li>
@@ -126,7 +126,7 @@ Your garden office still draws from the home's main supply. The solar just makes
 
 **Installation:** DIY (free) or professional (£200–£400)
 
-**Optional battery storage:** £1,500–£2,500 (not included in base cost)
+**Optional [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk):** £1,500–£2,500 (not included in base cost)
 
 **Total (no battery):** £500–£1,350
 
@@ -215,7 +215,7 @@ Most garden office owners choose **800W** (two 400W panels) because:
 - The output benefit is significant (nearly double)
 - If you later add battery storage, 800W gives you more to store
 
-For detailed sizing, see our guide on [400W vs 800W systems](/blog/800w-vs-400w-plug-in-solar).
+For detailed sizing, see our guide on [400W vs 800W systems](/blog/800w-vs-400w-plug-in-solar-uk).
 
 ## Off-Grid: The Third Option
 
@@ -233,7 +233,7 @@ If you want off-grid for most of the year with winter heating, budget £4,000–
 
 For most garden offices, grid-tied (with plug-in solar + optional battery) is more practical than full off-grid.
 
-See our full guide to [off-grid solar for garden offices](/blog/garden-office-off-grid-solar).
+See our full guide to [off-grid solar for garden offices](/blog/garden-office-off-grid-solar-uk).
 
 ## The Decision Framework
 
@@ -276,8 +276,8 @@ Don't let marketing push you one way. Run the maths for your specific situation.
 ## Next Steps
 
 - See our guide on [solar vs cable for garden offices](/blog/garden-office-solar-vs-electric-cable) for a detailed comparison
-- Learn how to [size a system for your office](/blog/garden-office-solar-how-many-panels)
-- Explore [off-grid options](/blog/garden-office-off-grid-solar) if you want autonomy
+- Learn how to [size a system for your office](/blog/how-many-solar-panels-for-garden-office)
+- Explore [off-grid options](/blog/garden-office-off-grid-solar-uk) if you want autonomy
 - Find out [which specific kit](/blog/best-plug-in-solar-kit-uk) to buy if you choose solar
 - Use our [savings calculator](/calculator) to work out your specific financial return
 

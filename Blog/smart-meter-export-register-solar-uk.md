@@ -12,7 +12,7 @@ author: "Pluggedin.solar"
 
 ## What the Export Register Does
 
-Your SMETS2 smart meter has two registers. The import register measures electricity you draw from the grid — that's what you pay for. The export register measures electricity flowing the other way — from your home to the grid. That's what you get paid for under the [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk).
+Your [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) smart meter has two registers. The import register measures electricity you draw from the grid — that's what you pay for. The export register measures electricity flowing the other way — from your home to the grid. That's what you get paid for under the [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk).
 
 The problem: many suppliers don't enable the export register by default. They assume you don't need it. If you've installed [plug-in solar panels](/blog/plug-in-solar-uk) and you're exporting surplus, that energy is going unrecorded.
 

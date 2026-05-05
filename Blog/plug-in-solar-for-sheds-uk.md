@@ -59,7 +59,7 @@ If your shed has mains power, here's the basic setup:
 
 You don't need a certified installer for plug-in solar on a shed—that's the beauty of it. But you do need to know what you're doing.
 
-**On a flat roof:** This is the easiest scenario. Clean the roof surface. Position ballast frames at a 25–35° angle facing south or southwest. Place panels in the frames (they sit in grooves, no drilling). Connect the DC cabling. Run it through a small conduit down to the shed's interior or to an external weatherproof connector. Connect to the inverter. Connect the AC output to a dedicated socket or circuit. Test with a multimeter. Done.
+**On a [flat roof](/blog/flat-roof-plug-in-solar-uk):** This is the easiest scenario. Clean the roof surface. Position ballast frames at a 25–35° angle facing south or southwest. Place panels in the frames (they sit in grooves, no drilling). Connect the DC cabling. Run it through a small conduit down to the shed's interior or to an external weatherproof connector. Connect to the inverter. Connect the AC output to a dedicated socket or circuit. Test with a multimeter. Done.
 
 **On a pitched roof:** You're now in the realm of fixing panels to slates or tiles. This is where plug-in solar's simplicity starts to fray. You've got wind loading to think about. You've got the structural engineering that comes with traditional installations. Honestly, if you're considering a pitched roof, a full installation (with an MCS-certified installer, proper engineering, and warranty) often makes more financial sense.
 

@@ -9,7 +9,7 @@ priority: "HIGH"
 wordcount: 1800
 ---
 
-On 15 April 2026, the Institution of Engineering and Technology published an update to BS 7671 — the Wiring Regulations that govern every electrical installation in the UK. This update, Amendment 4, is the technical foundation that makes plug-in solar legal.
+On 15 April 2026, the Institution of Engineering and Technology published an update to [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) — the Wiring Regulations that govern every electrical installation in the UK. This update, Amendment 4, is the technical foundation that makes plug-in solar legal.
 
 But it's often misunderstood. People think Amendment 4 means plug-in solar is now safe and ready. It doesn't. It means the framework is ready. The actual safety certification of specific products comes later (the BSI product standard, expected July 2026).
 
@@ -63,7 +63,7 @@ None of this is unusual. It's applying the same safety principles that already g
 
 This is crucial: **Amendment 4 doesn't say which products are safe.**
 
-It doesn't say "EcoFlow's kit is safe" or "Anker's kit is safe." It says "if you're connecting a small solar system, here's how to connect it safely."
+It doesn't say "[EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)'s kit is safe" or "Anker's kit is safe." It says "if you're connecting a small solar system, here's how to connect it safely."
 
 The question "which products are actually safe?" is answered by the **BSI product standard**, expected July 2026. That standard certifies specific inverters, panels, and complete systems.
 
@@ -134,7 +134,7 @@ Amendment 4 is the critical piece, but it's not the final piece.
 ## For More Detail
 
 - Complete legal picture: see our [main legal guide](/blog/is-plug-in-solar-legal-uk)
-- Product standard details: see our [BSI standard guide](/blog/bsi-product-standard-plug-in-solar)
+- Product standard details: see our [BSI standard guide](/blog/bsi-plug-in-solar-standard-uk)
 - DNO notification: see our [G98 guide](/blog/g98-dno-notification-plug-in-solar)
 - Installation: see our [installation guide](/blog/how-to-install-plug-in-solar-uk) — coming soon
 

@@ -169,4 +169,4 @@ If you ever sell your house and leave the system, you'll have documented proof o
 
 A smart plug is probably the single most useful monitoring tool you can fit to a plug-in solar system. At £12–30, it pays for itself in the first month by helping you understand your system and spot problems early.
 
-For more monitoring options and integrations, check out our guides on [choosing an energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) and [calculating your solar savings](/blog/how-much-can-plug-in-solar-save). And if you want to know what you can actually generate, we've got a real-world guide on [how much electricity does balcony solar actually produce](/blog/how-much-does-balcony-solar-actually-generate).
+For more monitoring options and integrations, check out our guides on [choosing an energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) and [calculating your solar savings](/blog/how-much-does-plug-in-solar-save-uk). And if you want to know what you can actually generate, we've got a real-world guide on [how much electricity does balcony solar actually produce](/blog/how-much-does-balcony-solar-actually-generate).

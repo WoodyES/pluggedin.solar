@@ -32,9 +32,9 @@ All three major brands we're covering (EcoFlow, Anker, Jackery) offer LiFePO4 op
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with Delta 2 battery" /></div>
+<div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with [Delta 2](/blog/ecoflow-delta-2-review-uk) battery" /></div>
 <div class="pc-badge">Premium choice</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W + Delta 2</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W + Delta 2</a></div>
 <div class="pc-price">~£1,099 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel kit with 1kWh Delta battery</li>
@@ -130,7 +130,7 @@ The sweet spot for most British plug-in solar users is 2-5kWh. Less than that an
 
 Portable power stations shine in several scenarios:
 
-**Garden office**: run your computer and equipment from stored solar, reduce grid consumption massively.
+**[Garden office](/blog/solar-panels-for-garden-office-uk)**: run your computer and equipment from stored solar, reduce grid consumption massively.
 
 **Camping and glamping**: the crossover appeal of portable power stations is that they're brilliant for both solar integration at home and taking off-grid for holidays.
 
@@ -170,4 +170,4 @@ This is actually a point in favour of expandable systems. Buy a mid-size battery
 
 For most UK plug-in solar users, a 2-3kWh capacity in the £1,500-3,000 range is the sensible starting point. Whether you go EcoFlow, Anker, or Jackery depends on whether you value software polish (EcoFlow), portability (Anker), or conservative reliability (Jackery). All three are genuinely good systems.
 
-For context on how a portable power station fits into a complete plug-in solar setup, see our guide on [the best plug-in solar kits for the UK](/blog/best-plug-in-solar-kit-uk). If you're thinking about a garden office or shed setup, we've got specific guides on [garden office off-grid solar](/blog/garden-office-off-grid-solar) and [shed solar panels off-grid](/blog/plug-in-solar-vs-off-grid-battery-shed).
+For context on how a portable power station fits into a complete plug-in solar setup, see our guide on [the best plug-in solar kits for the UK](/blog/best-plug-in-solar-kit-uk). If you're thinking about a garden office or shed setup, we've got specific guides on [garden office off-grid solar](/blog/garden-office-off-grid-solar-uk) and [shed solar panels off-grid](/blog/shed-solar-panels-off-grid-uk).

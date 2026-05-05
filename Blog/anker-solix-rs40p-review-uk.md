@@ -34,7 +34,7 @@ The Anker SOLIX RS40P is an 800W grid-tied plug-in solar system. It comprises:
 
 ## The Headline Comparison: Anker vs EcoFlow
 
-| Feature | Anker SOLIX | EcoFlow STREAM |
+| Feature | Anker SOLIX | [EcoFlow STREAM](/blog/ecoflow-stream-review-uk) |
 |---------|------------|----------------|
 | Capacity | 800W | 600W |
 | Price | £899 | £949 |
@@ -49,7 +49,7 @@ The key tension: Anker gives you more wattage for less money, but EcoFlow has a 
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
 <div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>

@@ -43,10 +43,10 @@ The cautious answer is yes — tell them. Most home insurance policies require y
 
 **What to tell them:**
 - You've installed a plug-in solar system (400W or 800W)
-- It complies with BS 7671 Amendment 4
+- It complies with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4
 - It's connected to a standard 13A socket
 - It's certified to the BSI product standard (once kits carry this)
-- You've completed your G98 DNO notification
+- You've completed your [G98](/blog/g98-dno-notification-plug-in-solar) DNO notification
 
 Most insurers won't change your premium or terms for this. Some may not even note it. But having told them means they can't later claim you failed to disclose a relevant change.
 

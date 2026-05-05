@@ -8,7 +8,7 @@ date: 2026-04-14
 
 Off-grid is different. Your cabin, lodge, or outbuilding isn't connected to the mains electricity grid. That means:
 
-- No G98 notification required (you're not feeding power back to the grid, so Ofgem doesn't care).
+- No [G98](/blog/g98-dno-notification-plug-in-solar) notification required (you're not feeding power back to the grid, so Ofgem doesn't care).
 - No micro-inverter needed (you're not converting DC to AC for the grid—your battery and loads are DC-native).
 - Simpler, cheaper system architecture (panel → charge controller → battery → loads).
 - Different sizing logic (you're powering specific appliances, not offsetting consumption).
@@ -100,13 +100,13 @@ Off-grid systems are DC-centric and high-voltage. Mistakes can cause fires or el
 - Battery enclosures should be ventilated to prevent hydrogen gas buildup (applies to lead-acid; lithium doesn't gas off).
 - Fire extinguishers rated for electrical fires should be nearby.
 
-BS 7671 Amendment 4 (April 2026) applies to off-grid systems too, though the rules are slightly different because you're not tied to the grid. An electrician with solar experience will know the requirements.
+[BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 (April 2026) applies to off-grid systems too, though the rules are slightly different because you're not tied to the grid. An electrician with solar experience will know the requirements.
 
 ## Portable vs Permanent
 
 **Portable off-grid:** Some users buy a [Jackery 1000 v2](https://amzn.to/4tmxjhG) (~£499) paired with a 100–200W portable solar panel (£300–500). Plug it in, use it for a weekend, unplug and take it home. Simple, minimal installation, flexible.
 
-**Permanent off-grid:** A fixed installation (panels on the roof or on a ground mount, wiring in conduits, battery in an enclosure) is more efficient and reliable, but requires planning and professional setup.
+**Permanent off-grid:** A fixed installation (panels on the roof or on a [ground mount](/blog/ground-mount-plug-in-solar-uk), wiring in conduits, battery in an enclosure) is more efficient and reliable, but requires planning and professional setup.
 
 Most off-grid cabins lean permanent. Holiday lets and workshops too. Portable systems suit weekend getaways or backup power.
 

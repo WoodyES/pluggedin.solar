@@ -92,7 +92,7 @@ Your system is now officially recorded with the network. This matters for:
 
 - **Safety and network management.** The DNO knows what's connected and can account for it when managing the grid.
 - **Legal compliance.** You've done what the regulations require. If you ever sell the house or move, you can prove you notified them.
-- **Smart Export Guarantee (SEG).** If you're on a scheme that pays you for exporting excess electricity to the grid, the DNO's record helps process those payments.
+- **[Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG).** If you're on a scheme that pays you for exporting excess electricity to the grid, the DNO's record helps process those payments.
 
 ## Timescales
 

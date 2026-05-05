@@ -9,7 +9,7 @@ priority: 1
 wordcount: 950
 ---
 
-The [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) is a £15 smart plug with energy monitoring. It wasn't designed for solar — it was designed to track the power draw of appliances like kettles and washing machines. But it's become one of the most commonly used tools for monitoring plug-in solar output in the UK and Germany, and for good reason: it's cheap, reliable, and does 90% of what a dedicated solar monitor does.
+The [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) is a £15 [smart plug](/blog/best-smart-plug-monitor-solar-uk) with energy monitoring. It wasn't designed for solar — it was designed to track the power draw of appliances like kettles and washing machines. But it's become one of the most commonly used tools for monitoring plug-in solar output in the UK and Germany, and for good reason: it's cheap, reliable, and does 90% of what a dedicated solar monitor does.
 
 ## How It Works for Solar Monitoring
 
@@ -31,7 +31,7 @@ Setup takes five minutes: plug the P110 into the wall socket, plug the inverter 
 
 The P110 only measures the inverter output — it doesn't know what happens to that electricity after it enters your ring main. It can't tell you how much you self-consumed versus how much you exported. It can't show you total household consumption.
 
-For the full picture (import, export, self-consumption ratio), you need a whole-home energy monitor like the [Emporia Vue 3](https://amzn.to/4bUCQ9E). But for most plug-in solar owners, the P110's generation data is sufficient for the first year — you can calculate self-consumption roughly from your electricity bills.
+For the full picture (import, export, [self-consumption](/blog/smart-meter-solar-self-consumption-uk) ratio), you need a whole-home [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) like the [Emporia Vue 3](https://amzn.to/4bUCQ9E). But for most plug-in solar owners, the P110's generation data is sufficient for the first year — you can calculate self-consumption roughly from your electricity bills.
 
 ## Setup Tips
 
@@ -61,7 +61,7 @@ At very low loads (below 5W), accuracy drops. This means the P110 may show 0W du
 
 Before spending money on your solar kit, the P110 probably isn't relevant. But the moment your system is installed, it should be the first accessory purchase you make. Without monitoring, you have no idea whether your system is working correctly, how much you're generating, or whether your savings expectations are realistic.
 
-At £15, it's the best return on investment in the entire plug-in solar ecosystem. It pays for itself within the first month by giving you the data to verify your system is functioning — and if it isn't, you'll know immediately rather than waiting for a disappointing electricity bill three months later.
+At £15, it's the best [return on investment](/blog/is-plug-in-solar-good-investment-uk-2026) in the entire plug-in solar ecosystem. It pays for itself within the first month by giving you the data to verify your system is functioning — and if it isn't, you'll know immediately rather than waiting for a disappointing electricity bill three months later.
 
 Buy the [Tapo P110 on Amazon](https://amzn.to/4m9Yh9U).
 

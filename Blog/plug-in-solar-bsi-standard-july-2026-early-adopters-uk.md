@@ -9,13 +9,13 @@ priority: 1
 wordcount: 950
 ---
 
-The UK's plug-in solar regulations became legal in principle with BS 7671 Amendment 4 in April 2026, but the BSI product standard that defines exactly what a compliant kit looks like isn't expected until July 2026. For the thousands of UK owners who installed systems before that date — either under the previous grey-area arrangement or in the window between the wiring standard and product standard — the obvious question is: does the new standard make my kit non-compliant?
+The UK's plug-in solar regulations became legal in principle with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 in April 2026, but the BSI product standard that defines exactly what a compliant kit looks like isn't expected until July 2026. For the thousands of UK owners who installed systems before that date — either under the previous grey-area arrangement or in the window between the wiring standard and product standard — the obvious question is: does the new standard make my kit non-compliant?
 
 The short answer: almost certainly not. Here's the longer version.
 
 ## What the Product Standard Does
 
-BS 7671 Amendment 4 defines the installation requirements: the circuit type, the RCD type, the G98 notification process, and the electrical rules for connecting a plug-in solar system to a UK home. This is the wiring standard — it covers how the system is connected, not what the system itself looks like.
+BS 7671 Amendment 4 defines the installation requirements: the circuit type, the RCD type, the [G98](/blog/g98-dno-notification-plug-in-solar) notification process, and the electrical rules for connecting a plug-in solar system to a UK home. This is the wiring standard — it covers how the system is connected, not what the system itself looks like.
 
 The BSI product standard (expected July 2026) is separate. It defines what a compliant **product** must look like: safety certifications, marking, inverter specifications, and connector standards. This is the standard that manufacturers must meet to sell compliant kits through UK retailers.
 
@@ -23,15 +23,33 @@ Think of it this way: BS 7671 tells you how to wire the socket; the product stan
 
 ## What UKCA Marking Means for Existing Kits
 
-Post-Brexit, UK product conformity is shown by the **UKCA mark** rather than the CE mark used in Europe. European CE-marked products (including all current German Balkonkraftwerk kits, Hoymiles inverters, EcoFlow STREAM, Anker SOLIX) are not automatically accepted under UKCA.
+Post-Brexit, UK product conformity is shown by the **UKCA mark** rather than the CE mark used in Europe. European CE-marked products (including all current German Balkonkraftwerk kits, Hoymiles inverters, [EcoFlow STREAM](/blog/ecoflow-stream-review-uk), Anker SOLIX) are not automatically accepted under UKCA.
 
 When the BSI product standard publishes in July 2026, manufacturers will need to produce a UKCA-compliant version of their products to sell through UK retail channels. Kits already in the UK market that carry CE marking are in a transitional period — they can continue to be sold and used legally under the existing transition arrangements.
 
 **Critically: installing a CE-marked kit before the product standard is not illegal.** The regulatory position throughout 2026 has been that plug-in solar systems meeting the European standards (specifically the DIN VDE V 0126-95 standard used in Germany) are acceptable pending the UK's own standard, provided the wiring installation meets BS 7671.
 
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-badge">Best overall</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-price">~\u00a3799 <small>estimated</small></div>
+<ul class="pc-features">
+<li>800W dual-panel balcony or garden kit</li>
+<li>600Wh plug-in battery included</li>
+<li>App with live monitoring &amp; smart scheduling</li>
+<li>Balcony, garden &amp; flat-roof mount options</li>
+</ul>
+<a class="pc-cta" href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow \u2192</a>
+<div class="pc-note">BSI-compliant kits expected from July 2026. Prices are estimates.</div>
+</div>
+
+
 ## Do You Need to Replace Your Kit?
 
-No. There is no retrospective compliance requirement. The product standard applies to products sold after the date it comes into force, not to existing installations. Your EcoFlow STREAM, Hoymiles-based kit, or any other CE-marked system you've installed will not become "illegal" when the product standard publishes.
+No. There is no retrospective compliance requirement. The product standard applies to products sold after the date it comes into force, not to existing installations. Your [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system), Hoymiles-based kit, or any other CE-marked system you've installed will not become "illegal" when the product standard publishes.
 
 This mirrors the approach taken in Germany when they updated their own standards in 2024: existing installations were explicitly grandfathered. UK policy is expected to take the same approach.
 

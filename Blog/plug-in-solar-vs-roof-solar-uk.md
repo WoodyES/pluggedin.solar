@@ -27,7 +27,7 @@ This is a typical domestic solar system: roughly 10–12 panels on a pitched roo
 
 **Upfront cost:** £8,000–£12,000 (installed by an MCS-certified installer)
 
-**Payback period:** 9–13 years
+**[Payback period](/blog/plug-in-solar-payback-period-uk):** 9–13 years
 
 **Total 25-year benefit:** £23,000–£25,000 (accounting for modest degradation and modest energy price inflation)
 
@@ -99,7 +99,7 @@ This is the upper limit of plug-in solar in the UK: two 400W panels (or equivale
 
 A professional rooftop installation looks intentional and adds perceived value to a home (whether it adds actual resale value is debated, but most surveys suggest it's neutral to slightly positive).
 
-Plug-in solar can look improvised, especially on a pitched roof or if cabling is visible. On a flat roof or ground mount, it looks fine. This is subjective, but it matters to some people and some buyers.
+Plug-in solar can look improvised, especially on a pitched roof or if cabling is visible. On a [flat roof](/blog/flat-roof-plug-in-solar-uk) or [ground mount](/blog/ground-mount-plug-in-solar-uk), it looks fine. This is subjective, but it matters to some people and some buyers.
 
 ### Maintenance and Reliability
 
@@ -165,6 +165,6 @@ Neither is "wrong." They solve different problems.
 
 **You're leaning toward full installation?** Contact 2–3 MCS-certified installers in your area and request quotes. They'll assess your roof, give you generation estimates, and provide a fixed price. The [calculator](/calculator) gives you a rough estimate; installer quotes are precise.
 
-**You're leaning toward plug-in?** Check your postcode on the [calculator](/calculator) to estimate generation. Browse the [step-by-step installation guide](/blog/how-to-install-plug-in-solar-uk) to understand the process. If you're unsure about the difference between grid-tied and off-grid, start with [the complete plug-in solar guide](/blog/plug-in-solar-uk-complete-guide).
+**You're leaning toward plug-in?** Check your postcode on the [calculator](/calculator) to estimate generation. Browse the [step-by-step installation guide](/blog/how-to-install-plug-in-solar-uk) to understand the process. If you're unsure about the difference between grid-tied and off-grid, start with [the complete plug-in solar guide](/blog/plug-in-solar-uk).
 
 **You're unsure which path?** Install plug-in solar now (£900–£1,400), observe generation and bill impact for a year, then decide if you want to upgrade. The data will guide you better than speculation.

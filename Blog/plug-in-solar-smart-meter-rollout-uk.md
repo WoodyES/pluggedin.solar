@@ -18,11 +18,11 @@ Over the past decade, UK energy suppliers have been rolling out SMETS2 smart met
 
 SMETS2 meters do something crucial: they record both your import (power you're buying from the grid) and your export (power you're sending back). They take half-hourly readings, which means your supplier can see exactly how much solar energy you're pushing out each 30-minute window.
 
-This matters because when the Smart Export Guarantee (SEG) scheme becomes more widely available—potentially through a broader scheme in the coming years—meters that can't measure export are essentially useless. You'd have no verifiable record of what you've generated and sold back.
+This matters because when the [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG) scheme becomes more widely available—potentially through a broader scheme in the coming years—meters that can't measure export are essentially useless. You'd have no verifiable record of what you've generated and sold back.
 
 ## Why Export Measurement Matters for Plug-in Solar
 
-Here's the practical bit: if you install a plug-in solar panel today and connect it to a standard grid outlet, your home is generating electricity. If you're feeding that back into the network, your energy supplier needs to know about it. Not for legal reasons (that's handled by your G98 notification to your DNO), but because:
+Here's the practical bit: if you install a plug-in solar panel today and connect it to a standard grid outlet, your home is generating electricity. If you're feeding that back into the network, your energy supplier needs to know about it. Not for legal reasons (that's handled by your [G98](/blog/g98-dno-notification-plug-in-solar) notification to your DNO), but because:
 
 1. **Future SEG access**: Most SEG schemes require MCS-certified installations. But as policy evolves, smaller schemes may emerge that do measure and reward self-installed systems. A meter that can't record export is worthless for this.
 
@@ -36,7 +36,7 @@ Here's the practical bit: if you install a plug-in solar panel today and connect
 
 If your smart meter has a display that shows both import and export readings—or if your supplier's app shows export data—you've got a SMETS2 meter. If you're unsure, contact your supplier and ask: "Do my smart meter readings include export data?"
 
-Most meters installed since 2023 are SMETS2. But older SMETS1 meters, or traditional mechanical meters, do not record export.
+Most meters installed since 2023 are SMETS2. But older [SMETS1](/blog/smets1-vs-smets2-solar-panels-uk) meters, or traditional mechanical meters, do not record export.
 
 ## What If You Don't Have a Smart Meter?
 

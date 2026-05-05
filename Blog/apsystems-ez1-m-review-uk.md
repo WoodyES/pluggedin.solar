@@ -108,7 +108,7 @@ In UK outdoor conditions, the main risk is **water ingress** (not uncommon in no
 
 ## Output Monitoring Beyond WiFi
 
-Real-time socket monitoring matters for grid export accountability. Most UK installers pair the EZ1-M with a smart plug:
+Real-time socket monitoring matters for grid export accountability. Most UK installers pair the EZ1-M with a [smart plug](/blog/best-smart-plug-monitor-solar-uk):
 
 - [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) (~£15): Cloud-based, affordable, good accuracy.
 - [Shelly Plus Plug UK](https://amzn.to/4sfA9nK) (~£20): Local-only control, Home Assistant integration.
@@ -139,4 +139,4 @@ Install carefully, use proper safety gear, and you'll have a set-and-forget syst
 **See also:**  
 [Eve Energy vs Tapo P110 vs Shelly: Best Solar Smart Plug UK](/blog/eve-energy-vs-tapo-p110-vs-shelly-uk)  
 [Best Cable Management for Plug-in Solar UK 2026](/blog/best-cable-management-plug-in-solar-uk-2026)  
-[TP-Link Tapo P110 Smart Plug Review](/blog/tapo-p110-review-uk) *(future article)*
+[TP-Link Tapo P110 Smart Plug Review](/blog/tapo-p110-solar-monitoring-review-uk) *(future article)*

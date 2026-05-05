@@ -30,7 +30,7 @@ Here's the challenge: if you're generating 5 kWh at midday and your home is only
 2. **Wastes as heat** in your micro-inverter if it has no export control
 3. **Charges a battery** (if you have one)
 
-Without battery storage, summer plug-in solar becomes far less valuable. A [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) or similar makes a dramatic difference.
+Without [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), summer plug-in solar becomes far less valuable. A [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) or similar makes a dramatic difference.
 
 ## Tip 1: Shift Heavy Loads to Peak Generation Hours (10 am–3 pm)
 
@@ -44,9 +44,9 @@ In summer, deliberately shift loads to align with solar generation:
 - **Dishwasher**: Run it at 1 pm instead of after dinner
 - **Cooking**: Use electric ovens during midday rather than evening
 
-This *self-consumption* is the most valuable use of your generation. Every kWh you directly consume saves you the retail electricity price (currently 20–25p/kWh). Any kWh you export earns you a fraction of that.
+This *[self-consumption](/blog/smart-meter-solar-self-consumption-uk)* is the most valuable use of your generation. Every kWh you directly consume saves you the retail electricity price (currently 20–25p/kWh). Any kWh you export earns you a fraction of that.
 
-A [Tapo P110](https://amzn.to/4m9Yh9U) smart plug lets you see real-time generation and monitor which appliances are running. Once you visualise the morning solar spike, shifting loads becomes intuitive.
+A [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) lets you see real-time generation and monitor which appliances are running. Once you visualise the morning solar spike, shifting loads becomes intuitive.
 
 ## Tip 2: Adjust Panel Tilt for Summer
 

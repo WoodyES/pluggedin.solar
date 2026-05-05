@@ -74,7 +74,7 @@ If you want to get 30–35 degrees exactly:
 
 **Ground-mounted A-frame:** Usually comes pre-set to 30–35 degrees. If it's adjustable, fine-tune it. If it's fixed, check it's close to 30 degrees; if not, shim it. The [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) lets you dial in the exact angle you need.
 
-**Flat roof ballast mount:** You set the angle yourself. Aim for 30–35 degrees. Use a spirit level to check. Adjust by moving the ballast or shimming the frame.
+**[Flat roof](/blog/flat-roof-plug-in-solar-uk) ballast mount:** You set the angle yourself. Aim for 30–35 degrees. Use a spirit level to check. Adjust by moving the ballast or shimming the frame.
 
 **Wall-mounted bracket:** Depends on the bracket. A fixed bracket holds you at whatever angle it's designed for (often too steep or too shallow). An adjustable bracket lets you dial in 30 degrees.
 

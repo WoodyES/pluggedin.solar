@@ -45,7 +45,7 @@ Together, these create the March surge. It's not dramatic day-to-day, but across
 
 April continues the improvement, reaching 3.6 kWh daily. May crosses the 4.5 kWh threshold—enough to power a typical afternoon's household consumption.
 
-By May, a sunny day might generate 5–6 kWh, enough to cover an entire evening's heating, lighting, and appliances if you have battery storage.
+By May, a sunny day might generate 5–6 kWh, enough to cover an entire evening's heating, lighting, and appliances if you have [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk).
 
 This is when plug-in solar transitions from a curiosity to a genuine contributor to your energy mix.
 

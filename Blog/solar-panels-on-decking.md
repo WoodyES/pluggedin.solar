@@ -93,4 +93,4 @@ Decking is a fallback option, and a reasonable one if you meet the criteria abov
 7. **Route the cable.** Along the edge with clips, under the deck if possible, or through conduit.
 8. **Test it.** Push the panel sideways. It should barely move. If it sways, add more ballast.
 
-For more on other mounting options, see our [surface placement guide](/blog/where-to-install-plug-in-solar-uk) and our detailed article on [ground mounting](/blog/ground-mount-plug-in-solar).
+For more on other mounting options, see our [surface placement guide](/blog/where-to-install-plug-in-solar-uk) and our detailed article on [ground mounting](/blog/ground-mount-plug-in-solar-uk).

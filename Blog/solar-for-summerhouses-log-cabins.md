@@ -127,7 +127,7 @@ October and November, you might need to turn off the fridge during cloudy spells
 
 Your cabin is a 6 by 4 metre space with a bed, a desk, a small kitchenette, and a seating area. You visit for long weekends May–October and want a comfortable experience.
 
-You choose: a 400Wh battery (EcoFlow River Pro) and 600W of solar panels (two 300W panels) on a ballast frame on the flat roof.
+You choose: a 400Wh battery (EcoFlow River Pro) and 600W of solar panels (two 300W panels) on a ballast frame on the [flat roof](/blog/flat-roof-plug-in-solar-uk).
 
 **Cost:** ~£1,000 total.
 

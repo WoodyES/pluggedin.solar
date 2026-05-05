@@ -15,7 +15,7 @@ To understand why change happened in 2026, you need to know why it didn't happen
 
 ## Germany's Head Start: 2012
 
-Germany legalised balcony solar in 2012. By 2026, they had 1.2 million installations. Millions of German renters and flat dwellers had portable, affordable solar. The technical issues that everyone said would cause chaos simply… didn't.
+Germany legalised [balcony solar](/blog/balcony-solar-uk) in 2012. By 2026, they had 1.2 million installations. Millions of German renters and flat dwellers had portable, affordable solar. The technical issues that everyone said would cause chaos simply… didn't.
 
 The UK watched. And didn't follow.
 
@@ -23,7 +23,7 @@ This was strange. The UK has always positioned itself as a leader in clean energ
 
 ## The Wiring Regulations Objection
 
-The first barrier was regulatory. UK electrical safety is governed by **BS 7671** — the Institution of Engineering and Technology's Wiring Regulations. These rules govern every electrical installation in the country, from rewiring a house to connecting a generator.
+The first barrier was regulatory. UK electrical safety is governed by **[BS 7671](/blog/bs-7671-amendment-4-plain-english-guide)** — the Institution of Engineering and Technology's Wiring Regulations. These rules govern every electrical installation in the country, from rewiring a house to connecting a generator.
 
 BS 7671 didn't explicitly allow small solar systems plugged into a wall socket. The regulations were written before this technology existed. So the Institutions (primarily the IET — Institution of Engineering and Technology) said: "We can't certify something the regulations don't cover."
 

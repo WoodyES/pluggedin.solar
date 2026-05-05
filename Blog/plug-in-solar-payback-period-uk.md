@@ -75,7 +75,7 @@ This is where payback gets interesting. Your electricity tariff can compress or 
 ### Time-of-Use Tariff (Octopus Flux, Go, etc.)
 - Peak rate (8am–8pm): 15–20p/kWh
 - Off-peak: 5–8p/kWh
-- Daytime solar self-consumption is worth 15–20p, not just 30p average
+- Daytime solar [self-consumption](/blog/smart-meter-solar-self-consumption-uk) is worth 15–20p, not just 30p average
 - Plus export rewards (15p for surplus generation)
 
 **Effective saving: ~£300–£340/year → 2.4–2.7 year payback**

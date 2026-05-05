@@ -15,7 +15,7 @@ Technically, you can. But the safety basis changes — and you need to understan
 
 ## What the Regulations Actually Say
 
-BS 7671 Amendment 4 — the wiring standard that made plug-in solar legal in April 2026 — addresses a single plug-in solar energy system (PSES) connected to a final circuit. The 800W cap, the G98 notification, the anti-islanding requirements — all assume one unit per circuit.
+[BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 — the wiring standard that made plug-in solar legal in April 2026 — addresses a single plug-in solar energy system (PSES) connected to a final circuit. The 800W cap, the [G98](/blog/g98-dno-notification-plug-in-solar) notification, the anti-islanding requirements — all assume one unit per circuit.
 
 The regulations don't explicitly ban multiple units. But they don't address the cumulative effects either. As the Institution of Engineering and Technology (IET) guidance notes, the engineering basis for safety becomes less clear when a household installs two or three units on the same ring main.
 

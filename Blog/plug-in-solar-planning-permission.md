@@ -19,7 +19,7 @@ Solar panels on residential properties fall under "permitted development rights"
 
 Class A permits the installation of solar panels on a dwelling house or within its grounds, provided they meet certain conditions (mainly around size, positioning, and visual impact). Plug-in solar systems — typically 1–2 panels on a balcony, garden, or wall — comfortably fall within these limits.
 
-On top of that, the UK government's March 2026 announcement explicitly confirmed that plug-in solar systems up to 800W are legal to install and connect without any specialist permission, building control sign-off, or planning application. The only administrative requirement is a G98 notification to your Distribution Network Operator (DNO) within 28 days of connection.
+On top of that, the UK government's March 2026 announcement explicitly confirmed that plug-in solar systems up to 800W are legal to install and connect without any specialist permission, building control sign-off, or planning application. The only administrative requirement is a [G98](/blog/g98-dno-notification-plug-in-solar) notification to your Distribution Network Operator (DNO) within 28 days of connection.
 
 ## Balcony Panels: No Permission Needed
 
@@ -35,7 +35,7 @@ Panels on a freestanding frame in your garden, on stakes in the lawn, or weighte
 
 A typical 2-panel plug-in solar system is roughly 3–4 square metres and under 2 metres tall. Well within limits.
 
-For setup guidance, see our [ground mounting guide](/blog/ground-mount-plug-in-solar).
+For setup guidance, see our [ground mounting guide](/blog/ground-mount-plug-in-solar-uk).
 
 ## Wall-Mounted Panels: No Permission Needed (Usually)
 
@@ -49,9 +49,9 @@ For most homes, this is a non-issue. Standard solar panel brackets protrude 50�
 
 Solar panels on an outbuilding (shed, garage, summer house, garden office) are permitted development under the same Part 14 rules. The outbuilding must be within the curtilage of the dwelling — which means in your garden, not on separate land.
 
-The panel mustn't project above the highest part of the roof (excluding the chimney). On a typical pitched shed roof, this means the panels sit flat or at a shallow angle. On a flat-roof outbuilding, use a [ballast frame](/blog/flat-roof-ballast-mounting) to angle panels without exceeding the roofline.
+The panel mustn't project above the highest part of the roof (excluding the chimney). On a typical pitched shed roof, this means the panels sit flat or at a shallow angle. On a flat-roof outbuilding, use a [ballast frame](/blog/flat-roof-ballast-solar-mount-uk) to angle panels without exceeding the roofline.
 
-For powering sheds with solar, see our [complete shed solar guide](/blog/how-to-power-shed-with-solar).
+For powering sheds with solar, see our [complete shed solar guide](/blog/how-to-power-shed-with-solar-uk).
 
 ## Flat Roof Extensions: No Permission Needed
 
@@ -92,13 +92,13 @@ No, provided the panels don't project above the highest point of the shed roof. 
 No. Ground-mounted solar within your garden is permitted development, provided the installation is under 9 square metres in area and under 4 metres tall.
 
 **Do I need building regulations approval for plug-in solar?**
-No. Plug-in solar systems up to 800W are exempt from building control. The system must comply with BS 7671 Amendment 4 (the wiring standard), but any compliant kit sold after July 2026 will meet this automatically.
+No. Plug-in solar systems up to 800W are exempt from building control. The system must comply with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 (the wiring standard), but any compliant kit sold after July 2026 will meet this automatically.
 
 **Do I need my landlord's permission?**
 Landlord permission is separate from planning permission. You don't need council planning approval, but you may need your landlord or management company's agreement. See our [renters guide](/blog/plug-in-solar-for-renters-uk).
 
 **What about the DNO notification?**
-Within 28 days of connecting your system, you need to complete a G98 notification form with your Distribution Network Operator. This is administrative notification, not permission — they don't approve or reject it. See our [G98 step-by-step guide](/blog/g98-dno-notification-step-by-step).
+Within 28 days of connecting your system, you need to complete a G98 notification form with your Distribution Network Operator. This is administrative notification, not permission — they don't approve or reject it. See our [G98 step-by-step guide](/blog/g98-dno-notification-plug-in-solar).
 
 ## The Bottom Line
 

@@ -12,7 +12,7 @@ author: "Pluggedin.solar"
 
 ## Why You Should Track Savings Properly
 
-"Is my plug-in solar actually saving me money?" is the question everyone asks after the first month. Your smart meter gives you the raw data to answer it precisely — no estimation needed.
+"Is my plug-in solar actually saving me money?" is the question everyone asks after the first month. Your [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) gives you the raw data to answer it precisely — no estimation needed.
 
 The method below works for any plug-in solar system from 400W to 800W. You'll need access to your supplier app and about 10 minutes.
 
@@ -46,7 +46,7 @@ If your unit rate is 24.5p/kWh and your daily import reduction is 3 kWh:
 
 £0.74 × 30 = **£22.10/month**
 
-This is your import saving only. If you're also receiving [SEG export payments](/blog/smart-meter-export-register-solar-uk), add those separately — your supplier app or SEG statement will show the amount.
+This is your import saving only. If you're also receiving [SEG export payments](/blog/smart-meter-export-register-solar-uk), add those separately — your supplier app or [SEG](/blog/plug-in-solar-smart-meter-exports-uk) statement will show the amount.
 
 ## Step 4: Annualise (Accounting for Seasons)
 

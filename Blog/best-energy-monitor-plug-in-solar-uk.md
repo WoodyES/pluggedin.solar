@@ -19,7 +19,7 @@ For a plug-in solar system, effective monitoring falls into two main categories:
 
 ## Smart Plugs: The Quick Win
 
-A smart plug is a socket-mounted device that measures electricity flowing through it. Plug your battery charger into one, and it tells you exactly how much power you're pulling and how long the charge will take. Plug your inverter into one, and you're measuring real-time solar generation. The data typically flows to a smartphone app where you can watch live graphs, set alerts, and review historical trends.
+A [smart plug](/blog/best-smart-plug-monitor-solar-uk) is a socket-mounted device that measures electricity flowing through it. Plug your battery charger into one, and it tells you exactly how much power you're pulling and how long the charge will take. Plug your inverter into one, and you're measuring real-time solar generation. The data typically flows to a smartphone app where you can watch live graphs, set alerts, and review historical trends.
 
 Two models have become standards in the British solar community: the Tapo P110 and the Shelly Plug S. Both are genuinely good options, and neither is outrageously expensive.
 
@@ -75,7 +75,7 @@ The trade-off is installation. The Vue requires you to open your consumer unit (
 
 Efergy makes similar products to Emporia, with a similar clamping approach. They've been in the market longer and have an enormous installed base, particularly in the UK. The advantage is that they've ironed out software quirks over years of updates. The disadvantage is that their app, while functional, doesn't feel quite as modern as Emporia's.
 
-Efergy's real strength is integration with energy companies. If you're on a time-of-use tariff (cheaper electricity during specific hours), Efergy can highlight when you're running appliances at premium rates, encouraging you to shift usage to cheap windows. That's genuinely useful for plug-in solar users who want to make smart charging decisions.
+Efergy's real strength is integration with energy companies. If you're on a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) (cheaper electricity during specific hours), Efergy can highlight when you're running appliances at premium rates, encouraging you to shift usage to cheap windows. That's genuinely useful for plug-in solar users who want to make smart charging decisions.
 
 ## The Data That Actually Matters
 
@@ -99,7 +99,7 @@ Both Tapo and Shelly support data export or API access. Emporia and Efergy have 
 
 ## What About Integrated Monitoring?
 
-Some portable power stations and batteries include built-in monitoring—you can see generation and consumption through their own app. EcoFlow's systems are particularly good at this; the app is polished and gives you excellent insight into what's charging what.
+Some portable power stations and batteries include built-in monitoring—you can see generation and consumption through their own app. [EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)'s systems are particularly good at this; the app is polished and gives you excellent insight into what's charging what.
 
 If you're using one of these systems, you might not need a separate smart plug. The battery's built-in monitoring often captures everything you need. That said, if the battery goes offline or you upgrade systems later, a standalone smart plug is more future-proof.
 
@@ -125,4 +125,4 @@ Start simple: a smart plug on your inverter costs about £25, gives you instant 
 
 Don't overthink it. Monitoring doesn't need to be complex. It just needs to answer one question truthfully: "Am I actually saving money?" If you've got that, everything else is fine detail.
 
-For more context on what payback might look like for your situation, see our guide to [plug-in solar savings in the UK](/blog/how-much-can-plug-in-solar-save). And if you're curious about real generation data from systems like yours, check out [how much does balcony solar actually generate](/blog/how-much-does-balcony-solar-actually-generate).
+For more context on what payback might look like for your situation, see our guide to [plug-in solar savings in the UK](/blog/how-much-does-plug-in-solar-save-uk). And if you're curious about real generation data from systems like yours, check out [how much does balcony solar actually generate](/blog/how-much-does-balcony-solar-actually-generate).

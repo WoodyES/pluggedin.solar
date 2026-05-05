@@ -8,7 +8,7 @@ category: Property Guides
 
 # Plug-in Solar for Bungalows UK
 
-Bungalows are among the best UK properties for plug-in solar installation. With lower roof heights, accessible maintenance, and a demographic that typically spends more time at home during daylight hours, bungalows can achieve some of the highest self-consumption rates in the country.
+Bungalows are among the best UK properties for plug-in solar installation. With lower roof heights, accessible maintenance, and a demographic that typically spends more time at home during daylight hours, bungalows can achieve some of the highest [self-consumption](/blog/smart-meter-solar-self-consumption-uk) rates in the country.
 
 ## Why Bungalows Are Ideal for Plug-in Solar
 
@@ -68,7 +68,7 @@ For external cable runs, use UV-resistant clips and protect entry points with IP
 
 ## Monitoring for Maximum Savings
 
-Bungalow owners often want to see the financial return on their investment. A [Tapo P110](https://amzn.to/4m9Yh9U) smart plug monitor lets you track real-time generation and consumption, answering questions like:
+Bungalow owners often want to see the financial return on their investment. A [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) monitor lets you track real-time generation and consumption, answering questions like:
 
 - How much of my solar generation am I actually using?
 - When during the day is consumption highest?
@@ -80,8 +80,8 @@ This data is valuable for optimising usage—for example, running the washing ma
 
 As of April 2026, plug-in solar in the UK requires:
 
-- **BS 7671 Amendment 4 compliance** (mandatory from April 2026)
-- **G98 notification** to your DNO before connection
+- **[BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 compliance** (mandatory from April 2026)
+- **[G98](/blog/g98-dno-notification-plug-in-solar) notification** to your DNO before connection
 - An **approved inverter** with anti-islanding protection (the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) meets all requirements)
 
 For most bungalows, this is treated as permitted development under GPDO Part 14 Class A. No planning application is needed—just DNO notification.
@@ -109,7 +109,7 @@ Even Scottish bungalows in Lowland areas achieve **550–600 kWh/year**, making 
 A typical 800W bungalow installation costs **£1,400–£2,300** all-in (kit, inverter, labour, cable, glands). With 70–85% self-consumption at typical UK electricity rates:
 
 - Annual savings: **£180–£280**
-- Payback period: **5–8 years**
+- [Payback period](/blog/plug-in-solar-payback-period-uk): **5–8 years**
 - System lifespan: 25–30 years
 
 Bungalows often achieve the fastest payback of any property type due to high self-consumption during daylight hours.

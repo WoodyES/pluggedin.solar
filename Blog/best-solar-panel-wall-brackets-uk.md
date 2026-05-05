@@ -43,7 +43,7 @@ Most plug-in solar kits marketed for balconies (including the EcoFlow STREAM) in
 
 [Check the EcoFlow STREAM with balcony mount on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)
 
-**When to use:** Any balcony with metal railings. Check that your balcony faces south, south-east, or south-west — north-facing balcony solar rarely justifies the investment.
+**When to use:** Any balcony with metal railings. Check that your balcony faces south, south-east, or south-west — north-facing [balcony solar](/blog/balcony-solar-uk) rarely justifies the investment.
 
 **Weight consideration:** A 400W panel weighs roughly 10–12kg. Two panels on a balcony railing add 20–25kg. Most modern balcony railings handle this easily, but older or damaged railings should be checked first.
 
@@ -73,4 +73,4 @@ Some tilt brackets allow seasonal angle changes — steeper in winter (50–60 d
 
 For most UK plug-in solar installations, adjustable tilt brackets on a south-facing wall give the best balance of performance, aesthetics, and ease of installation. Budget £30–60 for a quality set of brackets, spend an extra 30 minutes getting the angle right, and you'll generate noticeably more electricity than a flat or poorly angled setup.
 
-For the complete installation guide, see our [starter kit checklist](/blog/plug-in-solar-starter-kit-checklist-uk). For cable routing from wall-mounted panels, see our [MC4 extension cable guide](/blog/best-solar-extension-cables-uk).
+For the complete [installation guide](/blog/how-to-install-plug-in-solar-uk), see our [starter kit checklist](/blog/plug-in-solar-starter-kit-checklist-uk). For cable routing from wall-mounted panels, see our [MC4 extension cable guide](/blog/best-solar-extension-cables-uk).

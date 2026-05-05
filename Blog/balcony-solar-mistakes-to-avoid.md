@@ -127,6 +127,6 @@ If they won't cover it, shop around. By the time UK plug-in solar is mainstream,
 
 None of these mistakes are inevitable. They're all preventable with a little planning, patience, and caution. The European balcony solar community has spent three years collectively learning these lessons. Benefit from their experience rather than repeating it.
 
-For more detailed information on the safety and regulatory side, read [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-explained). And if you want to understand realistic UK output expectations, check our piece on [how much does balcony solar actually generate](/blog/how-much-does-balcony-solar-actually-generate).
+For more detailed information on the safety and regulatory side, read [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-plug-in-solar). And if you want to understand realistic UK output expectations, check our piece on [how much does balcony solar actually generate](/blog/how-much-does-balcony-solar-actually-generate).
 
 The systems that last longest and generate the most are the ones installed with care and attention to detail. You're about to join millions of European households making their own renewable energy. Do it right.

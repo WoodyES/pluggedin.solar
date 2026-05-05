@@ -24,7 +24,7 @@ With plug-in solar panels running, your smart meter will show:
 
 **Lower import** — during sunny hours, your panels offset some or all of your household demand. Instead of importing 500W from the grid, you might import only 100W. That's your saving.
 
-**Export (maybe)** — if your panels generate more than you're consuming in that moment, the surplus flows to the grid. A SMETS2 meter records this on the export register. Some in-home displays show it as a negative number or a separate "export" figure. [Learn how to read yours](/blog/how-to-read-smart-meter-plug-in-solar-uk).
+**Export (maybe)** — if your panels generate more than you're consuming in that moment, the surplus flows to the grid. A [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) meter records this on the [export register](/blog/smart-meter-export-register-solar-uk). Some in-home displays show it as a negative number or a separate "export" figure. [Learn how to read yours](/blog/how-to-read-smart-meter-plug-in-solar-uk).
 
 **No change at night** — once the sun sets, your import returns to normal. The smart meter can't tell you ever had solar.
 
@@ -32,7 +32,7 @@ With plug-in solar panels running, your smart meter will show:
 
 If you want to see what your panels are producing (which you should — it's useful for spotting faults and optimising), you need a separate device:
 
-**The EcoFlow app** — if you're using an [EcoFlow STREAM system](/blog/ecoflow-stream-review-uk), the app shows real-time generation in watts, daily/monthly production in kWh, and self-consumption ratios. This is the easiest route for plug-in solar owners.
+**The EcoFlow app** — if you're using an [EcoFlow STREAM system](/blog/ecoflow-stream-review-uk), the app shows real-time generation in watts, daily/monthly production in kWh, and [self-consumption](/blog/smart-meter-solar-self-consumption-uk) ratios. This is the easiest route for plug-in solar owners.
 
 **A smart plug with energy monitoring** — devices like the Tapo P110 or [Shelly Plus Plug S](/blog/best-smart-plug-monitor-solar-uk) sit between your inverter's plug and the wall socket. They measure exactly what's flowing through. Cost: about £15.
 

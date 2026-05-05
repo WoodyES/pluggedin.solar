@@ -156,7 +156,7 @@ Plan for regular cleaning, annual inspections, and immediate attention to any mo
 
 [Learn about solar panel cleaning techniques](/au/blog/solar-panel-cleaning-guide-australia)
 
-[Get guidance on bird-proofing solutions](/au/blog/solar-panel-bird-proofing-australia)
+[Get guidance on bird-proofing solutions](/au/blog/best-solar-panel-bird-proofing-australia)
 
 [Understand hail damage and insurance](/au/blog/solar-panel-hail-damage-australia)
 

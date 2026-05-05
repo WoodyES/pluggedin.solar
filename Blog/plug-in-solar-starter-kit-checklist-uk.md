@@ -15,7 +15,7 @@ Getting your first plug-in solar system installed is simpler than most people ex
 
 ## The Core System
 
-**Plug-in solar kit.** The EcoFlow STREAM is the government-backed option — 800W micro inverter with two 400W panels, Wi-Fi monitoring, and UK plug. It's the simplest path from box to generating.
+**Plug-in solar kit.** The [EcoFlow STREAM](/blog/ecoflow-stream-review-uk) is the government-backed option — 800W micro inverter with two 400W panels, Wi-Fi monitoring, and UK plug. It's the simplest path from box to generating.
 
 [Check the EcoFlow STREAM on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)
 
@@ -24,7 +24,7 @@ If you're buying components separately, you'll need panels (400–800W total), a
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
 <div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
@@ -40,7 +40,7 @@ If you're buying components separately, you'll need panels (400–800W total), a
 
 ## Monitoring
 
-A smart plug between your inverter and the wall socket is the single most useful addition. It tells you exactly how much you're generating, spots problems early, and makes your savings tangible.
+A [smart plug](/blog/best-smart-plug-monitor-solar-uk) between your inverter and the wall socket is the single most useful addition. It tells you exactly how much you're generating, spots problems early, and makes your savings tangible.
 
 **Budget option:** TP-Link Tapo P110 (~£12). Does everything you need — real-time watts, daily/monthly tracking, cost calculation.
 

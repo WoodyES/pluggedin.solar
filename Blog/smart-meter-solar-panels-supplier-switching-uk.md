@@ -14,7 +14,7 @@ author: "Pluggedin.solar"
 
 Having plug-in solar doesn't lock you into one supplier. In fact, shopping around becomes more valuable because you're now comparing two rates: the import rate (what you pay) and the export rate (what you earn under [SEG](/blog/smart-meter-export-register-solar-uk)).
 
-Some suppliers offer excellent import rates but poor export rates, or vice versa. And here's something many people don't realise: you can have different suppliers for import and export. Your import might be with British Gas while your SEG export payments come from Octopus.
+Some suppliers offer excellent import rates but poor export rates, or vice versa. And here's something many people don't realise: you can have different suppliers for import and export. Your import might be with British Gas while your [SEG](/blog/plug-in-solar-smart-meter-exports-uk) export payments come from Octopus.
 
 ## What Happens to Your Smart Meter When You Switch
 

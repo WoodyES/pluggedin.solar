@@ -25,7 +25,7 @@ UK consumer units contain one of three types of RCD:
 
 **Type AC** — the most common in installations before around 2015. These are designed to detect pure AC fault currents only. When they encounter DC leakage from a transformerless inverter, they can behave unpredictably — either tripping when they shouldn't, or (more dangerously) failing to trip when they should, because the DC component masks the fault.
 
-**Type A** — detects both AC and pulsating DC fault currents. This is the minimum type required by BS 7671 Amendment 4 for circuits connected to plug-in solar systems. Most consumer units installed after 2015 will have Type A RCDs.
+**Type A** — detects both AC and pulsating DC fault currents. This is the minimum type required by [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 for circuits connected to plug-in solar systems. Most consumer units installed after 2015 will have Type A RCDs.
 
 **Type B** — detects AC, pulsating DC, and smooth DC fault currents. Required for some EV chargers and three-phase systems. Overkill for domestic plug-in solar, but not harmful.
 

@@ -20,7 +20,7 @@ The UK portable power station market has settled around three serious contenders
 
 The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) is the default recommendation for a reason. It hits the sweet spot between capacity, price, and ecosystem integration. LFP (lithium iron phosphate) chemistry gives 3,000+ cycles to 80% capacity — over 8 years of daily use. The EcoFlow app is the most polished of the three, with charge scheduling, output limits, and clear real-time monitoring.
 
-Solar input maxes at 500W via MC4, meaning your 800W system can charge it directly (the DELTA 2's MPPT controller handles the conversion). Alternatively, charge via AC from your ring main during cheap overnight hours if you're on a time-of-use tariff.
+Solar input maxes at 500W via MC4, meaning your 800W system can charge it directly (the DELTA 2's MPPT controller handles the conversion). Alternatively, charge via AC from your ring main during cheap overnight hours if you're on a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026).
 
 **Best for:** most plug-in solar owners wanting a reliable, well-supported battery at a sensible price. Particularly strong if you're already in the EcoFlow ecosystem with the [STREAM kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) or [400W panel](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel).
 
@@ -31,7 +31,7 @@ The [Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI) is the newest of the thre
 
 Anker's app is competent though slightly less refined than EcoFlow's. Solar input maxes at 600W — more headroom than the DELTA 2 if you're running larger panel arrays or planning expansion.
 
-**Best for:** households wanting the highest capacity and surge power. Worth the premium if you plan to use the battery for occasional off-grid appliance use (power cuts, garden office, workshop) alongside the solar storage role.
+**Best for:** households wanting the highest capacity and surge power. Worth the premium if you plan to use the battery for occasional off-grid appliance use (power cuts, [garden office](/blog/solar-panels-for-garden-office-uk), workshop) alongside the solar storage role.
 
 ### Jackery Explorer 1000 v2 — Best Portability
 **Price:** ~£499 | **Capacity:** 1,070Wh | **Weight:** 10.8kg
@@ -59,7 +59,7 @@ The [Jackery Explorer 1000 v2](https://amzn.to/4tmxjhG) offers similar capacity 
 <div class="pc-accent"></div>
 <div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with Delta 2 battery" /></div>
 <div class="pc-badge">Premium choice</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W + Delta 2</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W + Delta 2</a></div>
 <div class="pc-price">~£1,099 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel kit with 1kWh Delta battery</li>

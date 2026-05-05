@@ -78,7 +78,7 @@ This is solid ROI. For a 7.5-year payback, you've recouped your investment by re
 
 ## Monitoring Your Office Load
 
-Understanding your specific office consumption is key. A [Tapo P110](https://amzn.to/4m9Yh9U) smart plug lets you:
+Understanding your specific office consumption is key. A [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) lets you:
 
 1. **Measure office equipment power draw** (plug devices into the Tapo P110, record watts)
 2. **Calculate daily consumption** (power draw × hours = kWh)
@@ -144,7 +144,7 @@ Consult an accountant, but generally: solar bill savings are tax-free.
 
 Beyond financial ROI, solar provides non-monetary benefits:
 
-**Resilience:** Battery systems (e.g., [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station)) ensure uninterrupted work during grid outages. 8+ hours of battery storage means you can work through most blackouts.
+**Resilience:** Battery systems (e.g., [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station)) ensure uninterrupted work during grid outages. 8+ hours of [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) means you can work through most blackouts.
 
 **Environmental satisfaction:** Many WFH professionals prefer to work in "green" offices. Knowing your work is powered by renewable energy provides psychological satisfaction—worth quantifying when evaluating investment.
 

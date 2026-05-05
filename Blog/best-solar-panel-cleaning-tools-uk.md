@@ -19,7 +19,7 @@ The good news: cleaning plug-in solar panels is far simpler than cleaning a roof
 
 In most UK locations, every 2–3 months is sufficient. If you're near trees (pollen, sap, leaves), near a busy road (traffic film), or under a flight path for pigeons, monthly is better.
 
-Check your smart plug readings — if output drops noticeably on sunny days compared to previous months, dirty panels are the most likely culprit. A quick clean often restores full output immediately.
+Check your [smart plug](/blog/best-smart-plug-monitor-solar-uk) readings — if output drops noticeably on sunny days compared to previous months, dirty panels are the most likely culprit. A quick clean often restores full output immediately.
 
 ## The Right Way to Clean
 

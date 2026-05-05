@@ -25,7 +25,7 @@ Let's separate out the different things people care about when they ask "is this
 
 This is straightforward: will the savings over time exceed the upfront cost? The Carbon Brief analysis (based on real UK energy bills and solar output data) gives us a baseline: £110 per year in savings at 27p/kWh, with a mid-range kit cost of around £500.
 
-That's a payback period of 4–5 years. After payback, you're generating free electricity for another 10–15 years of the panel's life, netting roughly £1,100–£1,400 in pure financial savings.
+That's a [payback period](/blog/plug-in-solar-payback-period-uk) of 4–5 years. After payback, you're generating free electricity for another 10–15 years of the panel's life, netting roughly £1,100–£1,400 in pure financial savings.
 
 For a single mid-range installation, that's a solid return. It's not life-changing money. But it's meaningful.
 
@@ -49,7 +49,7 @@ Energy security also has a deeper meaning for some people: autonomy. You're gene
 
 And then there's the intangible: the satisfaction of knowing you're taking direct action on energy and climate. You're doing something visible, measurable, real. Every time you see your solar panel generating on a sunny day, you know it's working. You know your money is doing what you paid it to do.
 
-That satisfaction isn't quantifiable, but it's not nothing. For some people, it's worth paying £500 on its own. If you want to track your real savings in real time, a smart energy monitor like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) lets you see exactly how much your system is generating and saving.
+That satisfaction isn't quantifiable, but it's not nothing. For some people, it's worth paying £500 on its own. If you want to track your real savings in real time, a smart [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) lets you see exactly how much your system is generating and saving.
 
 The point: "worth it" isn't a single dimension. You might find plug-in solar is financially worth it *and* environmentally worth it *and* psychologically worth it. Or you might find it's financially worth it but not where you'd focus your environmental efforts. Or you might find the cost is worth it just for the satisfaction and independence.
 
@@ -61,7 +61,7 @@ The most credible numbers for UK plug-in solar savings come from Carbon Brief's 
 
 Their baseline findings:
 
-- Annual savings: £110 (at 27p/kWh, with typical usage patterns and 70% self-consumption rate)
+- Annual savings: £110 (at 27p/kWh, with typical usage patterns and 70% [self-consumption](/blog/smart-meter-solar-self-consumption-uk) rate)
 - Kit cost: approximately £500
 - Payback period: 4.5 years
 - Lifetime net savings (over 15 years): approximately £1,100

@@ -30,7 +30,7 @@ Choosing the right one comes down to three things: efficiency, physical size, an
 ### EcoFlow 400W Rigid Panel
 **Price:** ~£299 | **Efficiency:** 23% | **Dimensions:** 1,722 × 1,134mm
 
-The [EcoFlow 400W](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel) is designed to pair with the EcoFlow STREAM kit or the DELTA 2 portable power station. At 23% efficiency, it's among the highest in its class. The rigid aluminium frame is substantial, and build quality is consistently praised in European reviews. MC4 connectors are pre-attached.
+The [EcoFlow 400W](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel) is designed to pair with the [EcoFlow STREAM](/blog/ecoflow-stream-review-uk) kit or the [DELTA 2](/blog/ecoflow-delta-2-review-uk) portable power station. At 23% efficiency, it's among the highest in its class. The rigid aluminium frame is substantial, and build quality is consistently praised in European reviews. MC4 connectors are pre-attached.
 
 The main advantage: seamless integration with EcoFlow's ecosystem. If you're buying the [STREAM kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) or plan to add a [DELTA 2 battery](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station), staying within EcoFlow's product line simplifies setup and support.
 

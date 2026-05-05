@@ -9,7 +9,7 @@ priority: 1
 wordcount: 1100
 ---
 
-Octopus Energy dominates the conversation among UK solar owners for good reason: they offer more tariff options designed around solar generation and battery storage than any other UK supplier. If you have plug-in solar, Octopus is likely where you'll end up — the question is which of their tariffs suits your setup.
+Octopus Energy dominates the conversation among UK solar owners for good reason: they offer more tariff options designed around solar generation and [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) than any other UK supplier. If you have plug-in solar, Octopus is likely where you'll end up — the question is which of their tariffs suits your setup.
 
 ## Why Octopus Stands Out for Solar Owners
 
@@ -17,20 +17,20 @@ Most UK energy suppliers offer a flat-rate tariff and nothing else. Octopus offe
 
 **Octopus Flexible** — their standard variable tariff. Competitive flat rate (typically at or just below the Ofgem price cap). No time-of-use complexity. Works fine for plug-in solar owners who want simplicity.
 
-**Octopus Go** — originally designed for EV owners but increasingly popular with solar-plus-battery households. Offers a cheap overnight rate (typically 7-9p/kWh from midnight to 5:30am) and a slightly higher daytime rate (around 27-30p/kWh). The overnight rate is ideal for charging a battery cheaply.
+**[Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk)** — originally designed for EV owners but increasingly popular with solar-plus-battery households. Offers a cheap overnight rate (typically 7-9p/kWh from midnight to 5:30am) and a slightly higher daytime rate (around 27-30p/kWh). The overnight rate is ideal for charging a battery cheaply.
 
 **Octopus Intelligent Go** — an enhanced version of Go for compatible EV chargers. The overnight rate window is longer and the system can automatically schedule charging. If you have an EV and plug-in solar, this is arguably the best-value energy deal in the UK.
 
 **Octopus Agile** — a half-hourly dynamic tariff where your rate changes every 30 minutes based on wholesale electricity prices. In spring and summer, daytime rates regularly drop below 10p/kWh (and occasionally go negative). In winter evenings, rates can spike above 40p/kWh. See our [Agile deep dive](/blog/plug-in-solar-octopus-agile-uk) for the full analysis.
 
-**Octopus Flux** — designed specifically for solar-plus-battery homes. Three rate periods: cheap overnight (low import rate for battery charging), mid-price daytime (when solar is generating), and premium evening export rate (sell stored battery power back to the grid at 20-24p/kWh). Flux requires a compatible battery and smart meter.
+**[Octopus Flux](/blog/octopus-flux-tariff-review-uk)** — designed specifically for solar-plus-battery homes. Three rate periods: cheap overnight (low import rate for battery charging), mid-price daytime (when solar is generating), and premium evening export rate (sell stored battery power back to the grid at 20-24p/kWh). Flux requires a compatible battery and [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk).
 
 ## Which Octopus Tariff for Each Setup
 
 ### Plug-in solar only, no battery
 **Best fit: Octopus Flexible or a competitive fixed-rate.**
 
-Without a battery, you can't take advantage of the overnight cheap rate (you've nothing to charge), and you can't arbitrage the Flux export window (you've nothing to export from). Your solar value comes entirely from daytime self-consumption. A competitive flat rate of 24p/kWh means each self-consumed kWh saves 24p — straightforward.
+Without a battery, you can't take advantage of the overnight cheap rate (you've nothing to charge), and you can't arbitrage the Flux export window (you've nothing to export from). Your solar value comes entirely from daytime [self-consumption](/blog/smart-meter-solar-self-consumption-uk). A competitive flat rate of 24p/kWh means each self-consumed kWh saves 24p — straightforward.
 
 Go is still worth considering if your daytime consumption is genuinely low and most of your use happens in the evening (when Go's rate is similar to the flat rate anyway). But the benefit is marginal without battery storage.
 

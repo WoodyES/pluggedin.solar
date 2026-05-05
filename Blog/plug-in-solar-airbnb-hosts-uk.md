@@ -14,7 +14,7 @@ Plug-in solar addresses this directly: it cuts base-load consumption (the expens
 
 ## The Holiday Let Advantage: Daytime Consumption
 
-Owner-occupied homes achieve 60–70% self-consumption because occupancy is partial (people at work, school).
+Owner-occupied homes achieve 60–70% [self-consumption](/blog/smart-meter-solar-self-consumption-uk) because occupancy is partial (people at work, school).
 
 Holiday lets operate differently:
 

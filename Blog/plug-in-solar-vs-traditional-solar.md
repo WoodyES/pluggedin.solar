@@ -35,9 +35,9 @@ This is an honest comparison. We're not here to sell you plug-in solar. If tradi
 
 **Plug-in solar is your best option if:**
 
-You're a renter and cannot modify the building. Rooftop solar is permanently attached; you can't remove it. Plug-in solar goes with you.
+You're a [renter](/blog/rented-flat-solar-panels-uk) and cannot modify the building. Rooftop solar is permanently attached; you can't remove it. Plug-in solar goes with you.
 
-You're a flat dweller without access to a suitable roof. If you live in a 10-storey apartment building, you can't install rooftop solar. You can install balcony solar.
+You're a flat dweller without access to a suitable roof. If you live in a 10-storey apartment building, you can't install rooftop solar. You can install [balcony solar](/blog/balcony-solar-uk).
 
 Your roof faces north or is heavily shaded. Rooftop solar in the shade is a waste of money. If your roof is north-facing and you have a sunny balcony or garden wall, plug-in makes sense.
 
@@ -87,7 +87,7 @@ Both systems reduce your electricity bill by feeding power into your home circui
 
 **Plug-in solar** generates 400W at peak, which is enough to run a kettle, two microwaves, or a washing machine simultaneously. If the sun is shining and you're home using appliances, you use it directly. If you're not home or it's not sunny, the grid supplies the shortfall automatically.
 
-**Rooftop solar** generates 4–10kW, enough to power your whole house most of the day during summer. If you generate more than you're using, the surplus goes back to the grid. You don't get paid for this under standard grid rules, though the Smart Export Guarantee (SEG) is emerging. Very few homes have a profitable SEG tariff yet, so don't count on income from exports. Count on bill reduction.
+**Rooftop solar** generates 4–10kW, enough to power your whole house most of the day during summer. If you generate more than you're using, the surplus goes back to the grid. You don't get paid for this under standard grid rules, though the [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG) is emerging. Very few homes have a profitable SEG tariff yet, so don't count on income from exports. Count on bill reduction.
 
 For both systems, the savings come from not buying electricity from the grid. Export income is a bonus if it exists, not the plan.
 
@@ -143,4 +143,4 @@ Plug-in solar isn't a cheaper alternative to rooftop solar. It's a different sol
 
 Know your situation, run the numbers, and choose accordingly. Both are good. They're just good in different ways.
 
-For more detail on plug-in solar specifically, see our [complete guide](/blog/plug-in-solar-uk-complete-guide). For a detailed comparison of costs and savings, use our [savings calculator](/calculator).
+For more detail on plug-in solar specifically, see our [complete guide](/blog/plug-in-solar-uk). For a detailed comparison of costs and savings, use our [savings calculator](/calculator).

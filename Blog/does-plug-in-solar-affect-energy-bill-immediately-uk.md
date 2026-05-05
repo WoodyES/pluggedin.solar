@@ -8,7 +8,7 @@ excerpt: "Yes, plug-in solar reduces your bills from day one—but you might not
 
 # Does Plug-in Solar Affect Your Energy Bill Immediately?
 
-You've installed your 800W plug-in solar kit. The inverter is humming, the panel is soaking up sun, and your smart meter is recording everything. The big question: **when do you actually see the savings on your energy bill?**
+You've installed your 800W plug-in solar kit. The inverter is humming, the panel is soaking up sun, and your [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) is recording everything. The big question: **when do you actually see the savings on your energy bill?**
 
 The answer is both straightforward and frustrating: yes, you're saving money from day one, but you might not see it reflected in your actual bill for one to three months. Let's explain why, and how to verify that your system is actually working.
 
@@ -18,7 +18,7 @@ Here's what's happening in real time:
 
 When your 800W solar panel generates electricity, that power is consumed first by your home (fridge, lights, etc.). This energy never flows through your import meter, so you're not charged for it. You're saving 24p/kWh (or whatever your peak rate is) instantly.
 
-Any excess generation that you don't use flows back to the grid and may be recorded on your export meter (if your meter is SMETS2 and recording exports).
+Any excess generation that you don't use flows back to the grid and may be recorded on your export meter (if your meter is [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) and recording exports).
 
 **The delay happens because energy suppliers bill in cycles.** Most UK households are billed monthly, but the cycle varies:
 - Some suppliers bill on the same date each month (e.g., the 15th)
@@ -50,7 +50,7 @@ The good news: you don't have to wait months to confirm your system is working. 
 ### 1. Read Your Smart Meter Display Manually
 Most smart meters have a physical display showing real-time import and export. Press the button on the front to cycle through screens:
 - **Import register**: kWh consumed from the grid (should be lower than before)
-- **Export register**: kWh sent back to the grid (if SMETS2)
+- **[Export register](/blog/smart-meter-export-register-solar-uk)**: kWh sent back to the grid (if SMETS2)
 - **Current power**: Watts being imported or exported right now
 
 If your solar is generating and you're home consuming it, the current power will drop to near zero or even show negative numbers (exporting).
@@ -68,7 +68,7 @@ Octopus Energy's app, for example, shows half-hourly consumption and export data
 ### 3. Buy a Smart Plug Monitor (Tapo P110 or Similar)
 A [Tapo P110](https://amzn.to/4m9Yh9U) smart plug (~£15) plugs into any outlet and displays real-time power consumption of whatever's connected to it. If you plug in a device you frequently use (kettle, tumble dryer, EV charger), you can see exactly how much power it's drawing.
 
-More usefully, smart plugs help you understand consumption patterns. You might notice that your dryer uses 3 kW for 45 minutes—information that helps you optimise solar self-consumption.
+More usefully, smart plugs help you understand consumption patterns. You might notice that your dryer uses 3 kW for 45 minutes—information that helps you optimise solar [self-consumption](/blog/smart-meter-solar-self-consumption-uk).
 
 ### 4. Install a Home Energy Monitor (Emporia Vue 3 or Similar)
 The [Emporia Vue 3](https://amzn.to/4bUCQ9E) (~£90) is installed at your consumer unit and monitors whole-home electricity flows in real time. It shows:

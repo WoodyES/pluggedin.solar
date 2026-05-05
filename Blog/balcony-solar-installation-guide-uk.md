@@ -118,7 +118,7 @@ Locate your outdoor socket (or the socket you're routing the cable to). Make sur
 
 The inverter should respond. Depending on the model, you might hear a beep, see a light flash, or nothing obvious might happen. All are normal. The system is now live.
 
-**The first generation:** It's probably sunny (you chose a south-facing balcony), so the panel is immediately generating. The inverter is converting that power and feeding it through your socket into your home. Some of that electricity is powering your flat; any excess goes back into the grid (you'll be compensated for that via Smart Export Guarantee if you're on the scheme).
+**The first generation:** It's probably sunny (you chose a south-facing balcony), so the panel is immediately generating. The inverter is converting that power and feeding it through your socket into your home. Some of that electricity is powering your flat; any excess goes back into the grid (you'll be compensated for that via [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) if you're on the scheme).
 
 You've just generated free electricity. Congratulations.
 

@@ -9,7 +9,7 @@ priority: 2
 
 # Jackery Explorer 1000 v2 Review UK
 
-The Jackery Explorer 1000 v2 is one of the most affordable lithium batteries available in the UK. At ~£499, it costs less than the EcoFlow DELTA 2 (£599) and Anker SOLIX C1000 (£799). But is it a bargain—or a penny-wise, pound-foolish compromise? Here's the detailed breakdown.
+The Jackery Explorer 1000 v2 is one of the most affordable lithium batteries available in the UK. At ~£499, it costs less than the EcoFlow DELTA 2 (£599) and [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) C1000 (£799). But is it a bargain—or a penny-wise, pound-foolish compromise? Here's the detailed breakdown.
 
 ## Specifications: NMC Chemistry, 1,070Wh, Limited Solar Input
 
@@ -67,7 +67,7 @@ If you're using solar to charge the Jackery, expect full recharge in 5–6 hours
 **Tom's setup:**
 - 400W APsystems micro-inverter (roof-mounted, feeds AC to a socket).
 - Jackery Explorer 1000 v2 (plugged into the grid socket, battery charging during solar hours).
-- Smart plug monitoring ([Tapo P110](https://amzn.to/4m9Yh9U)) to track solar output.
+- [Smart plug](/blog/best-smart-plug-monitor-solar-uk) monitoring ([Tapo P110](https://amzn.to/4m9Yh9U)) to track solar output.
 
 **Typical sunny day:**
 - 8am–10am: Solar output 150W. Jackery charges slowly (150W input).
@@ -154,7 +154,7 @@ The Jackery Explorer 1000 v2 is a solid budget option for dual-use scenarios (ho
 
 For serious plug-in solar users wanting system longevity, the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (~£599) is worth the extra £100 (LFP chemistry, 3.6 kWh capacity, 800W solar input). For off-grid living or large storage needs, the [Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI) (~£799) justifies its price via cycle life alone.
 
-But if you're a renter, on a tight budget, or want a portable battery that works weekends in a caravan, the Jackery v2 delivers good value.
+But if you're a [renter](/blog/rented-flat-solar-panels-uk), on a tight budget, or want a portable battery that works weekends in a caravan, the Jackery v2 delivers good value.
 
 **Best for:** Budget-conscious, dual-use (home + camping), 3–5 year timeline.  
 **Not ideal for:** Long-term home storage (LFP is better), large capacity needs, maximising solar input.  
@@ -170,5 +170,5 @@ Pair it with a portable solar panel (like the [EcoFlow 400W Panel](https://www.a
 
 **See also:**  
 [EcoFlow DELTA 2 Review UK](/blog/ecoflow-delta-2-review-uk) *(future article)*  
-[Anker SOLIX C1000 Gen 2 Review UK](/blog/anker-solix-c1000-gen-2-review-uk) *(future article)*  
+[Anker SOLIX C1000 Gen 2 Review UK](/blog/anker-solix-c1000-review-uk) *(future article)*  
 [EcoFlow 400W Portable Panel Review UK](/blog/ecoflow-400w-portable-panel-review-uk)

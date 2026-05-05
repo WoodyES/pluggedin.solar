@@ -165,4 +165,4 @@ Either way, regular cleaning is one of the highest-ROI maintenance tasks you can
 
 [Understand heat performance in Australian summer](/au/blog/solar-panel-heat-performance-australia)
 
-[Explore bird-proofing to prevent damage](/au/blog/solar-panel-bird-proofing-australia)
+[Explore bird-proofing to prevent damage](/au/blog/best-solar-panel-bird-proofing-australia)

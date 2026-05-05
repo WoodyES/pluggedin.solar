@@ -138,7 +138,7 @@ Here's how the seasonal output translates to your bills. Assuming 30p/kWh and no
 - **Spring/Autumn (April, October):** Save ~£18–£30/month. Helpful but not dramatic.
 - **Winter (Nov–Feb):** Save £10–£18/month. Useful but not transformative.
 
-**If you have a Time-of-Use tariff (Octopus Flux, 15p peak):**
+**If you have a [Time-of-Use tariff](/blog/best-time-of-use-tariffs-uk-2026) (Octopus Flux, 15p peak):**
 - Same generation, but each kWh is worth 15p instead of 0p when exported (or 15p vs 30p if self-consumed at peak times)
 - Summer effective saving: ~£48/month
 - Winter effective saving: ~£15/month
@@ -205,7 +205,7 @@ If you're working from home or have high daytime usage, the seasonal pattern hel
 
 **Low daytime usage (work away):**
 - Most generation is exported at 0p.
-- Effective saving: £256 ÷ 2 = £128/year (only self-consumption counts).
+- Effective saving: £256 ÷ 2 = £128/year (only [self-consumption](/blog/smart-meter-solar-self-consumption-uk) counts).
 - Better to add battery or switch to Time-of-Use tariff.
 
 See [Does Plug-in Solar Affect Energy Bill Immediately?](/blog/does-plug-in-solar-affect-energy-bill-immediately-uk) for detailed usage patterns.

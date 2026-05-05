@@ -72,7 +72,7 @@ The [Renogy Tilt Mount](https://amzn.to/4maeAng) (~£45) is a budget-friendly op
 
 If you do proceed with roof hooks on slate, cable routing is critical.
 
-**Install [IP68 cable glands](https://amzn.to/4dB57TY) (~£12)** where the cable exits the roof. These weatherproof connections prevent water ingress and comply with BS 7671 Amendment 4. Don't skimp here—water ingress into cable conduit can cause shorts or deterioration over years.
+**Install [IP68 cable glands](https://amzn.to/4dB57TY) (~£12)** where the cable exits the roof. These weatherproof connections prevent water ingress and comply with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4. Don't skimp here—water ingress into cable conduit can cause shorts or deterioration over years.
 
 Route cables in white conduit along the north side of the roof (away from sun degradation) if possible, or use UV-rated conduit if south-facing.
 

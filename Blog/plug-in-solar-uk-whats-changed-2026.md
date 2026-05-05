@@ -22,8 +22,8 @@ The new year began with manufacturers, retailers, and installers watching closel
 
 **Key points:**
 - **800W AC regulatory cap** set at the socket outlet level
-- **G98 micro-generation notification extended** to plug-in solar
-- **BS 7671 Amendment 4 confirmed for immediate publication**
+- **[G98](/blog/g98-dno-notification-plug-in-solar) micro-generation notification extended** to plug-in solar
+- **[BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 confirmed for immediate publication**
 - **BSI product standard targeted for July 2026**
 
 This announcement unlocked the regulatory pathway. Manufacturers could now plan with confidence. Retailers could plan inventory. Installers could prepare documentation.
@@ -139,7 +139,7 @@ If you're planning to buy a plug-in solar kit in late 2026:
 
 If you've been considering plug-in solar, the timeline is now clear. Kits are coming this summer. Standards are in place. Installers are preparing. Early adopters can buy with confidence starting August–September 2026.
 
-For the detailed technical standards, see our [Complete Guide to BS 7671 Amendment 4](/blog/bs7671-plug-in-solar-guide). For regulatory specifics, read [UK Government Plug-in Solar March 2026 Announcement: Full Summary](/blog/uk-government-plug-in-solar-announcement-2026). And for battery pairing options, explore our [Battery Backup for Plug-in Solar Systems](/blog/battery-backup-plug-in-solar).
+For the detailed technical standards, see our [Complete Guide to BS 7671 Amendment 4](/blog/bs-7671-amendment-4-plain-english-guide). For regulatory specifics, read [UK Government Plug-in Solar March 2026 Announcement: Full Summary](/blog/uk-government-plug-in-solar-announcement-2026). And for battery pairing options, explore our [Battery Backup for Plug-in Solar Systems](/blog/battery-storage-vs-no-battery-plug-in-solar-uk).
 
 ---
 

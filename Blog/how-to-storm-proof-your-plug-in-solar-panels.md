@@ -95,4 +95,4 @@ UK weather is unpredictable and powerful. Your plug-in solar panels are tough, b
 
 Storm season doesn't mean shutting down your solar investment — it means being smart about it. A bit of preparation now means you'll generate confidently all year.
 
-Want to know more about securing different installation types? Check our guides on [balcony solar common mistakes](/blog/balcony-solar-mistakes-to-avoid) and [choosing the right solar panel tilt brackets](/blog/best-adjustable-solar-panel-tilt-brackets-uk).
+Want to know more about securing different installation types? Check our guides on [balcony solar common mistakes](/blog/balcony-solar-mistakes-to-avoid) and [choosing the right solar panel tilt brackets](/blog/best-solar-panel-tilt-brackets-uk).

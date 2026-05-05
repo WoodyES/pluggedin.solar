@@ -66,7 +66,7 @@ East and west are nearly identical in annual output (~75% of south). But they di
 - Good for homes with afternoon usage (e.g. work from home, evening meal cooking)
 - More vulnerable to afternoon cloud (Atlantic systems often arrive in afternoon)
 
-**For self-consumption:** East is marginally better (less afternoon cloud risk). For Time-of-Use tariffs, it depends on your peak-rate window. Most ToU tariffs peak 4–9pm, so west's afternoon generation is more valuable.
+**For [self-consumption](/blog/smart-meter-solar-self-consumption-uk):** East is marginally better (less afternoon cloud risk). For Time-of-Use tariffs, it depends on your peak-rate window. Most ToU tariffs peak 4–9pm, so west's afternoon generation is more valuable.
 
 **For export:** Both are equally bad (~0p under standard tariffs). If you have an export tariff (Octopus Flux, etc.), east's reliability matters more than west's intensity.
 
@@ -78,7 +78,7 @@ Here's the critical number: **How does orientation affect payback?**
 
 Assuming an 800W system, £800 cost, and 30p/kWh tariff in London:
 
-| Orientation | Annual Saving | Payback Period | vs South |
+| Orientation | Annual Saving | [Payback Period](/blog/plug-in-solar-payback-period-uk) | vs South |
 |---|---|---|---|
 | South | £256 | 3.1 years | baseline |
 | South-East/South-West | £243 | 3.3 years | +0.2 years |
@@ -96,7 +96,7 @@ East/west facing panels make sense if:
 
 1. **You have no south-facing option** – your property's layout means south is impossible. East/west is the only choice.
 2. **You work from home with afternoon usage** – west-facing panels generate when you're using the most power. This tightens payback by improving self-consumption.
-3. **You have a Time-of-Use tariff peaking in afternoon/evening** – Octopus Flux's 4–9pm peak window aligns with afternoon west generation, boosting value.
+3. **You have a [Time-of-Use tariff](/blog/best-time-of-use-tariffs-uk-2026) peaking in afternoon/evening** – [Octopus Flux](/blog/octopus-flux-tariff-review-uk)'s 4–9pm peak window aligns with afternoon west generation, boosting value.
 4. **You have a south-east or south-west option instead** – this loses only ~5%, so go for it. Only east or west (full 90°) is notably constrained.
 
 ## When East/West Is NOT Viable

@@ -87,11 +87,11 @@ If data stops flowing, don't assume the system has failed—check the WiFi conne
 
 ### 4. Monitor with the Tapo P110
 
-A smart plug monitor like the [Tapo P110](https://amzn.to/4m9Yh9U) (£15) plugged into your system outlet will show you *exactly* how much energy is being generated and consumed in real time. In January, you'll see generation spikes from 10 am–2 pm and can shift appliance use to match.
+A [smart plug](/blog/best-smart-plug-monitor-solar-uk) monitor like the [Tapo P110](https://amzn.to/4m9Yh9U) (£15) plugged into your system outlet will show you *exactly* how much energy is being generated and consumed in real time. In January, you'll see generation spikes from 10 am–2 pm and can shift appliance use to match.
 
 ### 5. Realistic Expectations
 
-Accept that January will deliver minimal savings. Your payback period depends heavily on spring, summer, and autumn generation. January is a test of patience, not savings.
+Accept that January will deliver minimal savings. Your [payback period](/blog/plug-in-solar-payback-period-uk) depends heavily on spring, summer, and autumn generation. January is a test of patience, not savings.
 
 ## When Does It Get Better?
 
@@ -103,7 +103,7 @@ If you're considering installing plug-in solar, March is a strategically good ti
 
 ## The Bottom Line
 
-January's 0.8 kWh per day from an 800W system is genuinely small. Without a battery, it delivers almost no practical value. With battery storage, it becomes a useful energy buffer for winter evenings.
+January's 0.8 kWh per day from an 800W system is genuinely small. Without a battery, it delivers almost no practical value. With [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), it becomes a useful energy buffer for winter evenings.
 
 Don't judge your system's performance on January data alone. Judge it on the full-year picture: January contributes just 2% of your annual generation, whilst May–August contributes 40%.
 

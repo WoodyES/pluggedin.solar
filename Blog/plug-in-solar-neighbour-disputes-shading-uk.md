@@ -57,6 +57,6 @@ See our [planning permission guide](/blog/plug-in-solar-planning-permission) for
 
 The vast majority of neighbour issues with plug-in solar arise not from actual harm but from lack of communication. Germany's experience consistently showed that installers who spoke to neighbours before installing had far fewer problems than those who didn't.
 
-Especially in terraced houses, semi-detached properties, or blocks of flats: tell your immediate neighbours what you're doing before you do it. Show them the kit. Explain the G98 notification process. Most people are curious and positive. The small minority who might object are better identified before brackets are drilled into walls than after.
+Especially in terraced houses, semi-detached properties, or blocks of flats: tell your immediate neighbours what you're doing before you do it. Show them the kit. Explain the [G98](/blog/g98-dno-notification-plug-in-solar) notification process. Most people are curious and positive. The small minority who might object are better identified before brackets are drilled into walls than after.
 
 For leasehold-specific guidance on getting approval through the right channels, see our [leasehold guide](/blog/leasehold-flat-solar-permission-uk).

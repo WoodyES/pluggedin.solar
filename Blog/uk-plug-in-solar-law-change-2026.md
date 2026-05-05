@@ -64,7 +64,7 @@ Provided the total capacity doesn't exceed 800W, it's compliant. Most people wil
 
 Any electricity your panels generate but your home doesn't use is exported back to the grid. This was always physically possible, but now it's legal.
 
-Your supplier (or a future SEG provider) can see this export via your smart meter. In future, they may pay you for it. Currently, they almost certainly won't—but that may change as the market develops.
+Your supplier (or a future [SEG](/blog/plug-in-solar-smart-meter-exports-uk) provider) can see this export via your [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk). In future, they may pay you for it. Currently, they almost certainly won't—but that may change as the market develops.
 
 ### Claim Electricity You Export Via a Smart Meter
 
@@ -80,7 +80,7 @@ This is the regulatory cap. It's not a guideline—it's a hard limit. If you wan
 
 Why 800W? Because:
 - It's small enough that standard household circuits can handle it safely
-- It's large enough to be useful (generates ~£200–£400 per year in self-consumption savings)
+- It's large enough to be useful (generates ~£200–£400 per year in [self-consumption](/blog/smart-meter-solar-self-consumption-uk) savings)
 - It aligns with Germany's regulations (proof of concept at scale)
 - It avoids triggering different grid protection systems that kick in at higher capacities
 
@@ -88,7 +88,7 @@ If you want larger capacity, you'll need professional installation and MCS certi
 
 ### Skip G98 Notification
 
-You must notify your DNO (Distribution Network Operator) within 28 days of installation. You do this via a G98/2 form.
+You must [notify your DNO](/blog/g98-dno-notification-plug-in-solar) (Distribution Network Operator) within 28 days of installation. You do this via a G98/2 form.
 
 The notification is free and simple—it's a one-page form with basic information (your location, system capacity, inverter model, confirmation of BS 7671 compliance).
 
@@ -146,11 +146,11 @@ Millions of UK flats now have a solar option.
 
 A £400–£800 plug-in system is accessible to middle and lower-income households in a way that a £10,000 rooftop installation isn't.
 
-The payback period is 2–3 years (purely from self-consumption savings). That's compelling.
+The [payback period](/blog/plug-in-solar-payback-period-uk) is 2–3 years (purely from self-consumption savings). That's compelling.
 
 ### People Without Suitable Roofs
 
-If your roof is shaded, small, or faces north, rooftop solar doesn't work. But a plug-in panel on a wall or ground mount might.
+If your roof is shaded, small, or faces north, rooftop solar doesn't work. But a plug-in panel on a wall or [ground mount](/blog/ground-mount-plug-in-solar-uk) might.
 
 ### Early Adopters and Tech Enthusiasts
 

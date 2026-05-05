@@ -59,9 +59,9 @@ Some people adopt a hybrid: they extend mains power to the shed (for the heavy t
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel balcony or garden kit</li>
@@ -103,7 +103,7 @@ Battery capacity (measured in Wh or kilowatt-hours) dictates how long you can ru
 
 ### Connected Shed – Budget Option (~£900)
 
-**EcoFlow STREAM or Anker SOLIX RS40P**
+**EcoFlow STREAM or [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) RS40P**
 
 These are purpose-built plug-in solar kits. Around £900–£950 each. The [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) bundles a 400W solar array, a 600W inverter, and all the cabling and connectors. You mount the panels on the shed, connect the DC cables to the inverter, plug the inverter into a socket inside the shed, and you're generating.
 
@@ -143,7 +143,7 @@ This is excellent if you can afford both, but it's not necessary for most people
 
 ## Installation and Timescale
 
-**Plug-in solar:** A weekend job. Mount the panels, run the cabling, plug in the inverter. A day at most. No builder, no scaffolding, no Part P certification required (though it's good practice to notify your DNO—they don't object, they just log it).
+**Plug-in solar:** A weekend job. Mount the panels, run the cabling, plug in the inverter. A day at most. No builder, no scaffolding, no Part P certification required (though it's good practice to [notify your DNO](/blog/g98-dno-notification-plug-in-solar)—they don't object, they just log it).
 
 **Off-grid battery system:** An afternoon. Unbox the battery, position it somewhere safe and dry inside the shed, plug in the solar panel. Done. No wiring, no compliance headaches.
 
@@ -179,4 +179,4 @@ Let's be concrete.
 
 **You need high-power tools:** Neither system is right. Plan a proper mains extension instead.
 
-Still deciding? The [detailed shed guide](/blog/plug-in-solar-for-sheds-uk) explores the technical side and walks through real-world examples. Use the [calculator](/calculator) to see what solar output you can expect from your location.
+Still deciding? The [detailed shed guide](/blog/plug-in-solar-for-shed-uk) explores the technical side and walks through real-world examples. Use the [calculator](/calculator) to see what solar output you can expect from your location.

@@ -93,7 +93,7 @@ In these cases, you have three options: accept lower generation than ideal, move
 
 ## The Battery Angle
 
-If you have a battery (like an EcoFlow or Anker SOLIX), shading is less catastrophic because you're still storing generation for use later. A panel that generates 100W instead of 300W in the morning still charges your battery. You won't notice the 30% loss in real-time the way you do with direct consumption. This is one advantage of battery systems in shaded locations.
+If you have a battery (like an [EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) or Anker SOLIX), shading is less catastrophic because you're still storing generation for use later. A panel that generates 100W instead of 300W in the morning still charges your battery. You won't notice the 30% loss in real-time the way you do with direct consumption. This is one advantage of battery systems in shaded locations.
 
 ## When You're Considering a Location
 
@@ -107,6 +107,6 @@ Shading is devastating to solar output, but it's also often invisible. You can't
 
 Microinverters help significantly (they prevent one shaded panel from dragging down the others), but they don't solve shading. Only moving panels or removing the shade source does that.
 
-If you're getting lower output than expected and you've ruled out other problems ([check our troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting)), shading is usually the culprit. And if you're planning your first installation, shading assessment before purchase is absolutely worth your time.
+If you're getting lower output than expected and you've ruled out other problems ([check our troubleshooting guide](/blog/plug-in-solar-not-generating-uk)), shading is usually the culprit. And if you're planning your first installation, shading assessment before purchase is absolutely worth your time.
 
-For more on system performance and placement, check our guides on [panel angle optimisation](/blog/plug-in-solar-panel-angle), [balcony solar mistakes to avoid](/blog/balcony-solar-mistakes-to-avoid), and [what balcony solar actually generates](/blog/how-much-does-balcony-solar-actually-generate).
+For more on system performance and placement, check our guides on [panel angle optimisation](/blog/plug-in-solar-panel-angle-uk), [balcony solar mistakes to avoid](/blog/balcony-solar-mistakes-to-avoid), and [what balcony solar actually generates](/blog/how-much-does-balcony-solar-actually-generate).

@@ -107,7 +107,7 @@ For UK caravanners and campervans, flexible panels are worth serious considerati
 
 If you want simplicity and don't mind external frames, portable panels like the [EcoFlow 400W](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel) give you flexibility without permanent roof modification.
 
-Either way, pair your panels with quality battery storage—a plug-in solar system in a van truly shines when backed by reliable power storage.
+Either way, pair your panels with quality [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)—a plug-in solar system in a van truly shines when backed by reliable power storage.
 
 ---
 

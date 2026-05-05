@@ -13,7 +13,7 @@ New build homes are supposed to be better. Better insulation, efficient heating,
 
 Here's the truth: new builds often arrive *without* solar, despite the Future Homes Standard pushing them toward it. And that's actually an opportunity for plug-in solar—if you know the landscape.
 
-New builds have hidden advantages for plug-in solar (modern wiring, SMETS2 smart meters already installed), but also silent barriers (warranty issues, lease restrictions). Let me break down what developers don't advertise.
+New builds have hidden advantages for plug-in solar (modern wiring, [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) smart meters already installed), but also silent barriers (warranty issues, lease restrictions). Let me break down what developers don't advertise.
 
 ## Future Homes Standard: Solar is Coming (Slowly)
 
@@ -37,7 +37,7 @@ New builds almost universally come with **SMETS2 smart meters** already installe
 
 SMETS2 meters:
 - Record your actual consumption in 30-minute intervals (vs. old meters read quarterly)
-- Support the **Smart Export Guarantee (SEG)** protocol
+- Support the **[Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG)** protocol
 - Allow you to track generation and consumption accurately
 - Enable future export tariffs (if plug-in solar is ever added to SEG—currently excluded, but that could change)
 
@@ -53,7 +53,7 @@ This matters because:
 
 - Plug-in solar plugged into a standard 13A socket must run through a 30mA RCD (Residual Current Device). In older homes, finding a correctly protected socket can be a hassle—you may need an electrician to identify one or add a new one.
 - **New builds already have RCDs on all circuits**. You can plug in anywhere (safely), making installation truly "plug and play."
-- **Modern consumer units** (built to BS 7671 Amendment 4, published April 2026) are already compliant with the latest electrical standards, eliminating retrofit costs.
+- **Modern consumer units** (built to [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4, published April 2026) are already compliant with the latest electrical standards, eliminating retrofit costs.
 
 This is a quiet but valuable advantage: you avoid the £150–400 cost of adding a new RCD-protected circuit in older homes.
 
@@ -63,7 +63,7 @@ New builds have superior insulation by regulation. This means:
 
 - Less heat loss in winter (lower heating bills, less need for daytime heat generation)
 - Less heat gain in summer (lower cooling needs, potentially good for air conditioning demand)
-- **Better battery storage efficiency** if you add a battery like the [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) later—energy loss through heat is minimal
+- **Better [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) efficiency** if you add a battery like the [EcoFlow STREAM Kit](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) later—energy loss through heat is minimal
 
 For plug-in solar analysis, better insulation means your energy consumption baseline is lower, so even a modest 800W system covers a higher percentage of your needs.
 
@@ -102,7 +102,7 @@ New builds are often compact:
 - Limited south-facing unshaded space
 
 **Check before committing**:
-- Is your south/southwest-facing garden 3m × 2m minimum (enough for a ground mount + racking)?
+- Is your south/southwest-facing garden 3m × 2m minimum (enough for a [ground mount](/blog/ground-mount-plug-in-solar-uk) + racking)?
 - Does your balcony get direct sunlight 10am–3pm (no tall trees or buildings casting shade)?
 - Can you access that space without crossing neighbours' land?
 
@@ -128,12 +128,12 @@ New builds with SMETS2 meters are "SEG-ready"—if regulations change and plug-i
 
 **Property**: 3-bed semi-detached, Berkshire, 2024 completion
 
-- **Developer-supplied**: Heat pump (15 kW), SMETS2 smart meter, Type A RCDs throughout
+- **Developer-supplied**: Heat pump (15 kW), SMETS2 [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk), Type A RCDs throughout
 - **Missing**: Solar panels (Future Homes Standard not yet enforced on this build timeline)
 - **Electricity consumption**: 2,800 kWh/year (efficient due to insulation, heat pump for heating)
 - **Proposed plug-in solar**: 800W system, ground-mounted in south-facing garden
 - **Expected annual generation**: 780 kWh (south England, unshaded)
-- **Self-consumption**: 65% (working from home, heat pump running mid-day on sunny days)
+- **[Self-consumption](/blog/smart-meter-solar-self-consumption-uk)**: 65% (working from home, heat pump running mid-day on sunny days)
 - **Annual saving**: ~£120 (650 kWh × £0.24/kWh avoided cost)
 - **Payback**: 6 years for a £700 system
 
@@ -193,4 +193,4 @@ The Future Homes Standard promises solar on all new builds, but that future isn'
 **Related reading:**
 - [Plug-in Solar for Caravans and Motorhomes](/blog/plug-in-solar-caravans-motorhomes-uk)
 - [Savings Calculator](/calculator)
-- [UK Smart Export Guarantee (SEG) Guide](/blog/seg-guide) (coming soon)
+- [UK Smart Export Guarantee (SEG) Guide](/blog/plug-in-solar-smart-meter-exports-uk) (coming soon)

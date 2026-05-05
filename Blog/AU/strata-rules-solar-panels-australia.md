@@ -175,4 +175,4 @@ If your building votes no:
 ## Read Next
 
 - [Solar for Apartments in Australia](/au/blog/solar-for-apartments-australia)
-- [Community Solar in Australia](/au/blog/community-solar-australia-guide)
+- [Community Solar in Australia](/au/blog/community-solar-australia)

@@ -9,7 +9,7 @@ priority: 1
 wordcount: 1200
 ---
 
-The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) is the battery that keeps appearing in plug-in solar conversations. German Balkonkraftwerk owners adopted it as the go-to companion for balcony solar, and it's the most commonly recommended portable power station for the UK's emerging plug-in solar market.
+The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) is the battery that keeps appearing in plug-in solar conversations. German Balkonkraftwerk owners adopted it as the go-to companion for [balcony solar](/blog/balcony-solar-uk), and it's the most commonly recommended portable power station for the UK's emerging plug-in solar market.
 
 At around £599, it's a significant investment on top of a £500-700 solar kit. The question is whether the added value justifies the cost — and the answer depends entirely on your consumption pattern.
 
@@ -45,7 +45,7 @@ EcoFlow's own app lets you set charging schedules, output limits, and monitoring
 <div class="pc-accent"></div>
 <div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with Delta 2 battery" /></div>
 <div class="pc-badge">Premium choice</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W + Delta 2</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W + Delta 2</a></div>
 <div class="pc-price">~£1,099 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel kit with 1kWh Delta battery</li>
@@ -63,13 +63,13 @@ The maths is straightforward but context-dependent.
 
 **Without a battery:** An 800W plug-in solar system in the UK generates roughly 600-700 kWh per year. If you self-consume 50% (typical for a household out during the day), you use 300-350 kWh and export 300-350 kWh unpaid. At 24p/kWh, you save roughly £72-84 per year.
 
-**With a DELTA 2:** The battery captures some of that exported surplus and shifts it to evening use. If it captures an additional 1 kWh per day for 200 sunny days, that's 200 kWh per year shifted from export to self-consumption. At 24p/kWh, the battery adds roughly £48 per year in savings.
+**With a DELTA 2:** The battery captures some of that exported surplus and shifts it to evening use. If it captures an additional 1 kWh per day for 200 sunny days, that's 200 kWh per year shifted from export to [self-consumption](/blog/smart-meter-solar-self-consumption-uk). At 24p/kWh, the battery adds roughly £48 per year in savings.
 
 **Payback on the battery alone:** £599 ÷ £48/year = approximately 12.5 years on a flat-rate tariff.
 
-**On a time-of-use tariff:** If your daytime rate is 30p and overnight is 8p, you can also charge the battery overnight at 8p and use it during the day when solar isn't generating enough. The arbitrage alone (22p spread × 1kWh × 365 days) adds roughly £80/year. Combined with solar self-consumption uplift, payback drops to roughly 5-6 years.
+**On a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026):** If your daytime rate is 30p and overnight is 8p, you can also charge the battery overnight at 8p and use it during the day when solar isn't generating enough. The arbitrage alone (22p spread × 1kWh × 365 days) adds roughly £80/year. Combined with solar self-consumption uplift, payback drops to roughly 5-6 years.
 
-**With Octopus Flux:** Flux pays for exports and charges cheaply for overnight import, maximising the battery's value. On Flux, payback could be 4-5 years.
+**With [Octopus Flux](/blog/octopus-flux-tariff-review-uk):** Flux pays for exports and charges cheaply for overnight import, maximising the battery's value. On Flux, payback could be 4-5 years.
 
 ## Build Quality and Day-to-Day Use
 
@@ -81,7 +81,7 @@ The EcoFlow app gives remote monitoring and control, including charge scheduling
 
 ## Versus the Competition
 
-**[Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI)** — slightly more usable capacity (1,056Wh), similar LFP chemistry and cycle life. Slightly more expensive at around £799 but newer design. If budget isn't the primary concern, the C1000 is worth considering for its marginally better specs and newer app platform. See our [battery comparison guide](/blog/ecoflow-vs-anker-solix-vs-jackery-uk) for the full head-to-head.
+**[Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI)** — slightly more usable capacity (1,056Wh), similar LFP chemistry and cycle life. Slightly more expensive at around £799 but newer design. If budget isn't the primary concern, the C1000 is worth considering for its marginally better specs and newer app platform. See our [battery comparison guide](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) for the full head-to-head.
 
 **[Jackery Explorer 1000 v2](https://amzn.to/4tmxjhG)** — a more portable option at slightly lower capacity. Better suited to camping and outdoor use than home solar storage. If portability matters (caravan, motorhome), the Jackery is the right choice. For a fixed home installation, the DELTA 2 or SOLIX C1000 offer better value.
 
@@ -91,7 +91,7 @@ The EcoFlow app gives remote monitoring and control, including charge scheduling
 
 **Maybe, if:** you're home during the day and self-consuming most of your generation. The battery adds marginal value here — it's mainly useful for cloudy-day buffering and overnight use of surplus.
 
-**Not yet, if:** you don't have plug-in solar installed yet. Buy the panels first, monitor your generation and self-consumption for a season with a [Tapo P110](https://amzn.to/4m9Yh9U), and then decide whether battery storage fills a real gap in your setup.
+**Not yet, if:** you don't have plug-in solar installed yet. Buy the panels first, monitor your generation and self-consumption for a season with a [Tapo P110](https://amzn.to/4m9Yh9U), and then decide whether [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) fills a real gap in your setup.
 
 ## The Verdict
 
@@ -99,4 +99,4 @@ The DELTA 2 is the battery to beat for UK plug-in solar owners. The LFP chemistr
 
 Buy the [EcoFlow DELTA 2 on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station).
 
-For the full battery comparison, see our [EcoFlow vs Anker SOLIX vs Jackery guide](/blog/ecoflow-vs-anker-solix-vs-jackery-uk). For tariff optimisation with battery storage, see our [best energy tariff guide](/blog/best-energy-tariff-plug-in-solar-uk-2026).
+For the full battery comparison, see our [EcoFlow vs Anker SOLIX vs Jackery guide](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026). For tariff optimisation with battery storage, see our [best energy tariff guide](/blog/best-energy-tariff-plug-in-solar-uk-2026).

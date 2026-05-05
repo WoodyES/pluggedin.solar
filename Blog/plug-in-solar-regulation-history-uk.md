@@ -102,7 +102,7 @@ The announcement said:
 
 - Plug-in solar is legal under BS 7671 Amendment 4 (published April 2026)
 - Systems up to 800W are permitted
-- G98 notification to DNOs is required
+- [G98](/blog/g98-dno-notification-plug-in-solar) notification to DNOs is required
 - MCS certification is not required
 - Export schemes may become available (policy TBD with suppliers)
 
@@ -165,7 +165,7 @@ This timeline was relatively smooth, but several things could have derailed it:
 
 ## The Lessons for Other Technologies
 
-This history has implications for other emerging energy technologies: heat pumps, battery storage, EV charging networks, demand response.
+This history has implications for other emerging energy technologies: heat pumps, [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), EV charging networks, demand response.
 
 The pattern is:
 1. Early adopters prove feasibility (Germany's Balkonkraftwerk)

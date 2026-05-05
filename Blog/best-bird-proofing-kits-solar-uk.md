@@ -34,7 +34,7 @@ A mesh kit is a flexible, lightweight wire or nylon mesh that clips under the pa
 **What's included:**
 - Pre-cut mesh (typically 1–2 mm gauge stainless steel or UV-resistant nylon).
 - Mounting clips or adhesive backing.
-- Installation guide.
+- [Installation guide](/blog/how-to-install-plug-in-solar-uk).
 
 **Installation (DIY):**
 1. Uninstall (or loosen) bottom edge of panel from mounting frame.

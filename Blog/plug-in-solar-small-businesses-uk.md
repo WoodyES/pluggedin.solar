@@ -26,7 +26,7 @@ That's a 29% boost in savings value simply because you're a business.
 
 ### Daytime Consumption Alignment
 
-A retail shop, office, or workshop runs during daylight. The sun is generating. You're consuming. Self-consumption is near 100%.
+A retail shop, office, or workshop runs during daylight. The sun is generating. You're consuming. [Self-consumption](/blog/smart-meter-solar-self-consumption-uk) is near 100%.
 
 Compare that to a residential property where generation peaks mid-day but occupants are often out at work. Homeowners typically self-consume 40–60% of generation. Businesses can hit 80–95%.
 
@@ -55,7 +55,7 @@ The UK's 800W regulatory cap applies per system, not per property. A business ca
 - Stockroom circuit: 400W panel + 400W micro-inverter.
 - Total: 1,600W generation, fully compliant, operating independently.
 
-Each system has its own G98 notification (though combined, they're under the typical radar for most DNOs). Each can be installed and removed independently.
+Each system has its own [G98](/blog/g98-dno-notification-plug-in-solar) notification (though combined, they're under the typical radar for most DNOs). Each can be installed and removed independently.
 
 **Benefits:**
 - Spread installation across the property (roof and wall, for instance).
@@ -129,13 +129,13 @@ When you claim energy savings, your accountant might ask: "How much did you actu
 
 This data is audit-proof. If the tax authority ever questions your claim, you have month-by-month evidence.
 
-An [Emporia Vue 3](https://amzn.to/4bUCQ9E) (~£90) is a home energy monitor that works equally well in small commercial spaces. It shows consumption by circuit and generates reports.
+An [Emporia Vue 3](https://amzn.to/4bUCQ9E) (~£90) is a home [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) that works equally well in small commercial spaces. It shows consumption by circuit and generates reports.
 
 **Cost:** £90–150 for a monitor + smart plugs. **Value:** Peace of mind, auditable records, optimisation insights.
 
 ## Installation and Compliance
 
-Small commercial properties have the same BS 7671 Amendment 4 requirements as residential. Some have additional constraints:
+Small commercial properties have the same [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 requirements as residential. Some have additional constraints:
 
 - **Listed buildings:** If your shop or workshop is in a conservation area or listed building, external panels may need planning permission.
 - **Commercial lease terms:** Your lease might restrict modifications. Check before installing.

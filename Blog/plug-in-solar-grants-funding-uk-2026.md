@@ -15,7 +15,7 @@ Let me walk you through what's actually available, what *nearly* helps, and what
 
 ## The Direct Answer: No Dedicated Plug-in Solar Grants (Yet)
 
-The UK government hasn't launched a dedicated grant scheme for plug-in solar installations. Schemes like the Feed-in Tariff and Smart Export Guarantee (SEG) exist for grid-connected systems, but they assume you're doing a permanent installation with a registered installer—not a plug-and-play socket connection.
+The UK government hasn't launched a dedicated grant scheme for plug-in solar installations. Schemes like the Feed-in Tariff and [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG) exist for grid-connected systems, but they assume you're doing a permanent installation with a registered installer—not a plug-and-play socket connection.
 
 However, there's been quiet momentum since the government confirmed plug-in solar's legality in March 2026. As the market grows and compliant kits launch in July 2026, grant schemes may follow. Scotland and some local councils are already exploring options.
 
@@ -95,10 +95,10 @@ Here's the reality: even *without* grants, plug-in solar makes financial sense f
 
 - **Average Ofgem cap**: ~24p/kWh (April 2026)
 - **Average UK home**: 8–10 kWh/day consumption
-- **Self-consumption rate**: 60–80% (your solar power you use immediately, avoiding grid prices)
+- **[Self-consumption](/blog/smart-meter-solar-self-consumption-uk) rate**: 60–80% (your solar power you use immediately, avoiding grid prices)
 - **Typical 800W system output**: 2.5–3.5 kWh/day (depending on season and location)
 - **Annual saving**: £80–130 (conservative estimate, varies by region)
-- **Payback period**: 5–7 years for a £700 system
+- **[Payback period](/blog/plug-in-solar-payback-period-uk)**: 5–7 years for a £700 system
 
 Add just one available funding mechanism above—VAT relief alone, or Warm Home Discount, or a local council grant—and your payback period drops to 4–6 years.
 
@@ -121,4 +121,4 @@ For pensioners and low-income households, the combination of plug-in solar savin
 **Related reading:**
 - [Plug-in Solar for Pensioners UK](/blog/plug-in-solar-pensioners-uk)
 - [Savings Calculator](/calculator)
-- [UK Energy Tariffs and Plug-in Solar](/blog/energy-tariffs-guide) (coming soon)
+- [UK Energy Tariffs and Plug-in Solar](/blog/best-energy-tariff-plug-in-solar-uk-2026) (coming soon)

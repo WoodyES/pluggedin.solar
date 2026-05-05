@@ -23,13 +23,13 @@ If you own your plug-in solar kit outright — which is the normal situation —
 - Monitoring gateway (DTU)
 - Any cabling and connectors
 
-The only thing that stays behind is the [smart plug or monitoring device](/blog/best-solar-panel-monitoring-apps-uk) if it was hardwired, though plug-in monitoring devices like the [Tapo P110](https://amzn.to/4m9Yh9U) unplug trivially.
+The only thing that stays behind is the [smart plug or monitoring device](/blog/best-energy-monitor-plug-in-solar-uk) if it was hardwired, though plug-in monitoring devices like the [Tapo P110](https://amzn.to/4m9Yh9U) unplug trivially.
 
 ## What You Leave Behind
 
-**The G98 registration** — your DNO notification is property-specific. It records that a plug-in solar system is installed at your address. When you move out, that registration doesn't transfer with you. The new owners may benefit from knowing it's registered, but you can't take it to your new address.
+**The [G98](/blog/g98-dno-notification-plug-in-solar) registration** — your DNO notification is property-specific. It records that a plug-in solar system is installed at your address. When you move out, that registration doesn't transfer with you. The new owners may benefit from knowing it's registered, but you can't take it to your new address.
 
-**Any SEG export tariff contract** — if you've signed up to a Smart Export Guarantee tariff with your energy supplier, this is tied to your current address and metering. It won't follow you. You'll need to apply again at your new property.
+**Any SEG export tariff contract** — if you've signed up to a [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) tariff with your energy supplier, this is tied to your current address and metering. It won't follow you. You'll need to apply again at your new property.
 
 ## What to Do When You Move Out
 
@@ -51,7 +51,7 @@ The only thing that stays behind is the [smart plug or monitoring device](/blog/
 
 **4. Check compatibility** — if the new property has a different socket arrangement or your planned cable run is longer, you may need a longer MC4 extension cable. [Renogy MC4 cables](https://amzn.to/4mfWT5J) are available in various lengths.
 
-**5. Set up a new SEG contract** — once you have the G98 confirmation for the new address, you can apply for SEG with your new supplier. If you're on a time-of-use tariff like Octopus Agile, you may also want to reassess whether it's still the right tariff for your new location and consumption pattern.
+**5. Set up a new SEG contract** — once you have the G98 confirmation for the new address, you can apply for SEG with your new supplier. If you're on a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) like Octopus Agile, you may also want to reassess whether it's still the right tariff for your new location and consumption pattern.
 
 ## Is It Worth Taking the Panels?
 
@@ -70,4 +70,4 @@ If you're leaving the panels behind as part of the sale, put the following in wr
 
 This is both good practice and a potential selling point. A working plug-in solar system registered with the DNO is a small but genuine added value for an energy-conscious buyer.
 
-For everything else you need to know about compliance and paperwork, see our [complete guide](/blog/plug-in-solar-uk-complete-guide).
+For everything else you need to know about compliance and paperwork, see our [complete guide](/blog/plug-in-solar-uk).

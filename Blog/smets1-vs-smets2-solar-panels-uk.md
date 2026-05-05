@@ -33,7 +33,7 @@ Check the meter label — it should say SMETS1 or SMETS2, or the manufacturer mo
 
 With an 800W plug-in solar system and a SMETS2 meter, you get:
 
-**Export recording** — every unit you send to the grid is measured. This enables SEG payments and gives you data to optimise self-consumption.
+**Export recording** — every unit you send to the grid is measured. This enables [SEG](/blog/plug-in-solar-smart-meter-exports-uk) payments and gives you data to optimise [self-consumption](/blog/smart-meter-solar-self-consumption-uk).
 
 **Half-hourly data** — you can see exactly when you're importing and exporting. This is invaluable for deciding when to run the dishwasher, charge a [battery](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), or shift loads to sunny hours.
 

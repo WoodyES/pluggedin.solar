@@ -39,7 +39,7 @@ If your system is:
 
 **Vertically mounted on a balcony rail, east or west-facing** — expect 40-55% of optimal. East-facing gives you morning generation, west-facing gives you afternoon. Neither gives you a full day.
 
-**Flat on a garden table or ground mount** — close to optimal if south-facing, but still affected by horizon shading and the UK's relatively low sun angle in winter.
+**Flat on a garden table or [ground mount](/blog/ground-mount-plug-in-solar-uk)** — close to optimal if south-facing, but still affected by horizon shading and the UK's relatively low sun angle in winter.
 
 **On a balcony with an overhang above** — this can severely restrict generation, especially in winter when the sun is low. Even a 30cm overhang can shade the top edge of a panel completely at certain times of year.
 
@@ -72,9 +72,9 @@ If you installed in autumn or winter, you bought into the worst months. Your sys
 
 ## The Self-Consumption Efficiency Issue
 
-Even when panels generate at full rated power, you only benefit from electricity that's consumed in your home at the moment it's generated. If you're generating 800W and only consuming 200W (because it's 11am on a Sunday and everything is off), 600W is being exported to the grid — which you won't be paid for unless you have a Smart Export Guarantee tariff.
+Even when panels generate at full rated power, you only benefit from electricity that's consumed in your home at the moment it's generated. If you're generating 800W and only consuming 200W (because it's 11am on a Sunday and everything is off), 600W is being exported to the grid — which you won't be paid for unless you have a [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) tariff.
 
-A [Tapo P110 smart plug](https://amzn.to/4m9Yh9U) on the inverter's AC output shows you real-time generation. An app like Home Assistant or the EcoFlow/Hoymiles dashboard shows cumulative daily output. But to understand how much of that generation you're actually capturing — and how much is being wasted as export — you need a home energy monitor.
+A [Tapo P110 smart plug](https://amzn.to/4m9Yh9U) on the inverter's AC output shows you real-time generation. An app like Home Assistant or the [EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)/Hoymiles dashboard shows cumulative daily output. But to understand how much of that generation you're actually capturing — and how much is being wasted as export — you need a home [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk).
 
 The [Emporia Vue 3](https://amzn.to/4bUCQ9E) clamps onto your incoming supply cables and shows both generation and consumption in real time, giving you the full picture. Many German owners discovered, via monitoring, that 40-60% of their summer generation was being exported — prompting them to shift dishwasher cycles, washing machine loads, and EV charging to peak solar hours.
 
@@ -82,7 +82,7 @@ The [Emporia Vue 3](https://amzn.to/4bUCQ9E) clamps onto your incoming supply ca
 
 If your system has been running normally and output drops suddenly, or if it's consistently zero even on clear sunny days:
 
-**Check the smart plug** — if the [Tapo P110](https://amzn.to/4m9Yh9U) on the inverter output shows zero watts even when the app is offline, the inverter isn't generating.
+**Check the [smart plug](/blog/best-smart-plug-monitor-solar-uk)** — if the [Tapo P110](https://amzn.to/4m9Yh9U) on the inverter output shows zero watts even when the app is offline, the inverter isn't generating.
 
 **Check the MCB** — find the circuit your solar is connected to in your consumer unit and verify the MCB hasn't tripped.
 

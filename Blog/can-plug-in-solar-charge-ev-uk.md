@@ -33,11 +33,11 @@ That's genuinely meaningful. Your solar panels indirectly fund a large chunk of 
 
 Add a portable power station and the equation improves further. Charge the battery from solar during the day, then use it to supplement EV charging in the evening.
 
-The EcoFlow DELTA 2 stores 1kWh — enough for about 3 miles of driving per charge cycle. Over a year (365 cycles), that's 1,095 miles of "free" driving. It's not going to replace a petrol station, but it's not nothing either.
+The EcoFlow [DELTA 2](/blog/ecoflow-delta-2-review-uk) stores 1kWh — enough for about 3 miles of driving per charge cycle. Over a year (365 cycles), that's 1,095 miles of "free" driving. It's not going to replace a petrol station, but it's not nothing either.
 
 [Check the EcoFlow DELTA 2 on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station)
 
-For real impact, you'd want a larger battery. The Anker SOLIX C1000 or a larger EcoFlow system storing 2–3kWh per day starts to make a more noticeable dent.
+For real impact, you'd want a larger battery. The [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) C1000 or a larger EcoFlow system storing 2–3kWh per day starts to make a more noticeable dent.
 
 [Check the Anker SOLIX C1000 on Amazon](https://amzn.to/3QmpWsI)
 
@@ -45,7 +45,7 @@ For real impact, you'd want a larger battery. The Anker SOLIX C1000 or a larger 
 
 The key to optimising solar-to-EV economics is visibility. You need to know when you're generating surplus solar (and should be charging) versus when you're drawing from the grid.
 
-An Emporia Vue 3 whole-home monitor shows your total consumption in real time. Pair it with a smart plug on your inverter, and you can see exactly when solar generation exceeds household demand — that's your window to charge.
+An Emporia Vue 3 whole-home monitor shows your total consumption in real time. Pair it with a [smart plug](/blog/best-smart-plug-monitor-solar-uk) on your inverter, and you can see exactly when solar generation exceeds household demand — that's your window to charge.
 
 [Check the Emporia Vue 3 on Amazon](https://amzn.to/4bUCQ9E)
 
@@ -53,7 +53,7 @@ Some EV chargers (like Zappi) have solar diversion modes that automatically incr
 
 ## The Honest Assessment
 
-Plug-in solar alone won't power your car. But it meaningfully reduces your total energy bill, and if you're strategic about time-of-use tariffs and battery storage, it can indirectly fund thousands of miles of driving per year.
+Plug-in solar alone won't power your car. But it meaningfully reduces your total energy bill, and if you're strategic about time-of-use tariffs and [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), it can indirectly fund thousands of miles of driving per year.
 
 The real value is the combined effect: lower household bills + cheaper tariff access + surplus solar diversion = a meaningful reduction in total transport energy costs.
 
@@ -62,7 +62,7 @@ The real value is the combined effect: lower household bills + cheaper tariff ac
 1. **Plug-in solar kit** to offset daytime household electricity
 2. **Smart plug** on the inverter to track generation
 3. **Whole-home monitor** to see when surplus is available
-4. **Time-of-use tariff** (Octopus Go, Intelligent) for cheap overnight charging
+4. **[Time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026)** (Octopus Go, Intelligent) for cheap overnight charging
 5. **Battery storage** (optional) to bridge solar generation to evening charging
 
 This combination won't make your driving free, but it will make it noticeably cheaper — and every kWh from solar is a kWh you're not burning fossil fuels for.

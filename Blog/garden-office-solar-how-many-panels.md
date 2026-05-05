@@ -9,9 +9,9 @@ priority: "MED"
 wordcount: 1500
 ---
 
-You're thinking about powering your garden office with plug-in solar. The first question: how many panels do you need?
+You're thinking about powering your [garden office](/blog/solar-panels-for-garden-office-uk) with plug-in solar. The first question: how many panels do you need?
 
-The answer depends entirely on what you're actually trying to power and whether you add battery storage.
+The answer depends entirely on what you're actually trying to power and whether you add [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk).
 
 Let's work through the realistic scenarios.
 

@@ -27,7 +27,7 @@ The UK isn't known for blazing sunshine, but modern portable panels generate use
 
 ## EcoFlow 400W Portable Panel (~£650)
 
-If weight isn't a concern and you want maximum charging speed, EcoFlow's 400W bifacial panel is exceptional. 25% conversion efficiency with N-type cells, integrated kickstand for angle adjustment, and IP68 waterproofing. It'll charge a DELTA 2 from empty in about 3 hours of decent sun.
+If weight isn't a concern and you want maximum charging speed, EcoFlow's 400W bifacial panel is exceptional. 25% conversion efficiency with N-type cells, integrated kickstand for angle adjustment, and IP68 waterproofing. It'll charge a [DELTA 2](/blog/ecoflow-delta-2-review-uk) from empty in about 3 hours of decent sun.
 
 The 400W is overkill for casual camping but brilliant for extended off-grid trips or if you're splitting time between home solar and camping use.
 

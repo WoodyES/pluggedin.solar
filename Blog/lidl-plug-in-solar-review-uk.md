@@ -11,7 +11,7 @@ wordcount: 1500
 
 Lidl was named as a key retail partner in the UK government's March 2026 plug-in solar announcement. That means they'll be stocking a complete plug-in solar kit from summer 2026.
 
-We don't have the exact specs yet. But Lidl has been selling balcony solar kits (Balkonkraftwerk systems) across Germany and Austria for years. Their track record tells us what to expect—and what to watch for—when the UK kit launches.
+We don't have the exact specs yet. But Lidl has been selling [balcony solar](/blog/balcony-solar-uk) kits (Balkonkraftwerk systems) across Germany and Austria for years. Their track record tells us what to expect—and what to watch for—when the UK kit launches.
 
 ## Lidl's European Solar Track Record
 
@@ -57,7 +57,7 @@ Based on European precedent, expect:
 
 **UK plug:** The key question. European Lidl kits use Schuko. For the UK, they'll either provide a certified Schuko-to-13A adapter or redesign the plug. Worth confirming before you buy.
 
-**Expandability:** Uncertain. European Lidl kits don't integrate with battery storage. The UK kit might be similar.
+**Expandability:** Uncertain. European Lidl kits don't integrate with [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk). The UK kit might be similar.
 
 ## What We Don't Know Yet
 
@@ -87,7 +87,7 @@ Based on European precedent, expect:
 
 ### 1. UKCA Certification
 
-**Confirm the kit is UKCA certified or CE marked with explicit BS 7671 Amendment 4 compliance.** Don't buy a kit relabelled from European stock without verification. This is mandatory from 15 April 2026.
+**Confirm the kit is UKCA certified or CE marked with explicit [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 compliance.** Don't buy a kit relabelled from European stock without verification. This is mandatory from 15 April 2026.
 
 ### 2. Plug Type
 

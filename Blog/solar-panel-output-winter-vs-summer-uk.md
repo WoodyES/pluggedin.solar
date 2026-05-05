@@ -178,7 +178,7 @@ If you have a vertical balcony system, December might actually outperform a tilt
 
 If you have electric heating or high winter usage, consider:
 
-1. **Time-of-Use tariff + battery** – store summer surplus, use it in winter evening peak (15p peak, vs 5p off-peak)
+1. **[Time-of-Use tariff](/blog/best-time-of-use-tariffs-uk-2026) + battery** – store summer surplus, use it in winter evening peak (15p peak, vs 5p off-peak)
 2. **Heat pump with thermal storage** – charge a hot water tank in summer/shoulder season, use in winter
 3. **Larger system (600W or 800W)** – more generation in summer offsets winter loss psychologically and financially
 4. **Accept the pattern and budget** – winter is expensive; summer is cheap; average is moderate

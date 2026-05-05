@@ -14,7 +14,7 @@ author: "Pluggedin.solar"
 
 When you install plug-in solar, you'll likely end up with two apps on your phone that both claim to show your energy data. They're measuring different things, and understanding the distinction prevents confusion.
 
-**Your supplier app** (Octopus, OVO, E.ON, British Gas, etc.) shows data from your SMETS2 smart meter: total household import, export, half-hourly usage, costs, and standing charges. This is your billing reality — what you're paying and getting paid for.
+**Your supplier app** (Octopus, OVO, E.ON, British Gas, etc.) shows data from your [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk): total household import, export, half-hourly usage, costs, and standing charges. This is your billing reality — what you're paying and getting paid for.
 
 **Your solar/inverter app** (EcoFlow, Anker, APsystems, Hoymiles, etc.) shows data from your panels: current generation in watts, daily production in kWh, inverter status, and potentially battery state of charge. This is your generation reality — what your panels are doing.
 
@@ -24,7 +24,7 @@ Neither alone tells the full story. Together, they're powerful.
 
 **Half-hourly import** — this is your consumption minus solar self-consumption. On sunny days, you'll see a clear dip during daylight hours. The deeper the dip, the better your self-consumption.
 
-**Half-hourly export** — if the [export register is enabled](/blog/smart-meter-export-register-solar-uk), you see how much surplus solar you're sending to the grid. This is what you get paid for under SEG.
+**Half-hourly export** — if the [export register is enabled](/blog/smart-meter-export-register-solar-uk), you see how much surplus solar you're sending to the grid. This is what you get paid for under [SEG](/blog/plug-in-solar-smart-meter-exports-uk).
 
 **Cost tracking** — how much you're spending per day, per week, per month. Compare to pre-solar periods to see your actual saving.
 
@@ -38,12 +38,12 @@ For [EcoFlow STREAM](/blog/ecoflow-stream-review-uk) owners, the EcoFlow app sho
 
 - **Real-time generation** — current output in watts, updated every few seconds
 - **Daily/monthly production** — total kWh generated, with historical charts
-- **Battery state** — if you have a Delta 2, current charge level and charge/discharge rates
+- **Battery state** — if you have a [Delta 2](/blog/ecoflow-delta-2-review-uk), current charge level and charge/discharge rates
 - **System health** — inverter status, error alerts, firmware updates
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
 <div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>

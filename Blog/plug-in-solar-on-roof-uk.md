@@ -135,7 +135,7 @@ These are similar costs, which is why the calculus becomes: if you're spending t
 
 Plug-in solar can go on pitched roofs. But that doesn't mean it should. Flat roofs are where it excels, and that's where the real elegance of plug-in solar as a technology is on display: simple, non-invasive, straightforward.
 
-For pitched roofs, the conversation is more nuanced. Are you a renter? Are you testing solar? Do you have no other choice? Then yes, pitched roof mounting makes sense. Are you a homeowner with a standard south-facing roof and a budget? Then a proper installation is worth serious consideration.
+For pitched roofs, the conversation is more nuanced. Are you a [renter](/blog/rented-flat-solar-panels-uk)? Are you testing solar? Do you have no other choice? Then yes, pitched roof mounting makes sense. Are you a homeowner with a standard south-facing roof and a budget? Then a proper installation is worth serious consideration.
 
 The goal is honest guidance, not optimization for the sake of it. Plug-in solar is a brilliant technology. It's not always the best choice for every roof.
 

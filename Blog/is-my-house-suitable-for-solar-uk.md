@@ -22,7 +22,7 @@ Answer these five questions. If you get four out of five "yes," you're probably 
 This could be:
 - A south-facing roof (ideal)
 - A south-east or south-west facing balcony or wall (good)
-- A flat roof with south-facing wall space (acceptable)
+- A [flat roof](/blog/flat-roof-plug-in-solar-uk) with south-facing wall space (acceptable)
 - A south-facing garden (excellent)
 
 **North-facing roofs or balconies are unsuitable.** Panels on a north wall generate 10–15% of a south-facing system's output. Not worth the cost.
@@ -106,7 +106,7 @@ The report gives you a sun-exposure grade:
 - **Limited**: Significant shade or poor aspect. Marginal; proceed carefully.
 - **Not Ideal**: Heavy shade or very poor aspect. Not recommended.
 
-If your grade is "Good" or better, you're viable. "Limited" requires either tariff optimization (Time-of-Use tariff), battery storage, or acceptance of a longer payback period. "Not Ideal" is not recommended.
+If your grade is "Good" or better, you're viable. "Limited" requires either tariff optimization (Time-of-Use tariff), [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), or acceptance of a longer [payback period](/blog/plug-in-solar-payback-period-uk). "Not Ideal" is not recommended.
 
 ## Common Obstacles and Solutions
 

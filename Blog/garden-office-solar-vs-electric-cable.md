@@ -92,7 +92,7 @@ With battery:
 - Saves £200–£300/year (significantly better economics)
 - Real energy autonomy, especially in summer/autumn
 - Works well when you spend time in the office morning/afternoon
-- Payback period drops to 5–7 years (vs 8–10 years without battery)
+- [Payback period](/blog/plug-in-solar-payback-period-uk) drops to 5–7 years (vs 8–10 years without battery)
 - A system like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (1024Wh capacity) pairs perfectly with an 800W solar setup to store daytime generation for evening use in the garden office
 
 ### What You Sacrifice
@@ -211,9 +211,9 @@ But if you're planning year-round use with heating, running a cable is the hones
 
 ## Next Steps
 
-- See our [garden office hub](/blog/solar-panels-for-garden-office-uk) for the complete guide
-- Learn how to [size a solar system](/blog/garden-office-solar-how-many-panels) for your specific office
+- See our [garden office hub](/blog/solar-panels-for-garden-office-uk) for the [complete guide](/blog/plug-in-solar-uk)
+- Learn how to [size a solar system](/blog/how-many-solar-panels-for-garden-office) for your specific office
 - Check out [solar kit options](/blog/best-plug-in-solar-kit-uk)
-- Explore [off-grid alternatives](/blog/garden-office-off-grid-solar) if you want true autonomy
+- Explore [off-grid alternatives](/blog/garden-office-off-grid-solar-uk) if you want true autonomy
 
 Get this decision right, and your garden office will serve you beautifully for years. Get it wrong, and you'll be frustrated every day.

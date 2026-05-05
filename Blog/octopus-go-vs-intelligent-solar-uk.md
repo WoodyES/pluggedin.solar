@@ -18,12 +18,12 @@ Octopus Go is Octopus Energy's entry-level flexible tariff that rewards off-peak
 
 - **Off-peak rate**: 7–9p per kilowatt-hour (kWh), typically between 10 PM and 8 AM
 - **Peak rate**: Around 24p/kWh, the rest of the day
-- **No equipment required**: Works with any smart meter; no special charger or integration needed
+- **No equipment required**: Works with any [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk); no special charger or integration needed
 - **Flexibility**: You're free to buy any battery or inverter you want
 
 The beauty of Go is simplicity. You get a four-hour window of cheap electricity every night, and if you have a battery—like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station)—you can charge it during off-peak hours and use that stored energy during the day, avoiding the 24p peak rate altogether.
 
-For a typical household using solar during the day and a battery at night, Go offers a straightforward way to maximise self-consumption without worrying about smart home integration or EV chargers.
+For a typical household using solar during the day and a battery at night, Go offers a straightforward way to maximise [self-consumption](/blog/smart-meter-solar-self-consumption-uk) without worrying about smart home integration or EV chargers.
 
 **Who should choose Go:**
 - Households with plug-in solar but no electric vehicle
@@ -55,7 +55,7 @@ With either tariff, the maths is compelling. Plug-in solar generates electricity
 But excess generation doesn't save you money unless you:
 1. Use it right away (self-consumption, best ROI)
 2. Store it in a battery and use it later (self-consumption at different time)
-3. Export it to the grid under the Smart Export Guarantee (SEG)
+3. Export it to the grid under the [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG)
 
 **On Octopus Go**, you're limited to one 4-hour off-peak window. You'll charge your battery at night, use it in the morning or evening, and rely on solar self-consumption for the rest. This is perfectly sensible for an 800W plug-in solar kit, which rarely overproduces enough to fill a large battery anyway.
 

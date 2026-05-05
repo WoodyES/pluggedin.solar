@@ -32,7 +32,7 @@ In money terms (assuming 30p/kWh):
 
 Here's the full regional breakdown:
 
-| Region | Annual Generation | Daily Average | Annual Saving (30p/kWh) | Payback Period |
+| Region | Annual Generation | Daily Average | Annual Saving (30p/kWh) | [Payback Period](/blog/plug-in-solar-payback-period-uk) |
 |---|---|---|---|---|
 | **South-East (London, Brighton)** | 850 kWh | 2.3 kWh | £256 | 3.1 years |
 | **East Anglia (Norwich, Peterborough)** | 820 kWh | 2.2 kWh | £246 | 3.2 years |
@@ -49,9 +49,9 @@ Here's the full regional breakdown:
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel balcony or garden kit</li>
@@ -198,7 +198,7 @@ The above figures assume all generated solar is either self-consumed (saving 30p
 - Exported: 170 kWh × 0p = £0
 - **Real saving: £204** (not £256)
 
-**If Time-of-Use tariff (15p peak, 5p off-peak, 15p export):**
+**If [Time-of-Use tariff](/blog/best-time-of-use-tariffs-uk-2026) (15p peak, 5p off-peak, 15p export):**
 - Peak self-consumption (8am–4pm): 400 kWh × 15p = £60
 - Off-peak self-consumption (rest): 100 kWh × 5p = £5
 - Export (at 15p): 350 kWh × 15p = £52.50

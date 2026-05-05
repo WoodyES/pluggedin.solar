@@ -78,7 +78,7 @@ Solar roof tiles cost 10–20 times more than plug-in panels. For that money, yo
 | **Cost per Watt** | £0.62–0.94 | £4.70–15.00 |
 | **Efficiency** | 20–23% | 17–20% (lower due to embedding) |
 | **Annual Output (1.6 kW)** | ~1,800 kWh | ~1,650 kWh (tiles) / ~1,700 kWh (Tesla) |
-| **Payback Period** | 4–6 years | 15–25 years |
+| **[Payback Period](/blog/plug-in-solar-payback-period-uk)** | 4–6 years | 15–25 years |
 | **Aesthetic** | Visible on wall/roof | Seamless, invisible as solar |
 | **Installation** | 1–2 days (DIY possible) | 2–4 weeks (roof replacement) |
 | **Maintenance** | Clean annually | Same, but harder to access |
@@ -142,7 +142,7 @@ With tiles, you can't. You'd need to re-tile an entire new roof area.
 
 ### 5. Fast Payback
 
-Plug-in pays for itself in 4–6 years. Tiles take 15–25 years. If you move before payback, tiles leave you with no return on investment.
+Plug-in pays for itself in 4–6 years. Tiles take 15–25 years. If you move before payback, tiles leave you with no [return on investment](/blog/is-plug-in-solar-good-investment-uk-2026).
 
 ### 6. Maintenance and Repair
 
@@ -265,4 +265,4 @@ For 99% of UK homeowners considering solar, **plug-in is the sensible choice.** 
 
 ---
 
-**Related reading:** [Try a plug-in system with affordable panels](/blog/cheap-vs-premium-solar-panels-uk) and upgrade to a [battery storage solution](/blog/micro-inverter-error-codes-uk) if you want to maximize self-consumption. Or [read about EcoFlow battery systems](/blog/cheap-vs-premium-solar-panels-uk) to pair with your panels.
+**Related reading:** [Try a plug-in system with affordable panels](/blog/cheap-vs-premium-solar-panels-uk) and upgrade to a [battery storage solution](/blog/micro-inverter-error-codes-uk) if you want to maximize [self-consumption](/blog/smart-meter-solar-self-consumption-uk). Or [read about [EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) battery systems](/blog/cheap-vs-premium-solar-panels-uk) to pair with your panels.

@@ -29,7 +29,7 @@ Each operates independently but follows the same regulatory framework.
 
 ## The DNO Position: Broadly Supportive
 
-Across the board, DNOs have acknowledged that plug-in solar is legal under BS 7671 Amendment 4 and the G98 notification framework. None have come out in active opposition. Most have published guidance on their websites explaining how to notify them of a plug-in solar installation.
+Across the board, DNOs have acknowledged that plug-in solar is legal under BS 7671 Amendment 4 and the [G98](/blog/g98-dno-notification-plug-in-solar) notification framework. None have come out in active opposition. Most have published guidance on their websites explaining how to notify them of a plug-in solar installation.
 
 For example:
 - UKPN has updated their G98 process to accommodate plug-in solar notifications
@@ -106,7 +106,7 @@ Some, like UKPN, have joined industry working groups (like the IET plug-in solar
 
 4. **Be honest on your G98 form**: Don't understate your capacity or hide installations. DNOs will eventually figure it out via import/export data, and misreporting could void your compliance.
 
-5. **Watch for new schemes**: As plug-in solar grows, expect DNOs to launch smart management schemes. These could include real-time export pricing or time-of-use discounts that encourage self-consumption over export.
+5. **Watch for new schemes**: As plug-in solar grows, expect DNOs to launch smart management schemes. These could include real-time export pricing or time-of-use discounts that encourage [self-consumption](/blog/smart-meter-solar-self-consumption-uk) over export.
 
 ## The Bottom Line
 

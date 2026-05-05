@@ -39,7 +39,7 @@ Summer means longer days, higher sun angles, and maximum generation potential. T
 
 **Verify peak output matches expectations.** On a clear, sunny day in June or July, what's your maximum output? Compare this to the system's spec sheet. If you're generating significantly less than the rated output, something's limiting you — probably shading or a system fault. Document this. If output is within 10–20% of rated capacity, that's normal (real-world conditions are never perfect).
 
-**Check for overheating issues.** On the hottest day of summer, monitor your system. Does the inverter shut down suddenly? Does the app show thermal warnings? If so, check whether the inverter is in direct sun and consider shade options. (We cover this in detail in our [microinverter problems guide](/blog/plug-in-solar-microinverter-problems-and-fixes).)
+**Check for overheating issues.** On the hottest day of summer, monitor your system. Does the inverter shut down suddenly? Does the app show thermal warnings? If so, check whether the inverter is in direct sun and consider shade options. (We cover this in detail in our [microinverter problems guide](/blog/plug-in-solar-microinverter-problems-uk).)
 
 **Clear any summer growth.** Moss can grow on panels if you're in a damp area, and climbing plants might be growing over parts of your system. Gently brush away any moss (soft brush again — don't scrub). Trim back any plants or ivy that's creeping towards your panels.
 
@@ -49,7 +49,7 @@ Summer means longer days, higher sun angles, and maximum generation potential. T
 
 Autumn brings Atlantic storm systems, falling leaves, and the need to prepare your system for rough weather ahead. This is the busiest maintenance season.
 
-**Check ballast weights (if applicable).** If your panels are on a ground mount with ballast, inspect the weight distribution now. Have any blocks shifted? Do you still have all the weight in place? In exposed locations, consider adding 20% extra weight before storm season. This isn't paranoia — it's sensible planning.
+**Check ballast weights (if applicable).** If your panels are on a [ground mount](/blog/ground-mount-plug-in-solar-uk) with ballast, inspect the weight distribution now. Have any blocks shifted? Do you still have all the weight in place? In exposed locations, consider adding 20% extra weight before storm season. This isn't paranoia — it's sensible planning.
 
 **Tighten all mounting bolts again.** Summer wind and vibration will have loosened some bolts. Go through them all and ensure everything is secure. Pay particular attention to bolts in high-wind exposure areas (exposed gardens, rooftops, balconies).
 
@@ -118,4 +118,4 @@ Anything involving mains wiring or the consumer unit.
 
 Otherwise, you've got this. Your system is tougher than you think, and a bit of seasonal attention will keep it generating brilliantly for decades.
 
-Want more detail on specific issues? Check our [troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting) if something goes wrong, or our [storm-proofing guide](/blog/how-to-storm-proof-your-plug-in-solar-panels) before bad weather hits.
+Want more detail on specific issues? Check our [troubleshooting guide](/blog/plug-in-solar-not-generating-uk) if something goes wrong, or our [storm-proofing guide](/blog/storm-proof-plug-in-solar-uk) before bad weather hits.

@@ -10,7 +10,7 @@ If there's one decision that determines whether solar saves you £100 or £500 p
 
 The Ofgem price cap covers the basics: a flat rate of roughly 24p/kWh for electricity, 7p/kWh for gas. But time-of-use (ToU) tariffs break this into windows: cheap off-peak hours, standard rates, and expensive peak hours.
 
-For homes with plug-in solar or battery storage, the difference between a standard tariff and the right ToU tariff is genuinely life-changing. We're talking £200–400 extra per year in value capture.
+For homes with plug-in solar or [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), the difference between a standard tariff and the right ToU tariff is genuinely life-changing. We're talking £200–400 extra per year in value capture.
 
 So which ToU tariff is actually best? It depends on your setup, not just your postcode.
 
@@ -68,7 +68,7 @@ The arbitrage value can add £150–300/year to your system's net output. That's
 **Export rate:** 24p/kWh (significantly higher than standard suppliers)
 **Standard rate:** 24p/kWh import
 
-**Who it's for:** Homes with rooftop solar (which qualifies for SEG and can export) and moderate battery storage. Flux pays you generously for exports, so if your rooftop system is exporting heavily during daytime, Flux maximises the income.
+**Who it's for:** Homes with rooftop solar (which qualifies for [SEG](/blog/plug-in-solar-smart-meter-exports-uk) and can export) and moderate battery storage. Flux pays you generously for exports, so if your rooftop system is exporting heavily during daytime, Flux maximises the income.
 
 **Why it's brilliant for solar:** The high export rate (24p) is unique. Most suppliers pay 15–20p for SEG exports. Flux's 24p means your exported solar electricity is worth more. However, Flux doesn't have the super-cheap off-peak window (4p) that Octopus Go offers, so it's a trade-off.
 
@@ -160,7 +160,7 @@ All modern ToU tariffs require smart metering. If you don't have one, request it
 
 ## Monitoring Your Tariff's Performance
 
-Once you've switched, use a smart plug like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) (£15) on key loads to understand timing. Monitor your monthly bills. After 6 months, calculate actual savings and decide if the tariff still matches your situation.
+Once you've switched, use a [smart plug](/blog/best-smart-plug-monitor-solar-uk) like the [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) (£15) on key loads to understand timing. Monitor your monthly bills. After 6 months, calculate actual savings and decide if the tariff still matches your situation.
 
 Energy behaviour changes. Kids grow up, work patterns shift, heat pumps replace boilers. Every 12–18 months, revisit your tariff choice. What was optimal a year ago might be suboptimal today.
 

@@ -31,7 +31,25 @@ Your panels are fine, the sun is shining, but the inverter isn't producing anyth
 
 Wait 2–3 minutes after restart for the inverter to fully boot up, then check the app or lights again.
 
-**If that doesn't work**: Check that the panels are actually producing power. A [Fluke 117 Multimeter](https://amzn.to/4bSN4aq) can help you test the DC voltage and confirm whether the panel is generating. Walk through [our troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting) to confirm power is reaching the inverter. If the panels are producing but the inverter won't convert it, you likely have a hardware fault and the unit needs replacing under warranty.
+**If that doesn't work**: Check that the panels are actually producing power. A [Fluke 117 Multimeter](https://amzn.to/4bSN4aq) can help you test the DC voltage and confirm whether the panel is generating. Walk through [our troubleshooting guide](/blog/plug-in-solar-not-generating-uk) to confirm power is reaching the inverter. If the panels are producing but the inverter won't convert it, you likely have a hardware fault and the unit needs replacing under warranty.
+
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-badge">Best overall</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
+<div class="pc-price">~\u00a3799 <small>estimated</small></div>
+<ul class="pc-features">
+<li>800W dual-panel balcony or garden kit</li>
+<li>600Wh plug-in battery included</li>
+<li>App with live monitoring &amp; smart scheduling</li>
+<li>Balcony, garden &amp; flat-roof mount options</li>
+</ul>
+<a class="pc-cta" href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow \u2192</a>
+<div class="pc-note">BSI-compliant kits expected from July 2026. Prices are estimates.</div>
+</div>
+
 
 ## Problem 2: Wi-Fi Dropout — "Your Inverter Is Offline"
 
@@ -87,9 +105,9 @@ In reality, thermal shutdown in summer is often a sign your location is marginal
 
 ## Problem 5: Overnight Battery Drain — The EcoFlow Bug
 
-Here's a notorious one that caught a lot of early adopters: some EcoFlow PowerStream units (a common plug-in solar microinverter in the UK) had a firmware bug where leaving the panels plugged in overnight could slowly drain the battery, sometimes completely. In extreme cases, the system would enter a "dead state" where it wouldn't restart without manual intervention.
+Here's a notorious one that caught a lot of early adopters: some EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) units (a common plug-in solar microinverter in the UK) had a firmware bug where leaving the panels plugged in overnight could slowly drain the battery, sometimes completely. In extreme cases, the system would enter a "dead state" where it wouldn't restart without manual intervention.
 
-**If you own an EcoFlow PowerStream**: Check your firmware version in the app (Settings > Device > Firmware Version). EcoFlow issued fixes for this bug in firmware updates released in late 2025 and early 2026. If you're behind on updates, update immediately.
+**If you own an [EcoFlow PowerStream](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system)**: Check your firmware version in the app (Settings > Device > Firmware Version). EcoFlow issued fixes for this bug in firmware updates released in late 2025 and early 2026. If you're behind on updates, update immediately.
 
 If you haven't updated and you're worried about overnight drain, the workaround is simple: disconnect the panel cables from the inverter at night or before extended periods away from home. This prevents the battery drain cycle entirely. Yes, it's annoying, but it works and takes 20 seconds.
 
@@ -131,4 +149,4 @@ Microinverter problems are frustrating when they happen, but they're usually fix
 
 If your microinverter is causing repeated issues, don't suffer in silence — contact the manufacturer. If they're good, they'll help. If they're not responsive, note it for your next purchase.
 
-For more on diagnosing why your panels aren't generating at all, check our [troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting). And if you're still in the buying phase, our guide to [choosing the best plug-in solar kit](/blog/best-plug-in-solar-kit-uk) will help you pick a reliable inverter in the first place.
+For more on diagnosing why your panels aren't generating at all, check our [troubleshooting guide](/blog/plug-in-solar-not-generating-uk). And if you're still in the buying phase, our guide to [choosing the best plug-in solar kit](/blog/best-plug-in-solar-kit-uk) will help you pick a reliable inverter in the first place.

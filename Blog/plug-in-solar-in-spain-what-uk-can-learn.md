@@ -27,11 +27,11 @@ But here's where it gets interesting: Spanish electricity prices are lower than 
 
 So yes, a Spanish system generates more electricity. But the financial value of that electricity is lower. A Spanish 600W system producing 750 kWh yearly saves roughly €150–190 (£130–165). A UK system producing 480 kWh saves £135–168.
 
-The payback period is actually similar. Spain's 40% generation advantage is offset by 20% cheaper electricity. The financial case is comparable.
+The [payback period](/blog/plug-in-solar-payback-period-uk) is actually similar. Spain's 40% generation advantage is offset by 20% cheaper electricity. The financial case is comparable.
 
 ## How Spain Regulates Plug-in Solar
 
-Spain doesn't have a single national framework for balcony solar, unlike Germany's national registration system. Instead, regulation is fragmented across regional authorities (Comunidades Autónomas), with most treating plug-in systems as minor installations that don't require permits or formal approval.
+Spain doesn't have a single national framework for [balcony solar](/blog/balcony-solar-uk), unlike Germany's national registration system. Instead, regulation is fragmented across regional authorities (Comunidades Autónomas), with most treating plug-in systems as minor installations that don't require permits or formal approval.
 
 This sounds liberating, but it creates problems. There's no central registry of small solar systems, so nobody knows how much small-scale generation is happening. There's limited guidance on safety standards or quality requirements. Insurance coverage is patchy—some Spanish insurers cover systems, others don't, and the rules vary by region.
 
@@ -96,4 +96,4 @@ The UK has an opportunity to learn from both countries. Take Germany's structure
 
 By 2027, there will be hundreds of thousands of UK balcony solar systems. Some will be in Scotland, where yields are modest. Some in London, where returns are excellent. Most will fall somewhere in between. The lesson from Spain is simple: worry less about sunshine and more about sensible regulations, user education, and installer quality. Those matter more than latitude.
 
-For more context on the international picture, read [what Germany teaches the UK about plug-in solar](/blog/what-germany-teaches-uk-about-plug-in-solar). For the financial case specific to the UK, see [is plug-in solar worth it?](/blog/is-plug-in-solar-worth-it-uk) and [plug-in solar payback period in the UK](/blog/plug-in-solar-payback-period).
+For more context on the international picture, read [what Germany teaches the UK about plug-in solar](/blog/what-germany-teaches-uk-plug-in-solar). For the financial case specific to the UK, see [is plug-in solar worth it?](/blog/is-plug-in-solar-worth-it-uk) and [plug-in solar payback period in the UK](/blog/plug-in-solar-payback-period-uk).

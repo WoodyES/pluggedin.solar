@@ -21,7 +21,7 @@ Victorian terraces are typically built in east-west rows, meaning the front and 
 
 **If your rear faces east or west:** east-facing gets morning sun, west-facing gets afternoon sun. Expect roughly 80% of south-facing output (see our [east-west guide](/blog/east-west-facing-plug-in-solar-uk)). This is still worthwhile — particularly if you're home in the mornings (east-facing) or evenings (west-facing), as your consumption aligns with generation.
 
-**If your rear faces north:** this is the hardest situation. North-facing positions generate 55-65% of south-facing output. The front of the house faces south in this scenario — but front-facing panels on a Victorian terrace raise planning and aesthetic issues (see below). A flat roof on a rear extension, if you have one, may offer a better position.
+**If your rear faces north:** this is the hardest situation. North-facing positions generate 55-65% of south-facing output. The front of the house faces south in this scenario — but front-facing panels on a Victorian terrace raise planning and aesthetic issues (see below). A [flat roof](/blog/flat-roof-plug-in-solar-uk) on a rear extension, if you have one, may offer a better position.
 
 Check your orientation using Google Maps or a compass app. Even a 20° offset from due south is fine — the output difference between south and south-south-east is under 4%.
 
@@ -38,7 +38,7 @@ If you're mounting panels on the rear roof slope or rear wall, the chimney on th
 
 ## The Rear Garden Mount
 
-For Victorian terraces, a freestanding ground mount at the end of the rear garden is often the best option. This avoids roof access issues, chimney shading, and planning complications. A pair of 400W panels on a [tilt mount](https://amzn.to/4maeAng) takes up roughly 4m² of garden space.
+For Victorian terraces, a freestanding [ground mount](/blog/ground-mount-plug-in-solar-uk) at the end of the rear garden is often the best option. This avoids roof access issues, chimney shading, and planning complications. A pair of 400W panels on a [tilt mount](https://amzn.to/4maeAng) takes up roughly 4m² of garden space.
 
 **Advantages:** optimal angle, easy to clean, no roof modifications, reversible installation. Cable runs from garden to an outdoor or indoor socket via the [methods in our cable routing guide](/blog/plug-in-solar-cable-routing-weatherproofing-reality-uk).
 
@@ -77,4 +77,4 @@ See our [planning permission guide](/blog/plug-in-solar-planning-permission) for
 
 The [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) is a good match — its compact form factor works in constrained spaces, and the integrated inverter simplifies cabling. For garden-mount setups, pair it with a [freestanding tilt mount](https://amzn.to/4maeAng) and an [MC4 extension cable](https://amzn.to/4mfWT5J) for the cable run.
 
-Monitor output with a [Tapo P110](https://amzn.to/4m9Yh9U) to verify that your specific position is delivering reasonable generation before investing in additional panels or battery storage.
+Monitor output with a [Tapo P110](https://amzn.to/4m9Yh9U) to verify that your specific position is delivering reasonable generation before investing in additional panels or [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk).

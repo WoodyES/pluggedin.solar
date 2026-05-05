@@ -191,7 +191,7 @@ BS 7671 Amendment 4 is a regulatory acknowledgement that plug-in solar is safe, 
 It sets the baseline:
 - Systems up to 800W
 - Proper RCD and earthing protection
-- DNO notification
+- [DNO notification](/blog/g98-dno-notification-plug-in-solar)
 - Anti-islanding safeguards
 
 Within those boundaries, you're free to install solar however you like (or get an electrician to help).

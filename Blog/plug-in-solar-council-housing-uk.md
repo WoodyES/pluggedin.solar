@@ -28,8 +28,8 @@ Write a simple email or letter to your housing officer or tenancy management tea
 - What you want to install (a plug-in solar panel, 400W or 800W)
 - Where you want to mount it (balcony railing, garden, wall)
 - That the system is portable and non-permanent (no structural changes)
-- That it complies with BS 7671 Amendment 4 (the UK wiring standard)
-- That you'll complete the required G98 DNO notification
+- That it complies with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 (the UK wiring standard)
+- That you'll complete the required [G98](/blog/g98-dno-notification-plug-in-solar) DNO notification
 - That it was confirmed as legal by the UK government on 15 March 2026
 
 Keep it factual and brief. Don't overcomplicate it.
@@ -84,4 +84,4 @@ Social housing tenants can absolutely benefit from plug-in solar. The barriers a
 
 Write to your housing provider, reference the March 2026 announcement, and make the case clearly. Most will say yes. Those that don't should explain why — and in most cases, their objections won't hold up.
 
-For the complete renter guide, see our [renters guide](/blog/plug-in-solar-for-renters-uk). For balcony-specific installation, see our [balcony guide](/blog/balcony-solar-installation-guide-uk).
+For the complete [renter](/blog/rented-flat-solar-panels-uk) guide, see our [renters guide](/blog/plug-in-solar-for-renters-uk). For balcony-specific installation, see our [balcony guide](/blog/balcony-solar-installation-guide-uk).

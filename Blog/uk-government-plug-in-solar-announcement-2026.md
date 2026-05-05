@@ -15,9 +15,9 @@ In March 2026, the UK government made an unambiguous statement: plug-in solar is
 The government's March 2026 statement confirmed:
 
 1. **Plug-in solar is "generally safe" for domestic use** — moving the category from experimental to established technology
-2. **BS 7671 Amendment 4 would be published immediately** — providing the electrical installation guidance needed to make plug-in systems legal under UK building regulations
+2. **[BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4 would be published immediately** — providing the electrical installation guidance needed to make plug-in systems legal under UK building regulations
 3. **An 800W AC regulatory cap** — set at the socket outlet level to protect DNO networks
-4. **G98 micro-generation notification** — existing framework extended to plug-in solar, with 28-day filing requirement
+4. **[G98](/blog/g98-dno-notification-plug-in-solar) micro-generation notification** — existing framework extended to plug-in solar, with 28-day filing requirement
 5. **A July 2026 target for the BSI product standard** — the technical specification that manufacturers will build to
 
 In one crucial sentence, the government reframed plug-in solar from "something that *might* be allowed" to "something we are actively supporting."
@@ -129,7 +129,7 @@ If you've been waiting to invest in plug-in solar:
 - **Autumn 2026:** Wider choice and potentially lower prices as supply increases
 - **2027 onwards:** Market stabilisation, mainstream availability, price maturity
 
-For the latest on product availability and pricing, see our [Plug-in Solar UK: What's Changed in 2026 and What's Coming Next](/blog/plug-in-solar-uk-whats-changed-2026). To understand the technical standards in detail, read our [Complete Guide to BS 7671 Amendment 4 and Plug-in Solar](/blog/bs7671-plug-in-solar-guide).
+For the latest on product availability and pricing, see our [Plug-in Solar UK: What's Changed in 2026 and What's Coming Next](/blog/plug-in-solar-uk-whats-changed-2026). To understand the technical standards in detail, read our [Complete Guide to BS 7671 Amendment 4 and Plug-in Solar](/blog/bs-7671-amendment-4-plain-english-guide).
 
 ---
 

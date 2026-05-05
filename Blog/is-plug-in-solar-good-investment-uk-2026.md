@@ -38,7 +38,7 @@ Let's work with current UK figures (April 2026):
 
 **Ofgem cap (typical household):** 24p/kWh peak, 9p/kWh off-peak
 **An 800W plug-in solar system generates:** ~900–1,100 kWh/year (depending on location, shading, season)
-**Self-consumption rate:** ~60–75% (typical for occupied households)
+**[Self-consumption](/blog/smart-meter-solar-self-consumption-uk) rate:** ~60–75% (typical for occupied households)
 
 **Maths:**
 

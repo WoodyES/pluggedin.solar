@@ -140,8 +140,8 @@ If vertical balcony is your choice, optimize:
 1. **Choose the best aspect** – South > South-East/South-West > East/West. A south-west balcony facing afternoon sun is better than north-east.
 2. **Ensure zero shading** – check the Solar Report to see if trees, buildings, or your own building block sun at any time of day. Even a small shadow cuts output badly (shading is multiplicative, not additive).
 3. **Clean regularly** – vertical panels accumulate dust and bird droppings more easily than tilted roofs. A quarterly rinse improves output 5–10%.
-4. **Consider a Time-of-Use tariff** – if your balcony captures good afternoon sun (west or south-west), Octopus Flux's 4–9pm peak window rewards afternoon generation. Improves effective savings by ~20%.
-5. **Plan for storage** – a 600Wh battery (£200–£300) captures afternoon generation for evening use, raising effective self-consumption. Only worth it if you work from home or have evening load.
+4. **Consider a [Time-of-Use tariff](/blog/best-time-of-use-tariffs-uk-2026)** – if your balcony captures good afternoon sun (west or south-west), [Octopus Flux](/blog/octopus-flux-tariff-review-uk)'s 4–9pm peak window rewards afternoon generation. Improves effective savings by ~20%.
+5. **Plan for storage** – a 600Wh battery (£200–£300) captures afternoon generation for evening use, raising effective [self-consumption](/blog/smart-meter-solar-self-consumption-uk). Only worth it if you work from home or have evening load.
 
 ## Real Case Study: Flat in Manchester, South-West Balcony
 
@@ -174,7 +174,7 @@ If vertical balcony is your choice, optimize:
 
 Instead of balcony solar, consider:
 
-**Battery storage (600Wh, ~£300):**
+**[Battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) (600Wh, ~£300):**
 - No generation improvement; just shifts existing daytime solar to evening.
 - For a home without solar, useless.
 - For a home with solar, gains ~15–20% effective savings if you have evening load.

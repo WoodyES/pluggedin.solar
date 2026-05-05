@@ -182,7 +182,7 @@ Plus, a failed panel in a remote installation is costly to replace. Premium's lo
 If you plan to stay in your home for 20+ years and want predictable output, premium pays dividends. You'll see real financial gain in year 15 onwards.
 
 ### 4. Tied to Mortgage or Loan
-If you've financed the system on a 10-year loan, premium panels let you pay off the loan faster. Budget panels with slower output extend your payback period.
+If you've financed the system on a 10-year loan, premium panels let you pay off the loan faster. Budget panels with slower output extend your [payback period](/blog/plug-in-solar-payback-period-uk).
 
 ---
 

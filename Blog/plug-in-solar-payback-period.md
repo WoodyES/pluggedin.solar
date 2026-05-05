@@ -27,7 +27,7 @@ When the compliant kits launch in July 2026, expect these price ranges:
 - Annual savings: ~£55–£75
 
 **Mid-range systems (800W, two panels):**
-- Reputable brands (EcoFlow, Anker SOLIX)
+- Reputable brands ([EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system), Anker SOLIX)
 - Good inverter with 10-year warranty
 - Quality mounting hardware included
 - Cost: £500–£700
@@ -48,7 +48,7 @@ For payback maths, this matters. An entry-level 400W system at £400 has a faste
 
 Let's build a payback table for the most common scenario: 800W system, different locations, different orientations.
 
-All assume 70% self-consumption rate and £600 kit cost.
+All assume 70% [self-consumption](/blog/smart-meter-solar-self-consumption-uk) rate and £600 kit cost.
 
 ### South-Facing (Best Case)
 
@@ -202,7 +202,7 @@ Across the UK, for a typical 800W south-facing system with moderate self-consump
 
 For most people, expect 4.5–5.5 years. That's within the range where most consider an investment worth making.
 
-Under the [savings calculator](/calculator), you'll get your specific payback period. Use that number for your planning. To monitor your actual payback progress in real time, a [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) smart plug can track your savings month by month so you can see exactly when you hit break-even.
+Under the [savings calculator](/calculator), you'll get your specific payback period. Use that number for your planning. To monitor your actual payback progress in real time, a [TP-Link Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) can track your savings month by month so you can see exactly when you hit break-even.
 
 And remember: after payback, you're earning money (via savings) with zero additional cost. That's what makes the long payback period acceptable.
 

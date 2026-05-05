@@ -9,7 +9,7 @@ priority: 2
 
 # Emporia Vue 3 Review UK: Whole-Home Energy Monitoring
 
-If you're serious about understanding how much solar energy you're actually *using* (vs exporting), a smart plug alone won't cut it. The [Emporia Vue 3](https://amzn.to/4bUCQ9E) (~£90) is the UK's best whole-home energy monitor and a game-changer for plug-in solar owners.
+If you're serious about understanding how much solar energy you're actually *using* (vs exporting), a [smart plug](/blog/best-smart-plug-monitor-solar-uk) alone won't cut it. The [Emporia Vue 3](https://amzn.to/4bUCQ9E) (~£90) is the UK's best whole-home [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) and a game-changer for plug-in solar owners.
 
 Here's why it matters—and how it works.
 
@@ -23,7 +23,7 @@ The Emporia Vue 3 ships with 16 CT clamps, letting you monitor:
 - **Individual circuits** (oven, heating, EV charger, etc.)
 
 From these measurements, the Vue calculates:
-- **Self-consumption:** How much solar is used on-site.
+- **[Self-consumption](/blog/smart-meter-solar-self-consumption-uk):** How much solar is used on-site.
 - **Import:** Power pulled from the grid.
 - **Export:** Surplus solar sent to the grid.
 
@@ -172,6 +172,6 @@ Install it, study the data for a month, and you'll find ways to use more of your
 ---
 
 **See also:**  
-[TP-Link Tapo P110 Smart Plug Review](/blog/tapo-p110-review-uk) *(future article)*  
+[TP-Link Tapo P110 Smart Plug Review](/blog/tapo-p110-solar-monitoring-review-uk) *(future article)*  
 [Eve Energy vs Tapo P110 vs Shelly: Best Solar Smart Plug UK](/blog/eve-energy-vs-tapo-p110-vs-shelly-uk)  
 [APsystems EZ1-M Review UK](/blog/apsystems-ez1-m-review-uk)

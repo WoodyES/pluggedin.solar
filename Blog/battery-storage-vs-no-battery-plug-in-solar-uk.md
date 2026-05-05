@@ -14,7 +14,7 @@ Let's cut through the marketing and work through the actual maths.
 
 ## The Core Question: What Value Does a Battery Capture?
 
-Without battery storage, your 800W solar system generates power during daylight hours. If you're at home consuming electricity, great—solar offsets your grid usage. If you're at work and nobody's home, that generation goes to the grid unused (or, on rare occasions, you'd be paid for it under SEG if you had rooftop solar, which you don't with plug-in systems).
+Without battery storage, your 800W solar system generates power during daylight hours. If you're at home consuming electricity, great—solar offsets your grid usage. If you're at work and nobody's home, that generation goes to the grid unused (or, on rare occasions, you'd be paid for it under [SEG](/blog/plug-in-solar-smart-meter-exports-uk) if you had rooftop solar, which you don't with plug-in systems).
 
 Battery storage captures that unused generation. Instead of exporting it, you store it. Then you use it in the evening or morning when the sun isn't shining but you're home and consuming.
 
@@ -51,9 +51,9 @@ The culprit? You're already consuming solar in real-time. Battery can't improve 
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with Delta 2 battery" /></div>
+<div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with [Delta 2](/blog/ecoflow-delta-2-review-uk) battery" /></div>
 <div class="pc-badge">Premium choice</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W + Delta 2</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W + Delta 2</a></div>
 <div class="pc-price">~£1,099 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel kit with 1kWh Delta battery</li>
@@ -85,7 +85,7 @@ At 24p/kWh (flat rate), that's worth £120–180/year.
 
 Now we're talking. But only barely.
 
-**However:** If you pair battery with a time-of-use tariff like Octopus Go (4p/kWh off-peak, 24p/kWh standard), the value jumps dramatically.
+**However:** If you pair battery with a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) like [Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk) (4p/kWh off-peak, 24p/kWh standard), the value jumps dramatically.
 
 ## Scenario B+ : Away During Day + ToU Tariff (Octopus Go)
 

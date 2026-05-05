@@ -9,13 +9,13 @@ priority: 1
 wordcount: 1100
 ---
 
-When compliant plug-in solar kits hit UK retail shelves, two brands will dominate the conversation: EcoFlow and Anker SOLIX. Both have massive European track records from Germany's Balkonkraftwerk market, both have UK-ready products, and both are competing for the same buyer.
+When compliant plug-in solar kits hit UK retail shelves, two brands will dominate the conversation: EcoFlow and [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026). Both have massive European track records from Germany's Balkonkraftwerk market, both have UK-ready products, and both are competing for the same buyer.
 
 Here's how the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) and Anker SOLIX RS40P compare on everything that matters.
 
 ## The Basics
 
-| Feature | EcoFlow STREAM | Anker SOLIX RS40P |
+| Feature | [EcoFlow STREAM](/blog/ecoflow-stream-review-uk) | Anker SOLIX RS40P |
 |---------|----------------|-------------------|
 | Panel wattage | 2× 400W (800W total) | 2× 445W (890W total) |
 | Inverter output | 800W AC max | 800W AC max |
@@ -34,14 +34,14 @@ Both systems cap at 800W AC output as required by UK regulations. The Anker's sl
 
 **Anker SOLIX RS40P** — similar tool-free setup. The APsystems micro-inverter is integrated into the system, with pre-attached cabling. The Anker app handles commissioning. Setup time is comparable to EcoFlow.
 
-Both brands include basic mounting hardware for balcony railing installation. For wall or ground mounting, you'll need additional brackets — see our [tilt mount guide](/blog/best-solar-panel-tilt-mounts-uk) for options.
+Both brands include basic mounting hardware for balcony railing installation. For wall or ground mounting, you'll need additional brackets — see our [tilt mount guide](/blog/best-solar-panel-tilt-brackets-uk) for options.
 
 **Verdict:** essentially tied. Both have streamlined the setup process to consumer-appliance simplicity. Neither requires electrical knowledge.
 
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
 <div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>
@@ -61,7 +61,7 @@ Both brands include basic mounting hardware for balcony railing installation. Fo
 
 **Anker app** — functionally similar. Real-time wattage, daily totals, historical graphs. The interface is clean but marginally less feature-rich than EcoFlow's. Anker's ecosystem is growing (the SOLIX C1000 battery integrates) but isn't as mature.
 
-**Verdict:** EcoFlow has a slight edge on app quality and ecosystem breadth. If you plan to stay within one brand's ecosystem for battery storage, this matters.
+**Verdict:** EcoFlow has a slight edge on app quality and ecosystem breadth. If you plan to stay within one brand's ecosystem for [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), this matters.
 
 ## Build Quality and Durability
 
@@ -89,7 +89,7 @@ In practice, both systems will hit the 800W cap during peak summer hours. The di
 
 **Anker** — pairs with the [Anker SOLIX C1000](https://amzn.to/3QmpWsI) and SOLIX range. Similar direct/indirect charging options. The Anker app manages the combined system.
 
-If you plan to add battery storage, staying within one brand's ecosystem simplifies setup and monitoring. The DELTA 2 is slightly cheaper than the C1000, giving EcoFlow a cost advantage on the combined solar-plus-battery package.
+If you plan to add battery storage, staying within one brand's ecosystem simplifies setup and monitoring. The [DELTA 2](/blog/ecoflow-delta-2-review-uk) is slightly cheaper than the C1000, giving EcoFlow a cost advantage on the combined solar-plus-battery package.
 
 **Verdict:** EcoFlow wins on battery-paired value. The DELTA 2 is cheaper and more established.
 
@@ -105,6 +105,6 @@ If you're comparing purely on price, the Anker wins by £50 with marginally high
 
 **Buy the Anker SOLIX RS40P if:** price is the primary concern, you want marginally better output from the oversized panels, or you prefer APsystems inverter technology.
 
-**Either way:** both are excellent kits. The performance difference is under 5%. Your placement, orientation, and self-consumption behaviour will matter 10× more than the kit choice. See our [installation guide](/blog/how-to-install-plug-in-solar-uk) for getting the most from whichever kit you choose.
+**Either way:** both are excellent kits. The performance difference is under 5%. Your placement, orientation, and [self-consumption](/blog/smart-meter-solar-self-consumption-uk) behaviour will matter 10× more than the kit choice. See our [installation guide](/blog/how-to-install-plug-in-solar-uk) for getting the most from whichever kit you choose.
 
 Buy the [EcoFlow STREAM on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system).

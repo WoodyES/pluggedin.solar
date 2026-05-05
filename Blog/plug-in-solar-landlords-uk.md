@@ -11,7 +11,7 @@ priority: 1
 
 The Renters' Rights Act 2025 transformed the landscape for landlords considering renewable energy. Plug-in solar is now legal, and in many cases, it's a compelling investment.
 
-But there are rules. This guide covers what you need to know: the legal position, who pays for installation, insurance implications, G98 notification requirements, managing multiple properties, and the financial case.
+But there are rules. This guide covers what you need to know: the legal position, who pays for installation, insurance implications, [G98](/blog/g98-dno-notification-plug-in-solar) notification requirements, managing multiple properties, and the financial case.
 
 ## The Legal Position Under Renters' Rights Act 2025
 
@@ -68,7 +68,7 @@ You hire a qualified installer, the panels go on the roof or wall, and the syste
 Occasionally, a tenant asks to install solar themselves. The legal position:
 
 - They can install a plug-in solar system themselves (as equipment they own)
-- It must comply with BS 7671 and be notified to the DNO under G98
+- It must comply with [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) and be notified to the DNO under G98
 - When the tenant leaves, they typically remove it (it's their equipment)
 - You're not liable for installation costs or maintenance
 
@@ -203,7 +203,7 @@ Conservative estimate of EPC benefit: **£200–300/year** (through reduced void
 - EPC/lettability benefit: £200–300
 - **Total: £750–950/year**
 
-Assuming £1,450 all-in cost: **Payback period: 1.5–1.9 years**
+Assuming £1,450 all-in cost: **[Payback period](/blog/plug-in-solar-payback-period-uk): 1.5–1.9 years**
 
 If you factor in the property value uplift (lower-EPC properties command a 2–3% premium), payback is even faster.
 
@@ -307,6 +307,6 @@ For a landlord, professional install is worth the £300–400; it's 0.8% of the 
 ---
 
 **Next steps:**
-- Understand [G98 notification and DNO requirements](/blog/g98-notification-guide) in detail
-- Explore [insurance and compliance for solar-equipped rental properties](/blog/landlord-solar-insurance-guide)
-- Review [tax and accounting implications](/blog/solar-tax-implications-landlords) for rental income and capital allowances
+- Understand [G98 notification and DNO requirements](/blog/g98-dno-notification-plug-in-solar) in detail
+- Explore [insurance and compliance for solar-equipped rental properties](/blog/plug-in-solar-home-insurance-uk)
+- Review [tax and accounting implications](/blog/plug-in-solar-landlords-uk) for rental income and capital allowances

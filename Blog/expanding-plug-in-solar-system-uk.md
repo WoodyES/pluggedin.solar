@@ -66,7 +66,7 @@ The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=28
 Before ordering more panels:
 
 1. Check your inverter's input count and voltage range — does it support additional panels?
-2. Decide whether battery storage would serve you better than more generation
+2. Decide whether [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) would serve you better than more generation
 3. Verify the additional panels are compatible with your inverter spec sheet
 4. If adding a second inverter to a different circuit, read the [multiple units guide](/blog/multiple-plug-in-solar-units-one-circuit-uk)
 5. Submit a new/updated G98 notification if adding a second inverter

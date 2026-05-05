@@ -33,7 +33,7 @@ It sounds bureaucratic, but it's actually clever. The system isn't there to say 
 
 Crucially, registration doesn't require an electrician. You do it yourself, online. The rules don't mandate professional installation or third-party certification. This keeps costs low and barriers minimal.
 
-The UK is unlikely to replicate this exact system—we have different grid infrastructure, different property laws. But the principle is sound: transparency without gatekeeping. BS 7671 Amendment 4, arriving mid-April, will set out our safety standards. What comes next should focus on making compliance simple and registration accessible.
+The UK is unlikely to replicate this exact system—we have different grid infrastructure, different property laws. But the principle is sound: transparency without gatekeeping. [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4, arriving mid-April, will set out our safety standards. What comes next should focus on making compliance simple and registration accessible.
 
 ## The 600W to 800W Upgrade: A Lesson in Policy Learning
 

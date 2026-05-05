@@ -88,6 +88,6 @@ Bird-proofing is one of those investments that costs money upfront but saves you
 
 Budget £150–300 for a decent bird-proofing kit for a standard balcony setup, including installation. That's a fraction of what you'd pay to fix corrosion damage or replace a damaged junction box.
 
-For persistent or severe bird problems, you might also want to read our guide on [regular panel cleaning](/blog/solar-panel-cleaning-kit-guide-uk)—keeping panels spotless can also help discourage nesting activity.
+For persistent or severe bird problems, you might also want to read our guide on [regular panel cleaning](/blog/solar-panel-cleaning-kit-uk)—keeping panels spotless can also help discourage nesting activity.
 
 And if you're dealing with weather damage or thinking about moving house, we've got guides on [weatherproofing your setup](/blog/weatherproof-plug-in-solar-uk) and [flat-roof systems](/blog/flat-roof-plug-in-solar-uk) that cover other protection strategies.

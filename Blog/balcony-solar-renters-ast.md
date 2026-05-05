@@ -9,7 +9,7 @@ priority: "MED"
 wordcount: 1850
 ---
 
-You've decided you want balcony solar. But now you're staring at your Assured Shorthold Tenancy agreement, scanning for the clause that will stop you. You find one: "The tenant shall not make any alterations to the property without the landlord's written consent."
+You've decided you want [balcony solar](/blog/balcony-solar-uk). But now you're staring at your Assured Shorthold Tenancy agreement, scanning for the clause that will stop you. You find one: "The tenant shall not make any alterations to the property without the landlord's written consent."
 
 Full stop. Your solar dreams die right there.
 

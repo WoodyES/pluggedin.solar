@@ -49,7 +49,7 @@ The difference in price between IP67 and IP68 is usually a couple of quid per pa
 
 ## Cross-Compatibility: The Hidden Gotcha
 
-Here's something that catches people out: MC4 connectors from different manufacturers are *mechanically* compatible, but the electrical contacts inside can vary. You can plug an EcoFlow panel connector into a Renogy extension cable and it'll physically work. But the fit might be loose or overly tight, and you've just mixed components from different electrical specifications.
+Here's something that catches people out: MC4 connectors from different manufacturers are *mechanically* compatible, but the electrical contacts inside can vary. You can plug an [EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) panel connector into a Renogy extension cable and it'll physically work. But the fit might be loose or overly tight, and you've just mixed components from different electrical specifications.
 
 For a coherent, tested system, stick with one brand's connectors and cables wherever possible. If you absolutely must mix brands, ensure they're both from tier-one manufacturers with proper certification. Mixing top-tier with no-name budget connectors is where problems emerge.
 

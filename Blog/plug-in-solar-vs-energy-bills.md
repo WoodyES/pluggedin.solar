@@ -29,7 +29,7 @@ But it doesn't provide 23% *uniformly*. You generate a lot in summer and almost 
 
 So the real question isn't "does solar provide 25% of my electricity?" It's "what percentage of the electricity I *actually generate* do I use on-site?"
 
-Most households have a self-consumption rate of 60–75%. That means 60–75% of what the panels generate, you use directly (so you save the full grid cost). The rest gets exported to the grid (and you get a much smaller payment for it).
+Most households have a [self-consumption](/blog/smart-meter-solar-self-consumption-uk) rate of 60–75%. That means 60–75% of what the panels generate, you use directly (so you save the full grid cost). The rest gets exported to the grid (and you get a much smaller payment for it).
 
 Let's model this:
 

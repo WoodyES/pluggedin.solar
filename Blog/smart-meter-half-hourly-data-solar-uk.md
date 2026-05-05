@@ -12,7 +12,7 @@ author: "Pluggedin.solar"
 
 ## What Half-Hourly Data Looks Like
 
-Your SMETS2 smart meter records your electricity import (and export, if enabled) every 30 minutes — 48 readings per day. Most supplier apps display this as a bar chart. Here's how to interpret it with solar.
+Your [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) records your electricity import (and export, if enabled) every 30 minutes — 48 readings per day. Most supplier apps display this as a bar chart. Here's how to interpret it with solar.
 
 **A typical day without solar:** roughly flat bars through the morning (base load — fridge, router, standby), spikes at breakfast (kettle, toaster) and dinner (oven, hob), and a gradual increase through the evening (lighting, TV, heating).
 

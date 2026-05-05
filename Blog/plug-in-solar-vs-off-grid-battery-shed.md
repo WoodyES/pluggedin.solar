@@ -42,7 +42,7 @@ When the battery is full, you can run devices. When it's empty, you're done unti
 - A 600W inverter: £350–£450
 - Cabling, breakers, mounting: £100–£150
 
-Alternatively, buy a pre-packaged kit (EcoFlow STREAM, Anker SOLIX RS40P) for around £900–£950 and skip the assembly puzzle.
+Alternatively, buy a pre-packaged kit (EcoFlow STREAM, [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) RS40P) for around £900–£950 and skip the assembly puzzle.
 
 **Larger 600–800W system:** £1,200–£1,600
 - Additional panels and a beefier inverter add another £300–£500
@@ -133,4 +133,4 @@ Off-grid battery systems are the choice for disconnected sheds, seasonal use, or
 
 Neither is objectively "better"—they solve different problems. The right choice depends on your shed's existing infrastructure and your actual usage pattern.
 
-For detailed guidance on sizing and specific product recommendations, see the [comprehensive shed solar guide](/blog/plug-in-solar-for-sheds-uk). If you've got a connected shed and want to estimate your bill savings, use the [calculator](/calculator).
+For detailed guidance on sizing and specific product recommendations, see the [comprehensive shed solar guide](/blog/plug-in-solar-for-shed-uk). If you've got a connected shed and want to estimate your bill savings, use the [calculator](/calculator).

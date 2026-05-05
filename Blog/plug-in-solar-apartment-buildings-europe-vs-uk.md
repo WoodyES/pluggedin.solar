@@ -15,7 +15,7 @@ Plug-in solar works fine if you own a house with a garden and no shared spaces. 
 
 Apartment buildings are fundamentally different. You don't control the building envelope. You don't own the roof or the walls. You share space with other residents, a management company, possibly a landlord, and a complex web of rules. Installing plug-in solar in an apartment isn't just a personal choice—it's a decision that brushes against everyone else's interests.
 
-Europe has been grappling with this for the past two years, as balcony solar and small systems became legal in Germany, Austria, and the Netherlands. What's happened there matters to the UK, because we're going to face the same issues. Understanding what's worked and what's failed across Europe will help UK flat owners navigate the chaos that's coming.
+Europe has been grappling with this for the past two years, as [balcony solar](/blog/balcony-solar-uk) and small systems became legal in Germany, Austria, and the Netherlands. What's happened there matters to the UK, because we're going to face the same issues. Understanding what's worked and what's failed across Europe will help UK flat owners navigate the chaos that's coming.
 
 ## Germany: Rights for Tenants, Constraints for Leaseholders
 
@@ -111,10 +111,10 @@ And finally: if your building is hostile, know that you might not be able to pro
 
 Apartment-specific considerations link to broader questions about permission and rights:
 
-- [What Germany Teaches the UK About Plug-in Solar](/blog/what-germany-teaches-uk-about-plug-in-solar) — the German context in detail
+- [What Germany Teaches the UK About Plug-in Solar](/blog/what-germany-teaches-uk-plug-in-solar) — the German context in detail
 - [Plug-in Solar for Renters in the UK](/blog/plug-in-solar-for-renters-uk) — tenant-specific challenges
-- [Neighbours and Plug-in Solar: Lessons from Germany](/blog/neighbours-and-plug-in-solar-uk) — managing social friction
-- [Renters' Rights and Solar in the UK](/blog/renters-rights-act-2025-solar) — emerging legislation
+- [Neighbours and Plug-in Solar: Lessons from Germany](/blog/neighbours-plug-in-solar-uk) — managing social friction
+- [Renters' Rights and Solar in the UK](/blog/renters-rights-act-solar-uk) — emerging legislation
 
 ## The Bottom Line
 

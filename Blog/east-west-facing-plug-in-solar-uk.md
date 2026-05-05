@@ -25,7 +25,7 @@ That's not as bad as people assume. You're losing a fifth of output, not half. T
 
 In raw annual generation, there's very little difference — east generates roughly 2-3% more than west in the UK due to clearer mornings (afternoon thermals create more cloud).
 
-But the timing difference matters for self-consumption:
+But the timing difference matters for [self-consumption](/blog/smart-meter-solar-self-consumption-uk):
 
 **East-facing panels** generate most electricity between 7am and 1pm. Good if you're home in the morning — working from home, retired, or a stay-at-home parent. Morning generation powers breakfast appliances, laptops, and daytime loads.
 
@@ -49,7 +49,7 @@ At current grid rates (~27p/kWh):
 
 The difference is roughly £14-26/year depending on battery use. Over 20 years, that's £280-520 less — meaningful but not a dealbreaker when the system costs £500-950.
 
-**Payback period comparison:**
+**[Payback period](/blog/plug-in-solar-payback-period-uk) comparison:**
 - South-facing: 4-6 years
 - East/west-facing: 5-8 years
 
@@ -61,7 +61,7 @@ Still comfortably within the 25-year lifespan of the panels.
 
 **Heavy shading.** If your east or west-facing space also has significant shading from neighbouring buildings or trees, the double penalty (wrong angle + shade) may reduce output below viable levels. Use our [savings calculator](/calculator) to estimate with your specific postcode and orientation.
 
-**Very short payback requirement.** If you need your money back in 3 years, east/west won't achieve it without a battery and time-of-use tariff. If 5-7 years is acceptable, you're fine.
+**Very short payback requirement.** If you need your money back in 3 years, east/west won't achieve it without a battery and [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026). If 5-7 years is acceptable, you're fine.
 
 ## Optimising East/West Installations
 
@@ -69,7 +69,7 @@ Still comfortably within the 25-year lifespan of the panels.
 
 **Two-panel split.** If you have space on both an east and west-facing surface, mounting one panel on each gives you generation across the whole day — morning from the east panel, afternoon from the west. This wider generation window improves self-consumption because you're covering more of your daily usage pattern.
 
-**Battery storage helps more.** With south-facing panels, generation is concentrated around midday. With east or west-facing panels, it's spread across the morning or afternoon. A [battery like the EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) captures generation whenever it happens and delivers it when you need it — reducing the timing disadvantage.
+**[Battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) helps more.** With south-facing panels, generation is concentrated around midday. With east or west-facing panels, it's spread across the morning or afternoon. A [battery like the EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) captures generation whenever it happens and delivers it when you need it — reducing the timing disadvantage.
 
 **Monitor and optimise.** A [smart plug](https://amzn.to/4m9Yh9U) on your inverter output shows real-time generation throughout the day. After a few weeks, you'll see exactly when your panels produce the most — and can shift your high-draw appliances (washing machine, dishwasher) to match.
 

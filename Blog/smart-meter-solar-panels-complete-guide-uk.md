@@ -33,7 +33,7 @@ To check which you have: look at the meter itself for a label, or log into your 
 When your plug-in solar panels are generating electricity, three things can happen:
 
 1. **You use it directly** — the panel output feeds into your home circuit and offsets what you'd otherwise draw from the grid. Your smart meter sees reduced import.
-2. **You export surplus** — if your panels generate more than you're currently consuming, the excess flows back through the meter to the grid. A SMETS2 meter records this on the export register.
+2. **You export surplus** — if your panels generate more than you're currently consuming, the excess flows back through the meter to the grid. A SMETS2 meter records this on the [export register](/blog/smart-meter-export-register-solar-uk).
 3. **You store it** — if you have a [battery like the EcoFlow Delta 2](/blog/ecoflow-delta-2-review-uk), surplus energy charges the battery instead of exporting. Your meter sees neither import nor export for that energy.
 
 For most plug-in solar owners, the primary benefit is reduced import — your meter simply ticks up more slowly during the day. The export element only becomes meaningful if you're generating significantly more than you're consuming, which at 400–800W is less common than with a full rooftop system.
@@ -48,7 +48,7 @@ But a smart meter gives you two advantages:
 
 **Export payments** — if you're on the [Smart Export Guarantee (SEG)](/blog/plug-in-solar-smart-meter-exports-uk), you need a SMETS2 meter to receive payments for exported electricity. Without one, you're giving surplus power away for free.
 
-For a typical 800W plug-in system, self-consumption is high enough that SEG payments are small (perhaps £20–40/year). But the visibility benefit alone is worth the free upgrade.
+For a typical 800W plug-in system, [self-consumption](/blog/smart-meter-solar-self-consumption-uk) is high enough that SEG payments are small (perhaps £20–40/year). But the visibility benefit alone is worth the free upgrade.
 
 ## Smart Meter Settings to Check After Installing Solar
 
@@ -58,7 +58,7 @@ Once your plug-in solar is running, check these settings with your supplier:
 
 **Half-hourly settlement** — if your supplier offers this (Octopus, OVO, and others do), enable it. It means your bills reflect actual usage patterns rather than estimated profiles, which benefits solar owners who import less during the day.
 
-**Time-of-use tariff compatibility** — if you're on a tariff like [Octopus Flux](/blog/octopus-flux-tariff-review-uk) or Octopus Go, your smart meter needs to be recording at half-hourly granularity. Check this is active.
+**[Time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) compatibility** — if you're on a tariff like [Octopus Flux](/blog/octopus-flux-tariff-review-uk) or [Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk), your smart meter needs to be recording at half-hourly granularity. Check this is active.
 
 ## Smart Meter vs Energy Monitor: What's the Difference?
 
@@ -66,11 +66,11 @@ Your smart meter measures total household import and export. It's the billing me
 
 An [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) — like the Emporia Vue 3, a Shelly Plus Plug, or the EcoFlow app — fills that gap. It shows you real-time generation from your panels, individual circuit consumption, and helps you optimise when you run high-draw appliances.
 
-The ideal setup is both: a SMETS2 smart meter for billing and export, plus an energy monitor for real-time optimisation. For EcoFlow STREAM owners, the EcoFlow app already provides real-time generation data, so you may only need the smart meter side.
+The ideal setup is both: a SMETS2 smart meter for billing and export, plus an energy monitor for real-time optimisation. For [EcoFlow STREAM](/blog/ecoflow-stream-review-uk) owners, the EcoFlow app already provides real-time generation data, so you may only need the smart meter side.
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
-<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W balcony solar kit" /></div>
+<div class="pc-img"><img src="/images/products/stream-hero.png" alt="EcoFlow STREAM 800W [balcony solar](/blog/balcony-solar-uk) kit" /></div>
 <div class="pc-badge">Best overall</div>
 <div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W Kit</a></div>
 <div class="pc-price">~£799 <small>estimated</small></div>

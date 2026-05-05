@@ -31,7 +31,7 @@ Theoretically, that income is reportable to UC and could affect your payments.
 **But here's the catch**: Most plug-in solar systems in the UK are either:
 
 1. **Standalone** (not grid-connected) — an inverter that charges batteries, which then power your home devices
-2. **G98-registered microgeneration** without a SEG agreement — the system connects safely to the grid but doesn't have a formal export contract
+2. **G98-registered microgeneration** without a [SEG](/blog/plug-in-solar-smart-meter-exports-uk) agreement — the system connects safely to the grid but doesn't have a formal export contract
 
 Officially, without a SEG agreement, you have no export income to report. You're just reducing the electricity you draw from the grid.
 
@@ -65,7 +65,7 @@ Here's the math for someone on UC with a tight budget:
 
 **Annual saving**: A modest 400W plug-in system in the UK generates roughly 280–350 kWh per year, depending on roof angle and location. At 30p per kWh (current average), that's **£84–£105 per year in reduced electricity costs**.
 
-**Payback period**: Even at the top end (£1,200 system), payback in 12–15 years is realistic. After that, every watt of generation is almost-free electricity.
+**[Payback period](/blog/plug-in-solar-payback-period-uk)**: Even at the top end (£1,200 system), payback in 12–15 years is realistic. After that, every watt of generation is almost-free electricity.
 
 **Warm home impact**: If you use that system to run a heater, fan, or oil-filled radiator during shoulder seasons (spring and autumn), you'll reduce your reliance on more expensive gas or storage heaters.
 
@@ -90,9 +90,9 @@ For someone on UC, plugging in a solar panel could save £80–130 every year wi
 
 3. **Check ECO4 eligibility**: Contact your local council or search for "ECO4 installer near me" to see if a grant might be available.
 
-4. **Track your savings**: Use a smart meter (many are free) or a device like the [Emporia Vue 3](https://amzn.to/4bUCQ9E) to measure generation and calculate your real savings.
+4. **Track your savings**: Use a [smart meter](/blog/smart-meter-solar-panels-complete-guide-uk) (many are free) or a device like the [Emporia Vue 3](https://amzn.to/4bUCQ9E) to measure generation and calculate your real savings.
 
-5. **If you do export**: Register your system (free) with the grid via the G98 process, and consider joining a SEG scheme if you want payment for surplus — but don't feel obligated.
+5. **If you do export**: Register your system (free) with the grid via the [G98](/blog/g98-dno-notification-plug-in-solar) process, and consider joining a SEG scheme if you want payment for surplus — but don't feel obligated.
 
 ## The Bottom Line
 

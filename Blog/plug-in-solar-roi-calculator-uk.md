@@ -9,7 +9,7 @@ author: pluggedin.solar
 
 # Plug-in Solar ROI: Calculating Your Return on Investment
 
-*Payback period* tells you when your system breaks even. But *return on investment (ROI)* tells you how much profit you'll actually make over the system's lifetime. This is the number that matters for comparing solar to alternative investments—stocks, bonds, savings accounts, or even doing nothing.
+*[Payback period](/blog/plug-in-solar-payback-period-uk)* tells you when your system breaks even. But *return on investment (ROI)* tells you how much profit you'll actually make over the system's lifetime. This is the number that matters for comparing solar to alternative investments—stocks, bonds, savings accounts, or even doing nothing.
 
 This article walks you through calculating ROI for a 15, 20, and 25-year horizon, accounts for realistic inflation, and compares plug-in solar to other investments so you can see where it stands.
 

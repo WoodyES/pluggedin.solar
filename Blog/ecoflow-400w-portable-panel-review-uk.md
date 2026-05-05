@@ -28,7 +28,7 @@ The MC4 connectors are standard and compatible with most battery systems. If you
 <div class="pc-accent"></div>
 <div class="pc-img"><img src="/images/products/stream-ultra.png" alt="EcoFlow STREAM 800W with Delta 2 battery" /></div>
 <div class="pc-badge">Premium choice</div>
-<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow PowerStream 800W + Delta 2</a></div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow [PowerStream](/blog/ecoflow-stream-review-uk) 800W + Delta 2</a></div>
 <div class="pc-price">~£1,099 <small>estimated</small></div>
 <ul class="pc-features">
 <li>800W dual-panel kit with 1kWh Delta battery</li>
@@ -59,7 +59,7 @@ Budget portable panels (often 100–200W) from no-name brands are cheaper upfron
 The EcoFlow 400W really comes into its own paired with a quality battery. Here's why:
 
 - **EcoFlow DELTA 2** (~£599): Native compatibility, app integration, 3.6 kWh capacity. Charges fully from the 400W panel in about 10–12 hours of good sunlight.
-- **Anker SOLIX C1000 Gen 2** (~£799): Higher capacity, faster charging, but requires [MC4 adapters](https://amzn.to/4mfWT5J) if not buying the official Anker bundle.
+- **[Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) C1000 Gen 2** (~£799): Higher capacity, faster charging, but requires [MC4 adapters](https://amzn.to/4mfWT5J) if not buying the official Anker bundle.
 - **Jackery Explorer 1000 v2** (~£499): Budget option, but the 200W solar input cap means slower charging from a 400W panel (you'd be wasting 200W of potential).
 
 The DELTA 2 is the natural partner, and together they form a genuinely portable 3.6 kWh + 400W system.

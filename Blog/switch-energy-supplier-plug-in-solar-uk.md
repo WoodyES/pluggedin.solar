@@ -26,17 +26,17 @@ In practice: you don't need to contact your DNO when you switch. Your solar will
 
 Your smart meter is owned by your energy supplier, but when you switch, the physical meter stays in your home. Your new supplier will remotely take control of it—usually within 1–2 working days—and your old readings are automatically transferred.
 
-Your export register (the second dial on SMETS2 meters) isn't reset. The meter simply changes supplier ownership. If you were exporting before, you'll keep exporting with the same technical setup.
+Your [export register](/blog/smart-meter-export-register-solar-uk) (the second dial on [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) meters) isn't reset. The meter simply changes supplier ownership. If you were exporting before, you'll keep exporting with the same technical setup.
 
 **Top tip**: Take a meter reading the day before you switch, and another on the day the switch completes. This creates a clear boundary and helps resolve any billing disputes.
 
 ### 3. Your Smart Home Integration (Continues Without Interruption)
 
-If you have a battery with remote control (like an EcoFlow system running on Octopus Intelligent), or you're using Home Assistant to manage demand, that integration continues to work. Your new supplier can't access or interrupt your battery systems—they only control your meter and tariff.
+If you have a battery with remote control (like an [EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) system running on Octopus Intelligent), or you're using Home Assistant to manage demand, that integration continues to work. Your new supplier can't access or interrupt your battery systems—they only control your meter and tariff.
 
 ## What Does Change: Your SEG Contract
 
-The **Smart Export Guarantee (SEG)** is a contract between you and your energy supplier. It defines how much they'll pay you for energy you export to the grid.
+The **[Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG)** is a contract between you and your energy supplier. It defines how much they'll pay you for energy you export to the grid.
 
 **When you switch suppliers, your SEG contract ends.** Your new supplier will offer their own SEG (if they have one), usually with different rates.
 

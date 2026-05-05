@@ -108,7 +108,7 @@ The actual plug-in solar inverter and wiring must also be considered. Best pract
 
 This keeps the system "invisible" from outside, which councils prefer.
 
-Use an [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) or equivalent inverter rated for plug-in solar and BS 7671 Amendment 4. Notify your DNO on Form G98 as standard.
+Use an [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) or equivalent inverter rated for plug-in solar and [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) Amendment 4. Notify your DNO on Form [G98](/blog/g98-dno-notification-plug-in-solar) as standard.
 
 ## Conservation Areas
 
@@ -133,7 +133,7 @@ Solution: Consider integrated in-roof panels, or argue for rear elevation if the
 Solution: Offer reversible, non-penetrating mounts. Councils prefer systems that can be removed without trace.
 
 **"The garden is heritage-listed"**
-Solution: Seek a compromise: low-profile ground mount in a hidden corner, or propose panels on an outbuilding (garage, shed) if applicable.
+Solution: Seek a compromise: low-profile [ground mount](/blog/ground-mount-plug-in-solar-uk) in a hidden corner, or propose panels on an outbuilding (garage, shed) if applicable.
 
 ## Timescale and Costs
 

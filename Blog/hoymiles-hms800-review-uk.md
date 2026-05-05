@@ -140,7 +140,7 @@ For UK buyers, check that your supplier offers Hoymiles UK warranty support. Som
 ## Cost and Value
 
 **HMS-800 standalone**: £300–400 (pricing as of April 2026)
-**Integrated in EcoFlow STREAM**: Included (~£699 for the bundle with 400W panel)
+**Integrated in [EcoFlow STREAM](/blog/ecoflow-stream-review-uk)**: Included (~£699 for the bundle with 400W panel)
 
 If you're buying a standalone HMS-800 to pair with DIY panels, expect to pay:
 - HMS-800: £350
@@ -182,7 +182,7 @@ For most UK buyers post-July 2026:
 
 1. **Easy route**: Buy the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) (£699, includes HMS-800 integrated + 400W panel + 600Wh battery)
 2. **DIY route**: Buy HMS-800 standalone + two 400W panels from a specialist installer
-3. **Monitoring enhancement**: Add a [Tapo P110](https://amzn.to/4m9Yh9U) smart plug (£15) to your AC outlet for independent generation tracking, as backup to S-Miles Cloud
+3. **Monitoring enhancement**: Add a [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) (£15) to your AC outlet for independent generation tracking, as backup to S-Miles Cloud
 
 The combination of HMS-800 + Tapo monitoring is extremely robust. If one monitoring system fails, you have the other.
 

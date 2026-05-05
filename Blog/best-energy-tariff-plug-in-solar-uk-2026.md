@@ -9,7 +9,7 @@ priority: 1
 wordcount: 1400
 ---
 
-Your plug-in solar panels generate free electricity. But how much that electricity is worth to you depends heavily on your energy tariff. A system that saves £120 a year on a flat-rate tariff might save £180+ on a time-of-use tariff — and the difference is purely down to which deal you're on.
+Your plug-in solar panels generate free electricity. But how much that electricity is worth to you depends heavily on your energy tariff. A system that saves £120 a year on a flat-rate tariff might save £180+ on a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) — and the difference is purely down to which deal you're on.
 
 With plug-in solar now legal in the UK and uptake accelerating, energy suppliers are starting to compete for solar households. Here's how to choose the right tariff for your situation.
 
@@ -29,7 +29,7 @@ Most UK households are on a flat-rate tariff — you pay the same price per kWh 
 
 **For plug-in solar owners:** flat-rate is simple and decent. Every self-consumed kWh saves you the full rate. There's no complexity and no need to shift consumption to particular hours. For households that don't want to think about timing, flat-rate is perfectly fine.
 
-**Downside:** you don't get any extra value from solar generation timing, and you pay the same rate in the evening (when you're drawing from the grid) as you would during the day (when you're generating). If you add battery storage later, a flat-rate tariff limits the battery's value because there's no price difference to arbitrage.
+**Downside:** you don't get any extra value from solar generation timing, and you pay the same rate in the evening (when you're drawing from the grid) as you would during the day (when you're generating). If you add [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) later, a flat-rate tariff limits the battery's value because there's no price difference to arbitrage.
 
 ### 2. Time-of-Use (Octopus Go, Octopus Intelligent, E.ON Next Drive)
 
@@ -45,7 +45,7 @@ Time-of-use (ToU) tariffs charge different rates at different times of day. The 
 
 Agile tariffs change price every 30 minutes based on wholesale electricity costs. In spring and summer, daytime prices sometimes go negative — meaning you're paid to consume electricity.
 
-**For plug-in solar owners:** Agile is high-reward but high-complexity. On sunny days when wholesale prices drop, your solar self-consumption is displacing cheap (or free) grid electricity, which reduces the savings. But on cloudy winter evenings when prices spike to 40-60p/kWh, the battery-plus-solar combination becomes extremely valuable.
+**For plug-in solar owners:** Agile is high-reward but high-complexity. On sunny days when wholesale prices drop, your solar [self-consumption](/blog/smart-meter-solar-self-consumption-uk) is displacing cheap (or free) grid electricity, which reduces the savings. But on cloudy winter evenings when prices spike to 40-60p/kWh, the battery-plus-solar combination becomes extremely valuable.
 
 **Who benefits most:** technically engaged households who actively monitor pricing and have battery storage. Not recommended for hands-off households. See our [Octopus Agile deep dive](/blog/plug-in-solar-octopus-agile-uk) for the full picture.
 
@@ -69,7 +69,7 @@ This is specifically designed for EV households. You get cheap overnight electri
 
 ## Export Payments: Do They Change the Calculation?
 
-If you can access the Smart Export Guarantee (SEG), your exported electricity has some value — typically 4-15p/kWh depending on the supplier and tariff. This makes flat-rate slightly more attractive relative to ToU, because export value partially compensates for daytime generation you don't consume.
+If you can access the [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG), your exported electricity has some value — typically 4-15p/kWh depending on the supplier and tariff. This makes flat-rate slightly more attractive relative to ToU, because export value partially compensates for daytime generation you don't consume.
 
 However, most plug-in solar self-installs can't access SEG due to the MCS certification requirement. See our [SEG explainer](/blog/plug-in-solar-export-payments-seg-uk) for the current position.
 
@@ -94,7 +94,7 @@ If you find that your self-consumption is lower than expected — meaning more s
 
 For most UK plug-in solar owners without a battery or EV, **a competitive flat-rate fixed tariff** is the simplest and most effective choice. The savings from solar self-consumption at 24p/kWh are meaningful, and there's no complexity.
 
-For households with battery storage, an EV, or a willingness to manage timing, **Octopus Go or Flux** offers the best combined value. The cheap overnight rate dramatically reduces your grid costs, and the higher daytime rate makes every self-consumed solar kWh worth more.
+For households with battery storage, an EV, or a willingness to manage timing, **[Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk) or Flux** offers the best combined value. The cheap overnight rate dramatically reduces your grid costs, and the higher daytime rate makes every self-consumed solar kWh worth more.
 
 Whichever tariff you choose, the key insight is that your energy deal is as important as your panel orientation. A poorly chosen tariff can halve the financial value of a perfectly installed system.
 

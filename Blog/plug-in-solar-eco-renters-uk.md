@@ -82,7 +82,7 @@ Write to your landlord (or letting agent) in advance. Keep it simple, factual, a
 
 ---
 
-**Subject: Request for Renewable Energy Installation—Balcony Solar Panel**
+**Subject: Request for Renewable Energy Installation—[Balcony Solar](/blog/balcony-solar-uk) Panel**
 
 Dear [Landlord/Agent],
 
@@ -158,8 +158,8 @@ For more on renters' rights and the changes that 2025 brought, see our [leasehol
 
 ## The Bottom Line
 
-You're a renter. The Renters' Rights Act 2025 gives you the legal standing to ask. Balcony mounts and garden installations are genuinely reversible. There's no reason not to ask your landlord—the worst they can do is say no, and they must justify it.
+You're a [renter](/blog/rented-flat-solar-panels-uk). The Renters' Rights Act 2025 gives you the legal standing to ask. Balcony mounts and garden installations are genuinely reversible. There's no reason not to ask your landlord—the worst they can do is say no, and they must justify it.
 
 If you're paying for your own electricity, you're bearing the cost of generation. You deserve a say in how that electricity is produced. A properly installed, reversible solar system is one of the lowest-risk modifications a tenant can propose.
 
-Ask respectfully, document everything, and know that the law is now on your side. For more on portable panels and battery storage, check out our [off-grid guide](/blog/plug-in-solar-off-grid-cabins-uk).
+Ask respectfully, document everything, and know that the law is now on your side. For more on portable panels and [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), check out our [off-grid guide](/blog/plug-in-solar-off-grid-cabins-uk).

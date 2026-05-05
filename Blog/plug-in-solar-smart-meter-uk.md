@@ -23,11 +23,11 @@ This means your smart meter automatically reflects your solar savings. Your ener
 
 ## Will My Smart Meter Go Backwards?
 
-No. Modern SMETS2 smart meters record import and export separately. They don't "go backwards" like the old economy meters that some early solar adopters benefited from. You'll see reduced import on your bill, and if your supplier pays for exports, you'll see export credits too.
+No. Modern [SMETS2](/blog/smets1-vs-smets2-solar-panels-uk) smart meters record import and export separately. They don't "go backwards" like the old economy meters that some early solar adopters benefited from. You'll see reduced import on your bill, and if your supplier pays for exports, you'll see export credits too.
 
 ## Can I Get Paid for Exports?
 
-Potentially, yes. The Smart Export Guarantee (SEG) requires energy suppliers with 150,000+ customers to offer a tariff for exported electricity. Rates vary from 1p to 15p per kWh depending on your supplier and tariff. For a typical 800W plug-in solar system, exports are modest — most of your generation gets used in the house — but every penny counts.
+Potentially, yes. The [Smart Export Guarantee](/blog/plug-in-solar-smart-meter-exports-uk) (SEG) requires energy suppliers with 150,000+ customers to offer a tariff for exported electricity. Rates vary from 1p to 15p per kWh depending on your supplier and tariff. For a typical 800W plug-in solar system, exports are modest — most of your generation gets used in the house — but every penny counts.
 
 Check with your supplier whether they accept plug-in solar under SEG. Some currently only accept traditional rooftop installations, but this is expected to change as plug-in solar becomes more mainstream.
 
@@ -35,7 +35,7 @@ Check with your supplier whether they accept plug-in solar under SEG. Some curre
 
 Your smart meter shows net consumption, but it can't tell you how much solar you're actually generating. For that, you need a dedicated monitor.
 
-**Cheapest option:** A smart plug on your inverter tracks real-time generation. The TP-Link Tapo P110 costs about £12 and shows exactly how many watts your panels are producing at any moment.
+**Cheapest option:** A [smart plug](/blog/best-smart-plug-monitor-solar-uk) on your inverter tracks real-time generation. The TP-Link Tapo P110 costs about £12 and shows exactly how many watts your panels are producing at any moment.
 
 [Check the Tapo P110 on Amazon](https://amzn.to/4m9Yh9U)
 
@@ -51,7 +51,7 @@ Some in-home displays can't show negative values (when you're exporting), so the
 
 ## Time-of-Use Tariffs
 
-If you're on a time-of-use tariff (like Octopus Agile or Intelligent), plug-in solar becomes even more valuable. These tariffs charge different rates depending on the time of day — often 30–40p/kWh during evening peak and 10–15p/kWh overnight.
+If you're on a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) (like Octopus Agile or Intelligent), plug-in solar becomes even more valuable. These tariffs charge different rates depending on the time of day — often 30–40p/kWh during evening peak and 10–15p/kWh overnight.
 
 Solar generation peaks during the middle of the day when rates are moderate. But if you add a battery, you can store cheap solar energy and avoid the expensive evening peak entirely. The savings from peak-avoidance alone can justify a battery purchase within 2–3 years.
 
@@ -59,9 +59,9 @@ Solar generation peaks during the middle of the day when rates are moderate. But
 
 ## Do I Need to Tell My Energy Supplier?
 
-You should notify your DNO (Distribution Network Operator) via the G98 process — this is a simple online form that takes 5 minutes. You don't technically need your energy supplier's permission to install plug-in solar, but informing them is good practice and may be required to access SEG export payments.
+You should notify your DNO (Distribution Network Operator) via the [G98](/blog/g98-dno-notification-plug-in-solar) process — this is a simple online form that takes 5 minutes. You don't technically need your energy supplier's permission to install plug-in solar, but informing them is good practice and may be required to access SEG export payments.
 
-For a step-by-step guide to the DNO notification process, see our [G98 notification guide](/blog/g98-dno-notification-step-by-step).
+For a step-by-step guide to the DNO notification process, see our [G98 notification guide](/blog/g98-dno-notification-plug-in-solar).
 
 ## The Bottom Line
 

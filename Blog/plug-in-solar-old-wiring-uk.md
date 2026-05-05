@@ -98,8 +98,8 @@ A [smart plug like the TP-Link Tapo P110](https://amzn.to/4m9Yh9U) between the i
 
 Plug-in solar is safe — in a home with adequate wiring. The 800W limit and modern micro inverter design mean the electrical risks are genuinely low. But "low risk" isn't "no risk," and older homes need checking first.
 
-If your house was built or rewired after 2008, you're almost certainly fine. If it's older, spend £150–300 on an EICR before connecting. That's a small price for peace of mind — and it protects your home insurance position too (see our [insurance guide](/blog/plug-in-solar-and-home-insurance-uk)).
+If your house was built or rewired after 2008, you're almost certainly fine. If it's older, spend £150–300 on an EICR before connecting. That's a small price for peace of mind — and it protects your home insurance position too (see our [insurance guide](/blog/plug-in-solar-home-insurance-uk)).
 
 The IET's advice is sound: know your wiring before you generate into it.
 
-For the complete installation process, see our [step-by-step guide](/blog/how-to-install-plug-in-solar-uk). For checking your system is working correctly after connection, see our [troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting).
+For the complete installation process, see our [step-by-step guide](/blog/how-to-install-plug-in-solar-uk). For checking your system is working correctly after connection, see our [troubleshooting guide](/blog/plug-in-solar-not-generating-uk).

@@ -69,17 +69,17 @@ A plug-in solar system + heat pump combination does something neither can alone:
 Here's why:
 
 1. **Daytime solar offsets heat pump electricity during winter warmth periods** (mornings, afternoons when you're boosting heating).
-2. **Heat pump + time-of-use tariff (like Octopus Go) becomes devastatingly effective** — you run the pump during cheap off-peak hours (7–9p/kWh) to store heat or heat water, and your solar offsets daytime usage, leaving only essential usage for standard rate (28–30p/kWh).
+2. **Heat pump + [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) (like Octopus Go) becomes devastatingly effective** — you run the pump during cheap off-peak hours (7–9p/kWh) to store heat or heat water, and your solar offsets daytime usage, leaving only essential usage for standard rate (28–30p/kWh).
 3. **Solar generation in shoulder seasons (spring, autumn) offsets heat pump electricity when heating demand is moderate but sunshine is decent.**
 
-For a household paying the Ofgem price cap, solar + heat pump + Octopus Go means:
+For a household paying the Ofgem price cap, solar + heat pump + [Octopus Go](/blog/octopus-go-vs-intelligent-solar-uk) means:
 - Heat pump energy costs drop by 30–40% below standalone heat pump costs
 - Solar contribution increases in value because it's offsetting expensive electricity
 - Total household bills fall more steeply than either measure alone
 
 ## Government Support: The Asymmetry
 
-**Plug-in solar:** No government grants, no incentives, no SEG payments (yet). You get £100–130/year in value, and that's it. The business case is purely financial, and it's modest.
+**Plug-in solar:** No government grants, no incentives, no [SEG](/blog/plug-in-solar-smart-meter-exports-uk) payments (yet). You get £100–130/year in value, and that's it. The business case is purely financial, and it's modest.
 
 **Heat pumps:** The Building Upgrade Grant covers up to 50% of costs for properties with EPC ratings D–G. There's also the Boiler Upgrade Scheme (phased out April 2026, but worth mentioning for context). Grants materially change the maths.
 

@@ -48,7 +48,7 @@ When a landlord refuses permission for an improvement, they need solid ground. H
 - Protecting the landlord's future investment ("You might want to sell the panels when you leave")
 - Minor cosmetic impact that doesn't materially affect the property
 
-Plug-in balcony solar falls clearly into the "not reasonable" zone. It causes no structural change. It's fully removable. It's covered by building regulations compliance (once the BSI standard publishes in July 2026). It doesn't damage property. It doesn't reduce value.
+Plug-in [balcony solar](/blog/balcony-solar-uk) falls clearly into the "not reasonable" zone. It causes no structural change. It's fully removable. It's covered by building regulations compliance (once the BSI standard publishes in July 2026). It doesn't damage property. It doesn't reduce value.
 
 If a landlord refused permission for a small freestanding balcony solar mount, that refusal would be unreasonable. And you'd have legal ground to challenge it.
 
@@ -125,4 +125,4 @@ But for right now, in April 2026, the key thing to know is: you have the legal r
 
 Plug-in solar is one of the first improvements a generation of renters will install under this new law.
 
-For more on the practical side of installing solar as a renter, see [Plug-in Solar for Renters UK: Your Complete Guide](/blog/plug-in-solar-for-renters-uk).
+For more on the practical side of installing solar as a [renter](/blog/rented-flat-solar-panels-uk), see [Plug-in Solar for Renters UK: Your Complete Guide](/blog/plug-in-solar-for-renters-uk).

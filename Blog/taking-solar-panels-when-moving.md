@@ -43,7 +43,7 @@ If yes, you set it up again using the same mounting method (or a different one i
 
 **After connecting at the new address:**
 
-You notify your new District Network Operator with a G98 form within 28 days. This is an administrative form telling them there's a small generating device connected to their network. It takes about 10 minutes online. It costs nothing. It's not asking permission—it's just notification.
+You notify your new District Network Operator with a [G98](/blog/g98-dno-notification-plug-in-solar) form within 28 days. This is an administrative form telling them there's a small generating device connected to their network. It takes about 10 minutes online. It costs nothing. It's not asking permission—it's just notification.
 
 That's it. You're live at the new property.
 
@@ -53,7 +53,7 @@ Almost certainly yes. But it's worth thinking through.
 
 **New property has a south-facing balcony:** Perfect. Install it exactly as you did before.
 
-**New property has a south-facing garden:** Perfect. Use an A-frame stand or a ground mount.
+**New property has a south-facing garden:** Perfect. Use an A-frame stand or a [ground mount](/blog/ground-mount-plug-in-solar-uk).
 
 **New property has different orientation:** South-facing generates the most. Southwest-facing is nearly as good. West-facing is reasonable. East-facing is okay. North-facing is poor. If your new property isn't south-facing, your generation will drop. But unless it's north-facing, you'll still save meaningful money.
 

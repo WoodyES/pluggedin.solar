@@ -201,7 +201,7 @@ Always check the Solar Report for your specific property; don't rely on postcode
 Here's something reassuring: **switching to a better electricity tariff can gain you 20–50% more savings than moving to a sunnier postcode.**
 
 A London user on standard 30p/kWh saves £256/year with 800W.
-A London user on Octopus Flux (15p peak, export rewards) saves ~£300–£350/year with the same system.
+A London user on [Octopus Flux](/blog/octopus-flux-tariff-review-uk) (15p peak, export rewards) saves ~£300–£350/year with the same system.
 That's the equivalent of moving from London's sunny climate to a 50% sunnier hypothetical place—just by choosing a smarter tariff.
 
 See [the tariff guide](/blog/best-energy-tariff-plug-in-solar-uk-2026) for details.
