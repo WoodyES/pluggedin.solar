@@ -2,9 +2,9 @@
 title: "How to Test Solar Panel Output with a Multimeter UK"
 slug: how-to-test-solar-panel-output-multimeter-uk
 date: 2026-04-13
-category: Technical
+category: Performance & Monitoring
 priority: 2
-excerpt: "Step-by-step guide to testing solar panel voltage and current with a multimeter. Diagnose underperforming panels and verify output before connecting to your inverter."
+excerpt: "How to test solar panel output with a multimeter. Check voltage and current to diagnose underperformance step by step."
 ---
 
 # How to Test Solar Panel Output with a Multimeter UK

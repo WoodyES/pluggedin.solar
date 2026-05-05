@@ -1,7 +1,7 @@
 ---
 title: "VAT on Plug-in Solar in the UK: Everything You Need to Know"
 slug: vat-plug-in-solar-uk
-category: Finance & Savings
+category: Savings & Costs
 date: 2026-04-13
 excerpt: "The UK cut VAT on residential solar to 0% from April 2022 (extended to 2027). What's covered, what's not, and how to ensure you're not overcharged."
 ---

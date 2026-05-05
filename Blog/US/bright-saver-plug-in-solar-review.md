@@ -3,7 +3,7 @@ title: "Bright Saver Plug-in Solar Review: West Coast Premium Option"
 slug: "bright-saver-plug-in-solar-review"
 excerpt: "Deep dive into Bright Saver's balcony and backyard kits: design, pricing, advocacy mission, and whether the premium is worth it."
 date: "2026-04-06"
-category: "Products & Reviews"
+category: "Reviews & Comparisons"
 cluster: 4
 priority: "medium"
 wordcount: 2000

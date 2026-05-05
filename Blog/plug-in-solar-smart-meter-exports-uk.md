@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Solar and Your Smart Meter: Will It Record Exports?"
 slug: plug-in-solar-smart-meter-exports-uk
-category: Technical
+category: Performance & Monitoring
 date: 2026-04-13
 excerpt: "Why export recording matters for plug-in solar: which meters capture it, how to check yours, and what it means for SEG payments and future tariffs."
 ---

@@ -1,9 +1,9 @@
 ---
 slug: plug-in-solar-payback-period-uk
-title: Plug-in Solar Payback Period - How Long Until It Pays for Itself?
+title: "Plug-in Solar Payback Period Explained"
 excerpt: Real payback timelines for plug-in solar in the UK. What affects the payback period, and what realistic expectations are.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

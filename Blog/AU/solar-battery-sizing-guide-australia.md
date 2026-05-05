@@ -1,9 +1,9 @@
 ---
 title: "Solar Battery Sizing Guide for Australian Homes"
 slug: solar-battery-sizing-guide-australia
-excerpt: "How to size a home solar battery. Self-consumption patterns, time-of-use tariff optimisation, blackout backup requirements, and why 10kWh is often the sweet spot."
+excerpt: "How to size a solar battery for your Australian home. Self-consumption, time-of-use tariffs, and why 10kWh is the sweet spot."
 date: "2026-04-06"
-category: "Installation & Technical"
+category: "Installation"
 cluster: "6"
 priority: "medium"
 wordcount: 1500

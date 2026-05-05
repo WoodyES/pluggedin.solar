@@ -1,9 +1,9 @@
 ---
-title: Plug-in Solar vs Rooftop Solar in Australia — Which Is Better?
+title: "Plug-in vs Rooftop Solar Australia"
 slug: plug-in-solar-vs-rooftop-solar-australia
 excerpt: A practical comparison of the two solar options, what each costs, and which makes sense for your situation.
 date: "2026-04-06"
-category: Solar Basics
+category: Getting Started
 cluster: 1
 priority: 2
 wordcount: 2000

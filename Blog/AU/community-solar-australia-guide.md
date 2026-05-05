@@ -3,7 +3,7 @@ title: Community Solar in Australia — Beginner's Guide
 slug: community-solar-australia
 excerpt: What community solar is, how it works, where it's available, and how to join.
 date: "2026-04-06"
-category: Apartments & Renters
+category: Renters & Flats
 cluster: 2
 priority: 2
 wordcount: 1500

@@ -3,7 +3,7 @@ title: "Best Outdoor Outlets for Plug-in Solar Systems"
 slug: best-outdoor-outlets-for-solar-us
 excerpt: "GFCI-protected outlets, weatherproof covers, in-use covers. NEC requirements and when to add a dedicated circuit."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "Tools & Accessories — Amazon Affiliate"
 priority: 5
 wordcount: 1200

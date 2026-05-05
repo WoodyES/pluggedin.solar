@@ -3,7 +3,7 @@ title: "Best and Worst UK Regions for Plug-in Solar Generation"
 slug: best-uk-regions-plug-in-solar-generation
 excerpt: "A 20% gap separates the UK's sunniest and cloudiest regions. This comprehensive table shows where 800W plug-in solar generates most and least."
 date: 2026-04-13
-category: Technical
+category: Performance & Monitoring
 ---
 
 # Best and Worst UK Regions for Plug-in Solar Generation

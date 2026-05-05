@@ -3,7 +3,7 @@ title: "Taking Your Plug-in Solar Panels When You Move House"
 slug: "moving-home-plug-in-solar-uk"
 excerpt: "One of plug-in solar's biggest advantages: you take it with you. Here's how."
 date: "2026-04-05"
-category: "Renters"
+category: "Renters & Flats"
 cluster: "Renters & Flat-Dwellers"
 priority: "HIGH"
 wordcount: 1250

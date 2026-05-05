@@ -3,7 +3,7 @@ title: "Best Portable Power Stations for Plug-in Solar 2026"
 slug: best-portable-power-stations-us
 excerpt: "EcoFlow Delta 2/3, Jackery Explorer, Anker SOLIX, Bluetti. LiFePO4 vs NMC batteries, capacity guide, and solar panel pairing."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "Tools & Accessories — Amazon Affiliate"
 priority: 2
 wordcount: 2000

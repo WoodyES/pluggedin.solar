@@ -3,7 +3,7 @@ title: "Best Solar Panel Mounting Hardware for Plug-in Solar"
 slug: best-solar-panel-mounting-hardware-us
 excerpt: "Balcony mounts, ground stakes, adjustable tilt brackets, roof hooks. Wind-rated hardware that won't fail."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "Tools & Accessories — Amazon Affiliate"
 priority: 3
 wordcount: 1500

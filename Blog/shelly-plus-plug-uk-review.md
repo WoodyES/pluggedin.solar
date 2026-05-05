@@ -1,9 +1,9 @@
 ---
 title: "Shelly Plus Plug UK Review: Best for Solar Monitoring?"
 slug: shelly-plus-plug-uk-review
-category: Reviews
+category: Reviews & Comparisons
 date: 2026-04-13
-excerpt: "Shelly Plus Plug UK for solar monitoring: local control, Home Assistant integration, and how it compares to cloud-dependent Tapo P110 and Apple-only Eve Energy."
+excerpt: "Shelly Plus Plug UK review for solar monitoring. Local control, Home Assistant, vs Tapo P110 and Eve Energy compared."
 priority: 2
 ---
 

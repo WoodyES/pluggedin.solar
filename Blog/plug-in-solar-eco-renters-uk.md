@@ -1,8 +1,8 @@
 ---
-title: "Plug-in Solar for Eco-Conscious Renters UK: What Are Your Options?"
+title: "Eco-Conscious Renters: Solar Options"
 slug: plug-in-solar-eco-renters-uk
-category: Audience Guides
-excerpt: "Renters' Rights Act 2025 changed the game. Reversible balcony mounts, freestanding garden installations, and portable panels are all now viable. Here's how to ask your landlord and what to expect."
+category: Property Guides
+excerpt: "Plug-in solar for eco-conscious renters UK. Reversible mounts, portable panels, and how to ask your landlord after the 2025 Act."
 date: 2026-04-14
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Cheapest Plug-in Solar Kits UK: Budget Options Compared"
 slug: "cheapest-plug-in-solar-uk"
-category: "Buying Guide"
+category: "Buying Guides"
 cluster: "Product Reviews"
 priority: "MED"
 excerpt: "The honest budget guide to plug-in solar. What you sacrifice at the cheap end, and the minimum acceptable quality bar."

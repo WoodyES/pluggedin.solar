@@ -1,7 +1,7 @@
 ---
-title: "Plug-in Solar vs Traditional Rooftop Solar UK: Which Makes More Sense in 2026?"
+title: "Plug-in Solar vs Rooftop Solar: Which in 2026?"
 slug: plug-in-solar-vs-rooftop-solar-uk-2026
-category: Comparisons
+category: Reviews & Comparisons
 date: 2026-04-13
 excerpt: "Both plug-in and rooftop solar are now confirmed for UK homes. Here's how to decide which system matches your property, budget, and goals."
 ---

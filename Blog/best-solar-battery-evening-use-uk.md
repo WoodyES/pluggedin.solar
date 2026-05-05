@@ -3,7 +3,7 @@ title: "Best Solar Batteries for Evening Use in the UK"
 slug: best-solar-battery-evening-use-uk
 excerpt: "Store free daytime solar and use it after dark. EcoFlow, Anker, and Jackery compared for UK evening demand."
 date: "2026-04-08"
-category: "Batteries"
+category: "Buying Guides"
 cluster: "storage"
 priority: 5
 wordcount: 800

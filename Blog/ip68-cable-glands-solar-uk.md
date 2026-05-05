@@ -1,7 +1,7 @@
 ---
 title: IP68 Cable Glands for Solar: Which to Buy UK
 slug: ip68-cable-glands-solar-uk
-category: Accessories
+category: Buying Guides
 date: 2026-04-14
 excerpt: IP68 cable glands keep water and dust out of your solar installation. Here's what to buy and where to use them.
 ---

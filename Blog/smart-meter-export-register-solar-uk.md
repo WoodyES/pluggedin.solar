@@ -1,9 +1,9 @@
 ---
-title: "How to Enable Your Smart Meter Export Register for Solar Panels"
+title: "Smart Meter Export Register: Enable It"
 slug: smart-meter-export-register-solar-uk
 excerpt: "Your smart meter might have an export register that's switched off. Here's how to check, how to get it enabled, and why it matters for SEG payments."
 date: "2026-05-04"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "smart-meters"
 priority: 3
 wordcount: 1500

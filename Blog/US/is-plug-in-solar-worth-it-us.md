@@ -1,9 +1,9 @@
 ---
 title: "Is Plug-in Solar Worth It in the US? An Honest ROI Breakdown"
 slug: "is-plug-in-solar-worth-it-us"
-excerpt: "Can a $600–$2,000 plug-in solar system actually pay for itself? We break down real costs, annual savings, and the federal tax credit that changes everything."
+excerpt: "Can a plug-in solar system pay for itself? Real costs, annual savings, and how the federal tax credit changes everything."
 date: "2026-04-06"
-category: "Savings & Economics"
+category: "Savings & Costs"
 cluster: 3
 priority: "high"
 wordcount: 2500

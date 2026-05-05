@@ -1,9 +1,9 @@
 ---
-title: "Cheapest Plug-in Solar Kits in the US: Budget Options Under $700"
+title: "Budget Solar Kits Under $700 US"
 slug: "cheapest-plug-in-solar-kits-us"
 excerpt: "DIY and budget-friendly plug-in solar options, what you gain and lose going cheap, and when budget systems actually make sense."
 date: "2026-04-06"
-category: "Products & Reviews"
+category: "Reviews & Comparisons"
 cluster: 4
 priority: "medium"
 wordcount: 1500

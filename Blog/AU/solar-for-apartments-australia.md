@@ -3,7 +3,7 @@ title: Solar for Apartments in Australia — Complete Guide
 slug: solar-for-apartments-australia
 excerpt: Apartment dwellers have options now: portable panels, community solar, shared rooftop, and VPPs. Here's what works and what to expect.
 date: "2026-04-06"
-category: Apartments & Renters
+category: Renters & Flats
 cluster: 2
 priority: 1
 wordcount: 2500

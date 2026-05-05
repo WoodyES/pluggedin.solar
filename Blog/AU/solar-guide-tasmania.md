@@ -3,7 +3,7 @@ title: Solar Guide Tasmania
 slug: solar-guide-tasmania
 excerpt: Tasmania's solar landscape, lower irradiance, battery importance, and why solar still makes sense in Tassie.
 date: "2026-04-06"
-category: State Guides
+category: Location Guides
 cluster: 3
 priority: 1
 wordcount: 1500

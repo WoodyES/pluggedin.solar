@@ -3,7 +3,7 @@ title: How Much Does Balcony Solar Actually Generate?
 slug: how-much-does-balcony-solar-actually-generate
 excerpt: Real-world yields from Germany, Spain, and the Netherlands compared. What your UK system will actually produce, month by month.
 date: "2026-04-06"
-category: Performance & Savings
+category: Savings & Costs
 cluster: Practical Guides
 priority: high
 wordcount: 1800

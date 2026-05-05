@@ -1,9 +1,9 @@
 ---
-title: Plug-in Solar in Washington State: Seattle's Urban Solar Strategy
+title: Plug-in Solar in Washington State
 slug: plug-in-solar-washington-state
 excerpt: Washington's cloud cover and hydropower, but also Seattle's dense renter population and progressive politics. What plug-in solar means for the PNW.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 11
 wordcount: 1500

@@ -1,7 +1,7 @@
 ---
-title: "Battery Storage vs No Battery for Plug-in Solar UK: Is It Worth the Cost?"
+title: "Battery Storage vs No Battery: Worth It?"
 slug: battery-storage-vs-no-battery-plug-in-solar-uk
-category: Comparisons
+category: Reviews & Comparisons
 date: 2026-04-13
 excerpt: "An 800W plug-in solar system costs £600. Battery storage costs £500–800 more. The payback maths reveal when storage is worth it—and when it isn't."
 ---

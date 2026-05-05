@@ -1,9 +1,9 @@
 ---
-title: "G98 Notification: How to Tell Your DNO About Your Plug-in Solar"
+title: "G98: Notify Your DNO About Solar"
 slug: "g98-plug-in-solar-uk"
-excerpt: "A step-by-step guide to G98 notification, why it matters, how to submit it, and what happens after. Everything you need to keep your plug-in solar system legal and on the grid."
+excerpt: "G98 notification step-by-step. How to tell your DNO about your plug-in solar and keep your system legal and grid-compliant."
 date: "2026-04-05"
-category: "Regulations"
+category: "Regulations & Policy"
 cluster: "Legal & Regulatory"
 priority: "HIGH"
 wordcount: 1500

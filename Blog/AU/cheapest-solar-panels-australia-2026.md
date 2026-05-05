@@ -1,9 +1,9 @@
 ---
-title: "Cheapest Solar Panels in Australia 2026: Balancing Cost and Quality"
+title: "Cheap Solar Australia 2026: Quality"
 slug: cheapest-solar-panels-australia-2026
-excerpt: "Find genuinely affordable CEC-approved solar panels without sacrificing reliability. What you get with budget options, red flags to avoid, and how to get real quotes."
+excerpt: "Cheapest CEC-approved solar panels in Australia 2026. Budget options, red flags to avoid, and how to get genuine quotes."
 date: "2026-04-06"
-category: "Products & Buying Guides"
+category: "Buying Guides"
 cluster: "5b"
 priority: "medium"
 wordcount: 1500

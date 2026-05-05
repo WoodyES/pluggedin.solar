@@ -1,9 +1,9 @@
 ---
-title: "Backyard Plug-in Solar Setup: Ground Mounting and Yard Installation"
+title: "Backyard Solar: Ground Mount Setup"
 slug: "backyard-plug-in-solar-setup-us"
 excerpt: "How to install plug-in solar systems on the ground in your yard: mounting frames, cable runs, weatherproofing, and site prep."
 date: "2026-04-06"
-category: "Installation & Placement"
+category: "Installation"
 cluster: 5
 priority: "medium"
 wordcount: 1500

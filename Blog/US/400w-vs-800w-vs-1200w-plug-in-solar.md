@@ -1,9 +1,9 @@
 ---
-title: "400W vs 800W vs 1,200W Plug-in Solar: Which Size Do You Need?"
+title: "System Size: 400W vs 800W vs 1200W"
 slug: "400w-vs-800w-vs-1200w-plug-in-solar"
 excerpt: "System sizing guide: what each wattage actually powers, space requirements, 120V limits, and how to choose the right size for your situation."
 date: "2026-04-06"
-category: "Products & Reviews"
+category: "Reviews & Comparisons"
 cluster: 4
 priority: "high"
 wordcount: 1500

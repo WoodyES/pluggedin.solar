@@ -1,9 +1,9 @@
 ---
-title: "Smart Meters and Solar Panels: The Complete UK Guide for 2026"
+title: "Smart Meters & Solar: Complete UK Guide"
 slug: smart-meter-solar-panels-complete-guide-uk
-excerpt: "Everything you need to know about how smart meters work with solar panels in the UK — from SMETS1 vs SMETS2 to export tracking, plug-in solar compatibility, and getting paid for what you generate."
+excerpt: "Smart meters and solar panels UK guide. SMETS1 vs SMETS2, export tracking, plug-in solar compatibility, and SEG payments."
 date: "2026-05-04"
-category: "Guide"
+category: "Getting Started"
 cluster: "smart-meters"
 priority: 1
 wordcount: 2200

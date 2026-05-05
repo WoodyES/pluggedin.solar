@@ -3,7 +3,7 @@ title: Plug-in Solar in Colorado: High Altitude Advantage
 slug: plug-in-solar-colorado
 excerpt: Colorado's 300+ days of sunshine and how altitude boosts solar generation. Plus HOA protections and the path to legalization.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 6
 wordcount: 1500

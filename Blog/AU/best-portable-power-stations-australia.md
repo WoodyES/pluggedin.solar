@@ -3,7 +3,7 @@ title: Best Portable Power Stations in Australia 2026
 slug: best-portable-power-stations-australia
 excerpt: Guide to portable batteries for apartments, camping, and backup power. Top brands, capacity options, and Australian compliance.
 date: "2026-04-06"
-category: Products & Buying
+category: Buying Guides
 cluster: 5
 priority: 1
 wordcount: 2000

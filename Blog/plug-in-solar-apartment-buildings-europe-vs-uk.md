@@ -1,9 +1,9 @@
 ---
-title: "Plug-in Solar in Apartment Buildings: What Europe Teaches the UK"
+title: "Apartment Solar: Europe vs UK"
 slug: plug-in-solar-apartments-europe-vs-uk
 excerpt: "How Germany, Netherlands, and Austria handle multi-occupancy buildings. What UK flat owners and leaseholders should expect when compliant systems arrive."
 date: "2026-04-06"
-category: "International & Comparison"
+category: "Reviews & Comparisons"
 cluster: "Apartments & Flats"
 priority: 2
 wordcount: 1500

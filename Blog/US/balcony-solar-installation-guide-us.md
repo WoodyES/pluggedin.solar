@@ -3,7 +3,7 @@ title: "Balcony Solar Installation Guide: Apartments Made Easy"
 slug: "balcony-solar-installation-guide-us"
 excerpt: "How to safely mount solar panels on apartment balconies: railing clamps, weight limits, cable management, and landlord approval."
 date: "2026-04-06"
-category: "Installation & Placement"
+category: "Installation"
 cluster: 5
 priority: "high"
 wordcount: 2000

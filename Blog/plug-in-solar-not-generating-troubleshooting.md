@@ -1,9 +1,9 @@
 ---
-title: "Plug-in Solar Not Generating? A Step-by-Step Troubleshooting Guide"
+title: "Plug-in Solar Not Working? Troubleshoot"
 slug: plug-in-solar-not-generating-uk
 excerpt: "Your plug-in solar panels have stopped producing. Don't panic — we'll walk you through six diagnostic checks to find the problem and fix it yourself."
 date: "2026-04-06"
-category: troubleshooting
+category: Troubleshooting
 cluster: maintenance
 priority: 1
 wordcount: 1800

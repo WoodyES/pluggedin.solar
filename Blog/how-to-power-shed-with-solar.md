@@ -1,9 +1,9 @@
 ---
 title: "How to Power a Shed with Solar: Plug-in vs Off-Grid Battery"
 slug: "how-to-power-shed-with-solar-uk"
-excerpt: "The practical decision guide for shed owners. Find out whether you need grid-tied plug-in solar or a standalone battery system—and what each one actually costs."
+excerpt: "How to power your shed with solar. Grid-tied plug-in vs standalone battery — which you need and what each one costs."
 date: "2026-04-05"
-category: "Sheds"
+category: "Property Guides"
 cluster: "Sheds & Outbuildings"
 priority: "HIGH"
 wordcount: 1800

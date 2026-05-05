@@ -1,9 +1,9 @@
 ---
 title: "Best Home Solar Batteries in Australia 2026: Full Comparison"
 slug: best-solar-batteries-australia-2026
-excerpt: "Compare top solar batteries for Australian homes: Tesla Powerwall 3, BYD Battery-Box, Enphase IQ Battery, SolarEdge, Sungrow. Capacity, warranty, pricing after federal rebate, and real-world reliability."
+excerpt: "Best solar batteries for Australian homes 2026. Tesla Powerwall 3, BYD, Enphase, SolarEdge, and Sungrow compared on price and reliability."
 date: "2026-04-06"
-category: "Products & Buying Guides"
+category: "Buying Guides"
 cluster: "5b"
 priority: "high"
 wordcount: 2000

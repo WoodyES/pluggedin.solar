@@ -1,9 +1,9 @@
 ---
-title: "Plug-in Solar and Neighbours: Disputes, Shading, and What the Law Actually Says"
+title: "Plug-in Solar & Neighbours: Disputes Explained"
 slug: plug-in-solar-neighbour-disputes-shading-uk
-excerpt: "Germany's million-plus installations produced neighbour disputes the regulators didn't initially anticipate. Here are the specific scenarios UK owners will face."
+excerpt: "Plug-in solar and neighbours UK. Disputes, shading issues, and what the law says — lessons from Germany's experience."
 date: "2026-04-11"
-category: "Legal & Regulatory"
+category: "Regulations & Policy"
 cluster: "Legal & Regulatory"
 priority: 2
 wordcount: 950

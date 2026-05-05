@@ -3,7 +3,7 @@ title: Plug-in Solar in Texas: Deregulated Energy and Sunshine
 slug: plug-in-solar-texas
 excerpt: Texas's energy landscape and why plug-in solar makes sense in the deregulated market. Plus HOA protections and what to expect in 2026.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 2
 wordcount: 1800

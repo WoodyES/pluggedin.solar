@@ -1,9 +1,9 @@
 ---
-title: "Smart Meter Not Showing Solar Generation? Here's Why and How to Fix It"
+title: "Smart Meter Not Showing Solar Generation?"
 slug: smart-meter-not-showing-solar-generation-uk
-excerpt: "Your smart meter won't show solar generation directly — that's by design. Here's what it actually measures, what to look for instead, and how to properly track your plug-in solar output."
+excerpt: "Smart meter not showing solar generation? That's normal. Here's what it measures and how to track output properly."
 date: "2026-05-04"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "smart-meters"
 priority: 2
 wordcount: 1800

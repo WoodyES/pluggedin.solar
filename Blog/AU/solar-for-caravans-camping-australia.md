@@ -1,9 +1,9 @@
 ---
 title: "Solar for Caravans & Camping in Australia: Complete Guide"
 slug: solar-for-caravans-camping-australia
-excerpt: "Portable and roof-mounted solar for Australian caravans and camping. Sizing, Anderson connectors, free camping power, off-grid travel, and practical solutions."
+excerpt: "Solar for Australian caravans and camping. Panel sizing, Anderson connectors, free camping power, and off-grid solutions."
 date: "2026-04-06"
-category: "Specific Use Cases"
+category: "Use Cases"
 cluster: "9"
 priority: "high"
 wordcount: 2000

@@ -3,7 +3,7 @@ title: "Best Smart Plugs for Monitoring Solar Output in the UK"
 slug: best-smart-plug-monitor-solar-uk
 excerpt: "Track your solar generation in real time with a smart plug. Tapo, Shelly, or Eve—here's how to choose."
 date: "2026-04-06"
-category: "Monitoring"
+category: "Performance & Monitoring"
 cluster: "Tools & Monitoring"
 priority: 1
 wordcount: 1500

@@ -1,13 +1,13 @@
 ---
 slug: plug-in-solar-new-build-homes-uk
-title: Plug-in Solar for New Build Homes UK—What Developers Don't Tell You
-excerpt: New builds have advantages for plug-in solar (smart meters, modern wiring), but also hidden barriers. Here's what you need to know before installing on a new property.
+title: Plug-in Solar for New Build Homes UK
+excerpt: New builds suit plug-in solar (smart meters, modern wiring) but have hidden barriers. What to know before installing.
 date: 2026-04-13
 category: Location Guides
 featured: true
 ---
 
-# Plug-in Solar for New Build Homes UK—What Developers Don't Tell You
+# Plug-in Solar for New Build Homes UK
 
 New build homes are supposed to be better. Better insulation, efficient heating, smart technology. But ask any new homeowner about solar and you'll get a shrug.
 

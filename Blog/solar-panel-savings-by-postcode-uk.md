@@ -1,9 +1,9 @@
 ---
 slug: solar-panel-savings-by-postcode-uk
-title: Solar Panel Savings by Postcode - How Location Affects Your Return
+title: "Solar Savings by Postcode UK"
 excerpt: Regional variation in plug-in solar savings across the UK. See how your postcode determines annual generation and payback time.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

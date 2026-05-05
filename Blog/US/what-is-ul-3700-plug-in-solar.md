@@ -3,7 +3,7 @@ title: What Is UL 3700? The Safety Standard Changing Plug-in Solar
 slug: what-is-ul-3700-plug-in-solar
 excerpt: UL 3700 explained in plain English. What it tests, why it matters, and when certified products will actually arrive.
 date: 2026-04-06
-category: Fundamentals
+category: Getting Started
 cluster: 1
 priority: 4
 wordcount: 1500

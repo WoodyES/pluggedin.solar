@@ -1,7 +1,7 @@
 ---
-title: "Plug-in Solar vs Heat Pump: Which Saves More on UK Energy Bills?"
+title: "Plug-in Solar vs Heat Pump: Savings"
 slug: plug-in-solar-vs-heat-pump-uk
-category: Comparisons
+category: Reviews & Comparisons
 date: 2026-04-13
 excerpt: "Both can cut your energy bills significantly. But they do completely different jobs. Here's how to choose—and whether you need both."
 ---

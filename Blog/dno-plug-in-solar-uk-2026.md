@@ -3,7 +3,7 @@ slug: dno-plug-in-solar-uk-2026
 title: "What DNOs Say About Plug-in Solar UK in 2026"
 excerpt: "Distribution Network Operators have mostly said yes to plug-in solar. Here's what they're actually watching out for."
 date: "2026-04-14"
-category: "Legal & Regulatory"
+category: "Regulations & Policy"
 ---
 
 # What DNOs Say About Plug-in Solar UK in 2026

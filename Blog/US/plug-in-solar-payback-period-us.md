@@ -3,7 +3,7 @@ title: "Plug-in Solar Payback Period: How to Calculate Yours"
 slug: "plug-in-solar-payback-period-us"
 excerpt: "Step-by-step walkthrough of payback calculation with real examples from different US states."
 date: "2026-04-06"
-category: "Savings & Economics"
+category: "Savings & Costs"
 cluster: 3
 priority: "medium"
 wordcount: 1500

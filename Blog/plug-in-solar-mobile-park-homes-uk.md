@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Solar for Mobile Homes and Park Homes UK"
 slug: plug-in-solar-mobile-park-homes-uk
-excerpt: "Mobile and park homes present unique challenges: lighter roof structures, site owner permission, smaller electrical supplies. Learn what's possible and safe."
+excerpt: "Plug-in solar for mobile and park homes UK. Roof weight limits, site owner permission, and what's safe and possible."
 date: 2026-04-13
 category: Property Guides
 ---

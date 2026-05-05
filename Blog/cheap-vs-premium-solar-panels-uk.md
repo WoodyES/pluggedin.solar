@@ -2,7 +2,7 @@
 title: "Cheap vs Premium Solar Panels UK: Is It Worth Paying More?"
 slug: cheap-vs-premium-solar-panels-uk
 date: 2026-04-13
-category: Comparisons
+category: Reviews & Comparisons
 priority: 2
 excerpt: "Should you buy budget panels or premium brands? We compare efficiency, durability, and cost-per-watt to help you decide what's right for your budget."
 ---

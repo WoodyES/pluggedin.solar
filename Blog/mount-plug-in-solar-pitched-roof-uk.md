@@ -1,5 +1,5 @@
 ---
-title: "Mounting Plug-in Solar on a Pitched Roof: What You Need to Know"
+title: "Pitched Roof: Mount Plug-in Solar"
 slug: "mount-plug-in-solar-pitched-roof-uk"
 excerpt: "Pitched roofs are standard in the UK, but they're not ideal for plug-in solar. Here's the honest assessment of what's possible and what it costs."
 date: "2026-04-05"

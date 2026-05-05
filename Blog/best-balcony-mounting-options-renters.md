@@ -1,9 +1,9 @@
 ---
-title: "Best Balcony Mounting Options for Renters (No Drilling Required)"
+title: "Balcony Mounting for Renters: No Drill"
 slug: "balcony-solar-mount-rented-flat"
 excerpt: "How to mount a solar panel on a rented balcony without damaging the property. A practical guide to clamps, stands, and wall mounts."
 date: "2026-04-05"
-category: "Renters"
+category: "Renters & Flats"
 cluster: "Renters & Flat-Dwellers"
 priority: "MED"
 wordcount: 1550

@@ -3,7 +3,7 @@ slug: plug-in-solar-regulation-history-uk
 title: "Plug-in Solar Regulation History UK: From Grey Area to Legal"
 excerpt: "How plug-in solar went from technically prohibited to government-endorsed in three years. The timeline of a quiet revolution."
 date: "2026-04-14"
-category: "News & Analysis"
+category: "Regulations & Policy"
 ---
 
 # Plug-in Solar Regulation History UK: From Grey Area to Legal

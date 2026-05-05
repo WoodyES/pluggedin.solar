@@ -3,7 +3,7 @@ title: "The Complete Plug-in Solar Safety Guide for US Homes"
 slug: plug-in-solar-safety-guide-us
 excerpt: "NEC compliance, GFCI protection, anti-islanding, and why 120V plug-in solar is actually safer than you think. Everything a homeowner needs to know."
 date: "2026-04-06"
-category: "Safety & Troubleshooting"
+category: "Troubleshooting"
 cluster: "Troubleshooting & Safety"
 priority: 1
 wordcount: 2100

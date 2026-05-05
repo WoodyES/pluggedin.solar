@@ -1,9 +1,9 @@
 ---
 slug: bs-7671-amendment-4-plain-english-guide
-title: "What Is BS 7671 Amendment 4? A Plain English Guide for Solar Owners"
+title: "BS 7671 Amendment 4: Guide for Solar"
 excerpt: "The technical standard that made plug-in solar legal. Here's what it actually requires, in language that makes sense."
 date: "2026-04-14"
-category: "Legal & Regulatory"
+category: "Regulations & Policy"
 ---
 
 # What Is BS 7671 Amendment 4? A Plain English Guide for Solar Owners

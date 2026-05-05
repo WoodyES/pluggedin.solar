@@ -1,8 +1,8 @@
 ---
 title: "Plug-in Solar for Off-Grid Cabins and Outbuildings UK"
 slug: plug-in-solar-off-grid-cabins-uk
-category: Audience Guides
-excerpt: "No grid connection means no micro-inverter needed. Direct DC charging to a battery is simpler, safer, and cheaper. Learn how to size a complete off-grid system for a cabin, lodge, or workshop."
+category: Property Guides
+excerpt: "Off-grid plug-in solar for cabins UK. DC battery charging without a micro-inverter. How to size a complete system."
 date: 2026-04-14
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: "Plug-in Solar for Small Businesses UK: Office, Retail and Workshop"
+title: "Plug-in Solar for Small Businesses UK"
 slug: plug-in-solar-small-businesses-uk
-category: Audience Guides
-excerpt: "Small businesses have daytime consumption and higher energy rates. Plug-in solar cuts costs by 30–40%. Multiple 800W systems, tax relief, and real savings. A practical guide for owners."
+category: Property Guides
+excerpt: "Plug-in solar for small businesses UK. Cut energy costs by 30–40% with multiple 800W systems and claim tax relief."
 date: 2026-04-14
 ---
 

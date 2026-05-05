@@ -1,9 +1,9 @@
 ---
-title: Is Plug-in Solar Legal in My State? The 2026 State-by-State Breakdown
+title: "Is Plug-in Solar Legal: By State 2026"
 slug: is-plug-in-solar-legal-in-my-state
 excerpt: Which states have legalized plug-in solar, which are pending, and what "legal" really means. Plus how to check if it's safe to install right now.
 date: 2026-04-06
-category: Fundamentals
+category: Getting Started
 cluster: 1
 priority: 2
 wordcount: 2500

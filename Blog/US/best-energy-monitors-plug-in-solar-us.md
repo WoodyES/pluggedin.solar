@@ -1,9 +1,9 @@
 ---
-title: "Best Energy Monitors for Plug-in Solar: Track Your Generation in Real Time"
+title: "Energy Monitors for Plug-in Solar"
 slug: best-energy-monitors-plug-in-solar-us
 excerpt: "Emporia Vue 3, Sense, Kasa Smart Plugs, Shelly. Real-time solar generation data and smart home integration to understand your energy."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "Tools & Accessories — Amazon Affiliate"
 priority: 1
 wordcount: 1800

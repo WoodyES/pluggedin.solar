@@ -1,9 +1,9 @@
 ---
-title: "Plug-in Solar and Your HOA: What You Can Do (29 States Protect You)"
+title: "Plug-in Solar & Your HOA: Rights"
 slug: "plug-in-solar-and-your-hoa"
 excerpt: "Solar access laws, HOA restrictions, your rights in different states, and how to get HOA approval for plug-in solar."
 date: "2026-04-06"
-category: "Installation & Placement"
+category: "Installation"
 cluster: 5
 priority: "high"
 wordcount: 2000

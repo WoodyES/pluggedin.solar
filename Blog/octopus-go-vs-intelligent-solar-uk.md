@@ -1,7 +1,7 @@
 ---
-title: "Octopus Go vs Octopus Intelligent: Which Is Better for Solar?"
+title: "Octopus Go vs Intelligent: Solar"
 slug: octopus-go-vs-intelligent-solar-uk
-category: Finance & Savings
+category: Savings & Costs
 date: 2026-04-13
 excerpt: "Comparing Octopus Go and Intelligent Go for UK plug-in solar users: tariff structures, battery compatibility, and which households should choose which."
 ---

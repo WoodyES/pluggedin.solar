@@ -1,9 +1,9 @@
 ---
-title: "Best Energy Monitors for Solar in Australia: Real-Time Tracking & Optimisation"
+title: "Best Solar Energy Monitors Australia"
 slug: best-energy-monitors-solar-australia
-excerpt: "Solar energy monitoring platforms for Australian homes. Solar Analytics, Fronius, Enphase, Catch Power, Shelly EM, and why monitoring matters for optimisation."
+excerpt: "Best solar energy monitors for Australian homes. Solar Analytics, Fronius, Enphase, Catch Power, and Shelly EM compared."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "8"
 priority: "medium"
 wordcount: 1500

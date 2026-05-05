@@ -1,9 +1,9 @@
 ---
 slug: south-facing-vs-east-west-solar-uk
-title: South-Facing vs East/West - How Orientation Affects Solar Output
+title: "Orientation: South vs East/West"
 excerpt: Real-world comparison of south, south-east/south-west, and east/west facing panels. Which direction is best and how much does orientation matter?
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

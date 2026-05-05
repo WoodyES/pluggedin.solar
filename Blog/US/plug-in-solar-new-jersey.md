@@ -3,7 +3,7 @@ title: Plug-in Solar in New Jersey: High Density, High Rates
 slug: plug-in-solar-new-jersey
 excerpt: New Jersey's electricity costs and dense housing make it ideal for plug-in solar. Plus the state's strong net metering and SB 688 progress.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 9
 wordcount: 1500

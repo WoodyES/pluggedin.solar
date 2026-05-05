@@ -1,9 +1,9 @@
 ---
-title: How Plug-in Solar Works: The 120V Technical Guide
+title: "How Plug-in Solar Works: 120V Guide"
 slug: how-plug-in-solar-works-us-120v
 excerpt: How 120V systems actually work, why microinverters matter, circuit safety, and the physics that limits you to 1,200 watts.
 date: 2026-04-06
-category: Fundamentals
+category: Getting Started
 cluster: 1
 priority: 6
 wordcount: 1500

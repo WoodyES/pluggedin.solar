@@ -1,10 +1,10 @@
 ---
-title: "Plug-in Solar in Summer UK: How to Get the Most from Your System"
+title: "Plug-in Solar in Summer: Maximise Output"
 slug: plug-in-solar-summer-uk-tips
-category: Seasonal
+category: Maintenance
 priority: 2
 date: "2026-04-14"
-excerpt: "Peak generation months in summer demand a different approach. Shift loads to midday, adjust panel tilt, keep panels clean, and manage shade. Here's how to maximise your system's output."
+excerpt: "Plug-in solar in summer UK. Load-shifting, tilt adjustment, cleaning, and shade management to maximise generation."
 ---
 
 # Plug-in Solar in Summer UK: How to Get the Most from Your System

@@ -1,9 +1,9 @@
 ---
 slug: solar-panel-calculator-uk
-title: Solar Panel Calculator UK - How Much Could Plug-in Solar Save You?
+title: "Solar Panel Calculator: Your Savings"
 excerpt: Understand how our PVGIS-powered calculator works, what data it uses, and how to get accurate solar savings estimates for your UK property.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "APsystems EZ1-M Review UK"
 slug: apsystems-ez1-m-review-uk
-category: Reviews
+category: Reviews & Comparisons
 date: 2026-04-13
 excerpt: "Deep review of the APsystems EZ1-M micro-inverter: built-in WiFi, dual-panel modes, and how it compares to Hoymiles HMS-800 in the UK market."
 priority: 2

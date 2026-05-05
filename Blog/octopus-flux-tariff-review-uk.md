@@ -1,7 +1,7 @@
 ---
-title: "Octopus Flux Tariff Review UK 2026: Is It Worth It with Solar?"
+title: "Octopus Flux + Solar: Worth It 2026?"
 slug: octopus-flux-tariff-review-uk
-category: Finance & Savings
+category: Savings & Costs
 date: 2026-04-13
 excerpt: "In-depth review of Octopus Flux: the three-rate tariff designed for solar and batteries. Does it stack up financially? What you need to know."
 ---

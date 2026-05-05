@@ -1,9 +1,9 @@
 ---
-title: "Plug-in Solar Shading Solutions: Why Partial Shade Is Your #1 Performance Killer"
+title: "Plug-in Solar Shading: Dealing with Partial Shade"
 slug: plug-in-solar-shading-solutions-uk
-excerpt: "Even a small shadow can drop your output by 70%. Here's why microinverters help, what you can actually do about shading, and how to reposition panels for maximum generation."
+excerpt: "Plug-in solar shading solutions UK. Why small shadows cause 70% losses and how to fix or avoid shading problems."
 date: "2026-04-06"
-category: technical
+category: Performance & Monitoring
 cluster: optimisation
 priority: 1
 wordcount: 1500

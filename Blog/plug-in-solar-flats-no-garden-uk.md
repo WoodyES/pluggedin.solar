@@ -1,8 +1,8 @@
 ---
-title: "Plug-in Solar for Flats Without a Garden: Every Option Explored"
+title: "Flats Without Garden: Solar Options"
 slug: plug-in-solar-flats-no-garden-uk
 category: Property Guides
-excerpt: "Flat dwellers aren't left out. We explore balcony rail mounts, window sills, communal roof access, exterior wall brackets, and portable panels—plus the leasehold approval process you need to know."
+excerpt: "Plug-in solar for flats without a garden. Balcony rails, window sills, wall brackets, portable panels, and leasehold approval."
 date: 2026-04-14
 ---
 

@@ -3,7 +3,7 @@ title: "Octopus Energy Review for Solar Users UK 2026"
 slug: octopus-energy-review-solar-users-uk
 excerpt: "Octopus has more solar-friendly tariff options than any other UK supplier. Here's which of their deals actually works best for plug-in solar owners."
 date: "2026-04-11"
-category: "Finance & Savings"
+category: "Savings & Costs"
 cluster: "Tariff & Finance"
 priority: 1
 wordcount: 1100

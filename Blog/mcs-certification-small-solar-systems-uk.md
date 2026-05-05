@@ -1,9 +1,9 @@
 ---
 slug: mcs-certification-small-solar-systems-uk
-title: "MCS Certification for Small Solar Systems UK: Do You Need It?"
+title: "MCS Certification: Do You Need It?"
 excerpt: "MCS certification unlocks government schemes, but plug-in solar is a DIY game. Here's what you actually lose—and whether it matters."
 date: "2026-04-14"
-category: "Legal & Regulatory"
+category: "Regulations & Policy"
 ---
 
 # MCS Certification for Small Solar Systems UK: Do You Need It?

@@ -1,7 +1,7 @@
 ---
-title: Solar Panel Degradation Rate UK: How Much Output Do You Lose Per Year?
+title: "Solar Panel Degradation Rate UK"
 slug: solar-panel-degradation-rate-uk
-category: Technical
+category: Performance & Monitoring
 date: 2026-04-14
 excerpt: Solar panels lose ~0.5% of output per year. After 25 years, you'll retain 85–90% of original power. Here's what the data shows.
 ---

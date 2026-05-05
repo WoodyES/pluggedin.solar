@@ -1,9 +1,9 @@
 ---
-title: Plug-in Solar in Oregon: Portland and the Pacific Northwest Opportunity
+title: "Plug-in Solar in Oregon"
 slug: plug-in-solar-oregon
 excerpt: Oregon's cloud cover and lower sun, but also abundant rainwater and progressive utilities. Plus Portland's dense renter market and the path forward.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 10
 wordcount: 1500

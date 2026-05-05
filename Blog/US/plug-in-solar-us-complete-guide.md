@@ -1,9 +1,9 @@
 ---
-title: The Complete Guide to Plug-in Solar in the US
+title: "Complete Guide to Plug-in Solar US"
 slug: plug-in-solar-us-complete-guide
 excerpt: What plug-in solar is, how it works on 120V, why UL 3700 matters, and what you can legally install today. Everything a US homeowner needs to know.
 date: 2026-04-06
-category: Fundamentals
+category: Getting Started
 cluster: 1
 priority: 1
 wordcount: 3000

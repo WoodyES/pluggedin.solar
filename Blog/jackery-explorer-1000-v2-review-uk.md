@@ -1,7 +1,7 @@
 ---
 title: "Jackery Explorer 1000 v2 Review UK"
 slug: jackery-explorer-1000-v2-review-uk
-category: Reviews
+category: Reviews & Comparisons
 date: 2026-04-13
 excerpt: "Budget battery option for UK solar: 1,070Wh NMC, dual-use home/camping, 200W solar input limit. Compare to DELTA 2 and SOLIX C1000."
 priority: 2

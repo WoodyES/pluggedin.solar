@@ -1,7 +1,7 @@
 ---
-title: "Where Can You Put Plug-in Solar Panels? Every Surface Explained"
+title: "Plug-in Solar: Where to Put Panels"
 slug: "where-to-install-plug-in-solar-uk"
-excerpt: "The definitive placement guide. Every surface where you can mount a plug-in solar panel—balcony rail, garden grass, concrete, flat roof, walls, decking. What you need for each, what to watch out for."
+excerpt: "Where to install plug-in solar UK. Every surface covered: balcony, garden, concrete, flat roof, walls, and decking."
 date: "2026-04-05"
 category: "Installation"
 cluster: "Installation Surfaces"

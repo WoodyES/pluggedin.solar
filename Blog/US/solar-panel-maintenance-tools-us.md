@@ -1,9 +1,9 @@
 ---
-title: "Solar Panel Maintenance Tools: Keep Your System Running at Peak"
+title: "Solar Maintenance Tools: Peak Running"
 slug: solar-panel-maintenance-tools-us
 excerpt: "Cleaning kits, multimeters, cable management, weatherproofing. Essential tools for plug-in solar owners."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "Tools & Accessories — Amazon Affiliate"
 priority: 4
 wordcount: 1200

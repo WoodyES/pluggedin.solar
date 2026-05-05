@@ -1,9 +1,9 @@
 ---
-title: "The BSI Product Standard for Plug-in Solar: What It Means and When It Lands"
+title: "BSI Standard for Plug-in Solar Explained"
 slug: "bsi-plug-in-solar-standard-uk"
-excerpt: "What the BSI product standard is, why it's the final gate before any kit is legally connectable, what it will cover, and what to look for when it publishes in July 2026."
+excerpt: "The BSI product standard for plug-in solar. Why it matters, what it covers, and what to expect when it publishes July 2026."
 date: "2026-04-05"
-category: "Regulations"
+category: "Regulations & Policy"
 cluster: "Legal & Regulatory"
 priority: "HIGH"
 wordcount: 1500

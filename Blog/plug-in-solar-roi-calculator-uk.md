@@ -3,7 +3,7 @@ slug: plug-in-solar-roi-calculator-uk
 title: Plug-in Solar ROI - Calculating Your Return on Investment
 excerpt: How to calculate return on investment for plug-in solar over 15, 20, and 25 years. Includes inflation, tariff changes, and real-world comparisons.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

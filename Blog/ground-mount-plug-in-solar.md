@@ -1,7 +1,7 @@
 ---
 title: "Ground-Mounted Plug-in Solar on Grass, Gravel, and Concrete"
 slug: "ground-mount-plug-in-solar-uk"
-excerpt: "Ground mounting is common in gardens—no roof needed. Three surfaces: grass (ground stakes), gravel (weighted A-frames work better), concrete (weighted A-frames or anchors). Wind stability, ballast, and optimal tilt explained."
+excerpt: "Ground-mounted plug-in solar guide. Grass, gravel, and concrete options. Stakes, A-frames, wind stability, and optimal tilt."
 date: "2026-04-05"
 category: "Installation"
 cluster: "Installation Surfaces"

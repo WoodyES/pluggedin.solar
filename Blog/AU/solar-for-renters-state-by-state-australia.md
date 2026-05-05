@@ -3,7 +3,7 @@ title: Solar for Renters — State-by-State Options in Australia
 slug: solar-for-renters-state-by-state-australia
 excerpt: State-specific programs, rebates, and options for renters across Australia.
 date: "2026-04-06"
-category: Apartments & Renters
+category: Renters & Flats
 cluster: 2
 priority: 2
 wordcount: 2000

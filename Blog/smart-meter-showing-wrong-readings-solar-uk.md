@@ -1,9 +1,9 @@
 ---
-title: "Smart Meter Showing Wrong Readings After Installing Solar? Here's What's Happening"
+title: "Smart Meter Wrong After Installing Solar"s What's Happening"
 slug: smart-meter-showing-wrong-readings-solar-uk
 excerpt: "Erratic readings, spinning backwards, or costs that don't add up — why your smart meter behaves oddly with solar and when you actually need to worry."
 date: "2026-05-04"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "smart-meters"
 priority: 3
 wordcount: 1500

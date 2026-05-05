@@ -1,10 +1,10 @@
 ---
-title: "How Shading Affects Plug-in Solar Output (and What to Do About It)"
+title: "Shading & Plug-in Solar Output"
 slug: shading-plug-in-solar-output-uk
 date: 2026-04-13
-category: Technical
+category: Performance & Monitoring
 priority: 2
-excerpt: "Even partial shading has a dramatic effect on solar panel output. Learn why 10% shade causes 30-50% losses, spot common UK shading sources, and discover how to protect your plug-in system."
+excerpt: "How shading affects solar panel output. Why 10% shade causes 30–50% losses and how to protect your plug-in solar system."
 ---
 
 # How Shading Affects Plug-in Solar Output (and What to Do About It)

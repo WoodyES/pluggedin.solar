@@ -1,9 +1,9 @@
 ---
-title: "Best Plug-in Solar Kits in the US: Craftstrom vs. Bright Saver vs. EcoFlow"
+title: "Best Plug-in Solar Kits US 2026"
 slug: "best-plug-in-solar-kits-us"
 excerpt: "A detailed comparison of the three leading plug-in solar systems available in the US: pros, cons, pricing, and where they're available."
 date: "2026-04-06"
-category: "Products & Reviews"
+category: "Reviews & Comparisons"
 cluster: 4
 priority: "high"
 wordcount: 2500

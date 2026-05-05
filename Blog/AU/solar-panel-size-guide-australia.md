@@ -3,7 +3,7 @@ title: "Solar Panel System Size Guide for Australian Homes"
 slug: solar-panel-size-guide-australia
 excerpt: "How to size a solar system based on your electricity consumption. Why 6.6kW is the sweet spot, oversizing for future needs, and export limits by state."
 date: "2026-04-06"
-category: "Installation & Technical"
+category: "Installation"
 cluster: "6"
 priority: "medium"
 wordcount: 1500

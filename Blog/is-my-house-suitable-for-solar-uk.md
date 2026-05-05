@@ -1,9 +1,9 @@
 ---
 slug: is-my-house-suitable-for-solar-uk
-title: Is My House Suitable for Plug-in Solar? How to Check in 60 Seconds
+title: "House Suitable for Solar? Quick Check"
 excerpt: Quick checklist to assess if your UK property is suitable for plug-in solar. Use the solar report tool to check sun exposure and facade assessment.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

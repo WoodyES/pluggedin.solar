@@ -3,7 +3,7 @@ title: "Federal Tax Credit for Plug-in Solar: How to Claim 30% Back"
 slug: "federal-tax-credit-plug-in-solar"
 excerpt: "Everything you need to know about the Investment Tax Credit (ITC) for plug-in solar systems—and how to claim it on Form 5695."
 date: "2026-04-06"
-category: "Savings & Economics"
+category: "Savings & Costs"
 cluster: 3
 priority: "high"
 wordcount: 1500

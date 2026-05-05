@@ -1,9 +1,9 @@
 ---
 title: "Solar Panel Hail Damage in Australia: Protection & Insurance"
 slug: solar-panel-hail-damage-australia
-excerpt: "Australian hailstorm risks for solar panels. Hail testing standards, Sydney 2024 lessons, insurance coverage, what to do after a storm, and damage prevention."
+excerpt: "Solar panel hail damage in Australia. Testing standards, insurance coverage, what to do after a storm, and prevention tips."
 date: "2026-04-06"
-category: "Maintenance & Troubleshooting"
+category: "Maintenance"
 cluster: "7"
 priority: "medium"
 wordcount: 1200

@@ -1,9 +1,9 @@
 ---
 title: "Plug-in Solar for Sheds UK: Powers Lights, Tools, and More"
 slug: "plug-in-solar-for-shed-uk"
-excerpt: "A shed doesn't have to live in darkness. Learn how plug-in solar can power lighting, tools, and gadgets—whether your shed is connected to the house or sitting alone in the garden."
+excerpt: "Plug-in solar for sheds UK. Power lighting, tools, and gadgets — grid-connected or standalone options explained."
 date: "2026-04-05"
-category: "Sheds"
+category: "Property Guides"
 cluster: "Sheds & Outbuildings"
 priority: "HIGH"
 wordcount: 2800

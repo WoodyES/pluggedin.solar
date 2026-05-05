@@ -1,9 +1,9 @@
 ---
-title: "Solar for Pool Pump Power in Australia: Massive Savings Potential"
+title: "Pool Pump Solar Australia: Big Savings"
 slug: solar-for-pool-pump-australia
 excerpt: "Power pool pumps with solar in Australia. Pool pump loads, savings calculation, timing optimization, variable-speed pumps, and why pool solar is practical."
 date: "2026-04-06"
-category: "Specific Use Cases"
+category: "Use Cases"
 cluster: "9"
 priority: "medium"
 wordcount: 1500

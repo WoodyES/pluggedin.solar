@@ -1,9 +1,9 @@
 ---
-title: "Plug-in Solar for Airbnb Hosts UK: Does It Reduce Running Costs?"
+title: "Plug-in Solar for Airbnb Hosts UK"
 slug: plug-in-solar-airbnb-hosts-uk
-excerpt: "Holiday lets have high daytime electricity use (guests, heating, appliances). Plug-in solar cuts base-load costs and attracts eco-conscious guests. Here's the financial case."
+excerpt: "Plug-in solar for Airbnb hosts UK. Cut daytime electricity costs and attract eco-conscious guests. The financial case."
 date: 2026-04-13
-category: Audience Guides
+category: Property Guides
 ---
 
 # Plug-in Solar for Airbnb Hosts UK: Does It Reduce Running Costs?

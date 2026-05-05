@@ -3,7 +3,7 @@ title: "Best Plug-in Solar Kits UK 2026: A Buyer's Guide"
 slug: "best-plug-in-solar-kit-uk"
 excerpt: "The definitive guide to plug-in solar kits in the UK. What to look for, confirmed market entrants, and how to buy wisely in 2026."
 date: "2026-04-05"
-category: "Buying Guide"
+category: "Buying Guides"
 cluster: "Product Reviews"
 priority: "HIGH"
 wordcount: 2800

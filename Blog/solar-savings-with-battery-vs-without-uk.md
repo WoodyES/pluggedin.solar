@@ -1,9 +1,9 @@
 ---
 slug: solar-savings-with-battery-vs-without-uk
-title: Solar Savings With vs Without a Battery - UK Calculator Comparison
+title: "Solar Savings: With vs Without Battery"
 excerpt: Real comparison of plug-in solar savings with and without battery storage. When does a battery pay for itself, and is it worth the cost?
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

@@ -3,7 +3,7 @@ title: "Tapo P110 for Solar Monitoring: UK Review"
 slug: tapo-p110-solar-monitoring-review-uk
 excerpt: "At £15, it's the cheapest and simplest way to track your plug-in solar output. Here's how to set it up and what you'll learn from it."
 date: "2026-04-11"
-category: "Reviews"
+category: "Reviews & Comparisons"
 cluster: "Product Reviews"
 priority: 1
 wordcount: 950

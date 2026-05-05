@@ -1,9 +1,9 @@
 ---
-title: Plug-in Solar in Virginia: Proximity to DC and the Mid-Atlantic Market
+title: "Plug-in Solar in Virginia"
 slug: plug-in-solar-virginia
 excerpt: Virginia's solar potential and how proximity to DC shapes policy. Plus the state's progress toward plug-in solar legalization.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 12
 wordcount: 1500

@@ -1,7 +1,7 @@
 ---
-title: "Balcony Rail Mounting for Plug-in Solar: Clamp Types and Weight Limits"
+title: "Balcony Rail Mounting: Clamps & Weights"
 slug: "balcony-rail-solar-mount-uk"
-excerpt: "Balcony rail mounting is the most popular option for flat-dwellers. Clamp types explained. Weight limits, wind safety, output angles, and what to check with your building."
+excerpt: "Balcony rail mounting for plug-in solar. Clamp types, weight limits, wind safety, output angles, and building checks explained."
 date: "2026-04-05"
 category: "Installation"
 cluster: "Installation Surfaces"

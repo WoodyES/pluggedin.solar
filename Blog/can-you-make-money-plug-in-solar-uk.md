@@ -3,7 +3,7 @@ title: "Can You Make Money from Plug-in Solar in the UK?"
 slug: can-you-make-money-plug-in-solar-uk
 excerpt: "The honest answer: you'll save money, not make money. But the savings are real and the payback is faster than most people think."
 date: "2026-04-11"
-category: "Finance & Savings"
+category: "Savings & Costs"
 cluster: "Tariff & Finance"
 priority: 1
 wordcount: 1000

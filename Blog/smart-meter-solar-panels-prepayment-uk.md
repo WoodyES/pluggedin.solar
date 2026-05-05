@@ -3,7 +3,7 @@ title: "Can You Use Solar Panels with a Prepayment Smart Meter?"
 slug: smart-meter-solar-panels-prepayment-uk
 excerpt: "Yes — plug-in solar works with prepayment meters, and you'll see your credit last longer. Here's what's different and how to get the most from it."
 date: "2026-05-04"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "smart-meters"
 priority: 5
 wordcount: 1300

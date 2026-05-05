@@ -1,9 +1,9 @@
 ---
-title: "Buying Second-Hand Solar Panels in the UK: Worth It or Risky?"
+title: "Second-Hand Solar Panels: Worth It?"
 slug: buying-second-hand-solar-panels-uk
 excerpt: "Used solar panels start at £50 on eBay. But are they safe, efficient, and actually worth the savings? Here's what to check before buying."
 date: "2026-04-11"
-category: "Buying Guide"
+category: "Buying Guides"
 cluster: "Product Reviews"
 priority: 3
 wordcount: 900

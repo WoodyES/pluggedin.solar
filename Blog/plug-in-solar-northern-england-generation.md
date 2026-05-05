@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Solar in Northern England: Is There Enough Sun?"
 slug: plug-in-solar-northern-england-generation
-excerpt: "Northern England gets 15% less sun than London, but still generates 640–700 kWh/year from 800W plug-in solar. Here's what to expect in Manchester, Leeds, and Newcastle."
+excerpt: "Plug-in solar in Northern England. 640–700 kWh/year from 800W. What to expect in Manchester, Leeds, and Newcastle."
 date: 2026-04-13
 category: Location Guides
 ---

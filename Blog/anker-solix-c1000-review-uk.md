@@ -2,7 +2,7 @@
 title: "Anker SOLIX C1000 Gen 2 Review UK"
 slug: anker-solix-c1000-review-uk
 date: 2026-04-13
-category: Reviews
+category: Reviews & Comparisons
 excerpt: "Is the Anker SOLIX C1000 Gen 2 the best battery for UK plug-in solar? We compare it to the EcoFlow DELTA 2 and Jackery 1000 v2."
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "Is Plug-in Solar Legal in the UK? The Complete Regulatory Guide"
+title: "Is Plug-in Solar Legal in UK?"
 slug: "is-plug-in-solar-legal-uk"
-category: "Regulations"
+category: "Regulations & Policy"
 cluster: "Legal & Regulatory"
 priority: "HIGH"
 date: "2026-04-05"
-excerpt: "The definitive answer: confirmed but not yet connectable. A complete walkthrough of the UK regulatory timeline, what's legal now, what's legal from July 2026, and what happens if you connect too early."
+excerpt: "Is plug-in solar legal in the UK? The full regulatory timeline and what's actually allowed now and from July 2026."
 wordcount: 3050
 ---
 

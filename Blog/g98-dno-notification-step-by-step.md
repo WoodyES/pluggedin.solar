@@ -1,9 +1,9 @@
 ---
-title: "Notifying Your DNO After Installing Plug-in Solar: G98 Step-by-Step"
+title: "G98 DNO Notification: Step-by-Step"
 slug: "g98-dno-notification-plug-in-solar"
 excerpt: "The full G98 notification walkthrough. What a DNO is, how to find yours, what information you need, and how to submit. It takes 10 minutes."
 date: "2026-04-05"
-category: "Regulations"
+category: "Regulations & Policy"
 cluster: "Installation How-To"
 priority: "HIGH"
 wordcount: 1500

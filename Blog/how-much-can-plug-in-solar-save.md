@@ -1,9 +1,9 @@
 ---
-title: "How Much Can Plug-in Solar Actually Save on Your Energy Bills?"
+title: "Plug-in Solar: How Much You'll Save"
 slug: "plug-in-solar-savings-uk"
 excerpt: "Concrete numbers for how much you'll save based on your system size, location, and how you use electricity."
 date: "2026-04-05"
-category: "Savings"
+category: "Savings & Costs"
 cluster: "Savings & ROI"
 priority: "HIGH"
 wordcount: 2050

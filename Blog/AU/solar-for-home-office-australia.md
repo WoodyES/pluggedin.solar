@@ -3,7 +3,7 @@ title: "Solar for Home Office Power & Backup in Australia"
 slug: solar-for-home-office-australia
 excerpt: "Solar and battery backup for home offices in Australia. WFH load requirements, battery sizing for work continuity, blackout protection, and ROI."
 date: "2026-04-06"
-category: "Specific Use Cases"
+category: "Use Cases"
 cluster: "9"
 priority: "medium"
 wordcount: 1200

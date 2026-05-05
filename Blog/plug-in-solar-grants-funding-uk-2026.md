@@ -3,7 +3,7 @@ slug: plug-in-solar-grants-funding-uk-2026
 title: Plug-in Solar Grants and Funding UK 2026—What's Available
 excerpt: The honest answer on government grants for plug-in solar, plus hidden funding opportunities that could help your installation pay for itself faster.
 date: 2026-04-13
-category: Finance & Savings
+category: Savings & Costs
 featured: true
 ---
 

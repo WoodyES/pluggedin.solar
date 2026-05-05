@@ -1,9 +1,9 @@
 ---
-title: "Outdoor Sockets for Plug-in Solar: Why IP Ratings and RCD Protection Matter"
+title: "Outdoor Sockets for Plug-in Solar: Safety"
 slug: best-outdoor-socket-plug-in-solar-uk
 excerpt: "BS 7671 requires a dedicated circuit for outdoor solar. Learn IP ratings, RCD protection, and why getting your electrics right is non-negotiable."
 date: "2026-04-06"
-category: "Electrical"
+category: "Installation"
 cluster: "compliance"
 priority: 8
 wordcount: 1500

@@ -1,7 +1,7 @@
 ---
 title: "Eve Energy vs Tapo P110 vs Shelly: Best Solar Smart Plug UK"
 slug: eve-energy-vs-tapo-p110-vs-shelly-uk
-category: Comparisons
+category: Reviews & Comparisons
 date: 2026-04-13
 excerpt: "Definitive 3-way comparison of smart plugs for solar monitoring: price, ecosystem, accuracy, privacy. Which one is right for you?"
 priority: 2

@@ -3,7 +3,7 @@ title: "Plug-in Solar for Apartments: Renters Can Go Solar"
 slug: "plug-in-solar-for-apartments-us"
 excerpt: "Options for apartment dwellers: balconies, patios, windows, and how to get landlord approval for renter-friendly solar systems."
 date: "2026-04-06"
-category: "Installation & Placement"
+category: "Installation"
 cluster: 5
 priority: "high"
 wordcount: 1800

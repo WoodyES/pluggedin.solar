@@ -1,9 +1,9 @@
 ---
-title: "Smart Meters and Solar Panels for Renters: What You Can and Can't Do"
+title: "Renters: Smart Meters & Solar Panels"t Do"
 slug: smart-meter-solar-panels-renters-uk
-excerpt: "You can request a smart meter and install plug-in solar as a renter — but there are a few things to know about export registers, landlord meters, and taking your kit when you move."
+excerpt: "Smart meters and solar panels for renters. Export registers, landlord meters, and taking your plug-in kit when you move."
 date: "2026-05-04"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "smart-meters"
 priority: 5
 wordcount: 1400

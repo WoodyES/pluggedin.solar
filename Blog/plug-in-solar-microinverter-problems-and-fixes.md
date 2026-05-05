@@ -1,9 +1,9 @@
 ---
-title: "Plug-in Solar Microinverter Problems and Fixes: The Real Issues UK Owners Face"
+title: "Plug-in Solar Microinverter Problems & Fixes"
 slug: plug-in-solar-microinverter-problems-uk
 excerpt: "Wi-Fi dropouts, firmware bugs, overnight battery drain, and overheating shutdowns. Here's what actually goes wrong with microinverters and how to fix it."
 date: "2026-04-06"
-category: troubleshooting
+category: Troubleshooting
 cluster: maintenance
 priority: 1
 wordcount: 1800

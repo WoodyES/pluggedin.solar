@@ -3,7 +3,7 @@ title: Plug-in Solar in Australia — Complete Guide
 slug: plug-in-solar-australia-complete-guide
 excerpt: What plug-in solar is, why it's still illegal for grid connection in Australia, and what you can do now while we wait for regulation.
 date: "2026-04-06"
-category: Solar Basics
+category: Getting Started
 cluster: 1
 priority: 1
 wordcount: 3000

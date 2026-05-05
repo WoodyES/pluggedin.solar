@@ -2,7 +2,7 @@
 title: "How Many Solar Panels Can I Connect to One Socket UK?"
 slug: how-many-solar-panels-one-socket-uk
 date: 2026-04-13
-category: Technical
+category: Performance & Monitoring
 excerpt: "Understand the 800W cap, inverter input limits, and when you'll need multiple systems for maximum performance."
 ---
 

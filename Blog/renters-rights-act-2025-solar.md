@@ -1,9 +1,9 @@
 ---
-title: "The Renters' Rights Act 2025 and Plug-in Solar: What It Means for You"
+title: "Renters' Rights Act 2025 and Plug-in Solar"
 slug: "renters-rights-act-solar-uk"
 excerpt: "The Renters' Rights Act 2025 fundamentally changed what you can ask your landlord to allow. Plug-in solar is a case study in how it works."
 date: "2026-04-05"
-category: "Renters"
+category: "Renters & Flats"
 cluster: "Renters & Flat-Dwellers"
 priority: "HIGH"
 wordcount: 1850

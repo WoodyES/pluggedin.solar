@@ -1,9 +1,9 @@
 ---
-title: "How to Angle Solar Panels for Maximum Output UK: The Definitive Guide"
+title: "Angling Solar Panels for Max Output UK"
 slug: how-to-angle-solar-panels-maximum-output-uk
 excerpt: "The difference between a flat panel and a well-angled one can be 30% of your annual output. Here's the optimal angle for every UK scenario."
 date: "2026-04-11"
-category: "Technical"
+category: "Performance & Monitoring"
 cluster: "Technical Guides"
 priority: 1
 wordcount: 1000

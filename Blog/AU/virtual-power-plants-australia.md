@@ -1,9 +1,9 @@
 ---
-title: Virtual Power Plants in Australia — Guide for Home Battery Owners
+title: "Virtual Power Plants Australia: Guide"
 slug: virtual-power-plants-australia
 excerpt: What VPPs are, how to join one, and what you can earn by letting the grid use your battery.
 date: "2026-04-06"
-category: Apartments & Renters
+category: Renters & Flats
 cluster: 2
 priority: 2
 wordcount: 1500

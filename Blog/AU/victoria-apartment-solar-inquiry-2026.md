@@ -1,9 +1,9 @@
 ---
-title: Victoria's Apartment Solar Inquiry 2026 — What You Need to Know
+title: Victoria Apartment Solar Inquiry 2026
 slug: victoria-apartment-solar-inquiry-2026
-excerpt: The Victorian government is investigating renewable energy for apartment buildings. Here's what the inquiry covers and what it could mean for Australian solar.
+excerpt: Victoria is investigating renewable energy for apartments. What the inquiry covers and what it means for solar.
 date: "2026-04-06"
-category: Solar Basics
+category: Getting Started
 cluster: 1
 priority: 2
 wordcount: 1500

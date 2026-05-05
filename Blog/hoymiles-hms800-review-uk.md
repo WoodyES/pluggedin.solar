@@ -1,10 +1,10 @@
 ---
 title: "Hoymiles HMS-800 Review UK"
 slug: hoymiles-hms800-review-uk
-category: Reviews
+category: Reviews & Comparisons
 priority: 2
 date: "2026-04-14"
-excerpt: "The Hoymiles HMS-800 micro-inverter dominates the global plug-in solar market. Review of specifications, reliability, monitoring, and real-world UK performance."
+excerpt: "Hoymiles HMS-800 micro-inverter review. Specs, reliability, monitoring app, and real-world UK plug-in solar performance."
 ---
 
 # Hoymiles HMS-800 Review UK

@@ -3,7 +3,7 @@ title: "How to Install Plug-in Solar: Step-by-Step for 120V Systems"
 slug: "how-to-install-plug-in-solar-us"
 excerpt: "Complete installation walkthrough for US plug-in solar systems: outlet checks, mounting, cable routing, app setup, and safety verification."
 date: "2026-04-06"
-category: "Installation & Placement"
+category: "Installation"
 cluster: 5
 priority: "high"
 wordcount: 2500

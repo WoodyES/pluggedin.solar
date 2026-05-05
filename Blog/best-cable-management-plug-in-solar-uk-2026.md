@@ -1,7 +1,7 @@
 ---
 title: "Best Cable Management for Plug-in Solar UK 2026"
 slug: best-cable-management-plug-in-solar-uk-2026
-category: Accessories
+category: Buying Guides
 date: 2026-04-13
 excerpt: "UV cable ties, IP68 glands, conduit, and clips for safe, tidy plug-in solar installations. Why cable management matters and common mistakes."
 priority: 2

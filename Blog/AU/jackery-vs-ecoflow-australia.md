@@ -3,7 +3,7 @@ title: "Jackery vs EcoFlow: Which Portable Power Station Suits You?"
 slug: jackery-vs-ecoflow-australia
 excerpt: "Honest comparison of Jackery vs EcoFlow for Australian buyers. Capacity, charging speed, warranty, pricing, and which brand actually suits your needs."
 date: "2026-04-06"
-category: "Products & Buying Guides"
+category: "Buying Guides"
 cluster: "5b"
 priority: "medium"
 wordcount: 1500

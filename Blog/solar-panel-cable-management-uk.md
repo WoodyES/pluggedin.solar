@@ -1,5 +1,5 @@
 ---
-title: "Solar Panel Cable Management: Keep Your Installation Tidy and Safe"
+title: "Solar Cable Management: Tidy & Safe"
 slug: solar-panel-cable-management-uk
 excerpt: "Stainless clips, UV-resistant ties, and proper routing protect your cables from UV damage and keep your garden looking decent. Here's how."
 date: "2026-04-06"

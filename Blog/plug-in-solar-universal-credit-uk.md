@@ -1,7 +1,7 @@
 ---
 title: Plug-in Solar and Universal Credit UK: What You Need to Know
 slug: plug-in-solar-universal-credit-uk
-category: Finance & Savings
+category: Savings & Costs
 date: 2026-04-14
 excerpt: Universal Credit claimants can buy plug-in solar. Here's how it affects your payments and what benefits might apply.
 ---

@@ -1,10 +1,10 @@
 ---
 title: "Plug-in Solar in January UK: How Much Will You Generate?"
 slug: plug-in-solar-january-uk-generation
-category: Seasonal
+category: Maintenance
 priority: 2
 date: "2026-04-14"
-excerpt: "Real PVGIS data for January solar generation in the UK. Expect 0.4–0.8 kWh/day for an 800W system. Learn why winter doesn't mean it's broken, and how batteries add value."
+excerpt: "Plug-in solar in January UK. Real PVGIS data: expect 0.4–0.8 kWh/day from 800W. Why winter output is still worthwhile."
 ---
 
 # Plug-in Solar in January UK: How Much Will You Generate?

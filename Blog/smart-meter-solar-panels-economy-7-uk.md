@@ -1,9 +1,9 @@
 ---
-title: "Smart Meters, Economy 7, and Solar Panels: UK Switchover Guide"
+title: "Economy 7, Smart Meters & Solar UK"
 slug: smart-meter-solar-panels-economy-7-uk
 excerpt: "Still on Economy 7? Here's how switching to a smart meter changes things when you add plug-in solar — and why you should do it before panels arrive."
 date: "2026-05-04"
-category: "Technical"
+category: "Performance & Monitoring"
 cluster: "smart-meters"
 priority: 5
 wordcount: 1400

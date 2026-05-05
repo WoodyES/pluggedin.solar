@@ -3,7 +3,7 @@ title: "Plug-in Solar Buying Checklist: 10 Questions Before You Buy"
 slug: "plug-in-solar-buying-checklist-us"
 excerpt: "Essential evaluation criteria for comparing plug-in solar systems before making a purchase decision."
 date: "2026-04-06"
-category: "Products & Reviews"
+category: "Reviews & Comparisons"
 cluster: 4
 priority: "medium"
 wordcount: 1200

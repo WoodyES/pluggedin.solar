@@ -32,6 +32,38 @@ function readPosts(dir, market) {
     const { meta, body } = parseFrontmatter(raw);
     if (!meta.title || !meta.slug) continue;
     const html = marked.parse(body, { gfm: true, breaks: false });
+    // Calculate wordcount from body text (strip HTML tags and count words)
+    const plainText = body.replace(/<[^>]+>/g, " ").replace(/[#*_\[\]()>`~|\\-]/g, " ");
+    const wordcount = plainText.split(/\s+/).filter(w => w.length > 0).length;
+    // Extract FAQ pairs from question-style headings (## or ### ending with ?)
+    const faq = [];
+    const lines = body.split("\n");
+    for (let i = 0; i < lines.length; i++) {
+      const hMatch = lines[i].match(/^#{2,3}\s+(.+\?)\s*$/);
+      if (hMatch) {
+        const question = hMatch[1].replace(/^\d+\.\s*/, "").trim();
+        // Collect answer lines until next heading or end
+        const answerLines = [];
+        for (let j = i + 1; j < lines.length; j++) {
+          if (/^#{1,3}\s/.test(lines[j])) break;
+          const line = lines[j].trim();
+          if (line && !line.startsWith("<div class=\"product-card")) {
+            answerLines.push(line);
+          }
+          if (answerLines.length >= 4) break; // Cap at ~4 lines for a concise answer
+        }
+        if (answerLines.length > 0) {
+          // Strip markdown formatting for plain text answer
+          const answer = answerLines.join(" ")
+            .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+            .replace(/\*\*([^*]+)\*\*/g, "$1")
+            .replace(/\*([^*]+)\*/g, "$1")
+            .replace(/<[^>]+>/g, "")
+            .substring(0, 300);
+          faq.push({ q: question, a: answer });
+        }
+      }
+    }
     posts.push({
       slug: meta.slug,
       title: meta.title,
@@ -39,10 +71,12 @@ function readPosts(dir, market) {
       date: meta.date || "2026-04-05",
       category: meta.category || "Guide",
       market,
-      wordcount: parseInt(meta.wordcount) || 0,
+      wordcount,
       cluster: meta.cluster || "",
       priority: meta.priority || "",
+      lastmod: meta.lastmod || meta.date || "2026-04-05",
       author: meta.author || "Pluggedin.solar",
+      faq: faq.length >= 3 ? faq : [],
       html,
     });
   }

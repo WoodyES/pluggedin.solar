@@ -1,7 +1,7 @@
 ---
-title: "Plug-in Solar on a Flat Roof Without Drilling: Options and Safety"
+title: "Flat Roof Solar: No-Drill Options"
 slug: plug-in-solar-flat-roof-no-drilling-uk
-excerpt: "Ballasted tilt mounts let you install solar on flat roofs without drilling or roof penetrations. Learn the weight calculations, wind safety, and installation best practices."
+excerpt: "Plug-in solar on a flat roof without drilling. Ballasted tilt mounts, weight calculations, wind safety, and best practices."
 date: 2026-04-13
 category: Installation
 ---

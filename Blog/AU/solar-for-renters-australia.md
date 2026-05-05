@@ -3,7 +3,7 @@ title: Solar for Renters in Australia
 slug: solar-for-renters-australia
 excerpt: Renters have options: portable systems, community solar, and landlord conversations. Here's how to navigate each and what to expect.
 date: "2026-04-06"
-category: Apartments & Renters
+category: Renters & Flats
 cluster: 2
 priority: 2
 wordcount: 2000

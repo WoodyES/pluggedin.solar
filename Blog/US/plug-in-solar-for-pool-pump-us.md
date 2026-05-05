@@ -1,5 +1,5 @@
 ---
-title: "Plug-in Solar for Your Pool Pump: Cut Pool Electricity by 30%"
+title: "Pool Pump Solar: Cut Costs 30%"
 slug: plug-in-solar-for-pool-pump-us
 excerpt: "Pool pumps consume 2,500-3,500 kWh per year. Can plug-in solar offset that load? Yes. Here's how."
 date: "2026-04-06"

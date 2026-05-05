@@ -1,9 +1,9 @@
 ---
 title: "Is Plug-in Solar a Good Investment in 2026?"
 slug: is-plug-in-solar-good-investment-uk-2026
-category: Finance & Savings
+category: Savings & Costs
 date: 2026-04-13
-excerpt: "Annual ROI analysis: comparing plug-in solar returns to savings accounts, ISAs, home improvements, and inflation. Why it's one of the best household investments."
+excerpt: "Is plug-in solar a good investment? ROI compared to savings accounts, ISAs, and home improvements. The numbers for 2026."
 ---
 
 # Is Plug-in Solar a Good Investment in 2026?

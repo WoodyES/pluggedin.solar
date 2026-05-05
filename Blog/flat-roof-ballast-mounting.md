@@ -1,7 +1,7 @@
 ---
-title: "Flat Roof Ballast Systems for Plug-in Solar: No-Drill Mounting Explained"
+title: "Flat Roof Ballast: No-Drill Mounting"
 slug: "flat-roof-ballast-solar-mount-uk"
-excerpt: "Ballast mounting on flat roofs is the no-drill option that makes plug-in solar viable for flat-roof homes. How it works, what weight is needed, and what to check before installing."
+excerpt: "Flat roof ballast mounting for plug-in solar. No drilling required. How it works, weight needed, and what to check first."
 date: "2026-04-05"
 category: "Installation"
 cluster: "Installation Surfaces"

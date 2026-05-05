@@ -1,7 +1,7 @@
 ---
 title: "EcoFlow 400W Portable Panel Review UK"
 slug: ecoflow-400w-portable-panel-review-uk
-category: Reviews
+category: Reviews & Comparisons
 date: 2026-04-13
 excerpt: "A comprehensive review of the EcoFlow 400W portable solar panel—build quality, efficiency, weight, and who it's best for in the UK plug-in solar market."
 priority: 2

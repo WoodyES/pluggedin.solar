@@ -1,9 +1,9 @@
 ---
 slug: plug-in-solar-pensioners-uk
-title: Plug-in Solar for Pensioners UK—Grants, Savings and Simple Installation
+title: "Plug-in Solar for Pensioners UK"
 excerpt: Why pensioners benefit most from plug-in solar, plus safety, eligibility for support schemes, and why this could be the best investment for a fixed income.
 date: 2026-04-13
-category: Audience Guides
+category: Property Guides
 featured: true
 ---
 

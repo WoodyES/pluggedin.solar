@@ -1,9 +1,9 @@
 ---
 title: "Best Solar Panel Cleaning Kits for Australia"
 slug: best-solar-panel-cleaning-kits-australia
-excerpt: "DIY solar cleaning equipment for Australian homes. Soft brushes, telescopic poles, water systems, and the best kits for coastal, dusty, and standard conditions."
+excerpt: "Best DIY solar cleaning kits for Australian homes. Soft brushes, telescopic poles, and water systems for every condition."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "8"
 priority: "medium"
 wordcount: 1200

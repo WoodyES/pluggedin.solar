@@ -1,7 +1,7 @@
 ---
-title: "What Tools Do You Need to Install Plug-in Solar? (Fewer Than You Think)"
+title: "Tools for Plug-in Solar Installation"
 slug: "what-tools-for-plug-in-solar-uk"
-excerpt: "Balcony install: none. Garden install: a rubber mallet. Flat roof: possibly a cordless drill. What you definitely do NOT need: an electrician, scaffolding, or special electrical tools."
+excerpt: "Tools needed for plug-in solar. Balcony: none. Garden: a mallet. Flat roof: maybe a drill. No electrician needed."
 date: "2026-04-05"
 category: "Installation"
 cluster: "Installation How-To"

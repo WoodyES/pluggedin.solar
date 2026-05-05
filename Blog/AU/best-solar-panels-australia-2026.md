@@ -1,9 +1,9 @@
 ---
-title: "Best Solar Panels in Australia 2026: Tier 1 Brands & What to Look For"
+title: "Best Solar Panels Australia 2026"
 slug: best-solar-panels-australia-2026
-excerpt: "Find the best CEC-approved solar panels for Australian rooftops. We compare Tier 1 brands like LONGi, JA Solar, Trina and Canadian Solar, with real-world performance data and what actually matters."
+excerpt: "Best CEC-approved solar panels for Australian rooftops 2026. LONGi, JA Solar, Trina, and Canadian Solar compared."
 date: "2026-04-06"
-category: "Products & Buying Guides"
+category: "Buying Guides"
 cluster: "5b"
 priority: "high"
 wordcount: 2000

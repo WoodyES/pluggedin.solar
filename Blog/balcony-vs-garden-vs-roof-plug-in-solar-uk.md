@@ -1,8 +1,8 @@
 ---
-title: "Balcony vs Garden vs Roof: Which Plug-in Solar Placement Is Best?"
+title: "Balcony vs Garden vs Roof: Best Place"
 slug: balcony-vs-garden-vs-roof-plug-in-solar-uk
-category: Comparisons
-excerpt: "Head-to-head: roof delivers best output but requires access and permanent fixings. Garden matches roof with tilt mount but uses space. Balcony is easiest but loses 30% output. Choose based on your priorities."
+category: Reviews & Comparisons
+excerpt: "Balcony vs garden vs roof for plug-in solar. Output comparison, ease of install, and which placement suits your home best."
 date: 2026-04-14
 ---
 

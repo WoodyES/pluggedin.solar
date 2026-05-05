@@ -3,7 +3,7 @@ title: "Plug-in Solar and Your Home Insurance: What You Need to Know"
 slug: plug-in-solar-and-home-insurance-us
 excerpt: "Does plug-in solar void your homeowners insurance? Do you pay more? What happens after a storm? Here's what insurers actually care about."
 date: "2026-04-06"
-category: "Safety & Troubleshooting"
+category: "Troubleshooting"
 cluster: "Troubleshooting & Safety"
 priority: 3
 wordcount: 1500

@@ -1,5 +1,5 @@
 ---
-title: "Why Is My Plug-in Solar Not Generating? Complete UK Troubleshooting Guide"
+title: "Plug-in Solar Not Generating? Fix It"
 slug: plug-in-solar-not-generating-troubleshooting-uk
 excerpt: "Zero watts on the app? Before you panic, work through this systematic checklist. Most issues have simple fixes."
 date: "2026-04-11"

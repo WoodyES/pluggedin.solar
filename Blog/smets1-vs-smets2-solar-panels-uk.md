@@ -1,9 +1,9 @@
 ---
-title: "SMETS1 vs SMETS2: Which Smart Meter Do You Need for Solar Panels?"
+title: "SMETS1 vs SMETS2: Which for Solar?"
 slug: smets1-vs-smets2-solar-panels-uk
 excerpt: "SMETS1 meters can't record export and often go dumb when you switch supplier. Here's the practical difference for solar owners and how to upgrade for free."
 date: "2026-05-04"
-category: "Technical"
+category: "Performance & Monitoring"
 cluster: "smart-meters"
 priority: 3
 wordcount: 1400

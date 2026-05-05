@@ -1,9 +1,9 @@
 ---
 slug: how-much-does-plug-in-solar-save-uk
-title: How Much Does Plug-in Solar Save? Real UK Numbers by System Size
+title: "Plug-in Solar Savings: By System Size"
 excerpt: Real-world savings figures for 400W, 600W, and 800W plug-in solar systems across the UK, including payback periods and annual bill reductions.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

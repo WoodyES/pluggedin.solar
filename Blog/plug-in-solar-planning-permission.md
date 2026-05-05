@@ -1,9 +1,9 @@
 ---
-title: "Does Plug-in Solar Need Planning Permission? (Short Answer: No)"
+title: "Plug-in Solar: Planning Permission?"
 slug: "plug-in-solar-planning-permission"
-excerpt: "Plug-in balcony, garden, and shed solar panels don't require planning permission in the UK. Here's the full legal picture — and the few exceptions to know about."
+excerpt: "Does plug-in solar need planning permission? No — here's the full legal picture and the few exceptions to know about."
 date: "2026-04-10"
-category: "Regulations"
+category: "Regulations & Policy"
 cluster: "Legal & Regulatory"
 priority: "HIGH"
 wordcount: 1600

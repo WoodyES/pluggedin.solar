@@ -3,7 +3,7 @@ title: "Solar Batteries for Blackout Protection in Australia"
 slug: best-solar-batteries-blackouts-australia
 excerpt: "Blackout-capable solar batteries for Australian homes. Whole-home vs essential-circuit backup, which batteries support blackouts, and recent storm lessons."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "8"
 priority: "medium"
 wordcount: 1500

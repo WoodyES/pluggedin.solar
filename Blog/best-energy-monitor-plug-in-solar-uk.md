@@ -3,7 +3,7 @@ title: "The Best Energy Monitors for Plug-in Solar: Track Every Watt"
 slug: best-energy-monitor-plug-in-solar-uk
 excerpt: "From smart plugs to whole-home systems: how to monitor what your panels generate, save, and pay for. Why visibility turns good systems into great ones."
 date: "2026-04-06"
-category: "Monitoring"
+category: "Performance & Monitoring"
 cluster: "performance"
 priority: 10
 wordcount: 2000

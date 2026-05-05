@@ -1,9 +1,9 @@
 ---
-title: "Solar Panel Placement in Australia: Orientation, Tilt & Shading Explained"
+title: "Solar Placement Australia: Orientation"
 slug: solar-panel-placement-australia
-excerpt: "Guide to optimal solar panel placement for Australian homes. North-facing orientation, tilt angles by latitude, east-west splits, and how to assess shading. Why north isn't always best."
+excerpt: "Optimal solar panel placement for Australian homes. Orientation, tilt angles by latitude, east-west splits, and shading assessment."
 date: "2026-04-06"
-category: "Installation & Technical"
+category: "Installation"
 cluster: "6"
 priority: "medium"
 wordcount: 1800

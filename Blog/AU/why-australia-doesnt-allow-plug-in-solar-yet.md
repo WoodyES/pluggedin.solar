@@ -3,7 +3,7 @@ title: Why Australia Doesn't Allow Plug-in Solar Yet
 slug: why-australia-doesnt-allow-plug-in-solar-yet
 excerpt: The real safety and regulatory reasons Australia's grid standards require licensed installation—and why other countries are proving them wrong.
 date: "2026-04-06"
-category: Solar Basics
+category: Getting Started
 cluster: 1
 priority: 2
 wordcount: 1800

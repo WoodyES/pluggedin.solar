@@ -1,7 +1,7 @@
 ---
-title: "The Bit Nobody Tells You About Plug-in Solar: Getting the Cable Inside"
+title: "Plug-in Solar Reality: Cable Routing"
 slug: plug-in-solar-cable-routing-weatherproofing-reality-uk
-excerpt: "Routing the cable from your panels to your indoor socket is the fiddliest part of the install. Here's how German owners solved it — and the mistakes to avoid."
+excerpt: "Cable routing for plug-in solar. How to get the cable inside your home — lessons from German owners and mistakes to avoid."
 date: "2026-04-11"
 category: "Installation"
 cluster: "Installation"

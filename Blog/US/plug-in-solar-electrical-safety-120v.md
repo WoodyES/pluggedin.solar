@@ -1,9 +1,9 @@
 ---
-title: "120V Electrical Safety: How to Check Your Circuit Before Installing Plug-in Solar"
+title: "120V Electrical Safety: Check Circuit"
 slug: plug-in-solar-electrical-safety-120v
 excerpt: "15A vs 20A outlets, dedicated circuits, GFCI protection, and why extension cords are dangerous. Learn to check your electrical panel safely."
 date: "2026-04-06"
-category: "Safety & Troubleshooting"
+category: "Troubleshooting"
 cluster: "Troubleshooting & Safety"
 priority: 5
 wordcount: 1500

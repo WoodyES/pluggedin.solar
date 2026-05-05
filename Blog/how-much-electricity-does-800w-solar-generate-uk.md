@@ -1,9 +1,9 @@
 ---
 slug: how-much-electricity-does-800w-solar-generate-uk
-title: How Much Electricity Does 800W Solar Generate? UK Annual Output Explained
+title: "800W Solar: Annual Output UK Explained"
 excerpt: Real annual output figures for 800W plug-in solar systems across the UK. Exact kWh and savings by region and property type.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

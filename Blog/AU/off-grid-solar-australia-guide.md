@@ -1,9 +1,9 @@
 ---
-title: "Off-Grid Solar in Australia: Complete Design Guide for Remote Properties"
+title: "Off-Grid Solar Australia: Remote Guide"
 slug: off-grid-solar-australia-guide
-excerpt: "Complete guide to off-grid solar systems for Australian remote properties, sheds, and farming. System sizing, diesel hybrid, costs, and when off-grid makes practical sense."
+excerpt: "Off-grid solar guide for Australian remote properties. System sizing, diesel hybrid options, costs, and practical considerations."
 date: "2026-04-06"
-category: "Installation & Technical"
+category: "Installation"
 cluster: "6"
 priority: "medium"
 wordcount: 2000

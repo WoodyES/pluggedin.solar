@@ -2,7 +2,7 @@
 title: "Plug-in Solar on a Slate Roof UK: What You Need to Know"
 slug: plug-in-solar-slate-roof-uk
 category: Property Guides
-excerpt: "Slate is beautiful but fragile. This guide covers roof hooks designed for slate, professional installation costs, and safer alternatives like wall mounts and ground installations."
+excerpt: "Plug-in solar on a slate roof UK. Specialist hooks, professional costs, and safer alternatives like wall and ground mounts."
 date: 2026-04-14
 ---
 

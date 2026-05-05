@@ -1,9 +1,9 @@
 ---
-title: "Plug-in Solar for Home Office Workers UK: Offset Your Energy Use"
+title: "Home Office Solar: Offset Your Energy"
 slug: plug-in-solar-home-office-uk
 excerpt: "WFH daytime consumption (laptop, monitor, heating) aligns perfectly with solar generation. Achieve 70–85% self-consumption and cut bills by £180–£250/year."
 date: 2026-04-13
-category: Audience Guides
+category: Property Guides
 ---
 
 # Plug-in Solar for Home Office Workers UK: Offset Your Energy Use

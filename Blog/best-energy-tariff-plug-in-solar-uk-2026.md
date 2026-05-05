@@ -3,7 +3,7 @@ title: "Best Energy Tariff for Plug-in Solar Owners UK 2026"
 slug: best-energy-tariff-plug-in-solar-uk-2026
 excerpt: "Your tariff matters almost as much as your panels. The right deal can double the financial value of plug-in solar — here's which to choose and why."
 date: "2026-04-11"
-category: "Finance & Savings"
+category: "Savings & Costs"
 cluster: "Tariff & Finance"
 priority: 1
 wordcount: 1400

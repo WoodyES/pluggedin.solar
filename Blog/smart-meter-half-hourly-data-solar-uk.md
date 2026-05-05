@@ -1,9 +1,9 @@
 ---
-title: "How to Use Half-Hourly Smart Meter Data to Optimise Your Solar Panels"
+title: "Smart Meter Data: Optimise Your Solar"
 slug: smart-meter-half-hourly-data-solar-uk
-excerpt: "Your SMETS2 meter records 48 data points per day. Here's how to read that data, spot patterns, and use it to squeeze more value from your plug-in solar system."
+excerpt: "Use half-hourly smart meter data to optimise solar. Read the 48 daily data points and spot patterns to save more."
 date: "2026-05-04"
-category: "Monitoring"
+category: "Performance & Monitoring"
 cluster: "smart-meters"
 priority: 4
 wordcount: 1500

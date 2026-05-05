@@ -1,7 +1,7 @@
 ---
 title: "How to Switch Energy Supplier When You Have Plug-in Solar"
 slug: switch-energy-supplier-plug-in-solar-uk
-category: Practical Guides
+category: Use Cases
 date: 2026-04-13
 excerpt: "Step-by-step guide to switching energy suppliers with plug-in solar: what happens to your G98 notification, SEG contract, and meter readings."
 ---

@@ -1,9 +1,9 @@
 ---
-title: "How Much Can Plug-in Solar Save You? By System Size and State"
+title: "Plug-in Solar Savings: By Size & State"
 slug: "how-much-can-plug-in-solar-save-us"
 excerpt: "Real savings numbers for 400W, 800W, and 1,200W systems across America's most expensive and cheapest electricity markets."
 date: "2026-04-06"
-category: "Savings & Economics"
+category: "Savings & Costs"
 cluster: 3
 priority: "high"
 wordcount: 1800

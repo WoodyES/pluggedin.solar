@@ -3,7 +3,7 @@ title: "Lidl Plug-in Solar Kit UK: What to Expect When It Lands"
 slug: "lidl-solar-panel-kit-uk"
 excerpt: "Anticipatory guide to Lidl's plug-in solar kit, coming summer 2026. Based on their European track record, what to expect and what to watch for."
 date: "2026-04-05"
-category: "Product Review"
+category: "Reviews & Comparisons"
 cluster: "Product Reviews"
 priority: "MED"
 wordcount: 1500

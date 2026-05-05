@@ -3,7 +3,7 @@ title: Plug-in Solar in Arizona: Desert's Best Sun in America
 slug: plug-in-solar-arizona
 excerpt: Arizona's 6+ peak sun hours and how extreme heat affects panels. Plus how to make plug-in solar work in America's sunniest state.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 8
 wordcount: 1500

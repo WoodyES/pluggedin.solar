@@ -3,7 +3,7 @@ title: 10 Balcony Solar Mistakes to Avoid
 slug: balcony-solar-mistakes-to-avoid
 excerpt: Learning from three years of real-world balcony solar installs across Europe. Here are the top 10 mistakes—and how to sidestep them.
 date: "2026-04-06"
-category: Installation & Safety
+category: Installation
 cluster: Practical Guides
 priority: high
 wordcount: 2000

@@ -1,9 +1,9 @@
 ---
 title: "Best Solar Panel Bird-Proofing Solutions for Australia"
 slug: best-solar-panel-bird-proofing-australia
-excerpt: "Protect solar panels from Australian wildlife. Cockatoo-proof cable protection, mesh guards, possum deterrents, and genuine solutions for widespread bird damage."
+excerpt: "Protect solar panels from Australian wildlife. Cockatoo-proof cables, mesh guards, possum deterrents, and bird damage solutions."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "8"
 priority: "medium"
 wordcount: 1200

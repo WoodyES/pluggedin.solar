@@ -3,7 +3,7 @@ title: Plug-in Solar in New York: High Rates Meet Dense Housing
 slug: plug-in-solar-new-york
 excerpt: New York's electricity costs and why balcony solar is a game-changer for renters in NYC and beyond. Plus the state's path to legalization.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 3
 wordcount: 1800

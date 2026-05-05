@@ -1,5 +1,5 @@
 ---
-title: "Why the UK Took So Long to Allow Plug-in Solar (And What Changes in 2026)"
+title: "Why UK Was Late to Plug-in Solar"
 slug: "why-uk-took-so-long-plug-in-solar"
 excerpt: "The untold story of why the UK resisted plug-in solar for thirteen years after Germany legalised it, and what finally forced change in 2026."
 date: "2026-04-05"

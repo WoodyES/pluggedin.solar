@@ -3,7 +3,7 @@ title: "Will Plug-in Solar Actually Reduce My Energy Bills?"
 slug: "will-plug-in-solar-reduce-my-bills"
 excerpt: "Yes, but modestly. Here's why solar savings are real but not life-changing, and how to make the most of them."
 date: "2026-04-05"
-category: "Savings"
+category: "Savings & Costs"
 cluster: "Savings & ROI"
 priority: "MED"
 wordcount: 1500

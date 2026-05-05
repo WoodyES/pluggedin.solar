@@ -1,5 +1,5 @@
 ---
-title: "Plug-in Solar vs Traditional Rooftop Solar: Which Is Right for You?"
+title: "Plug-in vs Rooftop Solar: Which for You?"
 slug: "plug-in-vs-rooftop-solar-uk"
 excerpt: "An honest comparison of plug-in and rooftop solar. When each makes sense, what the costs and returns really are, and how to decide."
 date: "2026-04-05"

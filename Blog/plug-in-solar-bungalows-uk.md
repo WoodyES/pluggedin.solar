@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Solar for Bungalows UK"
 slug: plug-in-solar-bungalows-uk
-excerpt: "Bungalows are excellent for plug-in solar: low roof height, easy access, and often large south-facing gardens. This guide covers everything you need to know."
+excerpt: "Plug-in solar for bungalows UK. Low roofs, easy access, and south-facing gardens make them ideal. Everything you need to know."
 date: 2026-04-13
 category: Property Guides
 ---

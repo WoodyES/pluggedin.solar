@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Solar UK: The Complete 2026 Guide"
 slug: "plug-in-solar-uk"
-excerpt: "Everything you need to know about plug-in solar in the UK — from what it is, how it works, the March 2026 government confirmation, costs, savings, and your practical next steps."
+excerpt: "The complete guide to plug-in solar UK. What it is, how it works, costs, savings, and your practical next steps."
 date: "2026-04-05"
 category: "Getting Started"
 cluster: "Category Authority"

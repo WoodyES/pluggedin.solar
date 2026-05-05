@@ -1,12 +1,12 @@
 ---
-title: Solar Panel Temperature Coefficient UK: Why Hot Days Aren't Always Best
+title: Solar Panel Temperature Coefficient UK
 slug: solar-panel-temperature-coefficient-uk
-category: Technical
+category: Performance & Monitoring
 date: 2026-04-14
 excerpt: Solar panels lose ~0.35% output per degree above 25°C. On a 60°C panel, that's 12% lost to heat alone. Here's how temperature kills your summer output.
 ---
 
-# Solar Panel Temperature Coefficient UK: Why Hot Days Aren't Always Best
+# Solar Panel Temperature Coefficient UK
 
 You'd think the hottest, sunniest day of summer would be your solar panel's best friend. You'd be wrong.
 

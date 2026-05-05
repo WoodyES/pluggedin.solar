@@ -3,7 +3,7 @@ title: "Can You Connect Multiple Plug-in Solar Units to One Circuit?"
 slug: multiple-plug-in-solar-units-one-circuit-uk
 excerpt: "One 800W kit is legal. But what happens if you plug in two or three? The safety case gets complicated fast."
 date: "2026-04-11"
-category: "Safety"
+category: "Troubleshooting"
 cluster: "Legal & Regulatory"
 priority: 1
 wordcount: 1000

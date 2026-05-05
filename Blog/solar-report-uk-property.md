@@ -1,9 +1,9 @@
 ---
 slug: solar-report-uk-property
-title: Free Solar Report for Your UK Property - Check Your Home's Potential
+title: Free Solar Report for Your UK Property
 excerpt: What a solar report tells you about your property's solar potential, and how to use our free map-based tool to assess roof and balcony suitability.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

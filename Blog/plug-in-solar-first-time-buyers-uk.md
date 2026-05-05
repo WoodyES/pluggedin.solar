@@ -1,8 +1,8 @@
 ---
-title: "Plug-in Solar for First-Time Buyers UK: Is It the First Home Upgrade to Make?"
+title: "Plug-in Solar for First-Time Buyers UK"
 slug: plug-in-solar-first-time-buyers-uk
-category: Audience Guides
-excerpt: "First-time buyers have tight budgets. Plug-in solar costs £500–700, saves £200–300 per year, requires no mortgage approval, and is portable. Is it the first upgrade worth prioritising?"
+category: Property Guides
+excerpt: "Plug-in solar for first-time buyers. Costs £500–700, saves £200–300/year, needs no mortgage approval, and is portable."
 date: 2026-04-14
 ---
 

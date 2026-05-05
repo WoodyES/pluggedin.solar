@@ -1,9 +1,9 @@
 ---
-title: "I Installed Plug-in Solar Before the BSI Standard — Do I Need to Upgrade?"
+title: "Pre-BSI Plug-in Solar: Need Upgrade?"
 slug: plug-in-solar-bsi-standard-july-2026-early-adopters-uk
-excerpt: "The BSI product standard publishes in July 2026. If you're already installed, here's exactly what changes, what doesn't, and whether you need to do anything."
+excerpt: "Already installed plug-in solar before the BSI standard? Here's what changes in July 2026 and whether you need to act."
 date: "2026-04-11"
-category: "Legal & Regulatory"
+category: "Regulations & Policy"
 cluster: "Legal & Regulatory"
 priority: 1
 wordcount: 950

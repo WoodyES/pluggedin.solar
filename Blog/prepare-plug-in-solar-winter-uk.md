@@ -1,10 +1,10 @@
 ---
 title: "How to Prepare Your Plug-in Solar System for Winter UK"
 slug: prepare-plug-in-solar-winter-uk
-category: Seasonal
+category: Maintenance
 priority: 2
 date: "2026-04-14"
-excerpt: "October and November checklist for winter readiness. Clean panels, check connections, steepen the angle, inspect bird proofing, test monitoring, and verify cable ties. Protect your investment."
+excerpt: "Prepare plug-in solar for winter UK. October/November checklist: clean, check connections, steepen angle, and inspect fittings."
 ---
 
 # How to Prepare Your Plug-in Solar System for Winter UK

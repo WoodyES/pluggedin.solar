@@ -3,7 +3,7 @@ title: "Storm-Proofing Your Plug-in Solar System"
 slug: storm-proofing-plug-in-solar-us
 excerpt: "Hurricanes, tornadoes, winter storms—how to secure your panels, when to remove them, and what to do after a storm hits."
 date: "2026-04-06"
-category: "Safety & Troubleshooting"
+category: "Troubleshooting"
 cluster: "Troubleshooting & Safety"
 priority: 4
 wordcount: 1500

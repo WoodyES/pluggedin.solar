@@ -1,5 +1,5 @@
 ---
-title: "Plug-in Solar for Listed Buildings UK: What the Rules Actually Say"
+title: "Listed Building Solar: What's Allowed"
 slug: plug-in-solar-listed-buildings-uk
 excerpt: "Listed building status complicates solar, but doesn't block it. Learn when consent is required, what councils actually approve, and alternative approaches."
 date: 2026-04-13

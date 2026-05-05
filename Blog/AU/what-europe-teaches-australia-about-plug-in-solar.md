@@ -3,7 +3,7 @@ title: What Europe Teaches Australia About Plug-in Solar Safety
 slug: what-europe-teaches-australia-plug-in-solar
 excerpt: Germany has 4 million plug-in systems. The UK is legalising them. What's their safety record, and why Australia should pay attention.
 date: "2026-04-06"
-category: Solar Basics
+category: Getting Started
 cluster: 1
 priority: 2
 wordcount: 2000

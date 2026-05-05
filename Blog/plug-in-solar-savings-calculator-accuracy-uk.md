@@ -1,9 +1,9 @@
 ---
 slug: plug-in-solar-savings-calculator-accuracy-uk
-title: How Accurate Are Solar Savings Calculators? What Ours Gets Right (and Wrong)
+title: "Solar Savings Calculator Accuracy Explained"
 excerpt: Understanding solar calculator accuracy, PVGIS methodology, and the ±5% uncertainty band around any solar estimate.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

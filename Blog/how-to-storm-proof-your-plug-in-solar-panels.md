@@ -1,9 +1,9 @@
 ---
-title: "Storm-Proofing Your Plug-in Solar Panels: A UK Homeowner's Guide"
+title: "Storm-Proofing Plug-in Solar Panels UK"
 slug: storm-proof-plug-in-solar-uk
-excerpt: "Atlantic storms and 60–80mph winds are part of UK life. Here's how to secure your panels so they survive the weather — and what to do before the Met Office issues a Red warning."
+excerpt: "Storm-proof your plug-in solar panels. How to secure them for 60–80mph winds and what to do before a Met Office warning."
 date: "2026-04-06"
-category: maintenance
+category: Maintenance
 cluster: safety
 priority: 1
 wordcount: 1500

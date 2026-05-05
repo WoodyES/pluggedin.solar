@@ -1,9 +1,9 @@
 ---
 title: "What to Check Before Buying a Plug-in Solar Kit"
 slug: "plug-in-solar-buying-checklist-uk"
-excerpt: "The pre-purchase checklist every buyer needs. UKCA marking, micro-inverter brand, warranty, app quality, cable length, mounting options, support, BSI compliance."
+excerpt: "Plug-in solar buying checklist UK. UKCA marking, inverter brand, warranty, cable length, mounting options, and BSI compliance."
 date: "2026-04-05"
-category: "Buying Guide"
+category: "Buying Guides"
 cluster: "Installation How-To"
 priority: "HIGH"
 wordcount: 1200

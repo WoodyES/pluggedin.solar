@@ -1,9 +1,9 @@
 ---
-title: "Best Portable Solar Accessories for Australia: Cables, Connectors & Stands"
+title: "Portable Solar Accessories Australia"
 slug: best-portable-solar-accessories-australia
-excerpt: "Essential portable solar accessories for Australian camping and off-grid use. Anderson connectors, MC4 adapters, extension cables, tilting stands, and carry systems."
+excerpt: "Essential portable solar accessories for Australian camping. Anderson connectors, MC4 adapters, cables, stands, and carry bags."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "8"
 priority: "medium"
 wordcount: 1200

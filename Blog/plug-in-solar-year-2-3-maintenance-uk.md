@@ -1,7 +1,7 @@
 ---
-title: "Plug-in Solar in Year 2, 3, and 5: What to Expect as Your System Ages"
+title: "Plug-in Solar Years 2-5: What to Expect"
 slug: plug-in-solar-year-2-3-maintenance-uk
-excerpt: "Germany has 10 years of real data on how plug-in solar performs over time. Output does drop slightly, inverters do occasionally fail — here's what to prepare for."
+excerpt: "Plug-in solar in years 2, 3, and 5. Real German data on output drop, inverter failures, and what to prepare for."
 date: "2026-04-11"
 category: "Maintenance"
 cluster: "Practical"

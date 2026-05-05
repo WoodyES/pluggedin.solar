@@ -1,9 +1,9 @@
 ---
-title: Plug-in Solar in Florida: Sunshine State's Hurricane Challenge
+title: Plug-in Solar in Florida: Hurricane Safety
 slug: plug-in-solar-florida
 excerpt: Florida's abundant sun and how plug-in solar works in a hurricane-prone state. Plus HOA protections and what's coming in 2026.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 4
 wordcount: 1800

@@ -1,7 +1,7 @@
 ---
 title: "How to Install Plug-in Solar Panels: A Step-by-Step UK Guide"
 slug: "how-to-install-plug-in-solar-uk"
-excerpt: "The master installation guide. Step-by-step: from choosing your location through mounting, connecting, running the cable, plugging in, and notifying your DNO. Most balcony installs need no tools whatsoever."
+excerpt: "Complete plug-in solar installation guide UK. Location, mounting, wiring, plugging in, and DNO notification step by step."
 date: "2026-04-05"
 category: "Installation"
 cluster: "Installation How-To"

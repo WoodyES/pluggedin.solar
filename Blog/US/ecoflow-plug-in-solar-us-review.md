@@ -1,9 +1,9 @@
 ---
-title: "EcoFlow PowerStream Plug-in Solar Review: Premium Battery Integration"
+title: "EcoFlow PowerStream Review: Premium"
 slug: "ecoflow-plug-in-solar-us-review"
 excerpt: "In-depth look at EcoFlow's PowerStream system: battery pairing, excellent app, Utah-only availability, and whether premium pricing justifies itself."
 date: "2026-04-06"
-category: "Products & Reviews"
+category: "Reviews & Comparisons"
 cluster: 4
 priority: "medium"
 wordcount: 2000

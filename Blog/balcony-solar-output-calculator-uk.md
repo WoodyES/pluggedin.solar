@@ -1,9 +1,9 @@
 ---
 slug: balcony-solar-output-calculator-uk
-title: Balcony Solar Output - How Much Will Vertical Panels Actually Generate?
+title: "Balcony Solar: What Vertical Panels Make"
 excerpt: Real data on vertical balcony solar panel output in the UK. How much less do vertical panels generate compared to tilted? Is it worth it?
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

@@ -3,7 +3,7 @@ title: Solar Guide NSW — Costs, Rebates, and Climate
 slug: solar-guide-nsw
 excerpt: Everything NSW homeowners need to know about solar: costs, Empowering Homes loans, VPP payments, and how Sydney's climate affects generation.
 date: "2026-04-06"
-category: State Guides
+category: Location Guides
 cluster: 3
 priority: 1
 wordcount: 2000

@@ -1,9 +1,9 @@
 ---
 title: "Plug-in Solar and Home Insurance: What You Need to Know"
 slug: plug-in-solar-home-insurance-uk
-excerpt: "Will plug-in solar void your home insurance? Here's what to tell your insurer, why BS 7671 compliance matters, and how the July 2026 product standard changes everything."
+excerpt: "Plug-in solar and home insurance UK. What to tell your insurer and why BS 7671 compliance matters for your cover."
 date: "2026-04-06"
-category: "Legal & Compliance"
+category: "Regulations & Policy"
 cluster: "Insurance & Risk"
 priority: 1
 wordcount: 1800

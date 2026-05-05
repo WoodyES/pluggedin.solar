@@ -1,9 +1,9 @@
 ---
-title: Plug-in Solar for Renters: Your Guide to Portable Solar
+title: "Portable Solar for Renters: Full Guide"
 slug: plug-in-solar-for-renters-us
 excerpt: How renters can go solar legally and affordably without landlord drama. Includes state protections, lease strategies, and what to expect.
 date: 2026-04-06
-category: Fundamentals
+category: Getting Started
 cluster: 1
 priority: 5
 wordcount: 2000

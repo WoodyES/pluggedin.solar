@@ -3,7 +3,7 @@ title: Plug-in Solar in Utah: The Pioneer State's Complete Guide
 slug: plug-in-solar-utah
 excerpt: Utah HB 340 explained in detail. How to legally install up to 1,200W right now, what EcoFlow is offering, and why Utah is the model for America.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 5
 wordcount: 1800

@@ -3,7 +3,7 @@ title: "How to Check Your Solar Savings on Your Smart Meter"
 slug: smart-meter-solar-savings-how-to-check-uk
 excerpt: "Step-by-step method for calculating exactly how much your plug-in solar is saving you, using your smart meter data and supplier app."
 date: "2026-05-04"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "smart-meters"
 priority: 4
 wordcount: 1400

@@ -1,7 +1,7 @@
 ---
 title: "Best Bird Proofing Kits for Solar Panels UK"
 slug: best-bird-proofing-kits-solar-uk
-category: Accessories
+category: Buying Guides
 date: 2026-04-13
 excerpt: "Why birds nest under solar panels, damage costs, mesh kit options, and when to install bird proofing before UK breeding season (February–September)."
 priority: 2

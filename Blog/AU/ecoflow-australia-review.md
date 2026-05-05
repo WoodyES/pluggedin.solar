@@ -1,9 +1,9 @@
 ---
 title: "EcoFlow in Australia 2026: Delta & River Series Reviewed"
 slug: ecoflow-australia-review
-excerpt: "Complete review of EcoFlow portable power stations for Australian buyers. Delta 2/3, River 2 series, and portable solar panels with real pricing, warranty details, and who they're actually good for."
+excerpt: "EcoFlow portable power stations reviewed for Australian buyers. Delta, River series, and solar panels with pricing and warranty."
 date: "2026-04-06"
-category: "Products & Buying Guides"
+category: "Buying Guides"
 cluster: "5b"
 priority: "medium"
 wordcount: 1800

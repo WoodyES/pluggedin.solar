@@ -1,9 +1,9 @@
 ---
-title: "Is Plug-in Solar Safe With Old Wiring? What the IET Actually Says"
+title: "Old Wiring & Plug-in Solar: Safety"
 slug: plug-in-solar-old-wiring-uk
 excerpt: "Your house might be fine. Or it might not. Here's how to tell whether your wiring can safely handle plug-in solar — and what to do if it can't."
 date: "2026-04-11"
-category: "Safety"
+category: "Troubleshooting"
 cluster: "Legal & Regulatory"
 priority: 1
 wordcount: 1200

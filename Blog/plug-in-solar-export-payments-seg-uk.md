@@ -1,9 +1,9 @@
 ---
-title: "Can You Get Paid for Plug-in Solar Exports? SEG Tariffs Explained"
+title: "Plug-in Solar Exports: SEG Tariffs"
 slug: plug-in-solar-export-payments-seg-uk
-excerpt: "The Smart Export Guarantee pays for surplus solar sent to the grid. But most plug-in solar owners can't access it. Here's why — and what your options actually are."
+excerpt: "Can you get paid for plug-in solar exports? SEG tariffs explained and why most plug-in owners can't access them yet."
 date: "2026-04-11"
-category: "Savings"
+category: "Savings & Costs"
 cluster: "Savings & ROI"
 priority: 1
 wordcount: 1100

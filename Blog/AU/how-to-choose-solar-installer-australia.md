@@ -1,9 +1,9 @@
 ---
-title: "How to Choose a Solar Installer in Australia: CEC Accreditation & Red Flags"
+title: "Choose Solar Installer Australia: CEC"
 slug: how-to-choose-solar-installer-australia
-excerpt: "Complete guide to choosing a trustworthy solar installer. CEC accreditation explained, what to check, red flags to avoid, warranty handling, and how to compare 3 quotes properly."
+excerpt: "How to choose a trustworthy solar installer in Australia. CEC accreditation, red flags, warranty handling, and comparing quotes."
 date: "2026-04-06"
-category: "Installation & Technical"
+category: "Installation"
 cluster: "6"
 priority: "high"
 wordcount: 2000

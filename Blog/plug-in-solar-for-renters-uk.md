@@ -3,7 +3,7 @@ title: "Plug-in Solar for Renters UK: Your Complete Guide"
 slug: "plug-in-solar-for-renters-uk"
 excerpt: "For the first time in UK history, renters have legal access to solar energy—portable, affordable, and no landlord fuss. Here's everything you need to know."
 date: "2026-04-05"
-category: "Renters"
+category: "Renters & Flats"
 cluster: "Renters & Flat-Dwellers"
 priority: "HIGH"
 wordcount: 3200

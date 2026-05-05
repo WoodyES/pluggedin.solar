@@ -1,5 +1,5 @@
 ---
-title: "My RCD Keeps Tripping Since I Installed Plug-in Solar — Here's Why"
+title: "RCD Tripping After Plug-in Solar? Here's Why"
 slug: plug-in-solar-rcd-tripping-uk
 excerpt: "Germany's million installs flagged this fast: certain RCDs don't play well with micro-inverters. Here's what type you need and how to fix it."
 date: "2026-04-11"

@@ -3,7 +3,7 @@ title: Solar Guide Western Australia
 slug: solar-guide-western-australia
 excerpt: WA's solar landscape, DEBS feed-in scheme, network operators, and excellent irradiance.
 date: "2026-04-06"
-category: State Guides
+category: Location Guides
 cluster: 3
 priority: 1
 wordcount: 1800

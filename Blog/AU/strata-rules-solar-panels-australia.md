@@ -3,7 +3,7 @@ title: Strata Rules and Solar Panels in Australia
 slug: strata-rules-solar-panels-australia
 excerpt: How body corporate and strata rules work, and how to get permission for shared solar on apartment buildings.
 date: "2026-04-06"
-category: Apartments & Renters
+category: Renters & Flats
 cluster: 2
 priority: 2
 wordcount: 1800

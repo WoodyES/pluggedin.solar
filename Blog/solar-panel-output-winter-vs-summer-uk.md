@@ -1,9 +1,9 @@
 ---
 slug: solar-panel-output-winter-vs-summer-uk
-title: Solar Panel Output Winter vs Summer UK - The Seasonal Swing Explained
+title: "Solar Output Winter vs Summer UK"
 excerpt: Real winter and summer solar output comparison. Why summer generation is 5x higher and how to manage seasonal variation in your savings.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

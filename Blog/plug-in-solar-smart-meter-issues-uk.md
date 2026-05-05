@@ -1,9 +1,9 @@
 ---
-title: "My Smart Meter Seems Wrong Since Installing Plug-in Solar — What's Happening?"
+title: "Smart Meter Wrong After Solar Install?"s Happening?"
 slug: plug-in-solar-smart-meter-issues-uk
 excerpt: "Germany had to replace hundreds of thousands of old meters when balcony solar took off. The UK has its own version of this problem. Here's what to expect."
 date: "2026-04-11"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "Technical"
 priority: 1
 wordcount: 950

@@ -1,9 +1,9 @@
 ---
 title: "Solar Panel Heat Performance in Australian Summer"
 slug: solar-panel-heat-performance-australia
-excerpt: "How Australian heat affects solar panel output. Temperature coefficient explained, real-world summer losses, why 45°C days are challenging, and what you can do."
+excerpt: "How Australian heat affects solar panel output. Temperature coefficient, real-world summer losses, and what you can do about it."
 date: "2026-04-06"
-category: "Maintenance & Troubleshooting"
+category: "Maintenance"
 cluster: "7"
 priority: "medium"
 wordcount: 1200

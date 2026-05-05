@@ -1,9 +1,9 @@
 ---
-title: Plug-in Solar in California: SB 868 and What It Means for You
+title: "Plug-in Solar in California: SB 868"
 slug: plug-in-solar-california
 excerpt: California's "Plug Into the Sun Act" decoded. What SB 868 means for renters, HOAs, and the fastest path to solar energy in America's largest state.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 1
 wordcount: 2500

@@ -1,9 +1,9 @@
 ---
-title: Solar Guide Victoria — Rebates, Solar for Apartments, and Climate
+title: "Solar Victoria: Rebates & Apartments"
 slug: solar-guide-victoria
 excerpt: Victoria's solar incentives, the Solar for Apartments program, and what homeowners need to know.
 date: "2026-04-06"
-category: State Guides
+category: Location Guides
 cluster: 3
 priority: 1
 wordcount: 2000

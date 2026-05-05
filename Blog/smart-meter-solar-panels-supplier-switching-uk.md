@@ -1,9 +1,9 @@
 ---
-title: "Switching Energy Supplier with Solar Panels and a Smart Meter"
+title: "Switch Supplier: Solar & Smart Meter"
 slug: smart-meter-solar-panels-supplier-switching-uk
-excerpt: "Switching suppliers is straightforward with a SMETS2 meter and solar — but there are a few things to check so you don't lose your export data or SEG payments."
+excerpt: "Switching energy supplier with solar and a smart meter. What to check so you don't lose export data or SEG payments."
 date: "2026-05-04"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "smart-meters"
 priority: 5
 wordcount: 1400

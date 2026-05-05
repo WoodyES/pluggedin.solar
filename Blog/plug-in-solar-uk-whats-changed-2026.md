@@ -1,8 +1,8 @@
 ---
-title: "Plug-in Solar UK: What's Changed in 2026 and What's Coming Next"
+title: "Plug-in Solar UK: What Changed in 2026"
 slug: plug-in-solar-uk-whats-changed-2026
 date: 2026-04-13
-category: News & Regulatory
+category: Regulations & Policy
 excerpt: "A month-by-month look at 2026: the government announcement, the new electrical standards, and what to expect from retailers this summer."
 ---
 

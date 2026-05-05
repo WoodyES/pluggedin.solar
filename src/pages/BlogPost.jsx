@@ -71,6 +71,7 @@ export default function BlogPost({ market = "uk" }) {
     headline: post.title,
     description: post.excerpt,
     datePublished: post.date,
+    dateModified: post.lastmod || post.date,
     author: { "@type": "Person", name: post.author || "Pluggedin.solar" },
     publisher: {
       "@type": "Organization",
@@ -82,6 +83,16 @@ export default function BlogPost({ market = "uk" }) {
       "@id": `https://pluggedin.solar${postUrl}`,
     },
   };
+
+  const faqLd = post.faq && post.faq.length >= 3 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: post.faq.map(({ q, a }) => ({
+      "@type": "Question",
+      name: q,
+      acceptedAnswer: { "@type": "Answer", text: a },
+    })),
+  } : null;
 
   const breadcrumbLd = {
     "@context": "https://schema.org",
@@ -102,7 +113,7 @@ export default function BlogPost({ market = "uk" }) {
         description={post.excerpt}
         path={postUrl}
         type="article"
-        jsonLd={[jsonLd, breadcrumbLd]}
+        jsonLd={[jsonLd, breadcrumbLd, ...(faqLd ? [faqLd] : [])]}
         hreflang={hreflang}
       />
       <div style={{ maxWidth: 680, margin: "0 auto" }}>

@@ -1,12 +1,12 @@
 ---
-title: Plug-in Solar String vs Parallel Wiring UK: What's the Difference?
+title: String vs Parallel Wiring for Plug-in Solar
 slug: plug-in-solar-string-vs-parallel-wiring-uk
-category: Technical
+category: Performance & Monitoring
 date: 2026-04-14
 excerpt: String wiring and parallel wiring aren't the same. Here's which one your plug-in system uses and why it matters.
 ---
 
-# Plug-in Solar String vs Parallel Wiring UK: What's the Difference?
+# String vs Parallel Wiring for Plug-in Solar
 
 If you're shopping for a plug-in solar system or planning an installation, you'll hear the terms "string wiring" and "parallel wiring" thrown around. They sound technical, but understanding the difference is important — it affects how your panels perform under shading and how much power you can safely extract.
 

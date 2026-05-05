@@ -3,7 +3,7 @@ title: "Best Portable Solar Panels for Camping in the UK"
 slug: best-portable-solar-panels-camping-uk
 excerpt: "Charge your power station off-grid with a foldable solar panel. EcoFlow, Jackery, and budget options compared for British conditions."
 date: "2026-04-08"
-category: "Accessories"
+category: "Buying Guides"
 cluster: "storage"
 priority: 4
 wordcount: 800

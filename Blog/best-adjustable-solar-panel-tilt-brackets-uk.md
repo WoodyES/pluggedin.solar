@@ -1,9 +1,9 @@
 ---
-title: "Solar Panel Tilt Brackets: How to Mount Your Panels at the Perfect Angle"
+title: "Solar Tilt Brackets: Perfect Angle Mount"
 slug: best-solar-panel-tilt-brackets-uk
-excerpt: "Angle matters massively for solar output. We break down ground mounts, wall brackets, and balcony rails—and why adjustable beats fixed every time in the UK."
+excerpt: "Solar panel tilt brackets compared. Ground mounts, wall brackets, and balcony rails — why adjustable beats fixed in the UK."
 date: "2026-04-06"
-category: "Accessories"
+category: "Buying Guides"
 cluster: "installation"
 priority: 9
 wordcount: 1800

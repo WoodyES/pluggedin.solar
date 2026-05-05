@@ -3,7 +3,7 @@ title: Solar Guide Queensland — Costs, Renter Rebates, and Climate
 slug: solar-guide-queensland
 excerpt: Queensland's solar landscape, Supercharged Solar for Renters rebate, and how the climate affects installation and performance.
 date: "2026-04-06"
-category: State Guides
+category: Location Guides
 cluster: 3
 priority: 1
 wordcount: 2000

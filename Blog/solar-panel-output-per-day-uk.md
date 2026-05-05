@@ -1,9 +1,9 @@
 ---
 slug: solar-panel-output-per-day-uk
-title: Solar Panel Output Per Day UK - What to Expect Month by Month
-excerpt: Real daily and monthly solar panel output figures for UK systems. Understand seasonal variation and what to expect from your plug-in solar throughout the year.
+title: "Solar Output Per Day: Month-by-Month"
+excerpt: Real daily and monthly solar panel output for UK systems. Seasonal variation and what to expect from plug-in solar.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

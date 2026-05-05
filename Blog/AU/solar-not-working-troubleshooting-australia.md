@@ -3,7 +3,7 @@ title: "Solar System Not Working? Australian Troubleshooting Guide"
 slug: solar-not-working-troubleshooting-australia
 excerpt: "Troubleshoot your solar system. Inverter error codes, monitoring app checks, shade issues, dirty panels, circuit breakers, and when to call your installer."
 date: "2026-04-06"
-category: "Maintenance & Troubleshooting"
+category: "Maintenance"
 cluster: "7"
 priority: "medium"
 wordcount: 1800

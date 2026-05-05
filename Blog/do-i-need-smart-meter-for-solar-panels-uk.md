@@ -1,9 +1,9 @@
 ---
-title: "Do I Need a Smart Meter for Solar Panels? UK Requirements Explained"
+title: "Smart Meter for Solar: Do You Need It?"
 slug: do-i-need-smart-meter-for-solar-panels-uk
 excerpt: "You don't legally need a smart meter for plug-in solar — but you'll want one. Here's what you miss without it and how to get a free upgrade."
 date: "2026-05-04"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "smart-meters"
 priority: 2
 wordcount: 1600

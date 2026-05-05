@@ -1,9 +1,9 @@
 ---
-title: "Where to Put Plug-in Solar Panels: Sun, Shade, and the Best Placement"
+title: "Where to Install Plug-in Solar: Best"
 slug: "where-to-put-plug-in-solar-panels-us"
 excerpt: "How to assess your property for solar placement: sun exposure by region, latitude, shade analysis, and optimal angles for US locations."
 date: "2026-04-06"
-category: "Installation & Placement"
+category: "Installation"
 cluster: 5
 priority: "high"
 wordcount: 1500

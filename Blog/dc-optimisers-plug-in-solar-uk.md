@@ -1,7 +1,7 @@
 ---
 title: DC Optimisers for Plug-in Solar UK: Are They Worth Adding?
 slug: dc-optimisers-plug-in-solar-uk
-category: Technical
+category: Performance & Monitoring
 date: 2026-04-14
 excerpt: DC optimisers promise to boost shaded solar panels. But for most plug-in systems, they're unnecessary and a waste of money.
 ---

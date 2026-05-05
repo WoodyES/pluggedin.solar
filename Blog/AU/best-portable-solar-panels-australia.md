@@ -3,7 +3,7 @@ title: Best Portable Solar Panels in Australia 2026
 slug: best-portable-solar-panels-australia
 excerpt: Guide to portable solar panels for apartments and camping. Top brands, wattage options, and how to choose.
 date: "2026-04-06"
-category: Products & Buying
+category: Buying Guides
 cluster: 5
 priority: 1
 wordcount: 2500

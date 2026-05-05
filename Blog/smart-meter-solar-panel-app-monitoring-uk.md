@@ -1,9 +1,9 @@
 ---
-title: "Smart Meter App vs Solar Panel App: Which Should You Use for Monitoring?"
+title: "Smart Meter vs Solar App: Monitoring"
 slug: smart-meter-solar-panel-app-monitoring-uk
-excerpt: "Your supplier app shows billing data. Your inverter app shows generation. Here's how to use both together for a complete picture of your plug-in solar performance."
+excerpt: "Smart meter app vs solar panel app. How to use both together for a complete picture of your plug-in solar performance."
 date: "2026-05-04"
-category: "Monitoring"
+category: "Performance & Monitoring"
 cluster: "smart-meters"
 priority: 5
 wordcount: 1600

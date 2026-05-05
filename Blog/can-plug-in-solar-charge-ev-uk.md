@@ -3,7 +3,7 @@ title: "Can Plug-in Solar Charge an Electric Car? UK Reality Check"
 slug: can-plug-in-solar-charge-ev-uk
 excerpt: "The honest maths on using plug-in solar to charge your EV. Spoiler: it works, but not the way you might expect."
 date: "2026-04-08"
-category: "Savings"
+category: "Savings & Costs"
 cluster: "performance"
 priority: 4
 wordcount: 800

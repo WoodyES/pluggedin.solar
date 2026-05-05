@@ -1,9 +1,9 @@
 ---
-title: "Should I Get a Smart Meter Before or After Installing Solar Panels?"
+title: "Smart Meter: Before or After Solar?"
 slug: solar-panel-smart-meter-installation-order-uk
 excerpt: "The right order matters. Get the smart meter first and you'll have baseline data and export capability from day one."
 date: "2026-05-04"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "smart-meters"
 priority: 5
 wordcount: 1200

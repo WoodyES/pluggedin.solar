@@ -1,9 +1,9 @@
 ---
-title: "Solar Panel Maintenance in Australia: Cleaning, Inspections & Bird-Proofing"
+title: "Solar Panel Maintenance Australia"
 slug: solar-panel-maintenance-australia
-excerpt: "Complete guide to solar panel maintenance in Australia. Cleaning schedules, dust and bird damage, hail risks, annual inspections, and when to call professionals."
+excerpt: "Solar panel maintenance guide for Australia. Cleaning schedules, bird damage, hail risks, inspections, and when to call a pro."
 date: "2026-04-06"
-category: "Maintenance & Troubleshooting"
+category: "Maintenance"
 cluster: "7"
 priority: "high"
 wordcount: 2000

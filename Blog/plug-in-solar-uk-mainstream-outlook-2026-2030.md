@@ -1,9 +1,9 @@
 ---
 slug: plug-in-solar-uk-mainstream-outlook-2026-2030
-title: "Will Plug-in Solar Become Mainstream in the UK? Industry Outlook 2026-2030"
+title: "Will Plug-in Solar Go Mainstream? 2026-30"
 excerpt: "Germany reached 1M Balkonkraftwerk in five years. The UK has higher prices, larger housing stock, and legal clarity. Here's why it could go faster."
 date: "2026-04-14"
-category: "News & Analysis"
+category: "Regulations & Policy"
 ---
 
 # Will Plug-in Solar Become Mainstream in the UK? Industry Outlook 2026-2030

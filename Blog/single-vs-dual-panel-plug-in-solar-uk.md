@@ -1,7 +1,7 @@
 ---
-title: "Single Panel vs Dual Panel Plug-in Solar UK: Which Setup Is Right for You?"
+title: "Single vs Dual Panel Plug-in Solar: Which?"
 slug: single-vs-dual-panel-plug-in-solar-uk
-category: Comparisons
+category: Reviews & Comparisons
 priority: 2
 date: "2026-04-14"
 excerpt: "Comparing 400W and 800W plug-in solar systems. Learn the cost, space, and self-consumption differences to choose the right setup for your home."

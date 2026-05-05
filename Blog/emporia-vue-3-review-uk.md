@@ -1,9 +1,9 @@
 ---
 title: "Emporia Vue 3 Review UK: Whole-Home Energy Monitoring"
 slug: emporia-vue-3-review-uk
-category: Reviews
+category: Reviews & Comparisons
 date: 2026-04-13
-excerpt: "Emporia Vue 3 CT clamp monitoring for solar: import, export, self-consumption data in real time. Why it's superior to a simple smart plug for understanding system value."
+excerpt: "Emporia Vue 3 review for solar monitoring. Real-time import, export, and self-consumption data via CT clamp technology."
 priority: 2
 ---
 

@@ -3,7 +3,7 @@ slug: solar-potential-map-uk
 title: Solar Potential Map UK - Check Your Area's Sunlight Hours
 excerpt: Interactive map tool to assess solar potential by UK region. See which areas have the best solar generation and why geography matters.
 date: 2026-05-04
-category: calculators
+category: Calculators & Tools
 author: pluggedin.solar
 ---
 

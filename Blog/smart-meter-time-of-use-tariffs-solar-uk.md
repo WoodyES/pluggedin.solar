@@ -1,9 +1,9 @@
 ---
-title: "Smart Meters and Time-of-Use Tariffs: Getting More from Your Solar Panels"
+title: "Time-of-Use Tariffs: Solar Optimisation"
 slug: smart-meter-time-of-use-tariffs-solar-uk
 excerpt: "Time-of-use tariffs pay you more for exporting during peak hours and charge less overnight. Here's how they work with plug-in solar and a smart meter."
 date: "2026-05-04"
-category: "Guide"
+category: "Getting Started"
 cluster: "smart-meters"
 priority: 4
 wordcount: 1500

@@ -1,10 +1,10 @@
 ---
-title: "When Does Plug-in Solar Start Getting Good in the UK? Spring Output Guide"
+title: "When Does Plug-in Solar Get Good? Spring"
 slug: when-does-plug-in-solar-get-good-uk-spring
-category: Seasonal
+category: Maintenance
 priority: 2
 date: "2026-04-14"
-excerpt: "Spring is when plug-in solar becomes genuinely useful. March output triples from January. By May, daily generation hits 4–5 kWh. Learn the month-by-month transition."
+excerpt: "When does plug-in solar get good in the UK? March output triples. By May you're generating 4–5 kWh per day."
 ---
 
 # When Does Plug-in Solar Start Getting Good in the UK? Spring Output Guide

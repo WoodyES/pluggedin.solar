@@ -3,7 +3,7 @@ title: Plug-in Solar vs. Rooftop Solar: Which Is Right for You?
 slug: plug-in-solar-vs-rooftop-solar-us
 excerpt: Head-to-head comparison of costs, installation, output, and payback. When each makes sense, and whether you actually have to choose.
 date: 2026-04-06
-category: Fundamentals
+category: Getting Started
 cluster: 1
 priority: 3
 wordcount: 2000

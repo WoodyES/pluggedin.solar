@@ -3,7 +3,7 @@ title: "Plug-in Solar Cable Accessories: Complete Wiring Guide"
 slug: plug-in-solar-cable-accessories-us
 excerpt: "MC4 extensions, cable clips, outdoor conduit, weatherproof connectors. Proper cabling makes all the difference."
 date: "2026-04-06"
-category: "Tools & Accessories"
+category: "Buying Guides"
 cluster: "Tools & Accessories — Amazon Affiliate"
 priority: 6
 wordcount: 1200

@@ -1,7 +1,7 @@
 ---
 title: MPPT vs PWM Charge Controllers for Plug-in Solar UK
 slug: mppt-vs-pwm-charge-controllers-solar-uk
-category: Technical
+category: Performance & Monitoring
 date: 2026-04-14
 excerpt: PWM wastes voltage. MPPT converts it to current and recovers 15–30% more energy. Here's which you actually need.
 ---

@@ -1,7 +1,7 @@
 ---
-title: "Best 400W Solar Panel UK 2026: Which to Buy for Plug-in Solar"
+title: "Best 400W Solar Panel UK 2026"
 slug: best-400w-solar-panel-uk
-excerpt: "400W panels are the building block of every plug-in solar kit. Here's which ones are worth buying, which to avoid, and what actually matters in the spec sheet."
+excerpt: "Best 400W solar panels for plug-in solar UK 2026. Which to buy, which to avoid, and what actually matters in the specs."
 date: "2026-04-11"
 category: "Buying Guides"
 cluster: "Product Reviews"

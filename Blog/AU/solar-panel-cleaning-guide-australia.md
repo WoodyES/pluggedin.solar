@@ -1,9 +1,9 @@
 ---
 title: "How to Clean Solar Panels in Australia: DIY vs Professional"
 slug: solar-panel-cleaning-guide-australia
-excerpt: "Complete guide to cleaning solar panels. Red dust, bird droppings, salt spray, professional vs DIY methods, frequency, water restrictions, and cost comparison."
+excerpt: "How to clean solar panels in Australia. Dust, bird droppings, salt spray, DIY vs professional methods, and cost comparison."
 date: "2026-04-06"
-category: "Maintenance & Troubleshooting"
+category: "Maintenance"
 cluster: "7"
 priority: "medium"
 wordcount: 1500

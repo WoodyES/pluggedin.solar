@@ -2,7 +2,7 @@
 title: "Plug-in Solar for HMOs UK: Landlord and Tenant Guide"
 slug: plug-in-solar-hmo-uk
 category: Property Guides
-excerpt: "HMO solar is complex. Shared electricity supply vs individual meters. Who benefits from generation? Landlord installs reduce communal costs. Tenant installs on separate circuits create grey areas. Insurance matters."
+excerpt: "Plug-in solar for HMOs UK. Shared vs individual meters, who benefits, landlord vs tenant installs, and insurance."
 date: 2026-04-14
 ---
 

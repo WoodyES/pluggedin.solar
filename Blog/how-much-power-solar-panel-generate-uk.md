@@ -1,9 +1,9 @@
 ---
-title: "How Much Power Does a Solar Panel Generate in the UK? Month-by-Month Data"
+title: "Solar Panel Output UK: Month-by-Month"
 slug: how-much-power-solar-panel-generate-uk
 excerpt: "Real numbers using PVGIS data for UK locations, broken down by month. Because 'it depends' isn't a useful answer when you're trying to calculate payback."
 date: "2026-04-11"
-category: "Technical"
+category: "Performance & Monitoring"
 cluster: "Technical Guides"
 priority: 1
 wordcount: 1300

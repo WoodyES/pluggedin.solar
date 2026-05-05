@@ -3,7 +3,7 @@ title: "Neighbours and Plug-in Solar: Lessons from Germany"
 slug: neighbours-plug-in-solar-uk
 excerpt: "What German apartment disputes teach us about aesthetics, light reflection, and keeping the peace. Plus: what UK flats and leaseholders need to know."
 date: "2026-04-06"
-category: "Social & Community"
+category: "Property Guides"
 cluster: "Neighbours & Disputes"
 priority: 2
 wordcount: 1200

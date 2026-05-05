@@ -3,7 +3,7 @@ title: Solar Guide ACT — $15k Interest-Free Loan Scheme
 slug: solar-guide-act
 excerpt: Canberra's solar landscape, the Sustainable Household Scheme, and 100% renewable electricity goals.
 date: "2026-04-06"
-category: State Guides
+category: Location Guides
 cluster: 3
 priority: 1
 wordcount: 1500

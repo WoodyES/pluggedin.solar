@@ -3,7 +3,7 @@ title: Plug-in Solar in Illinois: Chicago's Dense Urban Opportunity
 slug: plug-in-solar-illinois
 excerpt: Illinois's high electricity rates and how plug-in solar can work in dense urban areas. Plus the state's renewable energy programs.
 date: 2026-04-06
-category: State Guides
+category: Location Guides
 cluster: 2
 priority: 7
 wordcount: 1500

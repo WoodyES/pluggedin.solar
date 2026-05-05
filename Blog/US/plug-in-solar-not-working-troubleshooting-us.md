@@ -1,9 +1,9 @@
 ---
-title: "Plug-in Solar Not Working? Troubleshooting Guide for US Homeowners"
+title: "Plug-in Solar Not Working: Troubleshoot"
 slug: plug-in-solar-not-working-troubleshooting-us
 excerpt: "Your solar system won't produce power. GFCI tripping, breaker cuts out, or the inverter displays an error code. Here's how to diagnose the problem."
 date: "2026-04-06"
-category: "Safety & Troubleshooting"
+category: "Troubleshooting"
 cluster: "Troubleshooting & Safety"
 priority: 2
 wordcount: 1800

@@ -1,7 +1,7 @@
 ---
-title: "Best Time-of-Use Energy Tariffs UK 2026: Ranked for Solar Homes"
+title: "Time-of-Use Tariffs 2026: Solar Ranked"
 slug: best-time-of-use-tariffs-uk-2026
-category: Finance & Savings
+category: Savings & Costs
 date: 2026-04-13
 excerpt: "Time-of-use tariffs unlock the real value of solar and storage. Here's how to pick the right one for your setup."
 ---

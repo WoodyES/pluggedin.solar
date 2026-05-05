@@ -3,7 +3,7 @@ title: "Solar for EV Charging at Home in Australia: Complete Guide"
 slug: solar-for-ev-charging-australia
 excerpt: "Power your electric vehicle with home solar. System sizing, smart chargers, solar-only charging modes, V2H potential, and genuine cost savings."
 date: "2026-04-06"
-category: "Specific Use Cases"
+category: "Use Cases"
 cluster: "9"
 priority: "medium"
 wordcount: 1500

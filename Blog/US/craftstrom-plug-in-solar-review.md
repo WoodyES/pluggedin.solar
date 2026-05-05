@@ -3,7 +3,7 @@ title: "Craftstrom Plug-in Solar Review: The Best Value System?"
 slug: "craftstrom-plug-in-solar-review"
 excerpt: "In-depth review of Craftstrom's 200W bifacial modular system: what's working, what's not, and whether it's worth buying in 2026."
 date: "2026-04-06"
-category: "Products & Reviews"
+category: "Reviews & Comparisons"
 cluster: 4
 priority: "medium"
 wordcount: 2000

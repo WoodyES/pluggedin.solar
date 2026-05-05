@@ -1,10 +1,10 @@
 ---
-title: "Micro-Inverter Error Codes Explained UK: Hoymiles and APsystems"
+title: "Micro-Inverter Error Codes: UK Guide"
 slug: micro-inverter-error-codes-uk
 date: 2026-04-13
 category: Troubleshooting
 priority: 2
-excerpt: "Hoymiles and APsystems micro-inverters show error codes when something goes wrong. Learn what each code means, how to fix it, and when to call a technician."
+excerpt: "Micro-inverter error codes explained. Hoymiles and APsystems codes, what they mean, how to fix them, and when to call help."
 ---
 
 # Micro-Inverter Error Codes Explained UK: Hoymiles and APsystems

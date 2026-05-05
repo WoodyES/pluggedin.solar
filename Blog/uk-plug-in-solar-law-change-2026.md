@@ -3,7 +3,7 @@ slug: uk-plug-in-solar-law-change-2026
 title: "UK Plug-in Solar Law Change 2026: A Plain English Guide"
 excerpt: "Plug-in solar is now legal. Here's what you can do, what you can't do, and what comes next."
 date: "2026-04-14"
-category: "Legal & Regulatory"
+category: "Regulations & Policy"
 ---
 
 # UK Plug-in Solar Law Change 2026: A Plain English Guide

@@ -1,10 +1,10 @@
 ---
-title: "Plug-in Solar UK Monthly Performance Guide: What to Expect All Year"
+title: "Plug-in Solar Performance: Monthly Guide"
 slug: plug-in-solar-uk-monthly-performance-guide
-category: Technical
+category: Performance & Monitoring
 priority: 1
 date: "2026-04-14"
-excerpt: "Comprehensive month-by-month PVGIS data for plug-in solar across four UK regions. Annual patterns, self-consumption dynamics, and what each season means for your savings."
+excerpt: "Plug-in solar monthly performance UK. PVGIS data across four regions showing what each season means for your savings."
 ---
 
 # Plug-in Solar UK Monthly Performance Guide: What to Expect All Year

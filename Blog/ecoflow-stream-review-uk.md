@@ -1,9 +1,9 @@
 ---
-title: "EcoFlow STREAM Review UK: The Government's Pick for Plug-in Solar"
+title: "EcoFlow STREAM Review UK: The Official Pick"
 slug: "ecoflow-stream-review-uk"
 excerpt: "An expert review of EcoFlow's STREAM plug-in solar kit—the government's official partner. Specs, real-world practicality, and honest assessment."
 date: "2026-04-05"
-category: "Product Review"
+category: "Reviews & Comparisons"
 cluster: "Product Reviews"
 priority: "HIGH"
 wordcount: 2000

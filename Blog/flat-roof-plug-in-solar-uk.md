@@ -1,7 +1,7 @@
 ---
-title: "Flat Roof Plug-in Solar UK: The Complete Guide to Ballast Mounting"
+title: "Flat Roof Solar UK: Ballast Mounting"
 slug: "flat-roof-plug-in-solar-uk"
-excerpt: "Millions of UK homes have flat-roof extensions and garages. Ballast-mounted plug-in solar is the ideal fit: no drilling, no mess, just weight and generation."
+excerpt: "Flat roof plug-in solar UK guide. Ballast-mounted panels on extensions and garages — no drilling, no mess, just generation."
 date: "2026-04-05"
 category: "Installation"
 cluster: "Home Roofs"

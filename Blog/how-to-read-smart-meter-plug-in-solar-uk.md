@@ -1,9 +1,9 @@
 ---
 title: "How to Read Your Smart Meter with Plug-in Solar"
 slug: how-to-read-smart-meter-plug-in-solar-uk
-category: Practical Guides
+category: Use Cases
 date: 2026-04-13
-excerpt: "Step-by-step guide to reading your smart meter with plug-in solar: what the import/export registers mean, how to calculate self-consumption, and why it matters."
+excerpt: "How to read your smart meter with plug-in solar. Import/export registers, self-consumption calculation, and why it matters."
 ---
 
 # How to Read Your Smart Meter with Plug-in Solar

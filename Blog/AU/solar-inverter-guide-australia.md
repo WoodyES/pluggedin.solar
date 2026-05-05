@@ -1,9 +1,9 @@
 ---
-title: "Solar Inverter Guide for Australia: String, Micro & Hybrid Options"
+title: "Solar Inverter Australia: Types Guide"
 slug: solar-inverter-guide-australia
-excerpt: "Complete inverter guide for Australian solar. String inverters vs microinverters vs hybrid. CEC-approved brands, 133% oversizing explained, and which suits your home."
+excerpt: "Australian solar inverter guide. String vs micro vs hybrid inverters. CEC-approved brands and 133% oversizing explained."
 date: "2026-04-06"
-category: "Installation & Technical"
+category: "Installation"
 cluster: "6"
 priority: "medium"
 wordcount: 1500

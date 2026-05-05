@@ -3,7 +3,7 @@ title: Solar Guide South Australia — Highest Penetration Globally
 slug: solar-guide-south-australia
 excerpt: South Australia leads the world in rooftop solar adoption. Here's what you need to know about VPPs, export limits, and batteries.
 date: "2026-04-06"
-category: State Guides
+category: Location Guides
 cluster: 3
 priority: 1
 wordcount: 1800

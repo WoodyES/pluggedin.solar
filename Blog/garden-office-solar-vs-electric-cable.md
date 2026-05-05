@@ -1,9 +1,9 @@
 ---
-title: "Powering Your Garden Office: Plug-in Solar vs Running a Cable from the House"
+title: "Garden Office: Plug-in Solar vs Cable Power"
 slug: "garden-office-solar-vs-electric-cable"
 excerpt: "The specific decision most garden office owners face. A practical, honest comparison of solar and cable options."
 date: "2026-04-05"
-category: "Garden Office"
+category: "Property Guides"
 cluster: "Garden Offices & Rooms"
 priority: "HIGH"
 wordcount: 2000

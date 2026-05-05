@@ -1,7 +1,7 @@
 ---
 title: "Does Plug-in Solar Affect Your Energy Bill Immediately?"
 slug: does-plug-in-solar-affect-energy-bill-immediately-uk
-category: Finance & Savings
+category: Savings & Costs
 date: 2026-04-13
 excerpt: "Yes, plug-in solar reduces your bills from day one—but you might not see it reflected for 1–3 months. Here's why, and how to verify it's working."
 ---

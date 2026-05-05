@@ -3,7 +3,7 @@ title: "What Happens to My Plug-in Solar When I Move House?"
 slug: moving-house-with-plug-in-solar-uk
 excerpt: "Unlike rooftop solar, plug-in panels are portable. But there are still things to sort — G98, compatibility, and what your estate agent should know."
 date: "2026-04-11"
-category: "Practical Guides"
+category: "Use Cases"
 cluster: "Legal & Regulatory"
 priority: 2
 wordcount: 900

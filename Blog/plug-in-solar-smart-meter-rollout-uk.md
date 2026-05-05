@@ -1,9 +1,9 @@
 ---
 slug: plug-in-solar-smart-meter-rollout-uk
-title: "Plug-in Solar and the UK Smart Meter Rollout: What You Need to Know"
+title: "Plug-in Solar & Smart Meter Rollout UK"
 excerpt: "SMETS2 smart meters can measure both import and export. Here's why that matters for plug-in solar owners—and what to do if you haven't got one yet."
 date: "2026-04-14"
-category: "Technical"
+category: "Performance & Monitoring"
 ---
 
 # Plug-in Solar and the UK Smart Meter Rollout: What You Need to Know

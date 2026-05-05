@@ -1,8 +1,8 @@
 ---
-title: "Plug-in Solar vs Solar Roof Tiles UK: Pros, Cons and Cost Comparison"
+title: "Plug-in Solar vs Roof Tiles: Comparison"
 slug: plug-in-solar-vs-solar-roof-tiles-uk
 date: 2026-04-13
-category: Comparisons
+category: Reviews & Comparisons
 priority: 2
 excerpt: "Solar roof tiles look sleeker than plug-in panels, but they're vastly more expensive and output less per pound spent. Here's when each makes sense."
 ---

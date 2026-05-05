@@ -3,7 +3,7 @@ title: "Plug-in Solar and Net Metering: Does It Matter?"
 slug: "plug-in-solar-and-net-metering-us"
 excerpt: "How net metering works with small plug-in systems, and whether your state's net metering rules actually affect your savings."
 date: "2026-04-06"
-category: "Savings & Economics"
+category: "Savings & Costs"
 cluster: 3
 priority: "medium"
 wordcount: 1500

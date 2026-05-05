@@ -1,8 +1,8 @@
 ---
-title: "UK Government Plug-in Solar March 2026 Announcement: Full Summary"
+title: "UK Government: Plug-in Solar March 2026"
 slug: uk-government-plug-in-solar-announcement-2026
 date: 2026-04-13
-category: News & Regulatory
+category: Regulations & Policy
 excerpt: "What the government's March 2026 confirmation means for homeowners—and what still needs to happen before you can buy a kit."
 ---
 
