@@ -47,7 +47,7 @@ Let's model a realistic scenario: a household with 800W plug-in solar and a 5 kW
 - Evening peak discharge/avoidance: ~500–700 kWh/year × 6p premium (vs. Go rate) = £30–42
 - **Total additional benefit vs. Octopus Go: £174–222/year**
 
-That sounds modest. But add in the [Anker SOLIX C1000](https://amzn.to/3QmpWsI) battery cost (~£799) and amortisation over 10 years, and the financial case becomes tighter.
+That sounds modest. But add in the [Anker SOLIX C1000](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000&tag=pluggedinsola-21) battery cost (~£799) and amortisation over 10 years, and the financial case becomes tighter.
 
 ## When Flux Makes Sense
 

@@ -190,7 +190,7 @@ If you buy one this summer, update us on how it performs. Real-world data from a
 
 For more wattage at a similar price, consider the **[Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) RS40P** (800W, £899).
 
-[Check the Anker SOLIX C1000 Gen 2 on Amazon](https://amzn.to/3QmpWsI)
+[Check the Anker SOLIX C1000 Gen 2 on Amazon](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000+Gen+2&tag=pluggedinsola-21)
 
 For a lower-cost option, **wait for Lidl's kit** in summer 2026.
 

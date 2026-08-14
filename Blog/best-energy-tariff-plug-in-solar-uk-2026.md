@@ -61,7 +61,7 @@ You're exporting most of your solar generation unpaid. Shift your heavy loads to
 
 ### Any pattern, with battery storage
 **Recommendation: time-of-use (Octopus Go or Flux).**
-Battery changes everything. Charge from solar during the day, use stored electricity in the evening, and charge from cheap overnight grid when the battery is empty. The spread between overnight import and daytime self-consumption is your total benefit. The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) or [Anker SOLIX C1000](https://amzn.to/3QmpWsI) can store enough to cover 2-4 hours of evening consumption.
+Battery changes everything. Charge from solar during the day, use stored electricity in the evening, and charge from cheap overnight grid when the battery is empty. The spread between overnight import and daytime self-consumption is your total benefit. The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) or [Anker SOLIX C1000](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000&tag=pluggedinsola-21) can store enough to cover 2-4 hours of evening consumption.
 
 ### EV owner
 **Recommendation: Octopus Intelligent Go.**

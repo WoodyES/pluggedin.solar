@@ -87,7 +87,7 @@ Anker came to the market slightly later but with a system that maxes out the UK 
 
 **Price:** Around £899 for the base kit.
 
-[Check the Anker SOLIX on Amazon](https://amzn.to/3QmpWsI)
+[Check the Anker SOLIX on Amazon](https://www.amazon.co.uk/s?k=Anker+SOLIX&tag=pluggedinsola-21)
 
 **Why it matters:** At £899, Anker undercuts EcoFlow by about £50 whilst offering 800W instead of 600W. That's a meaningful difference in summer output—roughly 30 per cent more generation on a sunny day. Anker's reputation for build quality is excellent.
 

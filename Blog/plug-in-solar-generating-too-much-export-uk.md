@@ -51,7 +51,7 @@ A [battery like the EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=517
 
 At an additional cost of around £500-600 for the [DELTA 2](/blog/ecoflow-delta-2-review-uk), the financial case for battery storage depends heavily on how much you were previously exporting unpaid. If summer exports were large, battery payback is faster.
 
-The [Anker SOLIX C1000](https://amzn.to/3QmpWsI) is a higher-capacity alternative with around 1.056 kWh usable, worth considering if you have a larger system or higher evening consumption.
+The [Anker SOLIX C1000](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000&tag=pluggedinsola-21) is a higher-capacity alternative with around 1.056 kWh usable, worth considering if you have a larger system or higher evening consumption.
 
 ## The Octopus Flux Approach
 

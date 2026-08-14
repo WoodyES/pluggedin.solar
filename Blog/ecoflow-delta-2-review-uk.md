@@ -81,7 +81,7 @@ The EcoFlow app gives remote monitoring and control, including charge scheduling
 
 ## Versus the Competition
 
-**[Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI)** — slightly more usable capacity (1,056Wh), similar LFP chemistry and cycle life. Slightly more expensive at around £799 but newer design. If budget isn't the primary concern, the C1000 is worth considering for its marginally better specs and newer app platform. See our [battery comparison guide](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) for the full head-to-head.
+**[Anker SOLIX C1000 Gen 2](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000+Gen+2&tag=pluggedinsola-21)** — slightly more usable capacity (1,056Wh), similar LFP chemistry and cycle life. Slightly more expensive at around £799 but newer design. If budget isn't the primary concern, the C1000 is worth considering for its marginally better specs and newer app platform. See our [battery comparison guide](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) for the full head-to-head.
 
 **[Jackery Explorer 1000 v2](https://amzn.to/4tmxjhG)** — a more portable option at slightly lower capacity. Better suited to camping and outdoor use than home solar storage. If portability matters (caravan, motorhome), the Jackery is the right choice. For a fixed home installation, the DELTA 2 or SOLIX C1000 offer better value.
 

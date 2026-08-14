@@ -29,7 +29,7 @@ The honest truth: without a battery, Agile's benefit over a flat tariff is modes
 
 ## Solar + Agile + Battery: The Sweet Spot
 
-This is where the economics get interesting. A portable power station like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (1024Wh capacity) or [Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI) paired with plug-in solar and Octopus Agile creates three income streams:
+This is where the economics get interesting. A portable power station like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (1024Wh capacity) or [Anker SOLIX C1000 Gen 2](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000+Gen+2&tag=pluggedinsola-21) paired with plug-in solar and Octopus Agile creates three income streams:
 
 **1. Solar [self-consumption](/blog/smart-meter-solar-self-consumption-uk) (daytime).** Your solar charges the battery during the day. Free electricity stored for later.
 

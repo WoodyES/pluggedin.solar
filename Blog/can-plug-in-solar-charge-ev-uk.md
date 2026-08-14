@@ -39,7 +39,7 @@ The EcoFlow [DELTA 2](/blog/ecoflow-delta-2-review-uk) stores 1kWh — enough fo
 
 For real impact, you'd want a larger battery. The [Anker SOLIX](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026) C1000 or a larger EcoFlow system storing 2–3kWh per day starts to make a more noticeable dent.
 
-[Check the Anker SOLIX C1000 on Amazon](https://amzn.to/3QmpWsI)
+[Check the Anker SOLIX C1000 on Amazon](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000&tag=pluggedinsola-21)
 
 ## Monitoring Makes It Real
 

@@ -28,7 +28,7 @@ The Anker SOLIX RS40P is an 800W grid-tied plug-in solar system. It comprises:
 
 **Price:** Around £899 for the base kit.
 
-[Check the Anker SOLIX on Amazon](https://amzn.to/3QmpWsI)
+[Check the Anker SOLIX on Amazon](https://www.amazon.co.uk/s?k=Anker+SOLIX&tag=pluggedinsola-21)
 
 **Expected output (southern England):** 650–850 kWh/year, or roughly £175–£230 in annual savings.
 

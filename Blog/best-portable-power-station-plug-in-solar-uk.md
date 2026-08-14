@@ -84,7 +84,7 @@ The app is functional but not quite as polished as EcoFlow's. It does what you n
 
 Pricing: C800 runs about £500-700, C1000 around £800-1,000. These are genuinely competitive with EcoFlow.
 
-[Check the Anker SOLIX C1000 on Amazon](https://amzn.to/3QmpWsI)
+[Check the Anker SOLIX C1000 on Amazon](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000&tag=pluggedinsola-21)
 
 For plug-in solar specifically, the main drawback is capacity. 800Wh and 1kWh are smaller than most people ultimately want. Anker does have expandable systems, but they're less seamless than EcoFlow's expansion modules.
 

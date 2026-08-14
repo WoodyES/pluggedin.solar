@@ -25,7 +25,7 @@ The **Anker SOLIX C1000 Gen 2** is one of the most compelling battery options fo
 | **Solar Input** | 600W DC (via optional SOLIX adapter) |
 | **Weight** | 10.5 kg |
 | **Dimensions** | 24.8 × 26.1 × 15.4 cm |
-| **Price** | [£799 (Amazon)](https://amzn.to/3QmpWsI) |
+| **Price** | [£799 (Amazon)](https://www.amazon.co.uk/s?k=anker+solix+c1000+gen+2&tag=pluggedinsola-21) |
 | **Warranty** | 5 years |
 
 ## Battery Chemistry: Why LFP Matters
@@ -84,7 +84,7 @@ The EcoFlow DELTA 2 is the main competitor in the 1kWh price range.
 | **AC Input (Charging)** | 1,200W | 1,800W |
 | **Solar Input** | 600W (adapter) | 600W (built-in) |
 | **Weight** | 10.5 kg | 12.3 kg |
-| **Price** | [£799](https://amzn.to/3QmpWsI) | [£599](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) |
+| **Price** | [£799](https://www.amazon.co.uk/s?k=anker+solix+c1000+gen+2&tag=pluggedinsola-21) | [£599](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) |
 | **App Quality** | Excellent | Excellent |
 | **Warranty** | 5 years | 5 years |
 
@@ -104,7 +104,7 @@ Some shoppers consider the Jackery 1000 v2 (older generation, NMC chemistry) at 
 | **Chemistry** | LFP (newest) | NMC (2023) |
 | **Warranty Cycles** | 3,000+ | 2,500 |
 | **Continuous Output** | 1,200W | 2,000W |
-| **Price** | [£799](https://amzn.to/3QmpWsI) | ~£600–£700 |
+| **Price** | [£799](https://www.amazon.co.uk/s?k=anker+solix+c1000+gen+2&tag=pluggedinsola-21) | ~£600–£700 |
 | **Expected Lifespan** | 8–10 years | 5–7 years |
 | **Cold Weather** | Good (LFP) | Poor (NMC) |
 
@@ -117,7 +117,7 @@ Anker's app for the SOLIX C1000 Gen 2 is clean and functional:
 - **Real-time monitoring:** Voltage, current, power draw, state of charge
 - **Historical data:** Daily, monthly, and yearly generation/discharge patterns
 - **Alerts:** Low battery warnings, overvoltage protection, temperature alerts
-- **Solar pairing:** If you add an optional [Anker SOLIX solar panel adapter](https://amzn.to/3QmpWsI), the app displays DC input alongside AC output
+- **Solar pairing:** If you add an optional [Anker SOLIX solar panel adapter](https://www.amazon.co.uk/s?k=Anker+SOLIX+solar+panel+adapter&tag=pluggedinsola-21), the app displays DC input alongside AC output
 
 **For plug-in solar:** The app is excellent for proving you're using the system correctly if the DNO ever queries your [G98](/blog/g98-dno-notification-plug-in-solar) installation. You'll have months of data showing daily charging and discharge patterns.
 

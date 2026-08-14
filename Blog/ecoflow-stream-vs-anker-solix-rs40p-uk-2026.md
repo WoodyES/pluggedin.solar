@@ -87,7 +87,7 @@ In practice, both systems will hit the 800W cap during peak summer hours. The di
 
 **EcoFlow** — pairs natively with the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) and other EcoFlow batteries. The solar panels can charge the battery directly via MC4 (bypassing the micro-inverter) or indirectly via AC. The app manages both solar and battery in one interface.
 
-**Anker** — pairs with the [Anker SOLIX C1000](https://amzn.to/3QmpWsI) and SOLIX range. Similar direct/indirect charging options. The Anker app manages the combined system.
+**Anker** — pairs with the [Anker SOLIX C1000](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000&tag=pluggedinsola-21) and SOLIX range. Similar direct/indirect charging options. The Anker app manages the combined system.
 
 If you plan to add battery storage, staying within one brand's ecosystem simplifies setup and monitoring. The [DELTA 2](/blog/ecoflow-delta-2-review-uk) is slightly cheaper than the C1000, giving EcoFlow a cost advantage on the combined solar-plus-battery package.
 

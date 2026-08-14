@@ -29,7 +29,7 @@ Solar input maxes at 500W via MC4, meaning your 800W system can charge it direct
 ### Anker SOLIX C1000 Gen 2 — Best Specs
 **Price:** ~£799 | **Capacity:** 1,056Wh | **Weight:** 12.9kg
 
-The [Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI) is the newest of the three, with marginally more capacity and a more modern design. LFP chemistry with 3,000+ cycle rating. The SurgePad technology allows 2,400W surge output — higher than the DELTA 2 — which matters if you plan to run high-draw appliances briefly (kettles, microwaves).
+The [Anker SOLIX C1000 Gen 2](https://www.amazon.co.uk/s?k=anker+solix+c1000+gen+2&tag=pluggedinsola-21) is the newest of the three, with marginally more capacity and a more modern design. LFP chemistry with 3,000+ cycle rating. The SurgePad technology allows 2,400W surge output — higher than the DELTA 2 — which matters if you plan to run high-draw appliances briefly (kettles, microwaves).
 
 Anker's app is competent though slightly less refined than EcoFlow's. Solar input maxes at 600W — more headroom than the DELTA 2 if you're running larger panel arrays or planning expansion.
 
@@ -101,7 +101,7 @@ The Jackery has the shortest pure financial payback but the shortest useful life
 
 **If you want the best balance of price, performance, and longevity:** [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station). The LFP chemistry, expansion option, and excellent app make it the default recommendation.
 
-**If you want the highest capacity and surge power, and budget allows:** [Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI). The better surge rating and newer design justify the premium for power-hungry households.
+**If you want the highest capacity and surge power, and budget allows:** [Anker SOLIX C1000 Gen 2](https://www.amazon.co.uk/s?k=anker+solix+c1000+gen+2&tag=pluggedinsola-21). The better surge rating and newer design justify the premium for power-hungry households.
 
 ## Before You Buy
 

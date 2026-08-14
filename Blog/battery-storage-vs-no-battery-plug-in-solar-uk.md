@@ -8,7 +8,7 @@ excerpt: "An 800W plug-in solar system costs £600. Battery storage costs £500�
 
 You've installed an 800W plug-in solar system. It's generating 750kWh annually, offsetting your daytime consumption, and you're seeing real savings. Now the question surfaces: should you add battery storage?
 
-A 5kWh battery system—something like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (£599) or [Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI) (£799)—promises to capture energy you're currently exporting unused to the grid. It sounds sensible. But sensible doesn't always mean profitable.
+A 5kWh battery system—something like the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (£599) or [Anker SOLIX C1000 Gen 2](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000+Gen+2&tag=pluggedinsola-21) (£799)—promises to capture energy you're currently exporting unused to the grid. It sounds sensible. But sensible doesn't always mean profitable.
 
 Let's cut through the marketing and work through the actual maths.
 
@@ -185,7 +185,7 @@ If you decide battery is worth it, which one?
 - Warranty: 5 years
 - Verdict: Best for dipping your toes in. Lower upfront cost, proven reliability.
 
-**[Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI) — £799**
+**[Anker SOLIX C1000 Gen 2](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000+Gen+2&tag=pluggedinsola-21) — £799**
 - 1,024Wh, expandable to 3kWh
 - Slightly better efficiency and durability
 - Warranty: 10 years

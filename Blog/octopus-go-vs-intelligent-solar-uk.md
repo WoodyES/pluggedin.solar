@@ -37,7 +37,7 @@ Octopus Intelligent Go is a step up. It's designed for households with an electr
 
 - **Longer off-peak window**: Up to 8 hours (often 10 PM to 6 AM), compared to Go's 4 hours
 - **Smart charging**: Your EV charger talks to Octopus. The system automatically charges your car during the cheapest hours
-- **Battery integration**: If you have a home battery like the [Anker SOLIX C1000](https://amzn.to/3QmpWsI), Intelligent can coordinate charging to make the most of off-peak hours
+- **Battery integration**: If you have a home battery like the [Anker SOLIX C1000](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000&tag=pluggedinsola-21), Intelligent can coordinate charging to make the most of off-peak hours
 - **Dynamic optimisation**: Octopus adjusts charging schedules based on your driving patterns and energy prices
 
 The cost is usually similar to Go—no additional subscription fees in most cases—but you're paying for the convenience and intelligence baked into the system.

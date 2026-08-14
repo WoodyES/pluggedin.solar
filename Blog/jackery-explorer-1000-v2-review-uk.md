@@ -152,7 +152,7 @@ We've had no catastrophic failures reported in UK solar communities, but early-g
 
 The Jackery Explorer 1000 v2 is a solid budget option for dual-use scenarios (home backup + camping) and short-term solar storage (3–5 years). The NMC chemistry and limited solar input are real drawbacks, but at £499, it's hard to beat on price alone.
 
-For serious plug-in solar users wanting system longevity, the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (~£599) is worth the extra £100 (LFP chemistry, 3.6 kWh capacity, 800W solar input). For off-grid living or large storage needs, the [Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI) (~£799) justifies its price via cycle life alone.
+For serious plug-in solar users wanting system longevity, the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) (~£599) is worth the extra £100 (LFP chemistry, 3.6 kWh capacity, 800W solar input). For off-grid living or large storage needs, the [Anker SOLIX C1000 Gen 2](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000+Gen+2&tag=pluggedinsola-21) (~£799) justifies its price via cycle life alone.
 
 But if you're a [renter](/blog/rented-flat-solar-panels-uk), on a tight budget, or want a portable battery that works weekends in a caravan, the Jackery v2 delivers good value.
 

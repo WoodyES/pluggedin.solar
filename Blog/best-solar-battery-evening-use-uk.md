@@ -33,7 +33,7 @@ The C1000 Gen 2 offers 1,024Wh with a 2,000W inverter — more headroom for high
 
 It's lighter than the DELTA 2 at equivalent capacity, which matters if you're moving it between rooms or taking it camping on weekends. The app is functional rather than flashy, but it tracks everything you need.
 
-[Check the Anker SOLIX C1000 on Amazon](https://amzn.to/3QmpWsI)
+[Check the Anker SOLIX C1000 on Amazon](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000&tag=pluggedinsola-21)
 
 ## Jackery Explorer 1000 v2 (~£500–700)
 

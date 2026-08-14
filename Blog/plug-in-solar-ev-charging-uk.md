@@ -52,7 +52,7 @@ The [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=28
 - Supports 10 A charging input (compatible with most UK 3-pin sockets)
 - Can store morning solar and feed it to your EV during the afternoon
 
-A more premium option, the [Anker SOLIX C1000 Gen 2](https://amzn.to/3QmpWsI) (£799), offers:
+A more premium option, the [Anker SOLIX C1000 Gen 2](https://www.amazon.co.uk/s?k=Anker+SOLIX+C1000+Gen+2&tag=pluggedinsola-21) (£799), offers:
 - 1,024 Wh capacity
 - Faster charging cycles
 - Better long-term durability for daily cycling
