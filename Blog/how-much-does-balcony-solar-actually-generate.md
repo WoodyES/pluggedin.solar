@@ -92,6 +92,26 @@ System costs will likely fall as the market develops. By 2027, economies of scal
 
 For more on the long-term financial case, read our guide on [plug-in solar payback period in the UK](/blog/plug-in-solar-payback-period-uk) and [is plug-in solar worth it?](/blog/is-plug-in-solar-worth-it-uk).
 
+
+---
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Top balcony kit</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM 800W Kit</a></div>
+<div class="pc-price">From ~£799</div>
+<ul class="pc-features">
+<li>800W dual-panel plug-in solar kit</li>
+<li>600Wh battery with smart scheduling</li>
+<li>App monitoring with real-time generation data</li>
+<li>Balcony, garden &amp; flat-roof mounts available</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## The Bottom Line
 
 A 600W balcony solar system in the UK generates roughly 450–500 kWh annually, worth £130–170 per year at current rates. Summer output is three to five times higher than winter output. Regional variation means Scottish systems produce 20–30% less than southern English ones, but remain economically viable.

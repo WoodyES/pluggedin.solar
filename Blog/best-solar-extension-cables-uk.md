@@ -77,6 +77,26 @@ After installing extension cables, use a multimeter to check for voltage drop. M
 
 [Check the Fluke 117 Multimeter on Amazon](https://amzn.to/4bSN4aq)
 
+
+---
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Complete kit — no extensions needed</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM 800W Kit</a></div>
+<div class="pc-price">From ~£799</div>
+<ul class="pc-features">
+<li>800W dual-panel plug-in solar kit</li>
+<li>600Wh battery with smart scheduling</li>
+<li>App monitoring with real-time generation data</li>
+<li>Balcony, garden &amp; flat-roof mounts available</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## The Bottom Line
 
 MC4 extension cables are a straightforward addition to any plug-in solar installation. Buy quality, UV-rated cables with genuine MC4 connectors, size them appropriately for your cable run length, and secure them properly with UV-resistant fixings. It's a one-time investment that should last the lifetime of your panels.

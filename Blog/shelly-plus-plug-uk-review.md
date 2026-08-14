@@ -148,6 +148,26 @@ A: Shelly supports 802.11b/g/n (2.4 GHz). Older routers work fine. 5 GHz WiFi is
 **Q: What if WiFi drops?**  
 A: The Shelly logs data locally and syncs when WiFi returns (if cloud is enabled). No data loss.
 
+
+---
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Full system with monitoring</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM 800W Kit</a></div>
+<div class="pc-price">From ~£799</div>
+<ul class="pc-features">
+<li>800W dual-panel plug-in solar kit</li>
+<li>600Wh battery with smart scheduling</li>
+<li>App monitoring with real-time generation data</li>
+<li>Balcony, garden &amp; flat-roof mounts available</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## Verdict
 
 The Shelly Plus Plug UK is the best choice for privacy-conscious users, Home Assistant enthusiasts, and anyone wanting data independence. It's not the cheapest (Tapo P110 edges it), and the app is less polished (vs Eve Energy), but local control and flexibility are compelling.

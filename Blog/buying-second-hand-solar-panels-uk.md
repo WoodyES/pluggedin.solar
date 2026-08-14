@@ -75,6 +75,41 @@ A used panel is only half the system — you still need a micro inverter to conv
 
 **If [BS 7671](/blog/bs-7671-amendment-4-plain-english-guide) compliance matters.** Used panels from pre-2026 may not meet the new BSI product standard for plug-in solar. If compliance and insurance coverage matter to you, buy a certified new kit.
 
+
+---
+<div class="product-card">
+<div class="pc-accent"></div>
+<div class="pc-badge">New panels — with warranty</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Rigid Solar Panels</a></div>
+<div class="pc-price">From ~£249</div>
+<ul class="pc-features">
+<li>100W–400W options for any setup</li>
+<li>IP68 waterproof, tempered glass</li>
+<li>23% conversion efficiency</li>
+<li>Compatible with EcoFlow STREAM system</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View panels &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Buy new instead</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM 800W Kit</a></div>
+<div class="pc-price">From ~£799</div>
+<ul class="pc-features">
+<li>800W dual-panel plug-in solar kit</li>
+<li>600Wh battery with smart scheduling</li>
+<li>App monitoring with real-time generation data</li>
+<li>Balcony, garden &amp; flat-roof mounts available</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## The Bottom Line
 
 Second-hand solar panels can be a genuine bargain for specific use cases — sheds, experiments, large budget builds. For your main plug-in solar system, buy new. The warranty, compliance, and reliability premium is worth it over a 20-year lifespan.

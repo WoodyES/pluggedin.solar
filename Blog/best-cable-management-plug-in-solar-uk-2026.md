@@ -208,6 +208,26 @@ Total: ~£40. Supports longer runs and better water sealing.
 - Stainless clips (if coastal/salty environment): ~£8.
 Total: ~£60. Maximises longevity and aesthetics.
 
+
+---
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Tidy cable-managed kit</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM 800W Kit</a></div>
+<div class="pc-price">From ~£799</div>
+<ul class="pc-features">
+<li>800W dual-panel plug-in solar kit</li>
+<li>600Wh battery with smart scheduling</li>
+<li>App monitoring with real-time generation data</li>
+<li>Balcony, garden &amp; flat-roof mounts available</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## Verdict
 
 Cable management is one of the easiest, cheapest ways to ensure your plug-in solar system lasts 25 years instead of failing in 5.

@@ -65,6 +65,26 @@ The best way to see whether cleaning actually helps is to check your generation 
 
 Typical results: 5–15% improvement after cleaning panels that haven't been touched for 2–3 months. If you're seeing more than 20% improvement, you need to clean more frequently.
 
+
+---
+<div class="product-card">
+<div class="pc-accent"></div>
+<div class="pc-badge">Worth keeping clean</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Rigid Solar Panels</a></div>
+<div class="pc-price">From ~£249</div>
+<ul class="pc-features">
+<li>100W–400W options for any setup</li>
+<li>IP68 waterproof, tempered glass</li>
+<li>23% conversion efficiency</li>
+<li>Compatible with EcoFlow STREAM system</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View panels &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## Seasonal Cleaning Schedule
 
 **Spring (March–April):** Clean after pollen season. Tree pollen creates a sticky yellow film that rain alone won't shift.

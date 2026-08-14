@@ -57,6 +57,26 @@ At very low loads (below 5W), accuracy drops. This means the P110 may show 0W du
 
 **Eve Energy** — the [Eve Energy](https://amzn.to/4sSyWns) works via Matter/Thread protocol and integrates with Apple HomeKit. At ~£35, it's significantly more expensive for the same core function. Worth it only if you're deeply invested in the Apple ecosystem and want everything in one app.
 
+
+---
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Skip the plug — built-in monitoring</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM 800W Kit</a></div>
+<div class="pc-price">From ~£799</div>
+<ul class="pc-features">
+<li>800W dual-panel plug-in solar kit</li>
+<li>600Wh battery with smart scheduling</li>
+<li>App monitoring with real-time generation data</li>
+<li>Balcony, garden &amp; flat-roof mounts available</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## Why It's the First Thing to Buy
 
 Before spending money on your solar kit, the P110 probably isn't relevant. But the moment your system is installed, it should be the first accessory purchase you make. Without monitoring, you have no idea whether your system is working correctly, how much you're generating, or whether your savings expectations are realistic.

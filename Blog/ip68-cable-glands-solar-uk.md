@@ -71,6 +71,26 @@ A pack of 5 costs roughly the same as a single premium gland, so buy a few extra
 
 Unsure about cable sizing? Read our guide on [string vs parallel wiring for plug-in solar](/blog/plug-in-solar-string-vs-parallel-wiring-uk) — that'll help you understand what cables you need to run.
 
+
+---
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Pre-weatherproofed kit</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM 800W Kit</a></div>
+<div class="pc-price">From ~£799</div>
+<ul class="pc-features">
+<li>800W dual-panel plug-in solar kit</li>
+<li>600Wh battery with smart scheduling</li>
+<li>App monitoring with real-time generation data</li>
+<li>Balcony, garden &amp; flat-roof mounts available</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## Summary
 
 IP68 cable glands are cheap insurance against the UK's damp climate. They're essential at every outdoor cable penetration and take 5 minutes to install. Buy brass glands rated M20 IP68, tighten firmly (not hard), and optionally seal with silicone. Your system will thank you over the next 25 years.

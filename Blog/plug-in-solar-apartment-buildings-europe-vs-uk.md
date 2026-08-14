@@ -116,6 +116,27 @@ Apartment-specific considerations link to broader questions about permission and
 - [Neighbours and Plug-in Solar: Lessons from Germany](/blog/neighbours-plug-in-solar-uk) — managing social friction
 - [Renters' Rights and Solar in the UK](/blog/renters-rights-act-solar-uk) — emerging legislation
 
+
+---
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM 800W Kit</a></div>
+<div class="pc-price">From ~£799</div>
+<ul class="pc-features">
+<li>800W dual-panel plug-in solar kit</li>
+<li>600Wh battery with smart scheduling</li>
+<li>App monitoring with real-time generation data</li>
+<li>Balcony, garden &amp; flat-roof mounts available</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## The Bottom Line
 
 Europe's experience is clear: when buildings have clear, simple rules that permit solar, adoption is high. When rules are murky, when approval processes are complicated, or when decision-making is collective, adoption is slower and people get frustrated.

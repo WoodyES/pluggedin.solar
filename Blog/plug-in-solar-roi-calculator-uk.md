@@ -238,6 +238,41 @@ Don't overcomplicate it. Use simple payback (3.1 years) and 25-year profit (£10
 - **Robust to assumptions** – even pessimistic scenarios (high cost, low inflation) exceed 1,000% ROI
 - **Longer timeline = bigger advantage** – 15-year ROI (655%) is good; 25-year ROI (1,300%) is exceptional
 
+
+---
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Best ROI pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM 800W Kit</a></div>
+<div class="pc-price">From ~£799</div>
+<ul class="pc-features">
+<li>800W dual-panel plug-in solar kit</li>
+<li>600Wh battery with smart scheduling</li>
+<li>App monitoring with real-time generation data</li>
+<li>Balcony, garden &amp; flat-roof mounts available</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Limited time</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fsale" target="_blank" rel="noopener noreferrer sponsored">EcoFlow End of Summer Sale</a></div>
+<div class="pc-price">Up to 50% off</div>
+<ul class="pc-features">
+<li>Discounts on solar panels, batteries &amp; kits</li>
+<li>STREAM kits and accessories included</li>
+<li>Free UK delivery on qualifying orders</li>
+<li>Sale ends 31 August 2026</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fsale" target="_blank" rel="noopener noreferrer sponsored">Shop the sale &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>
+
+---
+
+
 ## Next Steps
 
 1. **Run the calculator** – see your exact annual saving for your postcode ([/calculator](/calculator))
