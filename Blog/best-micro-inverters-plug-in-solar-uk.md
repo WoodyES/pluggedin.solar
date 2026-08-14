@@ -2,7 +2,7 @@
 title: "Best Solar Micro Inverters UK 2026: Hoymiles, Enphase, APsystems"
 slug: best-micro-inverters-plug-in-solar-uk
 excerpt: "The UK's best solar micro inverters for plug-in solar in 2026 — Hoymiles, Enphase, APsystems compared on efficiency, price, warranty and DNO fit."
-date: 2026-08-16
+date: 2026-08-14
 category: Reviews & Comparisons
 cluster: micro-inverters
 ---

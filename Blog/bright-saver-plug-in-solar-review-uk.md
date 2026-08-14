@@ -2,7 +2,7 @@
 title: "Bright Saver Plug-In Solar UK: What Buyers Need to Know"
 slug: bright-saver-plug-in-solar-review-uk
 excerpt: "A UK buyer's guide to Bright Saver plug-in solar — availability, how the kits fit the 27 August 2026 rules, and the main alternatives."
-date: 2026-08-15
+date: 2026-08-14
 category: Reviews & Comparisons
 cluster: brand-reviews
 ---

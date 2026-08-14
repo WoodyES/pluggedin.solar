@@ -2,7 +2,7 @@
 title: "Plug-In Solar in a UK Heatwave: What August 2026 Owners Are Seeing"
 slug: plug-in-solar-heatwave-performance-august-2026-uk
 excerpt: "Why your 800W plug-in solar kit generates less on a 34C afternoon than a 22C one, and how UK owners can protect August output."
-date: 2026-08-15
+date: 2026-08-14
 category: Performance & Monitoring
 cluster: heatwave-performance
 ---

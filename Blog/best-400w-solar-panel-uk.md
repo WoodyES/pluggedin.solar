@@ -2,7 +2,7 @@
 title: "Best 400W Solar Panel UK 2026: Prices, Brands, Buying Guide"
 slug: best-400w-solar-panel-uk
 excerpt: "The best 400W solar panels for UK plug-in solar in 2026 — EcoFlow, Renogy, JA Solar, Trina compared with current prices and a full buying guide."
-date: 2026-08-16
+date: 2026-08-14
 category: Buying Guides
 cluster: panel-reviews
 ---

@@ -2,7 +2,7 @@
 title: "Bright Saver vs EcoFlow STREAM: Which UK Plug-In Kit Wins?"
 slug: bright-saver-vs-ecoflow-stream-uk
 excerpt: "A head-to-head UK buyer's comparison of Bright Saver plug-in solar and the EcoFlow STREAM 800W kit — hardware, ecosystem, price and DNO compliance."
-date: 2026-08-16
+date: 2026-08-14
 category: Reviews & Comparisons
 cluster: brand-reviews
 ---

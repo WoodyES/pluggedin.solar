@@ -2,7 +2,7 @@
 title: "Best Portable Power Station UK 2026: Ranked Buyer's Guide"
 slug: best-portable-power-stations-plug-in-solar-uk
 excerpt: "The best portable power stations to buy in the UK for 2026 — EcoFlow DELTA 2, Anker SOLIX C1000, and Jackery Explorer 1000 v2 compared with current prices."
-date: 2026-08-16
+date: 2026-08-14
 category: Buying Guides
 cluster: portable-power-stations
 ---

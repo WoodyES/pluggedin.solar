@@ -2,7 +2,7 @@
 title: "Craftstrom Plug-In Solar UK: What Buyers Should Know"
 slug: craftstrom-plug-in-solar-review-uk
 excerpt: "A UK buyer's guide to Craftstrom plug-in solar kits — how they fit the 27 August 2026 rules and how they compare to EcoFlow STREAM."
-date: 2026-08-15
+date: 2026-08-14
 category: Reviews & Comparisons
 cluster: brand-reviews
 ---
