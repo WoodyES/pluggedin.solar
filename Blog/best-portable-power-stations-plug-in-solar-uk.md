@@ -111,7 +111,7 @@ Don't buy a battery before you have data. Install your plug-in solar system, fit
 - How much you self-consume vs export
 - Whether your consumption pattern makes battery storage financially worthwhile
 
-For tariff optimisation to maximise battery value, see our [best energy tariff guide](/blog/best-energy-tariff-plug-in-solar-uk-2026). For the full financial analysis, see our [battery vs no battery guide](/blog/battery-storage-vs-no-battery-plug-in-solar-uk). To browse the current UK stock, check [Amazon UK's portable power station category](https://www.amazon.co.uk/s?k=portable+power+station).
+For tariff optimisation to maximise battery value, see our [best energy tariff guide](/blog/best-energy-tariff-plug-in-solar-uk-2026). For the full financial analysis, see our [battery vs no battery guide](/blog/battery-storage-vs-no-battery-plug-in-solar-uk). To browse the current UK stock, check [Amazon UK's portable power station category](https://www.amazon.co.uk/s?k=portable+power+station&tag=pluggedinsola-21).
 
 ### What is the best portable power station to buy in the UK in 2026?
 

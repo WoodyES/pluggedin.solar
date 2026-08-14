@@ -77,7 +77,7 @@ Whatever kit you pick, a handful of accessories make a real difference to output
 - A [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) (~£45) so you can chase seasonal sun angles rather than being locked to a fixed pitch.
 - A [TP-Link Tapo P110 smart plug](https://amzn.to/4m9Yh9U) (~£15) to monitor exactly how many kWh the kit is displacing at the socket — useful for confirming Bright Saver's claimed output against real-world numbers.
 - [IP68 cable glands](https://amzn.to/4dB57TY) if you are running the DC leads through a wall or window frame — the [cable weatherproofing guide](/blog/plug-in-solar-cable-routing-weatherproofing-reality-uk) covers why this matters.
-- A cheap search on [Amazon UK for "800w plug in solar kit"](https://www.amazon.co.uk/s?k=800w+plug+in+solar+kit) will surface the current stock, including Bright Saver's own Amazon listings if they run one.
+- A cheap search on [Amazon UK for "800w plug in solar kit"](https://www.amazon.co.uk/s?k=800w+plug+in+solar+kit&tag=pluggedinsola-21) will surface the current stock, including Bright Saver's own Amazon listings if they run one.
 
 ## The bottom line
 

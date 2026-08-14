@@ -39,7 +39,7 @@ A complete pair (2 × 400W panels) will therefore cost you anywhere from **£120
 
 ### JA Solar 405W Deep Blue — best value (~£100–130)
 
-JA Solar is one of the world's five largest panel manufacturers and the Deep Blue series is used by UK MCS-certified rooftop installers as their volume workhorse. The 405W variant is available through UK electrical wholesalers, several online DIY solar retailers, and increasingly on [Amazon UK](https://www.amazon.co.uk/s?k=ja+solar+400w+panel).
+JA Solar is one of the world's five largest panel manufacturers and the Deep Blue series is used by UK MCS-certified rooftop installers as their volume workhorse. The 405W variant is available through UK electrical wholesalers, several online DIY solar retailers, and increasingly on [Amazon UK](https://www.amazon.co.uk/s?k=ja+solar+400w+panel&tag=pluggedinsola-21).
 
 - 20.7% efficiency
 - 1,722 × 1,134 mm

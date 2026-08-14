@@ -90,7 +90,7 @@ Regardless of which brand wins your comparison, a few Amazon UK accessories impr
 - [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) (~£45) for seasonal angle changes
 - [TP-Link Tapo P110 smart plug](https://amzn.to/4m9Yh9U) (~£15) for socket-level output monitoring (essential for Bright Saver, useful even for STREAM as an independent check)
 - [IP68 cable glands](https://amzn.to/4dB57TY) for weatherproof cable runs through walls
-- Browse the [Amazon UK plug-in solar category](https://www.amazon.co.uk/s?k=plug+in+solar+kit) for current stock and prices
+- Browse the [Amazon UK plug-in solar category](https://www.amazon.co.uk/s?k=plug+in+solar+kit&tag=pluggedinsola-21) for current stock and prices
 
 ## The bottom line
 

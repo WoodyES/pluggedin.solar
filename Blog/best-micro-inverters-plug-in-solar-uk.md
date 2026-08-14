@@ -121,7 +121,7 @@ Once you have wired everything up and filed your [G98 with the DNO](/blog/g98-dn
 - Use a [Fluke 117 multimeter](https://amzn.to/4bSN4aq) (~£199) to confirm AC output at the socket sits at 230–253V and 50Hz ± 0.5Hz.
 - Plug a [TP-Link Tapo P110 smart plug](https://amzn.to/4m9Yh9U) (~£15) between inverter and wall socket for independent kWh logging — useful cross-check against the inverter's own app.
 - If output is intermittent or the inverter keeps tripping, work through the [micro inverter error codes guide](/blog/micro-inverter-error-codes-uk) and the [not-generating troubleshooting checklist](/blog/plug-in-solar-not-generating-troubleshooting-uk).
-- Browse [Amazon UK for solar multimeters and clamp meters](https://www.amazon.co.uk/s?k=solar+multimeter) if you do not already own one.
+- Browse [Amazon UK for solar multimeters and clamp meters](https://www.amazon.co.uk/s?k=solar+multimeter&tag=pluggedinsola-21) if you do not already own one.
 
 ## What UK plug-in solar micro inverters typically cost
 

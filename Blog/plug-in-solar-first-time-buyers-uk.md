@@ -108,7 +108,7 @@ For a generation of buyers who don't expect to stay in one house for 30 years, t
 
 **Month 3:** If your walls are uninsulated cavity, ring three cavity insulation firms and get quotes. Start the process.
 
-**Month 4–6:** Once you understand your consumption and baseline, install a [smart thermostat](https://www.amazon.co.uk/smart-thermostat/s) (£200–300, install yourself).
+**Month 4–6:** Once you understand your consumption and baseline, install a [smart thermostat](https://www.amazon.co.uk/smart-thermostat/s?tag=pluggedinsola-21) (£200–300, install yourself).
 
 **Month 7–12:** Get quotes for plug-in solar. Buy an [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) (~£699) system. Install it on your south-facing roof, balcony, or garden.
 

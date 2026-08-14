@@ -75,7 +75,7 @@ Craftstrom kits often ship without extras. Budget for these separately on Amazon
 - A [Renogy Adjustable Tilt Mount](https://amzn.to/4maeAng) (~£45) for seasonal angle changes — Craftstrom's factory bracket is fine but not adjustable in most configurations.
 - A [TP-Link Tapo P110 monitoring plug](https://amzn.to/4m9Yh9U) (~£15) to log output at the wall socket. Craftstrom does not publish an app, so this is the easiest way to see what you are actually generating.
 - [IP68 cable glands](https://amzn.to/4dB57TY) for clean cable entry through walls or window frames.
-- Browse current UK stock on [Amazon UK for "plug in solar kit"](https://www.amazon.co.uk/s?k=plug+in+solar+kit) — Craftstrom listings appear here alongside competitor kits.
+- Browse current UK stock on [Amazon UK for "plug in solar kit"](https://www.amazon.co.uk/s?k=plug+in+solar+kit&tag=pluggedinsola-21) — Craftstrom listings appear here alongside competitor kits.
 
 ## Bottom line
 
