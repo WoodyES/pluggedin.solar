@@ -3,7 +3,7 @@ slug: "ecoflow-stream-800w-vs-stream-ultra-uk"
 title: "EcoFlow STREAM vs STREAM Ultra: Which?"
 excerpt: "Head-to-head comparison of EcoFlow's STREAM 800W and STREAM Ultra. Battery or no battery? Here's how to decide for your situation."
 date: "2026-07-03"
-category: "Reviews & Comparisons"
+category: Reviews & Comparisons
 cluster: "buyer-readiness"
 priority: "medium"
 ---

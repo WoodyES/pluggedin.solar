@@ -3,7 +3,7 @@ title: "Is Plug-in Solar Worth It UK?"
 slug: "is-plug-in-solar-worth-it-uk"
 excerpt: "The honest answer: for some people, absolutely. For others, not yet. Here's how to figure out which you are."
 date: "2026-04-05"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "Savings & ROI"
 priority: "HIGH"
 wordcount: 3100

@@ -3,7 +3,7 @@ slug: plug-in-solar-regulation-history-uk
 title: "Plug-in Solar Regulation History UK: From Grey Area to Legal"
 excerpt: "How plug-in solar went from technically prohibited to government-endorsed in three years. The timeline of a quiet revolution."
 date: "2026-04-14"
-category: "Regulations & Policy"
+category: Regulations & Policy
 ---
 
 # Plug-in Solar Regulation History UK: From Grey Area to Legal
@@ -205,3 +205,17 @@ Plug-in solar didn't become legal overnight. It took three years of careful, inc
 That might seem slow. But it's how responsible regulators operate. They watch, they consult, they develop standards, and then they bless what works.
 
 For a deeper dive into the standards that matter to you, read our guide to [BS 7671 Amendment 4](/blog/bs-7671-amendment-4-plain-english-guide).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

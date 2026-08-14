@@ -3,7 +3,7 @@ title: "Monitoring Plug-in Solar with Home Assistant in the UK"
 slug: solar-panel-monitoring-home-assistant-uk
 excerpt: "Turn your plug-in solar data into dashboards, automations, and smart home integrations using Home Assistant."
 date: "2026-04-08"
-category: "Performance & Monitoring"
+category: Performance & Monitoring
 cluster: "performance"
 priority: 3
 wordcount: 800

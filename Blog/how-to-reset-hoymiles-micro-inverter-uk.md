@@ -183,3 +183,17 @@ A reset is your first response to most issues. Most of the time, it solves the p
 ---
 
 **Related reading:** [Understand Hoymiles error codes](/blog/micro-inverter-error-codes-uk) to diagnose exactly what's wrong before you reset. And if you suspect a panel fault, [test your panel output with a multimeter](/blog/how-to-test-solar-panel-output-multimeter-uk) to rule out DC-side issues. Use a [Tapo P110 smart plug](/blog/how-to-test-solar-panel-output-multimeter-uk) to monitor your system's real-time output and spot problems early.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

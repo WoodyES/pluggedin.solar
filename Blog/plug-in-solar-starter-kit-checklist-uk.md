@@ -3,7 +3,7 @@ title: "Plug-in Solar Starter Kit Checklist: Everything You Need"
 slug: plug-in-solar-starter-kit-checklist-uk
 excerpt: "The complete shopping list for your first plug-in solar installation. Panels, monitoring, tools, and accessories — nothing forgotten."
 date: "2026-04-08"
-category: "Installation"
+category: Installation
 cluster: "installation"
 priority: 5
 wordcount: 800

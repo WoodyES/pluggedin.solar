@@ -3,7 +3,7 @@ title: "Time-of-Use Tariffs: Solar Optimisation"
 slug: smart-meter-time-of-use-tariffs-solar-uk
 excerpt: "Time-of-use tariffs pay you more for exporting during peak hours and charge less overnight. Here's how they work with plug-in solar and a smart meter."
 date: "2026-05-04"
-category: "Getting Started"
+category: Getting Started
 cluster: "smart-meters"
 priority: 4
 wordcount: 1500
@@ -67,3 +67,17 @@ Use our [savings calculator](/calculator) to model the difference for your speci
 - [Best time-of-use tariffs for solar in 2026](/blog/best-time-of-use-tariffs-uk-2026)
 - [Best energy tariffs for plug-in solar](/blog/best-energy-tariff-plug-in-solar-uk-2026)
 - [Battery storage vs no battery](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

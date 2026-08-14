@@ -3,7 +3,7 @@ title: "Balcony Solar Installation: A First-Timer's Walkthrough"
 slug: "balcony-solar-installation-guide-uk"
 excerpt: "A narrative walkthrough of a typical balcony install. Unboxing through first generation. The emotional arc: anxiety to pleasant surprise to satisfaction."
 date: "2026-04-05"
-category: "Installation"
+category: Installation
 cluster: "Installation How-To"
 priority: "HIGH"
 wordcount: 2000
@@ -198,3 +198,17 @@ Some will ask how you did it. Tell them it took an afternoon and required no spe
 For a comprehensive step-by-step guide covering all installation types, see our [full installation guide](/blog/how-to-install-plug-in-solar-uk). For monitoring and understanding your generation data, come back to the app whenever you like—the real-time numbers are addictive.
 
 Welcome to the plug-in solar world.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

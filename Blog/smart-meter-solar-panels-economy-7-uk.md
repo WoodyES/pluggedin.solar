@@ -3,7 +3,7 @@ title: "Economy 7, Smart Meters & Solar UK"
 slug: smart-meter-solar-panels-economy-7-uk
 excerpt: "Still on Economy 7? Here's how switching to a smart meter changes things when you add plug-in solar — and why you should do it before panels arrive."
 date: "2026-05-04"
-category: "Performance & Monitoring"
+category: Performance & Monitoring
 cluster: "smart-meters"
 priority: 5
 wordcount: 1400
@@ -58,3 +58,17 @@ This depends on your usage pattern. Model it before switching:
 - [SMETS1 vs SMETS2 for solar](/blog/smets1-vs-smets2-solar-panels-uk)
 - [Best energy tariffs for plug-in solar](/blog/best-energy-tariff-plug-in-solar-uk-2026)
 - [Octopus Flux review for solar users](/blog/octopus-flux-tariff-review-uk)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

@@ -3,7 +3,7 @@ slug: "plug-in-solar-retirement-bungalows-uk"
 title: "Plug-in Solar for Retirees: Simple Setup"
 excerpt: "Why retirees are ideal for plug-in solar. High daytime use, easy bungalow access, pension-friendly savings of £200-300 per year."
 date: "2026-07-03"
-category: "Property Guides"
+category: Property Guides
 cluster: "property-types"
 priority: "medium"
 ---

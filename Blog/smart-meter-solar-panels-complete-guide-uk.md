@@ -3,7 +3,7 @@ title: "Smart Meters & Solar: Complete UK Guide"
 slug: smart-meter-solar-panels-complete-guide-uk
 excerpt: "Smart meters and solar panels UK guide. SMETS1 vs SMETS2, export tracking, plug-in solar compatibility, and SEG payments."
 date: "2026-05-04"
-category: "Getting Started"
+category: Getting Started
 cluster: "smart-meters"
 priority: 1
 wordcount: 2200

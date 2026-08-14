@@ -3,7 +3,7 @@ title: "Renters' Rights Act 2025 and Plug-in Solar"
 slug: "renters-rights-act-solar-uk"
 excerpt: "The Renters' Rights Act 2025 fundamentally changed what you can ask your landlord to allow. Plug-in solar is a case study in how it works."
 date: "2026-04-05"
-category: "Renters & Flats"
+category: Renters & Flats
 cluster: "Renters & Flat-Dwellers"
 priority: "HIGH"
 wordcount: 1850
@@ -126,3 +126,17 @@ But for right now, in April 2026, the key thing to know is: you have the legal r
 Plug-in solar is one of the first improvements a generation of renters will install under this new law.
 
 For more on the practical side of installing solar as a [renter](/blog/rented-flat-solar-panels-uk), see [Plug-in Solar for Renters UK: Your Complete Guide](/blog/plug-in-solar-for-renters-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

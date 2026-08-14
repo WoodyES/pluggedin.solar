@@ -3,7 +3,7 @@ title: "SMETS1 vs SMETS2: Which for Solar?"
 slug: smets1-vs-smets2-solar-panels-uk
 excerpt: "SMETS1 meters can't record export and often go dumb when you switch supplier. Here's the practical difference for solar owners and how to upgrade for free."
 date: "2026-05-04"
-category: "Performance & Monitoring"
+category: Performance & Monitoring
 cluster: "smart-meters"
 priority: 3
 wordcount: 1400
@@ -69,3 +69,17 @@ For plug-in solar, this is rarely an issue — the 800W regulatory cap means you
 - [Smart meters and solar panels: complete guide](/blog/smart-meter-solar-panels-complete-guide-uk)
 - [How to enable your export register](/blog/smart-meter-export-register-solar-uk)
 - [UK smart meter rollout and plug-in solar](/blog/plug-in-solar-smart-meter-rollout-uk)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Ultra Pro</a></div>
+<div class="pc-price">From ~£1,499</div>
+<ul class="pc-features">
+<li>Higher-capacity STREAM variant with expandable battery pairing</li>
+<li>Suits tariff arbitrage and load-shifting use cases</li>
+<li>App scheduling and export monitoring</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

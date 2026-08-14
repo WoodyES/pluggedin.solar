@@ -3,7 +3,7 @@ slug: "desnz-plug-in-solar-consultation-july-2026"
 title: "DESNZ Plug-in Solar Consultation Explained"
 excerpt: "The DESNZ consultation on plug-in solar closed 30 June 2026. Here's what it proposes, what happens next, and what it means for buyers."
 date: "2026-07-03"
-category: "Regulations & Policy"
+category: Regulations & Policy
 cluster: "government-updates"
 priority: "medium"
 ---

@@ -3,7 +3,7 @@ title: "RCD Tripping After Plug-in Solar? Here's Why"
 slug: plug-in-solar-rcd-tripping-uk
 excerpt: "Germany's million installs flagged this fast: certain RCDs don't play well with micro-inverters. Here's what type you need and how to fix it."
 date: "2026-04-11"
-category: "Troubleshooting"
+category: Troubleshooting
 cluster: "Technical"
 priority: 1
 wordcount: 1100
@@ -70,3 +70,17 @@ If you have a confirmed Type A installation and trips are still happening, the i
 - **Actual earth fault** — before assuming it's nuisance tripping, rule out a real fault. A cable damaged by UV, birds, or movement can create genuine leakage. Have it checked.
 
 For more on testing your system's electrical performance, see our [troubleshooting guide](/blog/plug-in-solar-not-generating-troubleshooting-uk). If you're not sure whether your wiring is up to the job, our [old wiring guide](/blog/plug-in-solar-old-wiring-uk) explains what to look for.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

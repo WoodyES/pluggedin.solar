@@ -3,7 +3,7 @@ title: "Plug-in Solar: Where to Put Panels"
 slug: "where-to-install-plug-in-solar-uk"
 excerpt: "Where to install plug-in solar UK. Every surface covered: balcony, garden, concrete, flat roof, walls, and decking."
 date: "2026-04-05"
-category: "Installation"
+category: Installation
 cluster: "Installation Surfaces"
 priority: "HIGH"
 wordcount: 2800
@@ -154,3 +154,17 @@ Start by walking around your home and noting which surfaces face south. Then che
 For more detail on any specific surface, read our dedicated articles: [ground-mounted](/blog/ground-mount-plug-in-solar-uk), [balcony rail](/blog/balcony-rail-solar-mount-uk), [flat roof](/blog/flat-roof-ballast-solar-mount-uk), [decking](/blog/solar-panels-on-decking-uk), [walls](/blog/wall-mount-plug-in-solar-uk). And if you're still uncertain about your location, use our [savings calculator](/calculator) to model what you might generate from your best option—that clarity often helps the final decision.
 
 The installation is the easy part. Choosing the right surface is where the thinking goes. Get that right, and everything else follows.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

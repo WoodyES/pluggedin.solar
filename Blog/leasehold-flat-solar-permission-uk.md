@@ -3,7 +3,7 @@ title: "Leasehold: Freeholder Permission Solar"
 slug: leasehold-flat-solar-permission-uk
 excerpt: "Your lease says you need permission. Your freeholder hasn't replied. Here's how to get approval for plug-in solar in a leasehold flat."
 date: "2026-04-11"
-category: "Getting Started"
+category: Getting Started
 cluster: "Renters & Flat-Dwellers"
 priority: 2
 wordcount: 900

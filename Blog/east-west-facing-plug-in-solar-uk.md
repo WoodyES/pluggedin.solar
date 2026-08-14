@@ -3,7 +3,7 @@ title: "East or West Facing: Is Plug-in Solar Still Worth It?"
 slug: east-west-facing-plug-in-solar-uk
 excerpt: "Your balcony faces east. Or west. Is plug-in solar still worthwhile? The honest answer — with real UK generation figures."
 date: "2026-04-11"
-category: "Getting Started"
+category: Getting Started
 cluster: "Savings & ROI"
 priority: 2
 wordcount: 900

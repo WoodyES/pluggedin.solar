@@ -3,7 +3,7 @@ title: "Flat Roof Ballast: No-Drill Mounting"
 slug: "flat-roof-ballast-solar-mount-uk"
 excerpt: "Flat roof ballast mounting for plug-in solar. No drilling required. How it works, weight needed, and what to check first."
 date: "2026-04-05"
-category: "Installation"
+category: Installation
 cluster: "Installation Surfaces"
 priority: "MED"
 wordcount: 1200
@@ -108,3 +108,17 @@ Tick the boxes:
 If you've ticked all five, ballast mounting is a good option. You'll generate at optimal angle, the installation is reversible, and it's straightforward to manage.
 
 For more on other mounting options, see our [surface placement guide](/blog/where-to-install-plug-in-solar-uk). For a detailed walkthrough of installation, read our [how-to guide](/blog/how-to-install-plug-in-solar-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

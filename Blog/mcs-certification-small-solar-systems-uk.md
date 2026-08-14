@@ -3,7 +3,7 @@ slug: mcs-certification-small-solar-systems-uk
 title: "MCS Certification: Do You Need It?"
 excerpt: "MCS certification unlocks government schemes, but plug-in solar is a DIY game. Here's what you actually lose—and whether it matters."
 date: "2026-04-14"
-category: "Regulations & Policy"
+category: Regulations & Policy
 ---
 
 # MCS Certification for Small Solar Systems UK: Do You Need It?
@@ -116,3 +116,17 @@ If you want professional installation, warranty support, and SEG income, you'll 
 The choice depends on your budget and priorities, not on safety or legality.
 
 For a full breakdown of the regulations you do need to follow, read our guide to [BS 7671 Amendment 4](/blog/bs-7671-amendment-4-plain-english-guide) and the [UK plug-in solar law change](/blog/uk-plug-in-solar-law-change-2026).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

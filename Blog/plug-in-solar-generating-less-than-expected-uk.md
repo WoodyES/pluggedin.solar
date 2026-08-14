@@ -3,7 +3,7 @@ title: "Plug-in Solar Generating Less Than Expected?"
 slug: plug-in-solar-generating-less-than-expected-uk
 excerpt: "The single most common post-install question from German Balkonkraftwerk owners. Nine times out of ten, nothing is wrong. Here's what's actually happening."
 date: "2026-04-11"
-category: "Troubleshooting"
+category: Troubleshooting
 cluster: "Technical"
 priority: 1
 wordcount: 1200

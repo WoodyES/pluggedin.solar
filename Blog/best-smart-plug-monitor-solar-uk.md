@@ -3,7 +3,7 @@ title: "Best Smart Plugs for Monitoring Solar Output in the UK"
 slug: best-smart-plug-monitor-solar-uk
 excerpt: "Track your solar generation in real time with a smart plug. Tapo, Shelly, or Eve—here's how to choose."
 date: "2026-04-06"
-category: "Performance & Monitoring"
+category: Performance & Monitoring
 cluster: "Tools & Monitoring"
 priority: 1
 wordcount: 1500
@@ -170,3 +170,17 @@ If you ever sell your house and leave the system, you'll have documented proof o
 A smart plug is probably the single most useful monitoring tool you can fit to a plug-in solar system. At £12–30, it pays for itself in the first month by helping you understand your system and spot problems early.
 
 For more monitoring options and integrations, check out our guides on [choosing an energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) and [calculating your solar savings](/blog/how-much-does-plug-in-solar-save-uk). And if you want to know what you can actually generate, we've got a real-world guide on [how much electricity does balcony solar actually produce](/blog/how-much-does-balcony-solar-actually-generate).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

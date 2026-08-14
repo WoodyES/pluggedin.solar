@@ -3,7 +3,7 @@ title: "Flat Roof Solar UK: Ballast Mounting"
 slug: "flat-roof-plug-in-solar-uk"
 excerpt: "Flat roof plug-in solar UK guide. Ballast-mounted panels on extensions and garages — no drilling, no mess, just generation."
 date: "2026-04-05"
-category: "Installation"
+category: Installation
 cluster: "Home Roofs"
 priority: "HIGH"
 wordcount: 2000

@@ -3,7 +3,7 @@ title: "How to Check Your Solar Savings on Your Smart Meter"
 slug: smart-meter-solar-savings-how-to-check-uk
 excerpt: "Step-by-step method for calculating exactly how much your plug-in solar is saving you, using your smart meter data and supplier app."
 date: "2026-05-04"
-category: "Use Cases"
+category: Use Cases
 cluster: "smart-meters"
 priority: 4
 wordcount: 1400
@@ -87,3 +87,17 @@ For ongoing tracking without manual maths:
 - [Does plug-in solar affect your energy bill immediately?](/blog/does-plug-in-solar-affect-energy-bill-immediately-uk)
 - [Is plug-in solar a good investment in 2026?](/blog/is-plug-in-solar-good-investment-uk-2026)
 - [Calculate your exact savings by postcode](/calculator)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Ultra Pro</a></div>
+<div class="pc-price">From ~£1,499</div>
+<ul class="pc-features">
+<li>Higher-capacity STREAM variant with expandable battery pairing</li>
+<li>Suits tariff arbitrage and load-shifting use cases</li>
+<li>App scheduling and export monitoring</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

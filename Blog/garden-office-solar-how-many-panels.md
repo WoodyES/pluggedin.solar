@@ -3,7 +3,7 @@ title: "How Many Solar Panels Does a Garden Office Actually Need?"
 slug: "how-many-solar-panels-for-garden-office"
 excerpt: "Practical sizing guide for garden offices. What 400W and 800W systems can actually power, with realistic numbers."
 date: "2026-04-05"
-category: "Property Guides"
+category: Property Guides
 cluster: "Garden Offices & Rooms"
 priority: "MED"
 wordcount: 1500

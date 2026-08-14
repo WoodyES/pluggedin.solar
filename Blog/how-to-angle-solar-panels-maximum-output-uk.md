@@ -3,7 +3,7 @@ title: "Angling Solar Panels for Max Output UK"
 slug: how-to-angle-solar-panels-maximum-output-uk
 excerpt: "The difference between a flat panel and a well-angled one can be 30% of your annual output. Here's the optimal angle for every UK scenario."
 date: "2026-04-11"
-category: "Performance & Monitoring"
+category: Performance & Monitoring
 cluster: "Technical Guides"
 priority: 1
 wordcount: 1000
@@ -87,3 +87,17 @@ If you're using a fixed mount and want to verify the angle:
 Monitor the impact of your angle choice with a [Tapo P110](https://amzn.to/4m9Yh9U) on the inverter output. If you adjust the angle and see a consistent output improvement over a week of similar weather, you've found a better position.
 
 For the full generation data by angle and orientation, see our [monthly generation guide](/blog/how-much-power-solar-panel-generate-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

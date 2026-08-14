@@ -3,7 +3,7 @@ title: "Plug-in Solar and Home Insurance: What You Need to Know"
 slug: plug-in-solar-home-insurance-uk
 excerpt: "Plug-in solar and home insurance UK. What to tell your insurer and why BS 7671 compliance matters for your cover."
 date: "2026-04-06"
-category: "Regulations & Policy"
+category: Regulations & Policy
 cluster: "Insurance & Risk"
 priority: 1
 wordcount: 1800
@@ -141,3 +141,17 @@ The insurance question doesn't sit in isolation. You'll also want to understand 
 Right now, plug-in solar is a grey zone for insurers. It's not illegal, but it's not covered by the standards they rely on. That changes in July 2026. Until then, tell your insurer what you're doing, buy the safest kit available, and don't hide anything. Once compliant kits arrive, this becomes a non-issue. The insurance peace of mind will finally catch up with the technology.
 
 The key lesson: transparency beats secrecy every time. An insurer who knows what you've done and doesn't object has very limited grounds to deny a claim later. An insurer who finds out later that you concealed something can refuse to pay. Make sure you're in the first situation, not the second.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

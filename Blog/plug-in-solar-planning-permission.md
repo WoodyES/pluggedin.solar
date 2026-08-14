@@ -3,7 +3,7 @@ title: "Plug-in Solar: Planning Permission?"
 slug: "plug-in-solar-planning-permission"
 excerpt: "Does plug-in solar need planning permission? No — here's the full legal picture and the few exceptions to know about."
 date: "2026-04-10"
-category: "Regulations & Policy"
+category: Regulations & Policy
 cluster: "Legal & Regulatory"
 priority: "HIGH"
 wordcount: 1600

@@ -3,7 +3,7 @@ title: "Smart Meter Wrong After Installing Solar"s What's Happening"
 slug: smart-meter-showing-wrong-readings-solar-uk
 excerpt: "Erratic readings, spinning backwards, or costs that don't add up — why your smart meter behaves oddly with solar and when you actually need to worry."
 date: "2026-05-04"
-category: "Use Cases"
+category: Use Cases
 cluster: "smart-meters"
 priority: 3
 wordcount: 1500
@@ -74,3 +74,17 @@ For real-time verification, a [smart plug with energy monitoring](/blog/best-sma
 - [My smart meter seems wrong since installing solar](/blog/plug-in-solar-smart-meter-issues-uk)
 - [How to read your smart meter with plug-in solar](/blog/how-to-read-smart-meter-plug-in-solar-uk)
 - [Smart meter not showing solar generation?](/blog/smart-meter-not-showing-solar-generation-uk)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

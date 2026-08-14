@@ -3,7 +3,7 @@ slug: "plug-in-solar-first-week-setup-guide-uk"
 title: "Your First Week with Plug-in Solar: Setup Guide"
 excerpt: "Day-by-day guide to your first week with plug-in solar. From unboxing to load-shifting, get the most from your system from day one."
 date: "2026-07-03"
-category: "Getting Started"
+category: Getting Started
 cluster: "buyer-readiness"
 priority: "medium"
 ---
@@ -161,3 +161,17 @@ With a solid first week behind you, you are ready to optimise. Over the coming w
 - **Plan for the seasons.** Generation will change significantly throughout the year. Read our [year one guide](/blog/plug-in-solar-what-to-expect-first-year-uk) for what to expect month by month.
 
 The first week is about getting set up and understanding the basics. The real savings build over months and years — and they start now.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

@@ -3,7 +3,7 @@ title: "Plug-in Solar & Neighbours: Disputes Explained"
 slug: plug-in-solar-neighbour-disputes-shading-uk
 excerpt: "Plug-in solar and neighbours UK. Disputes, shading issues, and what the law says — lessons from Germany's experience."
 date: "2026-04-11"
-category: "Regulations & Policy"
+category: Regulations & Policy
 cluster: "Legal & Regulatory"
 priority: 2
 wordcount: 950
@@ -60,3 +60,17 @@ The vast majority of neighbour issues with plug-in solar arise not from actual h
 Especially in terraced houses, semi-detached properties, or blocks of flats: tell your immediate neighbours what you're doing before you do it. Show them the kit. Explain the [G98](/blog/g98-dno-notification-plug-in-solar) notification process. Most people are curious and positive. The small minority who might object are better identified before brackets are drilled into walls than after.
 
 For leasehold-specific guidance on getting approval through the right channels, see our [leasehold guide](/blog/leasehold-flat-solar-permission-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

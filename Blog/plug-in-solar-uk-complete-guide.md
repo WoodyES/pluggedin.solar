@@ -3,7 +3,7 @@ title: "Plug-in Solar UK: The Complete 2026 Guide"
 slug: "plug-in-solar-uk"
 excerpt: "The complete guide to plug-in solar UK. What it is, how it works, costs, savings, and your practical next steps."
 date: "2026-04-05"
-category: "Getting Started"
+category: Getting Started
 cluster: "Category Authority"
 priority: "HIGH"
 wordcount: 3100

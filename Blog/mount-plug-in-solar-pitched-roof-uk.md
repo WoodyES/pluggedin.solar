@@ -3,7 +3,7 @@ title: "Pitched Roof: Mount Plug-in Solar"
 slug: "mount-plug-in-solar-pitched-roof-uk"
 excerpt: "Pitched roofs are standard in the UK, but they're not ideal for plug-in solar. Here's the honest assessment of what's possible and what it costs."
 date: "2026-04-05"
-category: "Installation"
+category: Installation
 cluster: "Home Roofs"
 priority: "MED"
 wordcount: 1500
@@ -175,3 +175,17 @@ Pitched roof mounting sits in a difficult middle: too invasive to be truly "plug
 For detailed guidance on alternative mounting options, see the [plug-in solar installation overview](/blog/plug-in-solar-on-roof-uk). For ground and wall mounting specifics, see the [flat roof ballast mounting guide](/blog/flat-roof-plug-in-solar-uk), which covers rack-based mounting principles applicable to ground systems as well.
 
 If pitched roof mounting is genuinely your only option, be deliberate: research your wind zone, choose appropriate brackets, seal any penetrations carefully, and monitor for leaks. Done well, it works. Done carelessly, it's a path to a roof leak.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

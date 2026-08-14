@@ -3,7 +3,7 @@ title: "Anker SOLIX RS40P Review UK: The 800W Alternative"
 slug: "anker-solix-plug-in-solar-uk"
 excerpt: "Expert review of Anker's SOLIX RS40P plug-in solar kit—the 800W option that undercuts EcoFlow. Specs, value, and honest assessment for UK buyers."
 date: "2026-04-05"
-category: "Reviews & Comparisons"
+category: Reviews & Comparisons
 cluster: "Product Reviews"
 priority: "HIGH"
 wordcount: 2000

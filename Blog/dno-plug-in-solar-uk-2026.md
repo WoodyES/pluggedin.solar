@@ -3,7 +3,7 @@ slug: dno-plug-in-solar-uk-2026
 title: "What DNOs Say About Plug-in Solar UK in 2026"
 excerpt: "Distribution Network Operators have mostly said yes to plug-in solar. Here's what they're actually watching out for."
 date: "2026-04-14"
-category: "Regulations & Policy"
+category: Regulations & Policy
 ---
 
 # What DNOs Say About Plug-in Solar UK in 2026
@@ -117,3 +117,17 @@ Germany's experience shows that 1M+ systems can coexist with the grid—with sen
 For the next few years, notification and compliance are all that's required. After that, things may get more sophisticated, but not less favourable to solar installers.
 
 For more on the notification process and safety standards, see our guide to [BS 7671 Amendment 4](/blog/bs-7671-amendment-4-plain-english-guide).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

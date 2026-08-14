@@ -3,7 +3,7 @@ title: "Can You Use Solar Panels with a Prepayment Smart Meter?"
 slug: smart-meter-solar-panels-prepayment-uk
 excerpt: "Yes — plug-in solar works with prepayment meters, and you'll see your credit last longer. Here's what's different and how to get the most from it."
 date: "2026-05-04"
-category: "Use Cases"
+category: Use Cases
 cluster: "smart-meters"
 priority: 5
 wordcount: 1300
@@ -62,3 +62,17 @@ If you're on a SMETS1 prepayment meter, request a [free upgrade to SMETS2](/blog
 - [Do I need a smart meter for solar panels?](/blog/do-i-need-smart-meter-for-solar-panels-uk)
 - [Does plug-in solar affect your energy bill immediately?](/blog/does-plug-in-solar-affect-energy-bill-immediately-uk)
 - [Can you make money from plug-in solar?](/blog/can-you-make-money-plug-in-solar-uk)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Ultra Pro</a></div>
+<div class="pc-price">From ~£1,499</div>
+<ul class="pc-features">
+<li>Higher-capacity STREAM variant with expandable battery pairing</li>
+<li>Suits tariff arbitrage and load-shifting use cases</li>
+<li>App scheduling and export monitoring</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

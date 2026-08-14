@@ -3,7 +3,7 @@ title: "Outdoor Sockets for Plug-in Solar: Safety"
 slug: best-outdoor-socket-plug-in-solar-uk
 excerpt: "BS 7671 requires a dedicated circuit for outdoor solar. Learn IP ratings, RCD protection, and why getting your electrics right is non-negotiable."
 date: "2026-04-06"
-category: "Installation"
+category: Installation
 cluster: "compliance"
 priority: 8
 wordcount: 1500
@@ -114,3 +114,17 @@ Here's how a typical plug-in solar outdoor socket setup works: your solar invert
 Alternatively, if your battery or inverter lives outside (a weatherproof cabinet, perhaps), the outdoor socket powers that directly. Either way, the socket itself needs the same protection—dedicated circuit, RCD, proper IP rating.
 
 For the full context on getting plug-in solar installed safely, see our guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you want to understand the regulatory context better, we've got a deeper dive into [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-plug-in-solar) and [weatherproof plug-in solar installation](/blog/weatherproof-plug-in-solar-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

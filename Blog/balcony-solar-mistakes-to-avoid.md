@@ -130,3 +130,17 @@ None of these mistakes are inevitable. They're all preventable with a little pla
 For more detailed information on the safety and regulatory side, read [BS 7671 Amendment 4 and plug-in solar](/blog/bs7671-amendment-4-plug-in-solar). And if you want to understand realistic UK output expectations, check our piece on [how much does balcony solar actually generate](/blog/how-much-does-balcony-solar-actually-generate).
 
 The systems that last longest and generate the most are the ones installed with care and attention to detail. You're about to join millions of European households making their own renewable energy. Do it right.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

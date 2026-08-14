@@ -3,7 +3,7 @@ title: "British Gas vs Octopus vs E.ON: Best for Plug-in Solar UK"
 slug: british-gas-vs-octopus-vs-eon-solar-uk
 excerpt: "Three of the UK's biggest energy suppliers compared specifically for solar households. The differences are bigger than you'd expect."
 date: "2026-04-11"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "Tariff & Finance"
 priority: 1
 wordcount: 1100

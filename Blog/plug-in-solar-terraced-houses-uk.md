@@ -3,7 +3,7 @@ slug: "plug-in-solar-terraced-houses-uk"
 title: "Plug-in Solar for Terraced Houses UK"
 excerpt: "Complete guide to plug-in solar on UK terraced houses. Mid-terrace vs end-terrace options, rear extensions, and garden mounts."
 date: "2026-07-03"
-category: "Property Guides"
+category: Property Guides
 cluster: "property-types"
 priority: "medium"
 ---
@@ -134,3 +134,17 @@ For most terraced properties, the decision tree is straightforward:
 4. **Upper-floor flat in a converted terrace?** Balcony rail mount or window-level bracket
 
 An 800W system on a well-positioned terrace can generate 700-850 kWh per year, saving £200-270 annually at current electricity rates. The payback period for a compliant kit is typically 2-4 years — competitive with any other home improvement investment.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

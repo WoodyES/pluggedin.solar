@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Solar & EV Charging: Combined"
 slug: plug-in-solar-ev-charging-uk
-category: "Property Guides"
+category: Property Guides
 date: "2026-04-13"
 excerpt: "Discover how to use plug-in solar to offset EV charging costs, the role of time-of-use tariffs, and realistic daily mileage from an 800W system."
 priority: 1

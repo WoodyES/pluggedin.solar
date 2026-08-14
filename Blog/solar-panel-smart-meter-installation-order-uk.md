@@ -3,7 +3,7 @@ title: "Smart Meter: Before or After Solar?"
 slug: solar-panel-smart-meter-installation-order-uk
 excerpt: "The right order matters. Get the smart meter first and you'll have baseline data and export capability from day one."
 date: "2026-05-04"
-category: "Use Cases"
+category: Use Cases
 cluster: "smart-meters"
 priority: 5
 wordcount: 1200
@@ -66,3 +66,17 @@ You've missed some export data and baseline comparison, but the ongoing benefits
 - [Do I need a smart meter for solar panels?](/blog/do-i-need-smart-meter-for-solar-panels-uk)
 - [How to install plug-in solar](/blog/how-to-install-plug-in-solar-uk)
 - [Plug-in solar buying checklist](/blog/plug-in-solar-buying-checklist-uk)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

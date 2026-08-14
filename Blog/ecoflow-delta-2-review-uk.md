@@ -3,7 +3,7 @@ title: "EcoFlow DELTA 2 Review UK: Is It Worth It for Plug-in Solar?"
 slug: ecoflow-delta-2-review-uk
 excerpt: "The most popular portable power station for pairing with plug-in solar in Germany. Here's whether the DELTA 2 makes financial sense for UK owners."
 date: "2026-04-11"
-category: "Reviews & Comparisons"
+category: Reviews & Comparisons
 cluster: "Product Reviews"
 priority: 1
 wordcount: 1200

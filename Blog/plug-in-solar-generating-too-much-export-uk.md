@@ -3,7 +3,7 @@ title: "Plug-in Solar Generating More Than You Use?"
 slug: plug-in-solar-generating-too-much-export-uk
 excerpt: "In summer, a well-placed 800W system can easily outrun a home's daytime consumption. Here's what happens to the excess and what you can do about it."
 date: "2026-04-11"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "Financial"
 priority: 1
 wordcount: 950

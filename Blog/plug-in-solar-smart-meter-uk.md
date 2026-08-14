@@ -3,7 +3,7 @@ title: "Plug-in Solar and Smart Meters: What You Need to Know"
 slug: plug-in-solar-smart-meter-uk
 excerpt: "Will your smart meter work with plug-in solar? Can you see generation? Will it affect your bills? Everything answered."
 date: "2026-04-08"
-category: "Installation"
+category: Installation
 cluster: "performance"
 priority: 5
 wordcount: 800

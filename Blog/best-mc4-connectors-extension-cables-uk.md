@@ -3,7 +3,7 @@ title: "MC4 Connectors & Extension Cables Guide"
 slug: best-mc4-connectors-extension-cables-uk
 excerpt: "MC4 connectors and extension cables for plug-in solar. Quality, cable lengths, and which brands to trust in the UK."
 date: "2026-04-06"
-category: "Buying Guides"
+category: Buying Guides
 cluster: "electrical"
 priority: 8
 wordcount: 1500

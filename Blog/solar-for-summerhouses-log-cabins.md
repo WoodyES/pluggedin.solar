@@ -1,7 +1,7 @@
 ---
 title: "Solar for Summerhouses, Log Cabins, and Garden Bars UK"
 slug: "summerhouse-solar-panels-uk"
-category: "Property Guides"
+category: Property Guides
 cluster: "Sheds & Outbuildings"
 priority: "MED"
 excerpt: "Run a TV, a fridge, and ambient lighting in your garden retreat without mains power. Here's what's realistic with modern solar and batteries."

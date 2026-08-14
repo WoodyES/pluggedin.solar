@@ -3,7 +3,7 @@ slug: "plug-in-solar-battery-arbitrage-uk"
 title: "Battery Arbitrage with Plug-in Solar UK"
 excerpt: "How to profit from cheap overnight electricity and peak export rates using plug-in solar and battery storage in the UK."
 date: "2026-07-03"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "tariff-optimisation"
 priority: "medium"
 ---

@@ -3,7 +3,7 @@ title: "BSI Standard Plug-in Solar: July 2026"
 slug: bsi-product-standard-plug-in-solar-july-2026
 excerpt: "The product standard that decides what can legally be sold as a UK plug-in solar kit. Here's what it covers, what it means for buyers, and the timeline."
 date: "2026-04-11"
-category: "Regulations & Policy"
+category: Regulations & Policy
 cluster: "News & Regulatory"
 priority: 1
 wordcount: 1000

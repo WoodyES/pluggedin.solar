@@ -3,7 +3,7 @@ slug: "plug-in-solar-autumn-uk-guide"
 title: "Plug-in Solar in Autumn: What Changes"
 excerpt: "Solar generation drops in autumn but doesn't stop. Here's what to expect month by month, plus maintenance tasks to keep your system performing."
 date: "2026-07-03"
-category: "Maintenance"
+category: Maintenance
 cluster: "seasonal"
 priority: "medium"
 ---

@@ -213,3 +213,17 @@ Annual output for an 800W system ranges from 718 kWh (Scotland) to 1,073 kWh (So
 Real-world savings depend on self-consumption alignment and battery ownership. Without battery storage, summer plug-in solar wastes 30–50% of generation, but spring and autumn are excellent. Winter is nearly useless without battery or specific consumption patterns.
 
 Use this guide as a reference each month, and compare your actual generation (from your monitoring app) against these PVGIS expectations. You'll quickly develop intuition for when your system is performing normally and when something is amiss (shade, dirty panels, monitoring failure).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

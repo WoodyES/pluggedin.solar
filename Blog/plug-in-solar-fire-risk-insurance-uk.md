@@ -3,7 +3,7 @@ title: "Plug-in Solar: Fire Risk & Insurance"
 slug: plug-in-solar-fire-risk-insurance-uk
 excerpt: "Will plug-in solar invalidate your home insurance? Is there a real fire risk? The facts — without the fear-mongering."
 date: "2026-04-11"
-category: "Troubleshooting"
+category: Troubleshooting
 cluster: "Legal & Regulatory"
 priority: 1
 wordcount: 1000

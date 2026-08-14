@@ -3,7 +3,7 @@ title: "Plug-in Solar in Scotland: Worth It?"
 slug: plug-in-solar-scotland-worth-it
 excerpt: "Scotland gets less sun than southern England — but only 20% less. Here's the PVGIS data for Scottish locations and whether the payback still works."
 date: "2026-04-11"
-category: "Location Guides"
+category: Location Guides
 cluster: "Location & Property"
 priority: 1
 wordcount: 1000

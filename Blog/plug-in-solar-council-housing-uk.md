@@ -3,7 +3,7 @@ title: "Plug-in Solar for Council and Housing Association Tenants"
 slug: plug-in-solar-council-housing-uk
 excerpt: "If you rent from a council or housing association, plug-in solar could cut your bills — but you need permission first. Here's the practical guide."
 date: "2026-04-11"
-category: "Getting Started"
+category: Getting Started
 cluster: "Renters & Flat-Dwellers"
 priority: 2
 wordcount: 900

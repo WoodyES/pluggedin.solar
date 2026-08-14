@@ -3,7 +3,7 @@ slug: bs-7671-amendment-4-plain-english-guide
 title: "BS 7671 Amendment 4: Guide for Solar"
 excerpt: "The technical standard that made plug-in solar legal. Here's what it actually requires, in language that makes sense."
 date: "2026-04-14"
-category: "Regulations & Policy"
+category: Regulations & Policy
 ---
 
 # What Is BS 7671 Amendment 4? A Plain English Guide for Solar Owners
@@ -199,3 +199,17 @@ Within those boundaries, you're free to install solar however you like (or get a
 It's not a barrier—it's a framework. It says: "Yes, you can do this. Here's how to do it safely."
 
 For a step-by-step on the legal process and what comes next, read our guide to [the UK plug-in solar law change](/blog/uk-plug-in-solar-law-change-2026).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

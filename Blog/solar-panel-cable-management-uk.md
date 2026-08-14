@@ -3,7 +3,7 @@ title: "Solar Cable Management: Tidy & Safe"
 slug: solar-panel-cable-management-uk
 excerpt: "Stainless clips, UV-resistant ties, and proper routing protect your cables from UV damage and keep your garden looking decent. Here's how."
 date: "2026-04-06"
-category: "Installation"
+category: Installation
 cluster: "aesthetics"
 priority: 7
 wordcount: 1200
@@ -100,3 +100,17 @@ A professionally managed cable run isn't just prettier (though it is). It protec
 If you need to extend your cable runs, [Renogy MC4 extension cables](https://amzn.to/4mfWT5J) are reliable and widely compatible with standard solar systems.
 
 For context on how cables fit into the broader installation picture, see our full guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you're interested in the connectors those cables are carrying, we've got a deep dive on [MC4 connectors and extension cables](/blog/best-mc4-connectors-extension-cables-uk). For weatherproofing the whole setup, check [weatherproof plug-in solar installation](/blog/weatherproof-plug-in-solar-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

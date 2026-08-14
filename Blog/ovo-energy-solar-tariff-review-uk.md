@@ -3,7 +3,7 @@ slug: "ovo-energy-solar-tariff-review-uk"
 title: "OVO Energy for Solar Owners UK 2026"
 excerpt: "OVO Energy review for plug-in solar owners. SEG rates, smart tariff options, and how OVO compares to Octopus for solar households."
 date: "2026-07-03"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "tariff-optimisation"
 priority: "medium"
 ---

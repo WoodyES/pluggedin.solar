@@ -3,7 +3,7 @@ title: "Weatherproofing Your Plug-in Solar Setup: A UK Guide"
 slug: weatherproof-plug-in-solar-uk
 excerpt: "British rain and UV kill cables and corrode electronics. Here's how to properly weatherproof your system."
 date: "2026-04-06"
-category: "Maintenance"
+category: Maintenance
 cluster: "Installation & Care"
 priority: 1
 wordcount: 1500
@@ -128,3 +128,17 @@ Your plug-in solar system is going to sit outside for ten-plus years. British we
 For bird protection, [check out bird-proofing mesh kits on Amazon](https://amzn.to/4v91BGF) to stop pigeons nesting underneath your panels and damaging cables.
 
 For more on protecting your system, check out our guides on [maintaining your panels](/blog/maintain-plug-in-solar-panels-uk), [protecting from birds](/blog/solar-panel-bird-proofing-uk), and for grid-side connections, we've got specifics on [MC4 connectors and extension cables](/blog/best-mc4-connectors-extension-cables-uk) that cover connector-specific weatherproofing. And if you're in an exposed area, our guide on [storm-proofing your setup](/blog/storm-proof-plug-in-solar-uk) covers wind and weather resilience in more depth.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

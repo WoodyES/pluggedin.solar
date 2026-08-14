@@ -3,7 +3,7 @@ title: "Can Plug-in Solar Go on Your Roof? A Practical Guide"
 slug: "plug-in-solar-on-roof-uk"
 excerpt: "Yes, plug-in solar panels can be mounted on roofs—but whether they should be depends on which roof and how much you're willing to compromise."
 date: "2026-04-05"
-category: "Installation"
+category: Installation
 cluster: "Home Roofs"
 priority: "HIGH"
 wordcount: 2500
@@ -140,3 +140,17 @@ For pitched roofs, the conversation is more nuanced. Are you a [renter](/blog/re
 The goal is honest guidance, not optimization for the sake of it. Plug-in solar is a brilliant technology. It's not always the best choice for every roof.
 
 For more on flat-roof specific installation and ballast mounting, see the [flat roof guide](/blog/flat-roof-plug-in-solar-uk). For a comparison of plug-in vs full installation economics, see the [plug-in vs rooftop solar comparison](/blog/plug-in-solar-vs-roof-solar-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

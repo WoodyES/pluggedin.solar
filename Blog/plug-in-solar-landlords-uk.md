@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Solar for Landlords: Full Guide UK"
 slug: plug-in-solar-landlords-uk
-category: "Property Guides"
+category: Property Guides
 date: "2026-04-13"
 excerpt: "Plug-in solar for UK landlords. Legal position, tenant rights, installation options, insurance, and financial returns."
 priority: 1

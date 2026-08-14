@@ -3,7 +3,7 @@ title: "Best Portable Power Stations for Plug-in Solar UK 2026"
 slug: best-portable-power-stations-plug-in-solar-uk
 excerpt: "Three batteries, three price points, three use cases. Here's which portable power station pairs best with your plug-in solar setup."
 date: "2026-04-11"
-category: "Buying Guides"
+category: Buying Guides
 cluster: "Product Reviews"
 priority: 1
 wordcount: 1200

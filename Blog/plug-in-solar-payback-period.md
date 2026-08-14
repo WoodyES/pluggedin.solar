@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Solar Payback Period: Real Numbers for UK Homes"
 slug: "plug-in-solar-payback-period-uk"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "Savings & ROI"
 priority: "HIGH"
 excerpt: "How long until your plug-in solar pays for itself. Real payback periods from budget to premium kits."

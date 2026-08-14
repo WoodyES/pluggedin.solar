@@ -3,7 +3,7 @@ title: "Garden Office Solar: Plug-in Options"
 slug: "solar-panels-for-garden-office-uk"
 excerpt: "Complete guide to powering garden offices with plug-in solar. Learn the honest trade-offs between solar, cables, and batteries."
 date: "2026-04-05"
-category: "Property Guides"
+category: Property Guides
 cluster: "Garden Offices & Rooms"
 priority: "HIGH"
 wordcount: 3000

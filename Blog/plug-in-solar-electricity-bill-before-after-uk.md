@@ -3,7 +3,7 @@ slug: "plug-in-solar-electricity-bill-before-after-uk"
 title: "Before & After: Plug-in Solar Bills UK"
 excerpt: "Real before-and-after electricity bill scenarios for UK plug-in solar. Three households, actual savings figures, and what determines yours."
 date: "2026-07-03"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "tariff-optimisation"
 priority: "medium"
 ---

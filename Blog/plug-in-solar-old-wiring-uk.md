@@ -3,7 +3,7 @@ title: "Old Wiring & Plug-in Solar: Safety"
 slug: plug-in-solar-old-wiring-uk
 excerpt: "Your house might be fine. Or it might not. Here's how to tell whether your wiring can safely handle plug-in solar — and what to do if it can't."
 date: "2026-04-11"
-category: "Troubleshooting"
+category: Troubleshooting
 cluster: "Legal & Regulatory"
 priority: 1
 wordcount: 1200
@@ -103,3 +103,17 @@ If your house was built or rewired after 2008, you're almost certainly fine. If 
 The IET's advice is sound: know your wiring before you generate into it.
 
 For the complete installation process, see our [step-by-step guide](/blog/how-to-install-plug-in-solar-uk). For checking your system is working correctly after connection, see our [troubleshooting guide](/blog/plug-in-solar-not-generating-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fsale" target="_blank" rel="noopener noreferrer sponsored">EcoFlow UK Sale — STREAM & Solar Deals</a></div>
+<div class="pc-price">Varies</div>
+<ul class="pc-features">
+<li>Current UK promotions on STREAM kits, power stations and panels</li>
+<li>Bundle discounts often stack with panel add-ons</li>
+<li>Free UK shipping on eligible orders</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fsale" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

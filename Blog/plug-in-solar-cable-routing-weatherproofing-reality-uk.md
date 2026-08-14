@@ -3,7 +3,7 @@ title: "Plug-in Solar Reality: Cable Routing"
 slug: plug-in-solar-cable-routing-weatherproofing-reality-uk
 excerpt: "Cable routing for plug-in solar. How to get the cable inside your home — lessons from German owners and mistakes to avoid."
 date: "2026-04-11"
-category: "Installation"
+category: Installation
 cluster: "Installation"
 priority: 2
 wordcount: 900
@@ -64,3 +64,17 @@ If you're renting and can't drill, the window seal or flat cable entry route is 
 - When you leave, removal should be straightforward: unplug the cable, remove any mounting hardware that's reversible, and patch any minor wall marks
 
 For installation guidance that covers the full process end-to-end, see our [how to install plug-in solar guide](/blog/how-to-install-plug-in-solar-uk). For weatherproofing accessories in detail, see our [weatherproofing accessories guide](/blog/plug-in-solar-weatherproofing-accessories-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

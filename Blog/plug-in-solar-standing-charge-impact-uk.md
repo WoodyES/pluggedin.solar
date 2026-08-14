@@ -3,7 +3,7 @@ slug: "plug-in-solar-standing-charge-impact-uk"
 title: "Standing Charges and Plug-in Solar: The Catch"
 excerpt: "Standing charges cost £110/year and solar can't reduce them. How this affects payback, and which tariffs eliminate them entirely."
 date: "2026-07-03"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "tariff-optimisation"
 priority: "medium"
 ---

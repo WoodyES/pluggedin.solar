@@ -3,7 +3,7 @@ title: "Solar Panels for Flats UK: What Your Options Actually Are"
 slug: "solar-panels-for-flats-uk"
 excerpt: "Traditional solar won't work on a flat. Plug-in solar will. Here's why, and exactly what you can do instead."
 date: "2026-04-05"
-category: "Renters & Flats"
+category: Renters & Flats
 cluster: "Renters & Flat-Dwellers"
 priority: "HIGH"
 wordcount: 2100

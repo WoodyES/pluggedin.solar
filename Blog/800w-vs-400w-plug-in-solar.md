@@ -3,7 +3,7 @@ title: "800W vs 400W Plug-in Solar: Which Should You Actually Buy?"
 slug: "800w-vs-400w-plug-in-solar-uk"
 excerpt: "A practical comparison of plug-in solar system sizes. What 400W and 800W systems actually produce, and which one makes sense for your home."
 date: "2026-04-05"
-category: "Buying Guides"
+category: Buying Guides
 cluster: "Product Reviews"
 priority: "MED"
 wordcount: 1200

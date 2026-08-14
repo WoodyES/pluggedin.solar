@@ -3,7 +3,7 @@ title: "G98 Notification: Step-by-Step Guide for UK Homeowners"
 slug: g98-notification-guide-uk-homeowners
 excerpt: "You need to notify your DNO within 28 days of connecting plug-in solar. Here's exactly how — with the form, the process, and what happens next."
 date: "2026-04-11"
-category: "Regulations & Policy"
+category: Regulations & Policy
 cluster: "Legal & Regulatory"
 priority: 1
 wordcount: 1100

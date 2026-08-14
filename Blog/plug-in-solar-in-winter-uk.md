@@ -3,7 +3,7 @@ title: "Plug-in Solar in Winter: What to Really Expect"
 slug: plug-in-solar-winter-uk-output
 excerpt: "Your plug-in solar will still work in winter—but output drops dramatically. Here's what EU data shows, how to optimize, and why expectations matter."
 date: "2026-04-06"
-category: "Performance & Monitoring"
+category: Performance & Monitoring
 cluster: "Seasonal & Weather"
 priority: 2
 wordcount: 1500

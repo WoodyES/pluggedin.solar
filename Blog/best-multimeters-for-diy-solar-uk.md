@@ -3,7 +3,7 @@ title: "Best Multimeters for DIY Plug-in Solar Testing in the UK"
 slug: best-multimeter-diy-solar-uk
 excerpt: "A good multimeter costs £15-40 and is essential for troubleshooting your solar panels. Here's how to choose one and use it safely."
 date: "2026-04-06"
-category: "Troubleshooting"
+category: Troubleshooting
 cluster: "Tools & Monitoring"
 priority: 1
 wordcount: 1500
@@ -138,3 +138,17 @@ Don't fall for super-cheap multimeters from unknown sellers—they're often inac
 A multimeter is probably the single most useful tool you'll ever own for maintaining your plug-in solar system. It'll save you time, money, and genuine stress the first time something doesn't look right.
 
 For more detailed troubleshooting, you might want to check out our guides on [diagnosing why your system isn't generating](/blog/plug-in-solar-not-generating-uk) and [understanding microinverter problems](/blog/plug-in-solar-microinverter-problems-uk). And if you're thinking about what other tools you'll need, we've got a full guide on [essential tools for plug-in solar](/blog/what-tools-for-plug-in-solar-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

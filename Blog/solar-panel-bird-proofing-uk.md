@@ -3,7 +3,7 @@ title: "Best Solar Panel Bird Proofing Kits for UK Homes"
 slug: solar-panel-bird-proofing-uk
 excerpt: "Pigeons love solar panels. Here's how to stop them nesting underneath without damaging your system."
 date: "2026-04-06"
-category: "Maintenance"
+category: Maintenance
 cluster: "Installation & Care"
 priority: 1
 wordcount: 1200
@@ -91,3 +91,17 @@ Budget £150–300 for a decent bird-proofing kit for a standard balcony setup, 
 For persistent or severe bird problems, you might also want to read our guide on [regular panel cleaning](/blog/solar-panel-cleaning-kit-uk)—keeping panels spotless can also help discourage nesting activity.
 
 And if you're dealing with weather damage or thinking about moving house, we've got guides on [weatherproofing your setup](/blog/weatherproof-plug-in-solar-uk) and [flat-roof systems](/blog/flat-roof-plug-in-solar-uk) that cover other protection strategies.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

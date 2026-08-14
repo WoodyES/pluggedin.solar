@@ -3,7 +3,7 @@ slug: "best-plug-in-solar-accessories-uk-2026"
 title: "Best Plug-in Solar Accessories UK 2026"
 excerpt: "Essential and nice-to-have accessories for your plug-in solar system. MC4 cables, monitors, mounts, cleaning kits, and more — all UK-tested."
 date: "2026-07-03"
-category: "Buying Guides"
+category: Buying Guides
 cluster: "buyer-readiness"
 priority: "medium"
 ---

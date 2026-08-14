@@ -3,7 +3,7 @@ slug: "plug-in-solar-what-to-expect-first-year-uk"
 title: "Plug-in Solar: What to Expect in Year One"
 excerpt: "Month-by-month guide to your first year with plug-in solar in the UK. Seasonal patterns, common questions, and realistic expectations."
 date: "2026-07-03"
-category: "Getting Started"
+category: Getting Started
 cluster: "buyer-readiness"
 priority: "medium"
 ---
@@ -213,3 +213,17 @@ Over year one, keep an eye on:
 - **Shading changes** — trees grow, neighbours build extensions. If a new shadow appears over your panels, it is worth investigating.
 
 Our detailed [year 2-3 maintenance guide](/blog/plug-in-solar-year-2-3-maintenance-uk) covers long-term care. But for now, enjoy your first year. You are generating your own electricity, and that feeling does not get old.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

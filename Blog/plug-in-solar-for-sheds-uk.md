@@ -3,7 +3,7 @@ title: "Plug-in Solar for Sheds UK: Powers Lights, Tools, and More"
 slug: "plug-in-solar-for-shed-uk"
 excerpt: "Plug-in solar for sheds UK. Power lighting, tools, and gadgets — grid-connected or standalone options explained."
 date: "2026-04-05"
-category: "Property Guides"
+category: Property Guides
 cluster: "Sheds & Outbuildings"
 priority: "HIGH"
 wordcount: 2800

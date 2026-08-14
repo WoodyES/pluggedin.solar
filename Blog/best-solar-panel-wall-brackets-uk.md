@@ -3,7 +3,7 @@ title: "Best Solar Panel Wall Brackets and Mounts for the UK"
 slug: best-solar-panel-wall-brackets-uk
 excerpt: "Wall-mounting plug-in solar panels? Adjustable tilt brackets, flush mounts, and balcony rail clamps compared for UK installations."
 date: "2026-04-08"
-category: "Installation"
+category: Installation
 cluster: "installation"
 priority: 4
 wordcount: 800

@@ -3,7 +3,7 @@ title: "Solar Panel Output UK: Month-by-Month"
 slug: how-much-power-solar-panel-generate-uk
 excerpt: "Real numbers using PVGIS data for UK locations, broken down by month. Because 'it depends' isn't a useful answer when you're trying to calculate payback."
 date: "2026-04-11"
-category: "Performance & Monitoring"
+category: Performance & Monitoring
 cluster: "Technical Guides"
 priority: 1
 wordcount: 1300
@@ -124,3 +124,17 @@ For the whole-home picture — not just generation but also consumption and [sel
 ## Using Our Calculator
 
 Our [savings calculator](/calculator) uses PVGIS data for your specific postcode and lets you adjust orientation, tilt, and system size. It's the fastest way to get a personalised estimate for your exact location.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

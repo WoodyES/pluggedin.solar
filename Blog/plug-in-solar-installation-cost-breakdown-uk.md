@@ -3,7 +3,7 @@ slug: "plug-in-solar-installation-cost-breakdown-uk"
 title: "Plug-in Solar: Full Cost Breakdown UK 2026"
 excerpt: "Every cost itemised: kits, electricians, accessories, and optional extras. What you'll pay now vs after plug-and-play is legalised."
 date: "2026-07-03"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "buyer-readiness"
 priority: "medium"
 ---

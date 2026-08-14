@@ -3,7 +3,7 @@ title: "Tools for Plug-in Solar Installation"
 slug: "what-tools-for-plug-in-solar-uk"
 excerpt: "Tools needed for plug-in solar. Balcony: none. Garden: a mallet. Flat roof: maybe a drill. No electrician needed."
 date: "2026-04-05"
-category: "Installation"
+category: Installation
 cluster: "Installation How-To"
 priority: "HIGH"
 wordcount: 800
@@ -128,3 +128,17 @@ If you don't own a drill, don't like heights, or just want someone else to do th
 The point is: plug-in solar is accessible. You don't need special tools, special skills, or special permission. You need a location with sun, a cable route to your socket, and about 30 minutes of your time. The tools involved are either ones you already own or cheap to buy.
 
 For a step-by-step walkthrough of the full installation, see our [how-to guide](/blog/how-to-install-plug-in-solar-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

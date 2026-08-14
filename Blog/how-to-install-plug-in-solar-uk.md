@@ -3,7 +3,7 @@ title: "How to Install Plug-in Solar Panels: A Step-by-Step UK Guide"
 slug: "how-to-install-plug-in-solar-uk"
 excerpt: "Complete plug-in solar installation guide UK. Location, mounting, wiring, plugging in, and DNO notification step by step."
 date: "2026-04-05"
-category: "Installation"
+category: Installation
 cluster: "Installation How-To"
 priority: "HIGH"
 wordcount: 3000

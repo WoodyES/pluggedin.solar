@@ -76,7 +76,7 @@ function readPosts(dir, market) {
       priority: meta.priority || "",
       lastmod: meta.lastmod || meta.date || "2026-04-05",
       author: meta.author || "Pluggedin.solar",
-      faq: faq.length >= 3 ? faq : [],
+      faq: faq.length >= 2 ? faq : [],
       html,
     });
   }

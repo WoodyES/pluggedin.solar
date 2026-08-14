@@ -3,7 +3,7 @@ title: "EcoFlow vs Anker: Which Kit 2026?"
 slug: ecoflow-stream-vs-anker-solix-rs40p-uk-2026
 excerpt: "The two kits that will dominate UK plug-in solar retail. Here's how they compare on specs, setup, and real-world value."
 date: "2026-04-11"
-category: "Reviews & Comparisons"
+category: Reviews & Comparisons
 cluster: "Comparisons"
 priority: 1
 wordcount: 1100

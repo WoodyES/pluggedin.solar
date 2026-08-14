@@ -3,7 +3,7 @@ slug: "plug-in-solar-wales-generation-guide"
 title: "Plug-in Solar in Wales: Regional Output Guide"
 excerpt: "How much electricity will plug-in solar generate in Wales? South vs North Wales output, coastal considerations, and Welsh energy schemes."
 date: "2026-07-03"
-category: "Location Guides"
+category: Location Guides
 cluster: "regional"
 priority: "medium"
 ---

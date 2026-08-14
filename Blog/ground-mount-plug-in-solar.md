@@ -3,7 +3,7 @@ title: "Ground-Mounted Plug-in Solar on Grass, Gravel, and Concrete"
 slug: "ground-mount-plug-in-solar-uk"
 excerpt: "Ground-mounted plug-in solar guide. Grass, gravel, and concrete options. Stakes, A-frames, wind stability, and optimal tilt."
 date: "2026-04-05"
-category: "Installation"
+category: Installation
 cluster: "Installation Surfaces"
 priority: "HIGH"
 wordcount: 1500
@@ -126,3 +126,17 @@ Avoid leaving the cable loose across a pathway. It's a trip hazard, and people w
 If you have a choice, concrete or gravel with a weighted A-frame is the most robust. If you only have grass and it's well-drained, stakes work fine—just keep an eye on them.
 
 For detailed guidance on selecting the right mount for your home, read our [surface placement guide](/blog/where-to-install-plug-in-solar-uk). And to work out how much you might generate from a ground-mounted system at your location, use our [savings calculator](/calculator).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

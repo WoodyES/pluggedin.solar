@@ -3,7 +3,7 @@ title: "Smart Meter Data: Optimise Your Solar"
 slug: smart-meter-half-hourly-data-solar-uk
 excerpt: "Use half-hourly smart meter data to optimise solar. Read the 48 daily data points and spot patterns to save more."
 date: "2026-05-04"
-category: "Performance & Monitoring"
+category: Performance & Monitoring
 cluster: "smart-meters"
 priority: 4
 wordcount: 1500
@@ -80,3 +80,17 @@ This is optional — most people get enough insight from the app charts alone. B
 - [How to read your smart meter with solar](/blog/how-to-read-smart-meter-plug-in-solar-uk)
 - [Using your smart meter to maximise self-consumption](/blog/smart-meter-solar-self-consumption-uk)
 - [Best energy monitors for plug-in solar](/blog/best-energy-monitor-plug-in-solar-uk)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

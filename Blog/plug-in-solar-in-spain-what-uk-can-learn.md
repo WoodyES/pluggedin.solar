@@ -97,3 +97,17 @@ The UK has an opportunity to learn from both countries. Take Germany's structure
 By 2027, there will be hundreds of thousands of UK balcony solar systems. Some will be in Scotland, where yields are modest. Some in London, where returns are excellent. Most will fall somewhere in between. The lesson from Spain is simple: worry less about sunshine and more about sensible regulations, user education, and installer quality. Those matter more than latitude.
 
 For more context on the international picture, read [what Germany teaches the UK about plug-in solar](/blog/what-germany-teaches-uk-plug-in-solar). For the financial case specific to the UK, see [is plug-in solar worth it?](/blog/is-plug-in-solar-worth-it-uk) and [plug-in solar payback period in the UK](/blog/plug-in-solar-payback-period-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

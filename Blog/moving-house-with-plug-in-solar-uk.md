@@ -3,7 +3,7 @@ title: "What Happens to My Plug-in Solar When I Move House?"
 slug: moving-house-with-plug-in-solar-uk
 excerpt: "Unlike rooftop solar, plug-in panels are portable. But there are still things to sort — G98, compatibility, and what your estate agent should know."
 date: "2026-04-11"
-category: "Use Cases"
+category: Use Cases
 cluster: "Legal & Regulatory"
 priority: 2
 wordcount: 900
@@ -71,3 +71,17 @@ If you're leaving the panels behind as part of the sale, put the following in wr
 This is both good practice and a potential selling point. A working plug-in solar system registered with the DNO is a small but genuine added value for an energy-conscious buyer.
 
 For everything else you need to know about compliance and paperwork, see our [complete guide](/blog/plug-in-solar-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

@@ -3,7 +3,7 @@ title: "Plug-in Solar Not Generating? Fix It"
 slug: plug-in-solar-not-generating-troubleshooting-uk
 excerpt: "Zero watts on the app? Before you panic, work through this systematic checklist. Most issues have simple fixes."
 date: "2026-04-11"
-category: "Troubleshooting"
+category: Troubleshooting
 cluster: "Technical Guides"
 priority: 1
 wordcount: 1200
@@ -88,3 +88,17 @@ Call a professional if:
 A qualified electrician with solar experience can diagnose most faults in an hour. Expect to pay £80-150 for a callout and basic diagnosis.
 
 For the full picture on maintaining your system over time, see our [year 2-3-5 maintenance guide](/blog/plug-in-solar-year-2-3-maintenance-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

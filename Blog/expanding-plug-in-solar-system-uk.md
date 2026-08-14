@@ -3,7 +3,7 @@ title: "Adding More Panels to Your Plug-in Solar"
 slug: expanding-plug-in-solar-system-uk
 excerpt: "Germany calls it the gateway drug effect. You start with one panel, then immediately want two. Here's what to plan for before you buy more."
 date: "2026-04-11"
-category: "Buying Guides"
+category: Buying Guides
 cluster: "Installation"
 priority: 1
 wordcount: 1000

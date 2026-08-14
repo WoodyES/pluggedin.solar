@@ -3,7 +3,7 @@ title: "Best Solar Panel Cleaning Tools for the UK"
 slug: best-solar-panel-cleaning-tools-uk
 excerpt: "Dirty panels lose 10–25% output. These cleaning tools keep your plug-in solar performing at its best without scratching or damaging cells."
 date: "2026-04-08"
-category: "Buying Guides"
+category: Buying Guides
 cluster: "installation"
 priority: 3
 wordcount: 800

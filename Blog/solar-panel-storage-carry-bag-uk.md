@@ -3,7 +3,7 @@ title: "Best Solar Panel Carry Bags and Storage Cases for UK Homes"
 slug: solar-panel-storage-carry-bag-uk
 excerpt: "Moving house or storing your panels? Here's how to protect them during transport and storage."
 date: "2026-04-06"
-category: "Maintenance"
+category: Maintenance
 cluster: "Installation & Care"
 priority: 2
 wordcount: 1000

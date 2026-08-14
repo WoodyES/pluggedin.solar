@@ -3,7 +3,7 @@ title: "My Landlord Refused Plug-in Solar — What Are My Options?"
 slug: plug-in-solar-landlord-refused-what-next-uk
 excerpt: "Landlord refused your plug-in solar? Here's where you stand legally and what to do next under UK and German precedent."
 date: "2026-04-11"
-category: "Regulations & Policy"
+category: Regulations & Policy
 cluster: "Legal & Regulatory"
 priority: 1
 wordcount: 950

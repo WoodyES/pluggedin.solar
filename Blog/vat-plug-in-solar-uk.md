@@ -116,3 +116,17 @@ Over a 25-year system lifespan, that's an extra £4.80/year of profit, compounde
 The 0% VAT relief is one of the government's genuine helps for solar owners. Make sure you're claiming it.
 
 Want to know whether plug-in solar is a good investment overall? Check our [2026 ROI analysis](/blog/is-plug-in-solar-good-investment-uk-2026).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Ultra Pro</a></div>
+<div class="pc-price">From ~£1,499</div>
+<ul class="pc-features">
+<li>Higher-capacity STREAM variant with expandable battery pairing</li>
+<li>Suits tariff arbitrage and load-shifting use cases</li>
+<li>App scheduling and export monitoring</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

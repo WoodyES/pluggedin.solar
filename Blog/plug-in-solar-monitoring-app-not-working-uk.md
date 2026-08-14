@@ -3,7 +3,7 @@ title: "Plug-in Solar App Not Showing Data? Fix It"
 slug: plug-in-solar-monitoring-app-not-working-uk
 excerpt: "The second most common post-install complaint. Your panels are probably generating fine — here's why the app disagrees and how to get it back."
 date: "2026-04-11"
-category: "Troubleshooting"
+category: Troubleshooting
 cluster: "Technical"
 priority: 1
 wordcount: 1000

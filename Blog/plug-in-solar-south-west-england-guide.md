@@ -3,7 +3,7 @@ slug: "plug-in-solar-south-west-england-guide"
 title: "Plug-in Solar in South West England"
 excerpt: "The South West is the UK's sunniest region. Here's what an 800W plug-in solar system will generate in Cornwall, Devon, Dorset, and Somerset."
 date: "2026-07-03"
-category: "Location Guides"
+category: Location Guides
 cluster: "regional"
 priority: "medium"
 ---

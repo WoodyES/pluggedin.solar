@@ -3,7 +3,7 @@ title: "Victorian Terrace Solar: What Works"t"
 slug: plug-in-solar-victorian-terrace-uk
 excerpt: "Plug-in solar for Victorian terraces UK. Working with north-south orientation, chimney shading, and small gardens."
 date: "2026-04-11"
-category: "Property Guides"
+category: Property Guides
 cluster: "Location & Property"
 priority: 1
 wordcount: 1100

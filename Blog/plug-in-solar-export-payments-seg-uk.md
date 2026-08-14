@@ -3,7 +3,7 @@ title: "Plug-in Solar Exports: SEG Tariffs"
 slug: plug-in-solar-export-payments-seg-uk
 excerpt: "Can you get paid for plug-in solar exports? SEG tariffs explained and why most plug-in owners can't access them yet."
 date: "2026-04-11"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "Savings & ROI"
 priority: 1
 wordcount: 1100

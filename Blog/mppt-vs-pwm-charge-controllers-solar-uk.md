@@ -165,3 +165,17 @@ The days of PWM are waning. Modern manufacturing has made MPPT controllers affor
 ---
 
 *Need help diagnosing your system's performance? A multimeter like the [Fluke 117](https://amzn.to/4bSN4aq) lets you spot faults instantly. Also check out our guide on [string vs parallel wiring](/blog/plug-in-solar-string-vs-parallel-wiring-uk) to understand how panel connections affect the power reaching your controller.*
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Ultra Pro</a></div>
+<div class="pc-price">From ~£1,499</div>
+<ul class="pc-features">
+<li>Higher-capacity STREAM variant with expandable battery pairing</li>
+<li>Suits tariff arbitrage and load-shifting use cases</li>
+<li>App scheduling and export monitoring</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

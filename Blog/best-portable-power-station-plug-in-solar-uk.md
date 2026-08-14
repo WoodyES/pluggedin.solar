@@ -3,7 +3,7 @@ title: "Best Portable Power Stations for Plug-in Solar"
 slug: best-portable-power-station-plug-in-solar-uk
 excerpt: "Portable power stations pair beautifully with plug-in panels. We compare EcoFlow Delta 2/3, Anker SOLIX C800/C1000, and Jackery to help you choose."
 date: "2026-04-06"
-category: "Buying Guides"
+category: Buying Guides
 cluster: "storage"
 priority: 10
 wordcount: 2200

@@ -3,7 +3,7 @@ title: "Using Your Smart Meter to Maximise Solar Self-Consumption"
 slug: smart-meter-solar-self-consumption-uk
 excerpt: "Smart meter self-consumption tips. Read your export patterns and shift usage to keep more of your solar generation."
 date: "2026-05-04"
-category: "Use Cases"
+category: Use Cases
 cluster: "smart-meters"
 priority: 4
 wordcount: 1700

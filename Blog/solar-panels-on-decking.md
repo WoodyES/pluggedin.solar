@@ -1,7 +1,7 @@
 ---
 title: "Plug-in Solar on Decking: Weight, Shading, and Safety"
 slug: "solar-panels-on-decking-uk"
-category: "Installation"
+category: Installation
 cluster: "Installation Surfaces"
 priority: "MED"
 excerpt: "Decking is a surprisingly common question. Weight distribution, shading checks, cable safety, and when it makes sense."
@@ -94,3 +94,17 @@ Decking is a fallback option, and a reasonable one if you meet the criteria abov
 8. **Test it.** Push the panel sideways. It should barely move. If it sways, add more ballast.
 
 For more on other mounting options, see our [surface placement guide](/blog/where-to-install-plug-in-solar-uk) and our detailed article on [ground mounting](/blog/ground-mount-plug-in-solar-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

@@ -1,7 +1,7 @@
 ---
 title: "Best Whole-Home Energy Monitors for Solar Users UK"
 slug: best-whole-home-energy-monitors-uk
-category: "Buying Guides"
+category: Buying Guides
 date: "2026-04-13"
 excerpt: "Compare whole-home energy monitors for plug-in solar users: Emporia Vue 3, Shelly Plus Plug, and smart meter limitations."
 priority: 1

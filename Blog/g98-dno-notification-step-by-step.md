@@ -3,7 +3,7 @@ title: "G98 DNO Notification: Step-by-Step"
 slug: "g98-dno-notification-plug-in-solar"
 excerpt: "The full G98 notification walkthrough. What a DNO is, how to find yours, what information you need, and how to submit. It takes 10 minutes."
 date: "2026-04-05"
-category: "Regulations & Policy"
+category: Regulations & Policy
 cluster: "Installation How-To"
 priority: "HIGH"
 wordcount: 1500
@@ -133,3 +133,17 @@ The G98 notification is a regulation that exists for good reasons: the DNO needs
 Don't overthink it. Find your DNO, fill in the form, submit. Within a few days, you'll have an official acknowledgement and you're done.
 
 For a full walkthrough of the entire installation process, including what to do after you've submitted the G98, see our [installation guide](/blog/how-to-install-plug-in-solar-uk).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">EcoFlow Portable Solar Panels (UK)</a></div>
+<div class="pc-price">From ~£179</div>
+<ul class="pc-features">
+<li>Monocrystalline panels compatible with STREAM and portable stations</li>
+<li>Rigid and flexible options for garden, balcony and shed setups</li>
+<li>UK stock with next-day delivery</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

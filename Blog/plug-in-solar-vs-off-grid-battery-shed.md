@@ -3,7 +3,7 @@ title: "Shed Solar: Plug-in vs Off-Grid Battery"
 slug: "shed-solar-panels-off-grid-uk"
 excerpt: "Grid-tied plug-in solar saves money on bills. Off-grid battery systems work anywhere. Here's how to choose the right one for your shed."
 date: "2026-04-05"
-category: "Property Guides"
+category: Property Guides
 cluster: "Sheds & Outbuildings"
 priority: "MED"
 wordcount: 1500

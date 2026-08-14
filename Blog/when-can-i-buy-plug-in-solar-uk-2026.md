@@ -3,7 +3,7 @@ slug: "when-can-i-buy-plug-in-solar-uk-2026"
 title: "When Can You Buy Plug-in Solar? UK Timeline"
 excerpt: "A clear, buyer-focused timeline for UK plug-in solar in 2026. What you can do now, what changes after July, and when true plug-and-play arrives."
 date: "2026-07-03"
-category: "Getting Started"
+category: Getting Started
 cluster: "government-updates"
 priority: "medium"
 ---

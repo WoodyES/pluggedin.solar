@@ -3,7 +3,7 @@ title: "Smart Meter Wrong After Solar Install?"s Happening?"
 slug: plug-in-solar-smart-meter-issues-uk
 excerpt: "Germany had to replace hundreds of thousands of old meters when balcony solar took off. The UK has its own version of this problem. Here's what to expect."
 date: "2026-04-11"
-category: "Use Cases"
+category: Use Cases
 cluster: "Technical"
 priority: 1
 wordcount: 950
@@ -62,3 +62,17 @@ If you have a SMETS2 meter, no action is needed. If you have a SMETS1 or traditi
 After installation, use a [Tapo P110](https://amzn.to/4m9Yh9U) [smart plug](/blog/best-smart-plug-monitor-solar-uk) on the inverter output as an independent generation monitor. This gives you a reliable record of what you've generated that doesn't depend on the meter or any cloud service — useful if you ever need to demonstrate generation for a complaint or warranty claim.
 
 For the broader picture on how plug-in solar interacts with tariffs, see our [best energy tariff for solar owners](/blog/best-energy-tariff-plug-in-solar-uk-2026) guide.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Editor's pick</div>
+<div class="pc-name"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">EcoFlow STREAM Balcony Solar System</a></div>
+<div class="pc-price">From ~£649</div>
+<ul class="pc-features">
+<li>Purpose-built for UK balconies and small outdoor spaces</li>
+<li>800VA microinverter, plug-in ready when SI 2026/848 takes effect</li>
+<li>App monitoring and no-drill mounting options</li>
+</ul>
+<div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
+</div>

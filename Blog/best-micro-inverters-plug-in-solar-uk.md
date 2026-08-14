@@ -3,7 +3,7 @@ title: "Best Micro Inverters for Plug-in Solar in the UK (2026)"
 slug: best-micro-inverters-plug-in-solar-uk
 excerpt: "Hoymiles, Enphase, and APsystems compared. Which micro inverter should your plug-in solar kit use — and does it actually matter?"
 date: "2026-04-11"
-category: "Reviews & Comparisons"
+category: Reviews & Comparisons
 cluster: "Product Reviews"
 priority: 1
 wordcount: 1100

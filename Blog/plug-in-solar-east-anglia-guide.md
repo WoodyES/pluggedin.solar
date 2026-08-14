@@ -3,7 +3,7 @@ slug: "plug-in-solar-east-anglia-guide"
 title: "Plug-in Solar in East Anglia"
 excerpt: "East Anglia is flat, sunny, and ideal for solar. Here's what an 800W plug-in system will generate in Norfolk, Suffolk, Cambridgeshire, and Essex."
 date: "2026-07-03"
-category: "Location Guides"
+category: Location Guides
 cluster: "regional"
 priority: "medium"
 ---

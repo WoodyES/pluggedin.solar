@@ -1,7 +1,7 @@
 ---
 title: "400W vs 800W Plug-in Solar System UK: Which Should You Buy?"
 slug: 400w-vs-800w-plug-in-solar-uk-guide
-category: "Reviews & Comparisons"
+category: Reviews & Comparisons
 date: "2026-04-13"
 excerpt: "Compare 400W and 800W plug-in solar systems: cost, output, space, self-consumption, and which is right for your home."
 priority: 1

@@ -3,7 +3,7 @@ slug: "plug-in-solar-interim-product-specification-uk"
 title: "Interim Product Specification: What It Covers"
 excerpt: "The UK's interim product specification for plug-in solar sets the rules for what can legally be sold. Every technical limit explained."
 date: "2026-07-03"
-category: "Regulations & Policy"
+category: Regulations & Policy
 cluster: "government-updates"
 priority: "medium"
 ---

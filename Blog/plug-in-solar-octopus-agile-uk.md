@@ -3,7 +3,7 @@ title: "Octopus Agile & Plug-in Solar: Savings"
 slug: plug-in-solar-octopus-agile-uk
 excerpt: "Time-of-use tariffs like Octopus Agile can amplify your plug-in solar savings by 30-40%. Here's how to combine solar, battery, and smart tariffs."
 date: "2026-04-11"
-category: "Savings & Costs"
+category: Savings & Costs
 cluster: "Savings & ROI"
 priority: 1
 wordcount: 1000

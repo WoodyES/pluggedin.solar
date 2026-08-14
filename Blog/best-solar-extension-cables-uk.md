@@ -3,7 +3,7 @@ title: "Best MC4 Extension Cables for Plug-in Solar in the UK"
 slug: best-solar-extension-cables-uk
 excerpt: "Need to run your solar panels further from the inverter? MC4 extension cables explained — lengths, gauges, and what to avoid."
 date: "2026-04-08"
-category: "Buying Guides"
+category: Buying Guides
 cluster: "installation"
 priority: 3
 wordcount: 800
