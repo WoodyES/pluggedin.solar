@@ -62,6 +62,34 @@ For a plug-in solar system **with a battery**, the benefit is significantly larg
 
 Use our [savings calculator](/calculator) to model the difference for your specific setup and location.
 
+## TOU tariffs available to UK solar households in 2026
+
+The UK TOU landscape has consolidated since 2024. The tariffs still worth considering for a plug-in solar household:
+
+| Tariff | Peak rate | Off-peak rate | Export rate | Best for |
+|---|---|---|---|---|
+| **Octopus Agile** | Variable half-hourly (avg 22–28p, peaks 90p+) | Variable (avg 12–18p, dips <5p or negative) | Outgoing Agile ~10p avg | Data-driven load-shifters |
+| **Octopus Go** | 27p flat day | 8.5p (00:30–05:30) | 15p Outgoing Fixed | EV owners with plug-in solar |
+| **Octopus Flux** | 32p (16:00–19:00) | 15p (02:00–05:00) | 27p (16:00–19:00) | Solar + battery only |
+| **Octopus Cosy** | 39p (16:00–19:00) | 12p (04:00–07:00, 13:00–16:00) | 15p Outgoing Fixed | Heat pump owners with solar |
+| **EDF GoElectric 35** | 34p peak | 8.99p (00:00–05:00) | 5.6p SEG | EV + solar households |
+| **British Gas Electric Driver** | 30p peak | 7.9p (00:00–05:00) | 6.4p SEG | Multi-vendor BG loyalists |
+
+For a plug-in-solar-only household with no EV and no battery, **Octopus Agile** is usually the highest-yielding pick because the negative-price dips (real, happened 42 times in 2026 so far) let you plan discretionary loads for genuinely free electricity. See the [Octopus Agile plug-in solar guide](/blog/plug-in-solar-octopus-agile-uk).
+
+## The battery arbitrage angle
+
+Add a portable battery like the [EcoFlow DELTA 2](/blog/ecoflow-delta-2-review-uk) and the maths changes materially. You charge from the grid during the cheapest window (Octopus Flux 15p, or Agile's negative-price hours) and discharge during the peak (Flux 32p, Cosy 39p). Combined with midday solar charging, a 1 kWh battery on Flux typically nets **£180–£260/year** in arbitrage on top of self-consumption savings. See the [battery arbitrage guide](/blog/plug-in-solar-battery-arbitrage-uk) for the full spreadsheet.
+
+## When TOU is a bad idea
+
+TOU tariffs are not universally better. Skip them if:
+
+- Your household is home 4–7 pm every evening with high demand (cooking, kids, TV, showers) — the peak-rate exposure often outweighs solar/off-peak savings
+- You are on prepayment or in fuel poverty risk — variable pricing volatility can be genuinely dangerous
+- Your consumption is under 2,500 kWh/year total — the fixed daily standing charge changes swamp the unit-rate savings on tiny consumption
+- You do not have a [SMETS2 meter](/blog/smets1-vs-smets2-solar-panels-uk) with reliable half-hourly settlement — TOU requires it
+
 ## Related Reading
 
 - [Best time-of-use tariffs for solar in 2026](/blog/best-time-of-use-tariffs-uk-2026)

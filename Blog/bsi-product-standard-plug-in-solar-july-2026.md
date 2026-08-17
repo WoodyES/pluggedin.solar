@@ -9,9 +9,9 @@ priority: 1
 wordcount: 1000
 ---
 
-The UK's plug-in solar regulations work in two parts. The first — BS 7671 Amendment 4, the wiring standard — landed in April 2026 and made plug-in solar legally installable. The second — the BSI product standard — is expected in July 2026 and defines what a compliant kit must look like to be sold through UK retail channels.
+The UK's plug-in solar regulations work in two parts. The first — BS 7671 Amendment 4, the wiring standard — landed in April 2026 and made plug-in solar legally installable. The second — the BSI product standard — was published in July 2026 and defines what a compliant kit must look like to be sold through UK retail channels. The [SI 2026 No. 848](/blog/si-2026-848-plug-in-solar-explained-uk) statutory instrument then set 27 August 2026 as the legal switch-on date.
 
-Until the product standard publishes, no kit can be officially marketed as "BSI compliant" in the UK. Here's what we know about what's coming and what it means for buyers.
+This piece covers what the BSI standard actually contains, why it matters for buyers, and what to check on any listing before you commit.
 
 ## What the Product Standard Covers
 
@@ -77,6 +77,43 @@ If you want to install now, the current pricing of £500-700 for a complete kit 
 **Either way:** monitor the BSI publication date. We'll publish a detailed analysis of the standard's requirements as soon as it's released. Follow the [pluggedin.solar blog](/blog) for updates.
 
 For the regulatory background, see our [BS 7671 plain English guide](/blog/bs-7671-amendment-4-plain-english-guide) and our [UK law change guide](/blog/uk-plug-in-solar-law-change-2026).
+
+## What the published standard actually says (August 2026 update)
+
+Now that the standard has published and SI 2026/848 has fixed 27 August 2026 as the legal date, the buyer's checklist has crystallised. Any compliant UK plug-in solar kit must:
+
+- Cap total AC output at **800VA / 3.5A** — hard limit, no over-panelling to "smooth" output curves permitted
+- Use a **BS 1363 three-pin plug with a 5A fuse** — Schuko-to-UK adapters are explicitly not compliant
+- Contain **no battery in the plug circuit** — see the [no-battery rule explained](/blog/plug-in-solar-no-battery-rule-uk-explained)
+- Not require **extension leads** — see the [no-extension-lead rule](/blog/plug-in-solar-no-extension-lead-rule-uk)
+- Be one **"plug-in microgenerator" per household** — the legal term, distinct from traditional solar PV
+- Ship with the **G98 notification pack** or clear instructions on how to file
+- Carry **UKCA** marking (or UKCA+CE during the transition period)
+- Comply with **EN 50549-1** or equivalent grid-code testing
+
+Kits that meet all of the above from launch include the [EcoFlow STREAM](/blog/ecoflow-stream-uk-launch-september-2026) range, Anker SOLIX, and UK-configured [Bright Saver](/blog/bright-saver-plug-in-solar-review-uk) and [Craftstrom](/blog/craftstrom-plug-in-solar-review-uk) SKUs.
+
+## Retail rollout: what actually happened
+
+The German-style price crash predicted for late 2026 has not fully materialised yet — UK street prices are holding in the £600–£900 range for complete 800W kits. Reasons:
+
+- Import duties and post-Brexit UKCA re-certification added roughly 15% vs equivalent German pricing
+- Retail launch demand outstripped UK warehouse stock in July/August, keeping discounting minimal
+- Only three brands (EcoFlow, Anker, and one Chinese OEM behind two UK badges) have UKCA at scale so far
+
+Expect the £400–£500 mainstream pricing to arrive in **Q2 2027** as more brands complete UKCA and retail volume normalises. If you are optimising for price alone, waiting six months makes sense; if you want the current summer/autumn generation, the maths still works at £700–£800.
+
+## Signs a listing is not actually compliant
+
+Even now that the standard has published, non-compliant listings still surface on eBay, some Amazon marketplace sellers, and grey-import specialist sites. Red flags:
+
+- **Rated at 1000W or higher.** No amount of "smart inverter throttling" makes this legal.
+- **Ships with a Schuko plug and a UK adapter in the box.** Explicitly non-compliant.
+- **Battery listed as part of the "plug-in kit".** Batteries have to sit outside the plug circuit under the interim spec.
+- **No mention of UKCA in the product description.** CE-only is a transition-period tolerance, not a permanent one.
+- **Vendor cannot supply a G98 template on request.** Legitimate UK-market vendors have this ready.
+
+If a listing looks suspiciously cheap and shows any of the above, walk away. The [retailer stocking guide](/blog/retailers-stocking-plug-in-solar-uk-2026) has the current shortlist of vendors we trust.
 
 <!-- related-auto-start -->
 

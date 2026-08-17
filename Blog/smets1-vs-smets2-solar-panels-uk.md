@@ -64,6 +64,47 @@ If your home has a three-phase electricity supply (uncommon for residential, mor
 
 For plug-in solar, this is rarely an issue — the 800W regulatory cap means you're well within single-phase capacity.
 
+## Common SMETS1 meter models still in UK homes
+
+If you want to identify your meter without calling your supplier, these are the SMETS1 models most commonly found in UK households, all of which lack a proper export register in their as-installed state:
+
+- **Aclara SGM1416-B** (British Gas installs 2015–2018) — no export register, DCC migration inconsistent
+- **Elster AS300P** (npower, EDF installs) — SMETS1, single-register import only
+- **Landis+Gyr E470** (multiple suppliers) — SMETS1 but some units re-flashable to SMETS1.6 with export support
+- **Secure Liberty 100 / 105** (SSE installs, older EDF) — went dumb for most switchers before DCC enrolment
+- **Itron ACE9000** (Scottish Power) — SMETS1, no export
+
+Common SMETS2 models (all support export and half-hourly natively):
+
+- **Aclara SGM1416-B v2** (post-2019 revision)
+- **Landis+Gyr E470 SMETS2** (physically similar to SMETS1 sibling — check firmware version on IHD)
+- **Kaifa MA120** — widely deployed by Octopus and OVO
+- **EDMI ES-10B** — common with British Gas and E.ON post-2020
+
+If in doubt, the fastest path is a five-second question to your supplier's app chat: "Is my meter SMETS1 or SMETS2?"
+
+## The switching trap most solar owners walk into
+
+A specific pattern catches people out. You installed solar with your existing supplier, they enabled the export register on your (SMETS2) meter, everything worked. You switched supplier for a better import rate. The new supplier's system did not carry the export register configuration across, and your SEG payments silently stopped.
+
+The fix is trivial once you know: after any supplier switch, log into the new supplier's app and check that half-hourly export data is populating within 7 days. If it is not, open a chat and ask them to "re-enable the export MPAN and confirm settlement is running". Most suppliers can flip a flag in seconds; a small minority need to send an engineer.
+
+We cover the switching-day checklist in [switching energy supplier with plug-in solar](/blog/plug-in-solar-smart-meter-uk).
+
+## What happens if you refuse a smart meter installation
+
+You are not legally obliged to accept one. Suppliers must offer, not force. But if you refuse and you have solar:
+
+- You cannot claim SEG payments. There is no legal route to be paid for exports without half-hourly measurement, and traditional meters cannot provide that.
+- You cannot use any time-of-use tariff. Every TOU tariff (Octopus Agile, Flux, Cosy, EDF GoElectric) requires SMETS2 half-hourly settlement.
+- Your bills stay flat-rate at whatever the supplier's variable rate is, currently at or near the [Ofgem cap of 24.5p/kWh](/blog/plug-in-solar-energy-price-cap-q4-2026-uk).
+
+For a small plug-in solar system exporting 200–300 kWh/year, the SEG opportunity cost of refusing a smart meter is £10–£45/year plus the loss of load-shifting analytics — usually not enough to be worth fighting about, but worth knowing before you dig in.
+
+## What SMETS3 will look like
+
+There has been informal industry talk about SMETS3 targeting 2028–2030 with sub-second data resolution, native support for micro-generation registration, and better integration with EV chargers. Nothing is confirmed. For any decision you are making today, plan on SMETS2 as the standard for the next 5+ years — it does everything a plug-in solar household needs.
+
 ## Related Reading
 
 - [Smart meters and solar panels: complete guide](/blog/smart-meter-solar-panels-complete-guide-uk)

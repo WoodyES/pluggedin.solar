@@ -53,6 +53,40 @@ This depends on your usage pattern. Model it before switching:
 
 **Run the numbers:** check your last 3 months' bills. Note how much is charged at the day rate vs night rate. Then compare what you'd pay on a flat rate with the same consumption, minus estimated solar savings. Use our [calculator](/calculator) for the solar portion.
 
+## Worked example: Economy 7 household with plug-in solar
+
+Retired couple, three-bed detached in Yorkshire, storage heaters upstairs, electric water heating overnight, roughly 8,500 kWh/year total consumption. Recently installed an 800W plug-in solar kit.
+
+**Before solar (annual):**
+
+- Economy 7 day rate 28p × 4,200 kWh = £1,176
+- Economy 7 night rate 12p × 4,300 kWh = £516
+- Standing charge (365 × 62p) = £226
+- **Total: £1,918**
+
+**After solar (annual):**
+
+- Solar generation: 750 kWh, ~85% self-consumed (high home occupancy) = 638 kWh
+- All solar displaces day-rate consumption (panels do not generate at night)
+- New day-rate import: 4,200 − 638 = 3,562 kWh × 28p = £997
+- Night rate unchanged: £516
+- Standing charge unchanged: £226
+- **Total: £1,739**
+- SEG income (112 kWh × 5.6p): **+£6.30 credit**
+- **Net saving: £185/year**
+
+Notice: the saving is £185 not £180 despite an 800W kit generating 750 kWh — because self-consumption is high (retirees home during the day) and day-rate is expensive. This is the ideal Economy 7 solar profile.
+
+## When switching off Economy 7 makes sense
+
+If your storage heaters and immersion are the main drivers of night usage, staying on Economy 7 is right. But three profiles benefit from switching to a flat rate + plug-in solar:
+
+- **Empty nesters** whose kids moved out but who kept the tariff — night usage has fallen but the day rate is still punishing
+- **Households that swapped storage heaters for a heat pump or gas** — the tariff's whole rationale is gone
+- **Home-working single-income households** — daytime usage now dominates, and Economy 7's 28p day rate is significantly above the flat 24.5p cap
+
+Run the numbers using the [savings calculator](/calculator) or the [Ofgem cap comparison](/blog/plug-in-solar-energy-price-cap-q4-2026-uk). If your day-rate consumption is >65% of total and rising, switching is usually worth it.
+
 ## Related Reading
 
 - [SMETS1 vs SMETS2 for solar](/blog/smets1-vs-smets2-solar-panels-uk)

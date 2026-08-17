@@ -82,6 +82,35 @@ For ongoing tracking without manual maths:
 - **Loop Energy** (free app) connects to your smart meter via the DCC and provides solar-specific analytics
 - **The EcoFlow app** shows generation and self-consumption directly if you have a [STREAM system](/blog/ecoflow-stream-review-uk)
 
+## Worked example: cross-checking real numbers
+
+A useful sanity check: your smart meter's import reduction should roughly match `(generation × self-consumption rate)` from your inverter or app data. Divergence flags real problems.
+
+**Example — August, Bristol, south-facing 800W garden mount:**
+
+- Inverter app total generation: 118 kWh
+- App-reported self-consumption: 78% = 92 kWh directly used, 26 kWh exported
+- Prior-year August import (same month, no solar): 340 kWh
+- Current August import (from smart meter): 253 kWh
+- Actual import reduction: 87 kWh
+- Discrepancy vs modelled 92 kWh: 5.4% — well within measurement tolerance
+
+Green light — everything is behaving. If the discrepancy is over 15%, work through:
+
+1. **Inverter overreporting generation** — check with a [TP-Link Tapo P110 smart plug](/blog/tapo-p110-solar-monitoring-review-uk) on the inverter output for one week and compare to app data.
+2. **Meter not measuring exports correctly** — see [smart meter showing wrong readings](/blog/smart-meter-showing-wrong-readings-solar-uk).
+3. **Household consumption genuinely different** — new appliance, guest staying, heatwave running the fridge harder.
+
+## What "savings" excludes (and why it matters)
+
+The savings figure you calculate is import-avoidance only. It does not include:
+
+- **SEG payments for exports** — worth £15–£45/year for a typical setup. Read separately from your supplier's SEG statement.
+- **Grid resilience** — you cannot easily monetise this, but during a partial outage or grid voltage drop, panels + a portable battery keep essentials running.
+- **Behavioural savings** — installing solar tends to make households more aware of consumption. Anecdotally, [self-consumption optimisation](/blog/smart-meter-solar-self-consumption-uk) triggers a broader efficiency mindset that saves another 5–10% independently.
+
+When calculating [payback period](/blog/plug-in-solar-payback-calculator-800w-uk), include SEG income but treat the other two as bonuses.
+
 ## Related Reading
 
 - [Does plug-in solar affect your energy bill immediately?](/blog/does-plug-in-solar-affect-energy-bill-immediately-uk)

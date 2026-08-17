@@ -62,6 +62,36 @@ When you [notify your DNO](/blog/g98-dno-notification-plug-in-solar) about your 
 
 Do all three. They take about 10 minutes total.
 
+## What SEG rates actually pay in 2026
+
+Current fixed and variable SEG rates from the main UK suppliers, updated August 2026:
+
+| Supplier | Tariff | Rate (p/kWh) | Notes |
+|---|---|---|---|
+| Octopus Energy | Outgoing Fixed | 15p | Best fixed rate, must be Octopus import customer |
+| Octopus Energy | Outgoing Agile | Variable (avg ~10p, peaks 25p+) | Tracks wholesale, best for load-shifters |
+| Octopus Energy | Flux | Peak/off-peak | Only for solar + battery, see [Flux review](/blog/octopus-flux-tariff-review-uk) |
+| EDF Energy | Export Variable Value | 5.6p | Any supplier customer |
+| E.ON Next | Next Export | 5.5p | Any customer |
+| British Gas | Export & Earn | 6.4p | Must be BG import customer |
+| OVO | SEG | 4p | See [OVO review](/blog/ovo-energy-solar-tariff-review-uk) |
+| Scottish Power | SmartGen | 12p | Must be SP import customer |
+
+For a typical 800W plug-in solar setup exporting 250–400 kWh/year, the difference between the worst rate (OVO at 4p) and the best (Octopus Outgoing Fixed at 15p) is roughly £10–£45/year. Not enormous, but worth 15 minutes of comparison. See the full [supplier comparison for solar users](/blog/british-gas-vs-octopus-vs-eon-solar-uk).
+
+## Troubleshooting: export register is on but nothing shows
+
+Common causes when your export register is enabled but the app shows zero export:
+
+1. **Data lag** — half-hourly export data usually appears 24–48 hours after generation. Give it a week before assuming something is broken.
+2. **DNO notification pending** — some suppliers block SEG data display until they have record of your G98 submission. Chase the [DNO notification](/blog/g98-dno-notification-plug-in-solar) if you have not sent it.
+3. **Meter needs a firmware push** — a small number of Landis+Gyr and Aclara units need a remote firmware refresh to activate the export register properly. Supplier can trigger this.
+4. **You are not actually exporting** — an 800W kit with heavy midday self-consumption may genuinely export near-zero. Check your smart meter's export register reading directly (via the IHD or the meter itself) versus what the app shows.
+
+## The billing gotcha nobody warns you about
+
+When your export register goes live, some suppliers issue a corrective bill for the previous quarter that credits you for exports estimated from the day the register was enabled — but a small minority calculate the credit from the day you signed the SEG contract, missing the intervening period. If that happens to you, request a manual adjustment citing "SEG regulation D.3.2 — payment from register activation date". Most billing teams will honour it once challenged.
+
 ## Related Reading
 
 - [Smart meters and solar panels: complete guide](/blog/smart-meter-solar-panels-complete-guide-uk)

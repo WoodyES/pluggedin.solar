@@ -61,6 +61,26 @@ If you're running a completely [off-grid setup](/blog/how-to-power-shed-with-sol
 
 Do this before your plug-in solar arrives if possible. That way you'll have clean baseline data to compare against once your panels are generating.
 
+## What you lose without a smart meter
+
+Concretely, without a smart meter your plug-in solar loses access to:
+
+- **SEG payments** — worth £15–£45/year for a typical 800W kit ([see SEG rate table](/blog/smart-meter-export-register-solar-uk))
+- **Any time-of-use tariff** — Octopus Agile, Flux, Cosy, EDF GoElectric all require SMETS2 half-hourly settlement
+- **Half-hourly usage data** — the raw material for optimising [self-consumption](/blog/smart-meter-solar-self-consumption-uk)
+- **Battery arbitrage viability** — a portable battery like an [EcoFlow DELTA 2](/blog/ecoflow-delta-2-review-uk) drops from £180–£260/year net to roughly £70/year without cheap-rate charging windows
+
+For a household running plug-in solar as a hobby project on a flat-rate tariff, none of this matters. For anyone treating plug-in solar as a genuine cost-saving move, you are leaving £50–£300/year on the table by refusing a free meter.
+
+## What to do if the engineer botches the install
+
+The two failure modes worth watching for after a SMETS2 installation:
+
+1. **In-home display (IHD) never pairs**. Common. Not a solar-critical issue — the meter still reports correctly to the DCC network. Supplier can post a replacement IHD, or you can ignore it entirely and rely on the app.
+2. **Export register enabled but not populating in the app after 7 days**. The engineer flipped a physical setting but forgot to send the DCC command that activates half-hourly export settlement. Call your supplier and ask them to "enable HHS export settlement for the MPAN". Should be resolved within 24 hours.
+
+Both are covered under the free installation — you should not be charged for follow-up visits or configuration fixes.
+
 ## Bottom Line
 
 You don't need a smart meter for plug-in solar to work. But getting one is free, takes minimal effort, and unlocks export payments, better tariffs, and proper visibility of your savings. There's genuinely no reason not to.

@@ -61,6 +61,30 @@ If you've already got plug-in solar running on a non-smart or SMETS1 meter, it's
 
 You've missed some export data and baseline comparison, but the ongoing benefits are the same.
 
+## The full sequenced checklist
+
+If you are starting from zero and want to do this in the "right" order for maximum clean data and minimum admin friction:
+
+1. **Book the SMETS2 installation** — call your supplier, request smart meter. Typical wait: 2–4 weeks. Free.
+2. **Two weeks of baseline data** — let the meter record your normal consumption pattern before solar arrives. This becomes your "before" comparison for [checking savings](/blog/smart-meter-solar-savings-how-to-check-uk).
+3. **Confirm the export register is enabled** — some suppliers activate it automatically on install; others need a phone call. See [how to enable your export register](/blog/smart-meter-export-register-solar-uk).
+4. **Order and install the solar kit** — takes 1–2 hours for a garden or balcony install. See [how to install plug-in solar](/blog/how-to-install-plug-in-solar-uk).
+5. **File the G98 notification with your DNO** within 28 days of energising. See [G98 step-by-step](/blog/g98-dno-notification-step-by-step). Free and takes 10 minutes online.
+6. **Notify your home insurer** — one-line email, template in the [insurance notification guide](/blog/plug-in-solar-insurance-notification-uk).
+7. **Apply for SEG** with your chosen export supplier (does not have to match your import supplier). See the [SEG rate table](/blog/smart-meter-export-register-solar-uk) for current rates.
+8. **Start monthly self-consumption tracking** — first Sunday of each month, note export register reading vs generation. See [self-consumption tips](/blog/smart-meter-solar-self-consumption-uk).
+
+Total elapsed time: 4–6 weeks from booking the meter to first SEG payment. Total admin time: under 90 minutes across the whole sequence.
+
+## What breaks the sequence (and how to salvage)
+
+Common failure modes when the order gets scrambled:
+
+- **Solar installed before smart meter.** No SEG data, no half-hourly optimisation possible. Fix: book SMETS2 now, accept that you have lost 1–3 months of export payments (typically £2–£12 lost), then follow steps 3–8.
+- **SMETS2 installed but engineer skipped export register.** Common. You will see import data in the app but no export. Call supplier, ask for "export register activation with HHS settlement enabled". Usually done within 24 hours remotely.
+- **DNO notification filed but not connected to supplier record.** Some suppliers refuse SEG applications until they can see the DNO notification. Fix: include a copy of your G98 confirmation email in the SEG application form.
+- **SEG supplier does not match import supplier.** Fine — this is legal and often preferable. But confirm the export MPAN is correctly registered with your chosen SEG supplier or payments will not appear.
+
 ## Related Reading
 
 - [Do I need a smart meter for solar panels?](/blog/do-i-need-smart-meter-for-solar-panels-uk)

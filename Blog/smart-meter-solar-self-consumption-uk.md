@@ -78,6 +78,57 @@ Track it monthly: compare your total estimated generation (from your [energy mon
 
 **Self-consumption % = (Generation − Export) ÷ Generation × 100**
 
+## Worked example: a typical UK household
+
+A three-bedroom semi-detached in the Midlands with an 800W south-facing garden mount, no battery, working-couple household out 9–5, [SMETS2 smart meter](/blog/smets1-vs-smets2-solar-panels-uk).
+
+**Before optimisation (typical starting point):**
+
+- Annual generation: 780 kWh
+- Direct self-consumption during the day (fridge, freezer, standby loads, occasional midday laundry): 470 kWh (60%)
+- Exported: 310 kWh
+- Value captured: 470 × 24.5p = £115. Export value at 5p SEG: £15.50. Total: **£130.50**
+
+**After optimisation (three months of load-shifting using half-hourly data):**
+
+- Dishwasher and washing machine on midday delay-start: +60 kWh self-consumed
+- Immersion boost moved from overnight to 12:30 pm on sunny days: +45 kWh self-consumed
+- Device charging habit shifted (phones, laptops, cordless tools): +20 kWh self-consumed
+- Robot vacuum reprogrammed to 11 am start: +8 kWh self-consumed
+- Total shifted from export to self-consumption: 133 kWh
+- New self-consumption: 603 / 780 = **77%**
+- New value: 603 × 24.5p = £147.75. Export value: 177 × 5p = £8.85. Total: **£156.60**
+
+Same panels, same sunshine, same tariff — **£26/year uplift from behaviour change alone**. Over the 25-year panel lifespan that is £650 with no additional hardware cost.
+
+## Monthly load-shifting playbook
+
+Different months need different tactics because generation and daylight change dramatically. Adjust as follows:
+
+- **Nov–Jan**: Barely worth optimising. Generation is 30–40 kWh/month, so even 100% self-consumption caps upside at £8–10. Focus on making sure base loads (fridge, router, standby) are efficient.
+- **Feb–Mar**: Generation climbs to 60–90 kWh/month. Start scheduling dishwasher and washing machine for 11am–2pm on the sunniest forecast days. Use the Met Office weekend forecast.
+- **Apr–May**: Sweet spot. 100–130 kWh/month with long daylight hours. Everything discretionary should run midday. Consider a [TP-Link Tapo P110 smart plug](/blog/tapo-p110-solar-monitoring-review-uk) on the washing machine and dishwasher for scheduled starts.
+- **Jun–Aug**: Peak generation, 130–160 kWh/month. This is when a [portable battery](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) pays for itself — export volumes are high enough to justify storage. Watch for [heatwave temperature losses](/blog/plug-in-solar-heatwave-performance-august-2026-uk).
+- **Sep–Oct**: Ramp-down. Generation still 80–110 kWh/month. Keep the load-shifting habits from summer; they still work well.
+
+## Common self-consumption mistakes
+
+- **Running the immersion at 3 pm expecting solar to cover it.** A standard immersion draws 3 kW; your 800W kit covers just over a quarter. You still displace 800Wh over that half-hour, which is worth doing, but do not expect the solar to zero out your import.
+- **Forgetting the base load.** Your household draws roughly 200–400W continuously (fridge, router, standby electronics, freezer). That is 100% self-consumed by your panels for free during any daylight generation. You cannot "optimise" it further — it just needs to be efficient.
+- **Ignoring the SEG side.** Even at 5p/kWh, 200+ kWh of unavoidable export a year is £10+ you should be claiming. See [export payments and SEG](/blog/plug-in-solar-export-payments-seg-uk) for how to register.
+- **Optimising without data.** Guessing which loads to shift wastes effort. Pull half-hourly data from your supplier app for one representative sunny day per season and let it tell you where the export bars are largest.
+
+## How to track your self-consumption over time
+
+Set up a monthly rhythm:
+
+1. **First Sunday of the month**: Note your smart meter export register reading (see [how to check the export register](/blog/smart-meter-export-register-solar-uk)).
+2. **Same day**: Note total generation from your [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) or inverter app.
+3. **Calculate**: `(generation − export) / generation × 100` = self-consumption %.
+4. **Compare to last month.** A downward trend usually means seasonal — expected in autumn. An unexpected drop mid-summer usually means a shading or connector issue; work through the [not-generating troubleshooting checklist](/blog/plug-in-solar-not-generating-troubleshooting-uk).
+
+Aim for a rolling 12-month average of 70%+ without a battery, 88%+ with one. Anything above 85% without a battery means you are doing everything right — the remaining 15% is genuinely unshiftable overnight generation (there is none) and morning/evening shoulder generation your loads cannot absorb.
+
 ## Related Reading
 
 - [How to read your smart meter with plug-in solar](/blog/how-to-read-smart-meter-plug-in-solar-uk)
