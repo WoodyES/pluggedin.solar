@@ -6,21 +6,168 @@
       "source": "/blog/plug-in-solar-planning-permission-uk",
       "destination": "/blog/plug-in-solar-planning-permission",
       "permanent": true
+    },
+    {
+      "source": "/blog/balcony-rail-solar-mount-uk",
+      "destination": "/blog/balcony-rail-mounting-plug-in-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/balcony-solar-mount-rented-flat",
+      "destination": "/blog/best-balcony-mounting-options-renters",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bsi-plug-in-solar-standard-uk",
+      "destination": "/blog/bsi-product-standard-plug-in-solar-july-2026",
+      "permanent": true
+    },
+    {
+      "source": "/blog/flat-roof-ballast-solar-mount-uk",
+      "destination": "/blog/flat-roof-ballast-mounting",
+      "permanent": true
+    },
+    {
+      "source": "/blog/g98-plug-in-solar-uk",
+      "destination": "/blog/g98-notification-guide-uk-homeowners",
+      "permanent": true
+    },
+    {
+      "source": "/blog/garden-office-off-grid-solar-uk",
+      "destination": "/blog/garden-office-off-grid-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ground-mount-plug-in-solar-uk",
+      "destination": "/blog/ground-mount-plug-in-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-many-solar-panels-for-garden-office",
+      "destination": "/blog/garden-office-solar-how-many-panels",
+      "permanent": true
+    },
+    {
+      "source": "/blog/maintain-plug-in-solar-panels-uk",
+      "destination": "/blog/how-to-maintain-plug-in-solar-panels-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/moving-home-plug-in-solar-uk",
+      "destination": "/blog/moving-house-with-plug-in-solar-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-apartments-europe-vs-uk",
+      "destination": "/blog/plug-in-solar-apartment-buildings-europe-vs-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-for-shed-uk",
+      "destination": "/blog/plug-in-solar-for-sheds-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-home-insurance-uk",
+      "destination": "/blog/plug-in-solar-and-home-insurance-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-microinverter-problems-uk",
+      "destination": "/blog/plug-in-solar-microinverter-problems-and-fixes",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-not-generating-uk",
+      "destination": "/blog/plug-in-solar-not-generating-troubleshooting-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-panel-angle-uk",
+      "destination": "/blog/plug-in-solar-panel-angle",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-savings-uk",
+      "destination": "/blog/how-much-does-plug-in-solar-save-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-winter-uk-output",
+      "destination": "/blog/plug-in-solar-in-winter-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/rented-flat-solar-panels-uk",
+      "destination": "/blog/plug-in-solar-for-renters-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/renters-rights-act-solar-uk",
+      "destination": "/blog/renters-rights-act-2025-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/shed-solar-panels-off-grid-uk",
+      "destination": "/blog/how-to-power-shed-with-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/solar-panel-cleaning-kit-uk",
+      "destination": "/blog/solar-panel-cleaning-kit-guide-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/solar-panels-on-decking-uk",
+      "destination": "/blog/solar-panels-on-decking",
+      "permanent": true
+    },
+    {
+      "source": "/blog/storm-proof-plug-in-solar-uk",
+      "destination": "/blog/how-to-storm-proof-your-plug-in-solar-panels",
+      "permanent": true
+    },
+    {
+      "source": "/blog/wall-mount-plug-in-solar-uk",
+      "destination": "/blog/wall-mount-plug-in-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/what-germany-teaches-uk-plug-in-solar",
+      "destination": "/blog/what-germany-teaches-uk-about-plug-in-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/will-plug-in-solar-reduce-my-bills",
+      "destination": "/blog/plug-in-solar-vs-energy-bills",
+      "permanent": true
     }
   ],
   "headers": [
     {
       "source": "/assets/(.*)",
       "headers": [
-        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=31536000, immutable"
+        }
       ]
     },
     {
       "source": "/(.*)",
       "headers": [
-        { "key": "X-Content-Type-Options", "value": "nosniff" },
-        { "key": "X-Frame-Options", "value": "DENY" },
-        { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" }
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "DENY"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
       ]
     }
   ]
