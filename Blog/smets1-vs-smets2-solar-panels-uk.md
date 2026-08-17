@@ -83,3 +83,15 @@ For plug-in solar, this is rarely an issue — the 800W regulatory cap means you
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Cheap vs Premium Solar Panels UK: Is It Worth Paying More?](/blog/cheap-vs-premium-solar-panels-uk)
+- [String vs Parallel Wiring for Plug-in Solar](/blog/plug-in-solar-string-vs-parallel-wiring-uk)
+- [MPPT vs PWM Charge Controllers for Plug-in Solar UK](/blog/mppt-vs-pwm-charge-controllers-solar-uk)
+- [Economy 7, Smart Meters & Solar UK](/blog/smart-meter-solar-panels-economy-7-uk)
+
+<!-- related-auto-end -->
+

@@ -224,3 +224,15 @@ Here's the honest assessment:
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Solar Output Per Day: Month-by-Month](/blog/solar-panel-output-per-day-uk)
+- [Solar Savings: With vs Without Battery](/blog/solar-savings-with-battery-vs-without-uk)
+- [Solar Savings by Postcode UK](/blog/solar-panel-savings-by-postcode-uk)
+- [Single vs Dual Panel Plug-in Solar: Which?](/blog/single-vs-dual-panel-plug-in-solar-uk)
+
+<!-- related-auto-end -->
+

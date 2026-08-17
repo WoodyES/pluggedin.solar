@@ -128,3 +128,14 @@ For more on other surfaces, read our [surface placement guide](/blog/where-to-in
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Ground-Mounted Plug-in Solar on Grass, Gravel, and Concrete](/blog/ground-mount-plug-in-solar)
+- [Best Solar Panel Wall Brackets and Mounts for the UK](/blog/best-solar-panel-wall-brackets-uk)
+- [Pitched Roof: Mount Plug-in Solar](/blog/mount-plug-in-solar-pitched-roof-uk)
+
+<!-- related-auto-end -->
+

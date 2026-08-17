@@ -282,3 +282,15 @@ Don't overcomplicate it. Use simple payback (3.1 years) and 25-year profit (£10
 5. **Make your decision** – if ROI is >500% over 25 years and payback <5 years, it's worth doing
 
 **Ready to see your exact ROI?** [Run the calculator](/calculator) with your postcode, then multiply annual saving by 25 to estimate 25-year profit.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Solar Panel Calculator: Your Savings](/blog/solar-panel-calculator-uk)
+- [Solar Savings Calculator Accuracy Explained](/blog/plug-in-solar-savings-calculator-accuracy-uk)
+- [800W Plug-In Solar Payback Calculator: UK Postcodes](/blog/plug-in-solar-payback-calculator-800w-uk)
+- [Balcony Solar: What Vertical Panels Make](/blog/balcony-solar-output-calculator-uk)
+
+<!-- related-auto-end -->
+

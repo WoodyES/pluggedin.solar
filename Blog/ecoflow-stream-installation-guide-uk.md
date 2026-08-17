@@ -106,3 +106,15 @@ Yes — that's the entire point of plug-in solar. No electrician required. Just 
 ### What if my socket is indoors and panels are outdoors?
 
 Route the DC cables from outside to inside (through a window gap or purpose-drilled hole), and position the inverter near an indoor socket. See our [cable routing guide](/blog/plug-in-solar-cable-routing-weatherproofing-reality-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Balcony Solar Installation: A First-Timer's Walkthrough](/blog/balcony-solar-installation-guide-uk)
+- [EcoFlow STREAM Review UK: The Official Pick](/blog/ecoflow-stream-review-uk)
+- [EcoFlow STREAM 5000: 5kWh Battery Model Preview](/blog/ecoflow-stream-5000-review-uk)
+- [EcoFlow STREAM UK Launch: September 2026 Details](/blog/ecoflow-stream-uk-launch-september-2026)
+
+<!-- related-auto-end -->
+

@@ -117,3 +117,15 @@ The STREAM is sold as a complete certified system. Using it with third-party pan
 ### How much will I save?
 
 Use our [savings calculator](/calculator) for your postcode. A typical 800W system in southern England saves £150-250 per year.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow STREAM Review UK: The Official Pick](/blog/ecoflow-stream-review-uk)
+- [EcoFlow STREAM 5000: 5kWh Battery Model Preview](/blog/ecoflow-stream-5000-review-uk)
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+- [Bright Saver vs EcoFlow STREAM: Which UK Plug-In Kit Wins?](/blog/bright-saver-vs-ecoflow-stream-uk)
+
+<!-- related-auto-end -->
+

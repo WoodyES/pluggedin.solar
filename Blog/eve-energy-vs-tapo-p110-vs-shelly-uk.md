@@ -221,3 +221,15 @@ And pair any of these three with [Emporia Vue 3](/blog/emporia-vue-3-review-uk) 
 [Emporia Vue 3 Review UK: Whole-Home Energy Monitoring](/blog/emporia-vue-3-review-uk)  
 [Shelly Plus Plug UK Review: Best for Solar Monitoring?](/blog/shelly-plus-plug-uk-review)  
 [APsystems EZ1-M Review UK](/blog/apsystems-ez1-m-review-uk)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Tapo P110 for Solar Monitoring: UK Review](/blog/tapo-p110-solar-monitoring-review-uk)
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+- [Cheap vs Premium Solar Panels UK: Is It Worth Paying More?](/blog/cheap-vs-premium-solar-panels-uk)
+- [Apartment Solar: Europe vs UK](/blog/plug-in-solar-apartment-buildings-europe-vs-uk)
+
+<!-- related-auto-end -->
+

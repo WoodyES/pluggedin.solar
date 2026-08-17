@@ -207,3 +207,12 @@ Under the [savings calculator](/calculator), you'll get your specific payback pe
 And remember: after payback, you're earning money (via savings) with zero additional cost. That's what makes the long payback period acceptable.
 
 For more on total lifetime savings and whether it's worth it, see [Is Plug-in Solar Worth It in the UK?](/blog/is-plug-in-solar-worth-it-uk)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Payback Period Explained](/blog/plug-in-solar-payback-period-uk)
+
+<!-- related-auto-end -->
+

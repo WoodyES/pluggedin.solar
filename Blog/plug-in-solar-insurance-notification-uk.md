@@ -75,3 +75,12 @@ Unlikely. Most insurers treat plug-in solar the same as any other portable appli
 ### Should renters notify their contents insurer?
 
 Yes. Your contents policy should cover the solar kit as a valuable portable item. The [landlord's buildings insurance](/blog/plug-in-solar-landlords-uk) isn't your responsibility.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar and Home Insurance: What You Need to Know](/blog/plug-in-solar-and-home-insurance-uk)
+
+<!-- related-auto-end -->
+

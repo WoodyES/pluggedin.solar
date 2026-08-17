@@ -155,3 +155,13 @@ The key lesson: transparency beats secrecy every time. An insurer who knows what
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Do You Need to Tell Your Home Insurer About Plug-In Solar?](/blog/plug-in-solar-insurance-notification-uk)
+- [Home Office Solar: Offset Your Energy](/blog/plug-in-solar-home-office-uk)
+
+<!-- related-auto-end -->
+

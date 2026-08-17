@@ -249,3 +249,15 @@ See [How Much Does Plug-in Solar Save?](/blog/how-much-does-plug-in-solar-save-u
 4. **Compare to your usage** – if you use more electricity than 850 kWh/year, solar covers part of it; if less, you export surplus
 
 **Ready to see your exact output?** [Run the calculator](/calculator) with your postcode.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Savings: By System Size](/blog/how-much-does-plug-in-solar-save-uk)
+- [How Much Does Balcony Solar Actually Generate?](/blog/how-much-does-balcony-solar-actually-generate)
+- [Solar Panel Output UK: Month-by-Month](/blog/how-much-power-solar-panel-generate-uk)
+- [800W Plug-In Solar Payback Calculator: UK Postcodes](/blog/plug-in-solar-payback-calculator-800w-uk)
+
+<!-- related-auto-end -->
+

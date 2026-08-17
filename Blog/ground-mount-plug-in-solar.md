@@ -140,3 +140,13 @@ For detailed guidance on selecting the right mount for your home, read our [surf
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Wall-Mounted Plug-in Solar: When & How](/blog/wall-mount-plug-in-solar)
+- [Pitched Roof: Mount Plug-in Solar](/blog/mount-plug-in-solar-pitched-roof-uk)
+
+<!-- related-auto-end -->
+

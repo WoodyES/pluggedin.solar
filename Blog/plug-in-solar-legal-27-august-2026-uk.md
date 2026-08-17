@@ -115,3 +115,12 @@ No. Compliant kits are designed to be plugged into a standard 13A wall socket by
 ### Can renters install plug-in solar?
 
 Yes. Plug-in solar is specifically designed for [renters](/blog/plug-in-solar-for-renters-uk) and [flat-dwellers](/blog/solar-panels-for-flats-uk). The system is portable — you take it when you move.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Is Plug-in Solar Legal in UK?](/blog/is-plug-in-solar-legal-uk)
+
+<!-- related-auto-end -->
+

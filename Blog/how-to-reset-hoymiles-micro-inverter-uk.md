@@ -197,3 +197,12 @@ A reset is your first response to most issues. Most of the time, it solves the p
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Micro-Inverter Error Codes: UK Guide](/blog/micro-inverter-error-codes-uk)
+
+<!-- related-auto-end -->
+

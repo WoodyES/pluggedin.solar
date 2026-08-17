@@ -86,3 +86,15 @@ Both tariffs make plug-in solar more profitable. The choice ultimately comes dow
 For monitoring your actual consumption and exports—regardless of which tariff you choose—a smart monitor like the [Emporia Vue 3](https://amzn.to/4bUCQ9E) is invaluable. Real data beats assumptions every time.
 
 Want to understand how tariffs work on a broader level? See our guide to [switching energy suppliers with plug-in solar](/blog/switch-energy-supplier-plug-in-solar-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [British Gas vs Octopus vs E.ON: Best for Plug-in Solar UK](/blog/british-gas-vs-octopus-vs-eon-solar-uk)
+- [Octopus Flux + Solar: Worth It 2026?](/blog/octopus-flux-tariff-review-uk)
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+- [Plug-In Solar vs Switching Energy Supplier: Which Saves More?](/blog/plug-in-solar-vs-switching-energy-supplier-uk)
+
+<!-- related-auto-end -->
+

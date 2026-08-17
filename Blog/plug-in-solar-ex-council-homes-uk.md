@@ -75,3 +75,12 @@ If you're on a low income, you may qualify for the government's pilot programme.
 ### What about semi-detached or terraced ex-council homes?
 
 Most apply equally. [Semi-detached](/blog/plug-in-solar-semi-detached-uk) and [terraced](/blog/plug-in-solar-terraced-houses-uk) homes can use garden or roof space effectively.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar for Mobile Homes and Park Homes UK](/blog/plug-in-solar-mobile-park-homes-uk)
+
+<!-- related-auto-end -->
+

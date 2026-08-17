@@ -148,3 +148,13 @@ For a standard UK plug-in solar system, you're almost certainly using dual MPPT,
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [SMETS1 vs SMETS2: Which for Solar?](/blog/smets1-vs-smets2-solar-panels-uk)
+- [MPPT vs PWM Charge Controllers for Plug-in Solar UK](/blog/mppt-vs-pwm-charge-controllers-solar-uk)
+
+<!-- related-auto-end -->
+

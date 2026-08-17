@@ -198,3 +198,15 @@ See [the tariff guide](/blog/best-energy-tariff-plug-in-solar-uk-2026) for advic
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [East or West Facing: Is Plug-in Solar Still Worth It?](/blog/east-west-facing-plug-in-solar-uk)
+- [Plug-in Solar in South West England](/blog/plug-in-solar-south-west-england-guide)
+- [Solar Output Winter vs Summer UK](/blog/solar-panel-output-winter-vs-summer-uk)
+- [Solar Savings: With vs Without Battery](/blog/solar-savings-with-battery-vs-without-uk)
+
+<!-- related-auto-end -->
+

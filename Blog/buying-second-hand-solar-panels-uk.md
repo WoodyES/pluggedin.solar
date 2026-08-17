@@ -117,3 +117,14 @@ Second-hand solar panels can be a genuine bargain for specific use cases — she
 If you do buy used, inspect carefully, test with a multimeter, and always pair with a new, certified micro inverter.
 
 For new kit recommendations, see our [buyer's guide](/blog/best-plug-in-solar-kit-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [What to Check Before Buying a Plug-in Solar Kit](/blog/plug-in-solar-buying-checklist-uk)
+- [Best Portable Solar Panels for Camping in the UK](/blog/best-portable-solar-panels-camping-uk)
+- [Best Flexible Solar Panels for UK Caravans and Campervans](/blog/best-flexible-solar-panels-uk-caravans)
+
+<!-- related-auto-end -->
+

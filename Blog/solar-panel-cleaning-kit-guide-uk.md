@@ -94,3 +94,15 @@ If you're dealing with persistent issues beyond dirt—like birds nesting under 
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Solar Panel Cleaning Tools for the UK](/blog/best-solar-panel-cleaning-tools-uk)
+- [Best Solar Panel Carry Bags and Storage Cases for UK Homes](/blog/solar-panel-storage-carry-bag-uk)
+- [Best Solar Panel Bird Proofing Kits for UK Homes](/blog/solar-panel-bird-proofing-uk)
+- [Plug-in Solar in Autumn: What Changes](/blog/plug-in-solar-autumn-uk-guide)
+
+<!-- related-auto-end -->
+

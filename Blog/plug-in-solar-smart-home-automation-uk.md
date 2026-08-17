@@ -76,3 +76,15 @@ Moving from passive self-consumption (50%) to automated (80%+) can add £50-80/y
 ### Can the EcoFlow STREAM app do this?
 
 The EcoFlow app handles battery scheduling but doesn't control external devices. For whole-home automation, pair it with a separate smart home system.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar & Smart Meter Rollout UK](/blog/plug-in-solar-smart-meter-rollout-uk)
+- [Best Smart Plugs for Monitoring Solar Output in the UK](/blog/best-smart-plug-monitor-solar-uk)
+- [Plug-in Solar and Your Smart Meter: Will It Record Exports?](/blog/plug-in-solar-smart-meter-exports-uk)
+- [Monitoring Plug-in Solar with Home Assistant in the UK](/blog/solar-panel-monitoring-home-assistant-uk)
+
+<!-- related-auto-end -->
+

@@ -147,3 +147,14 @@ Don't let marketing push you toward 800W if you genuinely don't have the space. 
 Go with the best kit you can fit on your roof, not the biggest number.
 
 For detailed kit recommendations, see our [buying guide](/blog/best-plug-in-solar-kit-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [400W vs 800W Plug-in Solar System UK: Which Should You Buy?](/blog/400w-vs-800w-plug-in-solar-uk-guide)
+- [Best 400W Solar Panel UK 2026: Prices, Brands, Buying Guide](/blog/best-400w-solar-panel-uk)
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+
+<!-- related-auto-end -->
+

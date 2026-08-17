@@ -93,3 +93,13 @@ For the complete setup guide, see our [starter kit checklist](/blog/plug-in-sola
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Plug-in Solar Accessories UK 2026](/blog/best-plug-in-solar-accessories-uk-2026)
+- [Plug-in Solar Reality: Cable Routing](/blog/plug-in-solar-cable-routing-weatherproofing-reality-uk)
+
+<!-- related-auto-end -->
+

@@ -79,3 +79,12 @@ No. Cold water on hot solar glass can cause thermal shock and micro-cracks in th
 ### Will heatwave losses ruin my annual savings estimate?
 
 No. UK plug-in solar generation is dominated by May–July, when temperatures are moderate. Losing 15% on a handful of August heatwave days costs roughly 6–8 kWh per year — under £2 at current tariffs. Your annual total should still land within the estimate in the [savings calculator](/blog/plug-in-solar-roi-calculator-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Performance: Monthly Guide](/blog/plug-in-solar-uk-monthly-performance-guide)
+
+<!-- related-auto-end -->
+

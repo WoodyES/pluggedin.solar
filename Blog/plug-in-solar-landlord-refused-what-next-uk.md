@@ -77,3 +77,14 @@ The Stuttgart District Court ruled in one case that "a rejection without a valid
 If you're refused and believe the refusal is unreasonable, you have more legal footing than existed even two years ago. The direction of travel in both UK and European law is clearly towards tenant rights to make green improvements.
 
 For all tenant-specific considerations, see our [plug-in solar for renters guide](/blog/rented-flat-solar-panels-uk). For the leasehold-specific situation, see our [leasehold permission guide](/blog/leasehold-flat-solar-permission-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [What Germany Teaches the UK About Plug-in Solar](/blog/what-germany-teaches-uk-about-plug-in-solar)
+- [Plug-in Solar in Spain: What the UK Can Learn](/blog/plug-in-solar-in-spain-what-uk-can-learn)
+- [What Is a Plug-In Microgenerator? The Legal Definition](/blog/plug-in-microgenerator-uk-what-is-it)
+
+<!-- related-auto-end -->
+

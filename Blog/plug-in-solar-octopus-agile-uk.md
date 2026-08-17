@@ -88,3 +88,15 @@ Time-of-use tariffs like Octopus Agile, Go, and Flux are a natural companion to 
 Start with plug-in solar. Add a smart plug for monitoring. When you're ready, add a battery and switch to a time-of-use tariff. That's the sequence that maximises your return.
 
 For battery comparisons, see our [evening use battery guide](/blog/best-solar-battery-evening-use-uk). For monitoring options, see our [smart plug comparison](/blog/best-smart-plug-monitor-solar-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Octopus Flux + Solar: Worth It 2026?](/blog/octopus-flux-tariff-review-uk)
+- [Octopus Go vs Intelligent: Solar](/blog/octopus-go-vs-intelligent-solar-uk)
+- [Octopus Energy Review for Solar Users UK 2026](/blog/octopus-energy-review-solar-users-uk)
+- [British Gas vs Octopus vs E.ON: Best for Plug-in Solar UK](/blog/british-gas-vs-octopus-vs-eon-solar-uk)
+
+<!-- related-auto-end -->
+

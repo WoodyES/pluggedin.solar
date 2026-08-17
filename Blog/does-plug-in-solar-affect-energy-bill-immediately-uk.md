@@ -173,3 +173,15 @@ Contact your installer if anything seems amiss. Most plug-in solar kits come wit
 - **Estimated bills hide savings.** Push for actual smart meter readings if your supplier is still estimating.
 
 Want to learn more about how to interpret your meter data? Check our guide to [reading your smart meter with plug-in solar](/blog/how-to-read-smart-meter-plug-in-solar-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Q4 2026 Energy Price Cap and Plug-In Solar Savings](/blog/plug-in-solar-energy-price-cap-q4-2026-uk)
+- [Plug-In Solar and Christmas Energy Bills: What to Expect](/blog/plug-in-solar-christmas-energy-use-uk)
+- [Best Energy Tariff for Plug-in Solar Owners UK 2026](/blog/best-energy-tariff-plug-in-solar-uk-2026)
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+
+<!-- related-auto-end -->
+

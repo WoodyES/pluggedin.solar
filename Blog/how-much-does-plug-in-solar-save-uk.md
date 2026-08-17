@@ -231,3 +231,15 @@ Panels typically last 30+ years with minimal degradation (~0.5%/year). Most fail
 - **25-year lifespan** – panels last far longer than the 3–4 year payback, so most of the saving is pure profit.
 
 **Ready to see your exact numbers?** [Run the calculator](/calculator) with your postcode.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar: How Much You'll Save](/blog/how-much-can-plug-in-solar-save)
+- [800W Solar: Annual Output UK Explained](/blog/how-much-electricity-does-800w-solar-generate-uk)
+- [How Much Does Balcony Solar Actually Generate?](/blog/how-much-does-balcony-solar-actually-generate)
+- [Solar Panel Output UK: Month-by-Month](/blog/how-much-power-solar-panel-generate-uk)
+
+<!-- related-auto-end -->
+

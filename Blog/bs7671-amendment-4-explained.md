@@ -139,3 +139,14 @@ Amendment 4 is the critical piece, but it's not the final piece.
 - Installation: see our [installation guide](/blog/how-to-install-plug-in-solar-uk) — coming soon
 
 Amendment 4 is the technical foundation. July 2026 is when the whole structure is complete.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [BS 7671 Amendment 4: Guide for Solar](/blog/bs-7671-amendment-4-plain-english-guide)
+- [Why UK Plug-In Solar Kits Can't Include Batteries](/blog/plug-in-solar-no-battery-rule-uk-explained)
+- [SI 2026 No. 848 Explained: The Law Behind Plug-In Solar](/blog/si-2026-848-plug-in-solar-explained-uk)
+
+<!-- related-auto-end -->
+

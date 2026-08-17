@@ -78,3 +78,12 @@ No. Your panels and inverter generate electricity independently of WiFi. WiFi is
 ### Can I use an ethernet connection instead?
 
 Some DTUs (like Hoymiles) support ethernet. The [EcoFlow STREAM](/blog/ecoflow-stream-uk-launch-september-2026) and [APsystems EZ1-M](/blog/apsystems-ez1-m-review-uk) are WiFi only.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Microinverter Problems & Fixes](/blog/plug-in-solar-microinverter-problems-and-fixes)
+
+<!-- related-auto-end -->
+

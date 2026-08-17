@@ -108,3 +108,13 @@ You can, but mixing panels with a certified kit may void the certification. It's
 ### Will prices drop further?
 
 Competition will drive prices down through 2027. But waiting means missing months of savings — our [ROI calculator](/blog/plug-in-solar-roi-calculator-uk) can help you decide.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Bird Proofing Kits for Solar Panels UK](/blog/best-bird-proofing-kits-solar-uk)
+- [Cheapest Plug-in Solar Kits UK: Budget Options Compared](/blog/cheapest-plug-in-solar-kits-uk)
+
+<!-- related-auto-end -->
+

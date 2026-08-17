@@ -68,3 +68,15 @@ The real value is the combined effect: lower household bills + cheaper tariff ac
 This combination won't make your driving free, but it will make it noticeably cheaper — and every kWh from solar is a kWh you're not burning fossil fuels for.
 
 For the full plug-in solar setup guide, see our [starter kit checklist](/blog/plug-in-solar-starter-kit-checklist-uk). For battery options, see [best batteries for evening use](/blog/best-solar-battery-evening-use-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Standing Charges and Plug-in Solar: The Catch](/blog/plug-in-solar-standing-charge-impact-uk)
+- [Can Plug-In Solar Reduce Your Standing Charge Impact?](/blog/plug-in-solar-reduce-standing-charge-uk)
+- [Can You Make Money from Plug-in Solar in the UK?](/blog/can-you-make-money-plug-in-solar-uk)
+- [Plug-in Solar: How Much You'll Save](/blog/how-much-can-plug-in-solar-save)
+
+<!-- related-auto-end -->
+

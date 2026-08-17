@@ -75,3 +75,13 @@ Very similar — both are equinox months with roughly equal daylight hours. Sept
 ### Should I adjust panel angle for autumn?
 
 If using adjustable mounts, increasing tilt by 5-10° in October captures more of the low autumn sun. See our [seasonal adjustment guide](/blog/plug-in-solar-move-panels-seasonally-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best and Worst UK Regions for Plug-in Solar Generation](/blog/best-uk-regions-plug-in-solar-generation)
+- [Plug-in Solar in January UK: How Much Will You Generate?](/blog/plug-in-solar-january-uk-generation)
+
+<!-- related-auto-end -->
+

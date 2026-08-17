@@ -253,3 +253,15 @@ Here's a question many people miss: **Is battery a better investment than switch
 5. **Decide:** If payback <5 years, consider it. If >7 years, skip it and invest elsewhere
 
 **Ready to calculate your exact scenario?** [Run the calculator](/calculator) with and without battery to compare.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Battery Storage vs No Battery: Worth It?](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
+- [Solar Output Winter vs Summer UK](/blog/solar-panel-output-winter-vs-summer-uk)
+- [Solar Savings by Postcode UK](/blog/solar-panel-savings-by-postcode-uk)
+- [Orientation: South vs East/West](/blog/south-facing-vs-east-west-solar-uk)
+
+<!-- related-auto-end -->
+

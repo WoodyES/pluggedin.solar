@@ -72,3 +72,12 @@ The tripping itself is a safety feature — it's protecting you. The underlying 
 ### Will a certified kit like EcoFlow STREAM have this issue?
 
 Unlikely. Certified kits are tested for RCD compatibility. If tripping occurs, it's more likely a wiring or consumer unit issue than the kit itself.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [RCD Tripping After Plug-in Solar? Here's Why](/blog/plug-in-solar-rcd-tripping-uk)
+
+<!-- related-auto-end -->
+

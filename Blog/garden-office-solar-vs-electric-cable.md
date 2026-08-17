@@ -217,3 +217,15 @@ But if you're planning year-round use with heating, running a cable is the hones
 - Explore [off-grid alternatives](/blog/garden-office-off-grid-solar-uk) if you want true autonomy
 
 Get this decision right, and your garden office will serve you beautifully for years. Get it wrong, and you'll be frustrated every day.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [How Many Solar Panels Does a Garden Office Actually Need?](/blog/garden-office-solar-how-many-panels)
+- [Can a Garden Office Run Off-Grid with Solar and a Battery?](/blog/garden-office-off-grid-solar)
+- [Garden Office Solar: Plug-in Options](/blog/solar-panels-for-garden-office-uk)
+- [Home Office Solar: Offset Your Energy](/blog/plug-in-solar-home-office-uk)
+
+<!-- related-auto-end -->
+

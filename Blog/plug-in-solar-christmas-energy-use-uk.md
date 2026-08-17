@@ -59,3 +59,15 @@ No. December represents about 2-3% of annual generation. The other 10 months mor
 ### Can solar power my Christmas lights?
 
 Partially. LED Christmas lights use 5-20W — well within your system's December output. But only during daylight hours unless you have a battery.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Energy Tariff for Plug-in Solar Owners UK 2026](/blog/best-energy-tariff-plug-in-solar-uk-2026)
+- [Will Plug-in Solar Actually Reduce My Energy Bills?](/blog/plug-in-solar-vs-energy-bills)
+- [Time-of-Use Tariffs 2026: Solar Ranked](/blog/best-time-of-use-tariffs-uk-2026)
+- [Q4 2026 Energy Price Cap and Plug-In Solar Savings](/blog/plug-in-solar-energy-price-cap-q4-2026-uk)
+
+<!-- related-auto-end -->
+

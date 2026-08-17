@@ -206,3 +206,15 @@ The Report is map-based and requires no postcode entry—just click on your prop
 - **The calculator is a guide, not gospel** – use it with the Solar Report and the buying guides to make a confident decision.
 
 **Ready to see your savings?** [Start the calculator now](/calculator).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar ROI - Calculating Your Return on Investment](/blog/plug-in-solar-roi-calculator-uk)
+- [Solar Savings Calculator Accuracy Explained](/blog/plug-in-solar-savings-calculator-accuracy-uk)
+- [800W Plug-In Solar Payback Calculator: UK Postcodes](/blog/plug-in-solar-payback-calculator-800w-uk)
+- [Balcony Solar: What Vertical Panels Make](/blog/balcony-solar-output-calculator-uk)
+
+<!-- related-auto-end -->
+

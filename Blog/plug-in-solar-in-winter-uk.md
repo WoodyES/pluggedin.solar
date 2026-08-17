@@ -92,3 +92,13 @@ Understanding winter performance sits alongside broader questions about generati
 ## The Bottom Line
 
 Winter solar in the UK is real, it's measurable, and it's valuable—but it's not dramatic. Expect 20 to 30 percent of your summer output. If you can live with that, and you size your system accordingly, winter becomes manageable rather than disappointing. And by April, when the days lengthen and the sun climbs higher again, you'll be grateful you have it.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Preparing Your Plug-In Solar for Winter 2026/27](/blog/plug-in-solar-winter-preparation-2026-uk)
+- [How to Prepare Your Plug-in Solar System for Winter UK](/blog/prepare-plug-in-solar-winter-uk)
+
+<!-- related-auto-end -->
+

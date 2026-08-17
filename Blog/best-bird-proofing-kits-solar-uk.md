@@ -216,3 +216,15 @@ Don't skip this step. Your future self will thank you when your system is still 
 [Best Cable Management for Plug-in Solar UK 2026](/blog/best-cable-management-plug-in-solar-uk-2026)  
 [Best Flexible Solar Panels for UK Caravans and Campervans](/blog/best-flexible-solar-panels-uk-caravans)  
 [EcoFlow 400W Portable Panel Review UK](/blog/ecoflow-400w-portable-panel-review-uk)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Solar Panel Bird Proofing Kits for UK Homes](/blog/solar-panel-bird-proofing-uk)
+- [Best Plug-In Solar Kits Under £500 (UK, 2026)](/blog/best-plug-in-solar-kits-under-500-uk)
+- [Cheapest Plug-in Solar Kits UK: Budget Options Compared](/blog/cheapest-plug-in-solar-kits-uk)
+- [EcoFlow STREAM Pre-Order: Early Bird Pricing Guide](/blog/ecoflow-stream-early-bird-pre-order-uk)
+
+<!-- related-auto-end -->
+

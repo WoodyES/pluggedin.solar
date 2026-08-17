@@ -114,3 +114,15 @@ For context on how cables fit into the broader installation picture, see our ful
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Cable Management for Plug-in Solar UK 2026](/blog/best-cable-management-plug-in-solar-uk-2026)
+- [Best Solar Panel Wall Brackets and Mounts for the UK](/blog/best-solar-panel-wall-brackets-uk)
+- [How to Angle Your Plug-in Solar Panels for Maximum Output](/blog/plug-in-solar-panel-angle)
+- [Plug-in Solar Reality: Cable Routing](/blog/plug-in-solar-cable-routing-weatherproofing-reality-uk)
+
+<!-- related-auto-end -->
+

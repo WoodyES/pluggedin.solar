@@ -65,3 +65,13 @@ The current [one-per-household rule](/blog/interim-product-specification-v2-plug
 ### What about warden-assisted flats?
 
 The same rules apply. The warden or housing manager can oversee installation and ensure [DNO notification](/blog/g98-dno-notification-step-by-step) is completed.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in Housing Association Properties: UK Rules](/blog/plug-in-solar-housing-association-uk)
+- [Plug-in Solar for Council and Housing Association Tenants](/blog/plug-in-solar-council-housing-uk)
+
+<!-- related-auto-end -->
+

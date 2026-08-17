@@ -134,3 +134,12 @@ If you're ready to explore plug-in solar for your retirement property:
 5. **Install and enjoy:** follow our [installation guide](/blog/how-to-install-plug-in-solar-uk) — a garden system takes under an hour. Plug in and start saving
 
 For more on plug-in solar for [pensioners](/blog/plug-in-solar-pensioners-uk) specifically, including information on benefits interactions and Winter Fuel Payment considerations, see our dedicated guide. If you have a garden shed or outbuilding, you might also consider a [shed solar setup](/blog/plug-in-solar-for-shed-uk) as an alternative mounting location.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar for Bungalows UK](/blog/plug-in-solar-bungalows-uk)
+
+<!-- related-auto-end -->
+

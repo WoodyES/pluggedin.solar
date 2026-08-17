@@ -82,3 +82,15 @@ Our calculation assumes the inverter lasts 15+ years. Modern microinverters have
 ### How does UK plug-in solar LCOE compare internationally?
 
 UK LCOE is higher than southern Europe (more sun = more kWh for the same cost) but competitive with Germany and the Netherlands, where plug-in solar is already mainstream.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar: Full Cost Breakdown UK 2026](/blog/plug-in-solar-installation-cost-breakdown-uk)
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+- [Octopus Go vs Intelligent: Solar](/blog/octopus-go-vs-intelligent-solar-uk)
+- [Plug-In Solar vs Switching Energy Supplier: Which Saves More?](/blog/plug-in-solar-vs-switching-energy-supplier-uk)
+
+<!-- related-auto-end -->
+

@@ -86,3 +86,14 @@ When the BSI product standard publishes, watch for:
 We'll publish a full update when the BSI standard publishes. Follow the [pluggedin.solar blog](/blog) or check back in July 2026.
 
 For now, the best action for existing owners is to ensure your installation paperwork is in order and notify your home insurer. For guidance on the notification process, see our [insurance guide](/blog/plug-in-solar-fire-risk-insurance-uk) and [G98 guide](/blog/g98-notification-guide-uk-homeowners).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [BSI Standard Plug-in Solar: July 2026](/blog/bsi-product-standard-plug-in-solar-july-2026)
+- [BSI Standard for Plug-in Solar Explained](/blog/bsi-product-standard-plug-in-solar)
+- [DESNZ Plug-in Solar Consultation Explained](/blog/desnz-plug-in-solar-consultation-july-2026)
+
+<!-- related-auto-end -->
+

@@ -93,3 +93,15 @@ Once you've chosen your system size, check how much you'll actually generate in 
 If you're torn between instant energy monitoring and battery backup, the [EcoFlow STREAM](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) combines both with a built-in 400W panel option, whilst the [EcoFlow 400W Panel](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2F400w-solar-panel) can be paired with any compatible micro-inverter for maximum flexibility.
 
 For energy tracking without a battery, a simple [smart plug](/blog/best-smart-plug-monitor-solar-uk) monitor like the [Tapo P110](https://amzn.to/4m9Yh9U) will show you exactly how much you're self-consuming in real time.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Cheap vs Premium Solar Panels UK: Is It Worth Paying More?](/blog/cheap-vs-premium-solar-panels-uk)
+- [Apartment Solar: Europe vs UK](/blog/plug-in-solar-apartment-buildings-europe-vs-uk)
+- [Battery Storage vs No Battery: Worth It?](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
+- [Balcony vs Garden vs Roof: Best Place](/blog/balcony-vs-garden-vs-roof-plug-in-solar-uk)
+
+<!-- related-auto-end -->
+

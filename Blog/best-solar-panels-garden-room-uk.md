@@ -293,3 +293,15 @@ Get quotes from off-grid specialists (Renogy, Victron installers). This isn't a 
 Get the power infrastructure right, and your garden room will serve you beautifully for decades. Choose poorly, and you'll frustrate yourself daily.
 
 Think carefully about how you'll actually use the room. Then buy accordingly.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Garden Office Solar: Plug-in Options](/blog/solar-panels-for-garden-office-uk)
+- [How Many Solar Panels Does a Garden Office Actually Need?](/blog/garden-office-solar-how-many-panels)
+- [Flats Without Garden: Solar Options](/blog/plug-in-solar-flats-no-garden-uk)
+- [Plug-In Solar with a North-Facing Garden: Is It Worth It?](/blog/plug-in-solar-north-facing-garden-uk)
+
+<!-- related-auto-end -->
+

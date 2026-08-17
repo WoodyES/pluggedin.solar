@@ -155,3 +155,14 @@ The interim product specification takes effect alongside the PSSR amendment — 
 For the latest on timing, see our [UK timeline guide](/blog/when-can-i-buy-plug-in-solar-uk-2026).
 
 The interim product specification is not perfect. The battery exclusion and the one-device limit are both frustrating. But it is the fastest route to legal plug-in solar in the UK, and speed matters. Every month of delay is a month of sunshine that UK households cannot capture.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Interim Product Specification v2: What It Means for Kits](/blog/interim-product-specification-v2-plug-in-solar-uk)
+- [BSI Standard for Plug-in Solar Explained](/blog/bsi-product-standard-plug-in-solar)
+- [BSI Standard Plug-in Solar: July 2026](/blog/bsi-product-standard-plug-in-solar-july-2026)
+
+<!-- related-auto-end -->
+

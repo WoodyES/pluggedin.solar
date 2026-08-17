@@ -266,3 +266,15 @@ For 99% of UK homeowners considering solar, **plug-in is the sensible choice.** 
 ---
 
 **Related reading:** [Try a plug-in system with affordable panels](/blog/cheap-vs-premium-solar-panels-uk) and upgrade to a [battery storage solution](/blog/micro-inverter-error-codes-uk) if you want to maximize [self-consumption](/blog/smart-meter-solar-self-consumption-uk). Or [read about [EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system) battery systems](/blog/cheap-vs-premium-solar-panels-uk) to pair with your panels.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Balcony vs Garden vs Roof: Best Place](/blog/balcony-vs-garden-vs-roof-plug-in-solar-uk)
+- [Plug-in Solar vs Rooftop Solar: The Honest Comparison](/blog/plug-in-solar-vs-roof-solar-uk)
+- [Plug-in Solar vs Rooftop Solar: Which in 2026?](/blog/plug-in-solar-vs-rooftop-solar-uk-2026)
+- [Plug-in Solar vs Heat Pump: Savings](/blog/plug-in-solar-vs-heat-pump-uk)
+
+<!-- related-auto-end -->
+

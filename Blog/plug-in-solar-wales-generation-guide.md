@@ -101,3 +101,15 @@ Yes. South Wales offers output comparable to central England, making plug-in sol
 The key factors that determine whether it works for your specific Welsh property are the same as anywhere: orientation, shading, and how much of the generated electricity you actually use. If you face south with minimal shading and you are home during the day (or use a battery), plug-in solar in Wales is a solid choice.
 
 Start with our [savings calculator](/calculator) to get a personalised estimate for your Welsh postcode, or take the [panel finder quiz](/quiz) to find the right system for your setup.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in the Midlands: Generation & Savings Guide](/blog/plug-in-solar-midlands-guide-uk)
+- [Plug-in Solar in London: Urban Installation Guide](/blog/plug-in-solar-london-guide)
+- [Plug-in Solar in East Anglia](/blog/plug-in-solar-east-anglia-guide)
+- [Plug-In Solar in Northern Ireland: Guide & Regulations](/blog/plug-in-solar-northern-ireland-guide)
+
+<!-- related-auto-end -->
+

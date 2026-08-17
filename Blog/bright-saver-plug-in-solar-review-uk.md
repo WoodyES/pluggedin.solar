@@ -96,3 +96,15 @@ An 800W plug-in kit in a typical UK location generates roughly 650–900 kWh per
 ### Bright Saver vs EcoFlow STREAM — which is better?
 
 EcoFlow STREAM has the stronger ecosystem, app, and upgrade path to the Ultra Pro battery variant, plus active UK support. Bright Saver offers a simpler single-kit proposition, often at aggressive introductory pricing. If you value long-term flexibility, STREAM is the safer pick. If you want the cheapest "one box" solution with UK plug and warranty, Bright Saver is a legitimate alternative.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Bright Saver vs EcoFlow STREAM: Which UK Plug-In Kit Wins?](/blog/bright-saver-vs-ecoflow-stream-uk)
+- [Lidl Plug-in Solar Kit UK: What to Expect When It Lands](/blog/lidl-plug-in-solar-review-uk)
+- [Hoymiles HMS-800 Review UK](/blog/hoymiles-hms800-review-uk)
+- [Shelly Plus Plug UK Review: Best for Solar Monitoring?](/blog/shelly-plus-plug-uk-review)
+
+<!-- related-auto-end -->
+

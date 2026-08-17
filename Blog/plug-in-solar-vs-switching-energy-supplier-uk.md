@@ -81,3 +81,15 @@ Solar payback lengthens if prices drop, but you're still generating free electri
 ### Should I switch supplier before installing solar?
 
 Yes — get on the best tariff first, then add solar. Some tariffs like [Octopus Flux](/blog/octopus-flux-tariff-review-uk) are specifically designed for solar households.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+- [Will Plug-in Solar Actually Reduce My Energy Bills?](/blog/plug-in-solar-vs-energy-bills)
+- [How to Switch Energy Supplier When You Have Plug-in Solar](/blog/switch-energy-supplier-plug-in-solar-uk)
+- [Q4 2026 Energy Price Cap and Plug-In Solar Savings](/blog/plug-in-solar-energy-price-cap-q4-2026-uk)
+
+<!-- related-auto-end -->
+

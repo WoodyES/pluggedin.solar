@@ -76,3 +76,15 @@ Some SMETS2 meters can show generation and export, but configuration varies by s
 ### What if my meter shows I'm exporting?
 
 That means your solar is generating more than you're using — the excess flows back to the grid. Maximise [self-consumption](/blog/plug-in-solar-self-consumption-tips-uk) to reduce exports.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar & Smart Meter Rollout UK](/blog/plug-in-solar-smart-meter-rollout-uk)
+- [Plug-in Solar Performance: Monthly Guide](/blog/plug-in-solar-uk-monthly-performance-guide)
+- [Plug-in Solar and Your Smart Meter: Will It Record Exports?](/blog/plug-in-solar-smart-meter-exports-uk)
+- [Smart Meters & Solar: Complete UK Guide](/blog/smart-meter-solar-panels-complete-guide-uk)
+
+<!-- related-auto-end -->
+

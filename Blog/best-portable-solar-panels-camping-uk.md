@@ -68,3 +68,15 @@ Here's the clever bit: if you've already got an EcoFlow DELTA 2 or Jackery Explo
 A 160–200W foldable panel (£200–350) paired with a power station you already own for home solar turns camping into a genuinely off-grid experience. No generator noise, no fuel costs, no campsite hookup fees. Just sunlight and silence.
 
 For home solar storage recommendations, see our [evening battery guide](/blog/best-solar-battery-evening-use-uk). For the complete plug-in solar setup, check our [starter kit checklist](/blog/plug-in-solar-starter-kit-checklist-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Flexible Solar Panels for UK Caravans and Campervans](/blog/best-flexible-solar-panels-uk-caravans)
+- [Best Portable Power Station UK 2026: Ranked Buyer's Guide](/blog/best-portable-power-stations-plug-in-solar-uk)
+- [Best Portable Power Stations for Plug-in Solar](/blog/best-portable-power-station-plug-in-solar-uk)
+- [Second-Hand Solar Panels: Worth It?](/blog/buying-second-hand-solar-panels-uk)
+
+<!-- related-auto-end -->
+

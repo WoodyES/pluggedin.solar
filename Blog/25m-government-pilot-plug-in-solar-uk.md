@@ -92,3 +92,12 @@ This is unclear. The pilot is aimed at households without existing solar generat
 ### What if I'm a private renter?
 
 [Private renters](/blog/plug-in-solar-for-renters-uk) may qualify if they meet the income criteria. The portable nature of plug-in solar means you can take the kit when you move, which aligns with the government's intention to support transient households.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [UK Government: Plug-in Solar March 2026](/blog/uk-government-plug-in-solar-announcement-2026)
+
+<!-- related-auto-end -->
+

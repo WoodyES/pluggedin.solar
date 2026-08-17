@@ -110,3 +110,13 @@ Don't judge your system's performance on January data alone. Judge it on the ful
 Plant plug-in solar with your eyes open to January's reality, and you'll appreciate the sunshine when it returns.
 
 For a detailed month-by-month breakdown of what to expect throughout the year, see our [complete monthly performance guide](/blog/plug-in-solar-uk-monthly-performance-guide).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best and Worst UK Regions for Plug-in Solar Generation](/blog/best-uk-regions-plug-in-solar-generation)
+- [Plug-In Solar in September: What to Expect (UK)](/blog/plug-in-solar-september-generation-uk)
+
+<!-- related-auto-end -->
+

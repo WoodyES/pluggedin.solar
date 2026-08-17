@@ -81,3 +81,15 @@ Very similar — London generates ~5-8% more due to being slightly further south
 ### Is plug-in solar worth it in the Midlands?
 
 Absolutely. With payback periods of 5-5.5 years and 15-year net savings of £1,100+, the Midlands is excellent territory for plug-in solar.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar in London: Urban Installation Guide](/blog/plug-in-solar-london-guide)
+- [Plug-In Solar in Yorkshire: Is It Worth It?](/blog/plug-in-solar-yorkshire-guide-uk)
+- [Plug-in Solar in Wales: Regional Output Guide](/blog/plug-in-solar-wales-generation-guide)
+- [Plug-in Solar in East Anglia](/blog/plug-in-solar-east-anglia-guide)
+
+<!-- related-auto-end -->
+

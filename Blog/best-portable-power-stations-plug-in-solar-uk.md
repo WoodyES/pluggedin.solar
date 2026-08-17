@@ -124,3 +124,13 @@ Expect £499–£799 for a quality 1 kWh unit in the UK. Below £400 you are typ
 ### Can I use a portable power station with plug-in solar?
 
 Yes. Most portable power stations accept solar input via MC4 connectors. The EcoFlow DELTA 2 handles up to 500W, Anker SOLIX C1000 up to 600W, and Jackery Explorer 1000 v2 up to 200W. See the [dedicated plug-in solar pairing guide](/blog/best-portable-power-station-plug-in-solar-uk) for the fuller integration story, including the [no-battery-in-plug-circuit rule](/blog/plug-in-solar-no-battery-rule-uk-explained) under SI 2026/848.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Portable Power Stations for Plug-in Solar](/blog/best-portable-power-station-plug-in-solar-uk)
+- [Best Portable Solar Panels for Camping in the UK](/blog/best-portable-solar-panels-camping-uk)
+
+<!-- related-auto-end -->
+

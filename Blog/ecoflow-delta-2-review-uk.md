@@ -100,3 +100,15 @@ The DELTA 2 is the battery to beat for UK plug-in solar owners. The LFP chemistr
 Buy the [EcoFlow DELTA 2 on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station).
 
 For the full battery comparison, see our [EcoFlow vs Anker SOLIX vs Jackery guide](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026). For tariff optimisation with battery storage, see our [best energy tariff guide](/blog/best-energy-tariff-plug-in-solar-uk-2026).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow STREAM Review UK: The Official Pick](/blog/ecoflow-stream-review-uk)
+- [EcoFlow STREAM 5000: 5kWh Battery Model Preview](/blog/ecoflow-stream-5000-review-uk)
+- [EcoFlow 400W Portable Panel Review UK](/blog/ecoflow-400w-portable-panel-review-uk)
+- [Tapo P110 for Solar Monitoring: UK Review](/blog/tapo-p110-solar-monitoring-review-uk)
+
+<!-- related-auto-end -->
+

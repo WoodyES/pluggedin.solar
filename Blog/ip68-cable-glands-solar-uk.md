@@ -94,3 +94,12 @@ Unsure about cable sizing? Read our guide on [string vs parallel wiring for plug
 ## Summary
 
 IP68 cable glands are cheap insurance against the UK's damp climate. They're essential at every outdoor cable penetration and take 5 minutes to install. Buy brass glands rated M20 IP68, tighten firmly (not hard), and optionally seal with silicone. Your system will thank you over the next 25 years.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Cable Management for Plug-in Solar UK 2026](/blog/best-cable-management-plug-in-solar-uk-2026)
+
+<!-- related-auto-end -->
+

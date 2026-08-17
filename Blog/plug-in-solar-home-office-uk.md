@@ -209,3 +209,15 @@ Even without battery storage, payback is 7–10 years—solid for 25-year panel 
 For a tailored estimate for your home office, try our [plug-in solar quiz](https://pluggedin.solar/quiz).
 
 See also: [plug-in solar for Airbnb hosts](https://pluggedin.solar/blog/plug-in-solar-airbnb-hosts-uk) for another high-occupancy use case.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Garden Office Solar: Plug-in Options](/blog/solar-panels-for-garden-office-uk)
+- [Plug-in Solar and Home Insurance: What You Need to Know](/blog/plug-in-solar-and-home-insurance-uk)
+- [Can a Garden Office Run Off-Grid with Solar and a Battery?](/blog/garden-office-off-grid-solar)
+- [Garden Office: Plug-in Solar vs Cable Power](/blog/garden-office-solar-vs-electric-cable)
+
+<!-- related-auto-end -->
+

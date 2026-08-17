@@ -68,3 +68,14 @@ The UK is years away from this being a widespread problem given current adoption
 For now, the excess generation problem is entirely a financial optimisation question, not a technical or safety issue. The practical priority: shift loads to daytime, and consider battery storage if your summer monitoring data shows consistent large exports.
 
 Track your generation and consumption pattern with a [Tapo P110](https://amzn.to/4m9Yh9U) on the inverter output and a home [energy monitor](/blog/best-energy-monitor-plug-in-solar-uk) to see the full picture.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Exports: SEG Tariffs](/blog/plug-in-solar-export-payments-seg-uk)
+- [Plug-in Solar: How Much You'll Save](/blog/how-much-can-plug-in-solar-save)
+- [How Much Does Balcony Solar Actually Generate?](/blog/how-much-does-balcony-solar-actually-generate)
+
+<!-- related-auto-end -->
+

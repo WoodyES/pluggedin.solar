@@ -78,3 +78,15 @@ For detailed inverter fault-finding, see our [troubleshooting guide](/blog/plug-
 ## The Practical Workaround
 
 While you sort out the monitoring, plug a [smart energy monitor like the Tapo P110](https://amzn.to/4m9Yh9U) into the AC outlet between the inverter and the wall socket. It tracks power independently of the manufacturer's cloud system and gives you a local reading you can check any time. It also acts as a backup record if the cloud logging has a gap.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Not Working? Troubleshoot](/blog/plug-in-solar-not-generating-troubleshooting)
+- [Plug-in Solar Not Generating? Fix It](/blog/plug-in-solar-not-generating-troubleshooting-uk)
+- [EcoFlow STREAM App Setup and Solar Monitoring Guide](/blog/ecoflow-stream-app-setup-monitoring-uk)
+- [Smart Meter vs Solar App: Monitoring](/blog/smart-meter-solar-panel-app-monitoring-uk)
+
+<!-- related-auto-end -->
+

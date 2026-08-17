@@ -81,3 +81,15 @@ Use our [savings calculator](/calculator) to model the difference for your speci
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Smart Meters & Solar: Complete UK Guide](/blog/smart-meter-solar-panels-complete-guide-uk)
+- [Time-of-Use Tariffs 2026: Solar Ranked](/blog/best-time-of-use-tariffs-uk-2026)
+- [Using Your Smart Meter to Maximise Solar Self-Consumption](/blog/smart-meter-solar-self-consumption-uk)
+- [Smart Meter Wrong After Installing Solar](/blog/smart-meter-showing-wrong-readings-solar-uk)
+
+<!-- related-auto-end -->
+

@@ -53,3 +53,15 @@ Hills don't affect solar output directly — it's about panel orientation and [s
 ### How does Yorkshire compare to Germany?
 
 Yorkshire at 54°N is similar to Hamburg (53.5°N), where plug-in solar is extremely popular. The economics work.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in the Midlands: Generation & Savings Guide](/blog/plug-in-solar-midlands-guide-uk)
+- [Plug-in Solar in London: Urban Installation Guide](/blog/plug-in-solar-london-guide)
+- [Plug-in Solar in Wales: Regional Output Guide](/blog/plug-in-solar-wales-generation-guide)
+- [Plug-in Solar in East Anglia](/blog/plug-in-solar-east-anglia-guide)
+
+<!-- related-auto-end -->
+

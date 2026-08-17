@@ -214,3 +214,12 @@ Over a 25-year panel lifespan, an 800W system generates approximately 18,000-21,
 For a detailed assessment of whether plug-in solar is a good investment for you specifically, see our [investment analysis](/blog/is-plug-in-solar-good-investment-uk-2026) and our [savings guide](/blog/how-much-does-plug-in-solar-save-uk).
 
 The short answer: yes, it is worth the money. The only question is whether to buy now or wait a few weeks for plug-and-play.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar Cost per kWh vs Grid Electricity (UK 2026)](/blog/plug-in-solar-cost-per-kwh-vs-grid-uk)
+
+<!-- related-auto-end -->
+

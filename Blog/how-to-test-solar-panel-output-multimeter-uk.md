@@ -241,3 +241,15 @@ A simple multimeter test takes 10 minutes and tells you whether your panel is th
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Solar Panel Output UK: Month-by-Month](/blog/how-much-power-solar-panel-generate-uk)
+- [Angling Solar Panels for Max Output UK](/blog/how-to-angle-solar-panels-maximum-output-uk)
+- [Solar Panel Temperature Coefficient UK](/blog/solar-panel-temperature-coefficient-uk)
+- [Monitoring Plug-in Solar with Home Assistant in the UK](/blog/solar-panel-monitoring-home-assistant-uk)
+
+<!-- related-auto-end -->
+

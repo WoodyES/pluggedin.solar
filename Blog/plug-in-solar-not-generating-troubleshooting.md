@@ -124,3 +124,14 @@ Still stuck? Check our guide to [common microinverter problems](/blog/plug-in-so
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Not Generating? Fix It](/blog/plug-in-solar-not-generating-troubleshooting-uk)
+- [Plug-in Solar App Not Showing Data? Fix It](/blog/plug-in-solar-monitoring-app-not-working-uk)
+- [Plug-in Solar Generating Less Than Expected?](/blog/plug-in-solar-generating-less-than-expected-uk)
+
+<!-- related-auto-end -->
+

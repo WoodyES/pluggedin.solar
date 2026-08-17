@@ -83,3 +83,15 @@ Track it monthly: compare your total estimated generation (from your [energy mon
 - [How to read your smart meter with plug-in solar](/blog/how-to-read-smart-meter-plug-in-solar-uk)
 - [Best time-of-use tariffs for solar](/blog/best-time-of-use-tariffs-uk-2026)
 - [Calculate your savings](/calculator)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Smart Meter Wrong After Solar Install?](/blog/plug-in-solar-smart-meter-issues-uk)
+- [How to Read Your Smart Meter with Plug-in Solar](/blog/how-to-read-smart-meter-plug-in-solar-uk)
+- [Renters: Smart Meters & Solar Panels](/blog/smart-meter-solar-panels-renters-uk)
+- [Can You Use Solar Panels with a Prepayment Smart Meter?](/blog/smart-meter-solar-panels-prepayment-uk)
+
+<!-- related-auto-end -->
+

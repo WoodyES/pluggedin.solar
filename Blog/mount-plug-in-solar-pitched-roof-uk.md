@@ -189,3 +189,15 @@ If pitched roof mounting is genuinely your only option, be deliberate: research 
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Can Plug-in Solar Go on Your Roof? A Practical Guide](/blog/plug-in-solar-on-roof-uk)
+- [Flat Roof Solar UK: Ballast Mounting](/blog/flat-roof-plug-in-solar-uk)
+- [Wall-Mounted Plug-in Solar: When & How](/blog/wall-mount-plug-in-solar)
+- [Ground-Mounted Plug-in Solar on Grass, Gravel, and Concrete](/blog/ground-mount-plug-in-solar)
+
+<!-- related-auto-end -->
+

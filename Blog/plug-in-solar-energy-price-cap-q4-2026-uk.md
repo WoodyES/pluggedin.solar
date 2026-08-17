@@ -80,3 +80,15 @@ Indirectly. [SEG export rates](/blog/plug-in-solar-export-payments-seg-uk) are s
 ### Should I choose a fixed or variable tariff?
 
 With solar, a [time-of-use tariff](/blog/best-time-of-use-tariffs-uk-2026) often gives better value than a flat-rate fix. Your solar covers daytime imports, and you benefit from lower overnight rates.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar and Christmas Energy Bills: What to Expect](/blog/plug-in-solar-christmas-energy-use-uk)
+- [Best Energy Tariff for Plug-in Solar Owners UK 2026](/blog/best-energy-tariff-plug-in-solar-uk-2026)
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+- [Plug-In Solar vs Switching Energy Supplier: Which Saves More?](/blog/plug-in-solar-vs-switching-energy-supplier-uk)
+
+<!-- related-auto-end -->
+

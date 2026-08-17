@@ -101,3 +101,15 @@ For the full generation data by angle and orientation, see our [monthly generati
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [How Many Solar Panels Can I Connect to One Socket UK?](/blog/how-many-solar-panels-one-socket-uk)
+- [How to Test Solar Panel Output with a Multimeter UK](/blog/how-to-test-solar-panel-output-multimeter-uk)
+- [Solar Panel Output UK: Month-by-Month](/blog/how-much-power-solar-panel-generate-uk)
+- [Storm-Proofing Plug-in Solar Panels UK](/blog/how-to-storm-proof-your-plug-in-solar-panels)
+
+<!-- related-auto-end -->
+

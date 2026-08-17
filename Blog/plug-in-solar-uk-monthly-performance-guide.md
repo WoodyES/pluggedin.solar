@@ -227,3 +227,13 @@ Use this guide as a reference each month, and compare your actual generation (fr
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in a UK Heatwave: What August 2026 Owners Are Seeing](/blog/plug-in-solar-heatwave-performance-august-2026-uk)
+- [How to Read Your Meter to Track Plug-In Solar Savings](/blog/plug-in-solar-meter-reading-guide-uk)
+
+<!-- related-auto-end -->
+

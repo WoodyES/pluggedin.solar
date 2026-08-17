@@ -259,3 +259,15 @@ This is a bonus, not a core assumption. Conservative estimates use historical 20
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Solar Output Per Day: Month-by-Month](/blog/solar-panel-output-per-day-uk)
+- [Solar Savings Calculator Accuracy Explained](/blog/plug-in-solar-savings-calculator-accuracy-uk)
+- [Solar Panel Calculator: Your Savings](/blog/solar-panel-calculator-uk)
+- [Solar Output Winter vs Summer UK](/blog/solar-panel-output-winter-vs-summer-uk)
+
+<!-- related-auto-end -->
+

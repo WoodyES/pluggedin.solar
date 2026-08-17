@@ -60,3 +60,15 @@ The kit itself isn't illegal to own, but it cannot legally be plugged into a soc
 ### When will NI legalise plug-in solar?
 
 No confirmed date, but late 2026 or early 2027 is expected based on current political signals.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in the Midlands: Generation & Savings Guide](/blog/plug-in-solar-midlands-guide-uk)
+- [Plug-in Solar in London: Urban Installation Guide](/blog/plug-in-solar-london-guide)
+- [Plug-in Solar in Wales: Regional Output Guide](/blog/plug-in-solar-wales-generation-guide)
+- [Plug-in Solar in East Anglia](/blog/plug-in-solar-east-anglia-guide)
+
+<!-- related-auto-end -->
+

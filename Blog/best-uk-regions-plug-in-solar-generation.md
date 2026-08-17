@@ -204,3 +204,13 @@ Regional location matters, but it's not destiny. An unshaded north-east home wit
 For a tailored recommendation based on your postcode and property type, try our [plug-in solar quiz](https://pluggedin.solar/quiz).
 
 For specific property-type guides across regions, see our articles on [plug-in solar for semi-detached houses](https://pluggedin.solar/blog/plug-in-solar-semi-detached-uk) and [plug-in solar in northern England](https://pluggedin.solar/blog/plug-in-solar-northern-england-generation).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in September: What to Expect (UK)](/blog/plug-in-solar-september-generation-uk)
+- [Plug-in Solar in January UK: How Much Will You Generate?](/blog/plug-in-solar-january-uk-generation)
+
+<!-- related-auto-end -->
+

@@ -187,3 +187,13 @@ Tariff + battery + solar is a three-part system. Get any one part wrong, and the
 **Still unsure?** Use our [savings calculator](/calculator) to estimate your solar generation, then map your consumption against the off-peak windows of Octopus Go. The difference often speaks for itself.
 
 Then switch. It's free, it takes 5 minutes, and it unlocks real money.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Time-of-Use Tariffs: Solar Optimisation](/blog/smart-meter-time-of-use-tariffs-solar-uk)
+- [Plug-In Solar and Christmas Energy Bills: What to Expect](/blog/plug-in-solar-christmas-energy-use-uk)
+
+<!-- related-auto-end -->
+

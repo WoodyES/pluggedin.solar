@@ -200,3 +200,13 @@ For technical details on each part of the timeline, see our guides on [BS 7671 A
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar Is Legal from 27 August 2026](/blog/plug-in-solar-legal-27-august-2026-uk)
+- [What Is a Plug-In Microgenerator? The Legal Definition](/blog/plug-in-microgenerator-uk-what-is-it)
+
+<!-- related-auto-end -->
+

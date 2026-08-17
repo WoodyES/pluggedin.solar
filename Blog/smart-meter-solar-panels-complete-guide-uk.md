@@ -98,3 +98,15 @@ The ideal setup is both: a SMETS2 smart meter for billing and export, plus an en
 2. [Learn how to read your smart meter with solar](/blog/how-to-read-smart-meter-plug-in-solar-uk)
 3. [Find the right plug-in solar kit for you](/quiz)
 4. [Calculate your potential savings](/calculator)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar UK: The Complete 2026 Guide](/blog/plug-in-solar-uk-complete-guide)
+- [Time-of-Use Tariffs: Solar Optimisation](/blog/smart-meter-time-of-use-tariffs-solar-uk)
+- [Economy 7, Smart Meters & Solar UK](/blog/smart-meter-solar-panels-economy-7-uk)
+- [Renters: Smart Meters & Solar Panels](/blog/smart-meter-solar-panels-renters-uk)
+
+<!-- related-auto-end -->
+

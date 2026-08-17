@@ -179,3 +179,13 @@ The days of PWM are waning. Modern manufacturing has made MPPT controllers affor
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [SMETS1 vs SMETS2: Which for Solar?](/blog/smets1-vs-smets2-solar-panels-uk)
+- [String vs Parallel Wiring for Plug-in Solar](/blog/plug-in-solar-string-vs-parallel-wiring-uk)
+
+<!-- related-auto-end -->
+

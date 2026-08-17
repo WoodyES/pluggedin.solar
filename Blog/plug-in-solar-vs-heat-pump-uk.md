@@ -149,3 +149,15 @@ Start with the one that addresses your biggest pain point right now. Solar gives
 ---
 
 **Not sure where to start?** Use our [savings calculator](/calculator) to estimate your solar potential, then compare that against your current heating costs. That comparison often makes the priority crystal clear.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar vs Roof Tiles: Comparison](/blog/plug-in-solar-vs-solar-roof-tiles-uk)
+- [Plug-in Solar vs Rooftop Solar: Which in 2026?](/blog/plug-in-solar-vs-rooftop-solar-uk-2026)
+- [Cheap vs Premium Solar Panels UK: Is It Worth Paying More?](/blog/cheap-vs-premium-solar-panels-uk)
+- [Apartment Solar: Europe vs UK](/blog/plug-in-solar-apartment-buildings-europe-vs-uk)
+
+<!-- related-auto-end -->
+

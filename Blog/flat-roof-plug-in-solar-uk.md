@@ -252,3 +252,15 @@ If you've got a flat roof and you're ready to move forward:
 5. **Install and enjoy.** Once it's on, monitor generation occasionally and sleep knowing your roof is working for you.
 
 Flat-roof solar is one of the most straightforward renewable energy projects a homeowner can do. It's satisfying, practical, and it works.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Can Plug-in Solar Go on Your Roof? A Practical Guide](/blog/plug-in-solar-on-roof-uk)
+- [Flat Roof Ballast: No-Drill Mounting](/blog/flat-roof-ballast-mounting)
+- [Flat Roof Solar: No-Drill Options](/blog/plug-in-solar-flat-roof-no-drilling-uk)
+- [Pitched Roof: Mount Plug-in Solar](/blog/mount-plug-in-solar-pitched-roof-uk)
+
+<!-- related-auto-end -->
+

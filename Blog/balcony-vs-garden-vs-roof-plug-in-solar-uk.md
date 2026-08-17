@@ -289,3 +289,15 @@ For renters and leaseholders prioritising ease and reversibility: balcony or gar
 Ultimately, any location beats no solar. Install where friction is lowest and commitment matches your plans. You can always upgrade to a second system in a different location later.
 
 For more on installation by property type, see our [flats guide](/blog/plug-in-solar-flats-no-garden-uk), [slate roofs guide](/blog/plug-in-solar-slate-roof-uk), and [renter's guide](/blog/plug-in-solar-eco-renters-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar vs Roof Tiles: Comparison](/blog/plug-in-solar-vs-solar-roof-tiles-uk)
+- [Plug-in Solar vs Rooftop Solar: The Honest Comparison](/blog/plug-in-solar-vs-roof-solar-uk)
+- [Cheap vs Premium Solar Panels UK: Is It Worth Paying More?](/blog/cheap-vs-premium-solar-panels-uk)
+- [Apartment Solar: Europe vs UK](/blog/plug-in-solar-apartment-buildings-europe-vs-uk)
+
+<!-- related-auto-end -->
+

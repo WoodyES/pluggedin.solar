@@ -121,3 +121,15 @@ Your actual figures depend on your specific postcode, roof angle, shading, and i
 Realistic expectations lead to satisfied systems. And satisfied systems are the ones that end up paying for themselves and then delivering a decade of nearly-free electricity on top.
 
 For winter-specific questions, check out [plug-in solar winter output in the UK](/blog/plug-in-solar-winter-uk-output). And for the broader comparison between different system sizes, see [800W vs 400W plug-in solar](/blog/800w-vs-400w-plug-in-solar-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [800W Solar: Annual Output UK Explained](/blog/how-much-electricity-does-800w-solar-generate-uk)
+- [Plug-in Solar: How Much You'll Save](/blog/how-much-can-plug-in-solar-save)
+- [Solar Panel Output UK: Month-by-Month](/blog/how-much-power-solar-panel-generate-uk)
+- [Plug-in Solar Savings: By System Size](/blog/how-much-does-plug-in-solar-save-uk)
+
+<!-- related-auto-end -->
+

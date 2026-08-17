@@ -95,3 +95,15 @@ Pair it with the [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797
 [EcoFlow DELTA 2 Review UK](/blog/ecoflow-delta-2-review-uk)  
 [Jackery Explorer 1000 v2 Review UK](/blog/jackery-explorer-1000-v2-review-uk)  
 [Best Flexible Solar Panels for UK Caravans](/blog/best-flexible-solar-panels-uk-caravans)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow DELTA 2 Review UK: Is It Worth It for Plug-in Solar?](/blog/ecoflow-delta-2-review-uk)
+- [EcoFlow STREAM Review UK: The Official Pick](/blog/ecoflow-stream-review-uk)
+- [EcoFlow STREAM 5000: 5kWh Battery Model Preview](/blog/ecoflow-stream-5000-review-uk)
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+
+<!-- related-auto-end -->
+

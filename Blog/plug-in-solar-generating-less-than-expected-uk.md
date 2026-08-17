@@ -101,3 +101,13 @@ German owners who went into their purchases with realistic expectations — offs
 For a 1-2 person household consuming around 2,000 kWh per year, a well-placed 800W system in a UK location with average irradiance should generate 550-700 kWh annually — covering roughly 25-35% of consumption. That's a genuine bill reduction. It's not energy independence.
 
 Our [savings calculator](/calculator) uses your postcode and PVGIS irradiance data to give you a location-specific estimate. If your actual output is significantly below the calculator's prediction for your postcode over a full season, that's when it's worth investigating further.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Not Working? Troubleshoot](/blog/plug-in-solar-not-generating-troubleshooting)
+- [Plug-in Solar Not Generating? Fix It](/blog/plug-in-solar-not-generating-troubleshooting-uk)
+
+<!-- related-auto-end -->
+

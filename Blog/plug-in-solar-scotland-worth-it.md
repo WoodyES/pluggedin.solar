@@ -96,3 +96,12 @@ The environmental case is also strong: Scotland's grid is already over 90% renew
 Monitor your output with a [Tapo P110](https://amzn.to/4m9Yh9U) and use our [calculator](/calculator) with your Scottish postcode for a location-specific estimate.
 
 For more location-specific guidance, see our [best UK regions for solar](/blog/best-uk-regions-plug-in-solar-generation) and our [northern England guide](/blog/plug-in-solar-northern-england-generation).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Is Plug-in Solar Worth It UK?](/blog/is-plug-in-solar-worth-it-uk)
+
+<!-- related-auto-end -->
+

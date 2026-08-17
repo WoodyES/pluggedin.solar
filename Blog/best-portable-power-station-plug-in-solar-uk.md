@@ -171,3 +171,13 @@ This is actually a point in favour of expandable systems. Buy a mid-size battery
 For most UK plug-in solar users, a 2-3kWh capacity in the £1,500-3,000 range is the sensible starting point. Whether you go EcoFlow, Anker, or Jackery depends on whether you value software polish (EcoFlow), portability (Anker), or conservative reliability (Jackery). All three are genuinely good systems.
 
 For context on how a portable power station fits into a complete plug-in solar setup, see our guide on [the best plug-in solar kits for the UK](/blog/best-plug-in-solar-kit-uk). If you're thinking about a garden office or shed setup, we've got specific guides on [garden office off-grid solar](/blog/garden-office-off-grid-solar-uk) and [shed solar panels off-grid](/blog/shed-solar-panels-off-grid-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Portable Power Station UK 2026: Ranked Buyer's Guide](/blog/best-portable-power-stations-plug-in-solar-uk)
+- [Best Portable Solar Panels for Camping in the UK](/blog/best-portable-solar-panels-camping-uk)
+
+<!-- related-auto-end -->
+

@@ -94,3 +94,15 @@ This is optional — most people get enough insight from the app charts alone. B
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar & Smart Meter Rollout UK](/blog/plug-in-solar-smart-meter-rollout-uk)
+- [Economy 7, Smart Meters & Solar UK](/blog/smart-meter-solar-panels-economy-7-uk)
+- [Smart Meter vs Solar App: Monitoring](/blog/smart-meter-solar-panel-app-monitoring-uk)
+- [Plug-in Solar and Your Smart Meter: Will It Record Exports?](/blog/plug-in-solar-smart-meter-exports-uk)
+
+<!-- related-auto-end -->
+

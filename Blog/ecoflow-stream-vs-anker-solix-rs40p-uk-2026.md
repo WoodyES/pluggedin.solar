@@ -108,3 +108,15 @@ If you're comparing purely on price, the Anker wins by £50 with marginally high
 **Either way:** both are excellent kits. The performance difference is under 5%. Your placement, orientation, and [self-consumption](/blog/smart-meter-solar-self-consumption-uk) behaviour will matter 10× more than the kit choice. See our [installation guide](/blog/how-to-install-plug-in-solar-uk) for getting the most from whichever kit you choose.
 
 Buy the [EcoFlow STREAM on EcoFlow](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fstream-balcony-solar-system).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+- [Bright Saver vs EcoFlow STREAM: Which UK Plug-In Kit Wins?](/blog/bright-saver-vs-ecoflow-stream-uk)
+- [Anker SOLIX RS40P Review UK: The 800W Alternative](/blog/anker-solix-rs40p-review-uk)
+- [EcoFlow STREAM vs DIY Microinverter Kit: Cost Comparison](/blog/ecoflow-stream-vs-diy-microinverter-kit-uk)
+
+<!-- related-auto-end -->
+

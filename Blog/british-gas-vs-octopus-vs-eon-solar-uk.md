@@ -76,3 +76,15 @@ Switching takes 5-10 minutes online through the new supplier's website. There ar
 Before switching, monitor your generation for at least a month with a [Tapo P110](https://amzn.to/4m9Yh9U) so you know your actual self-consumption pattern. This makes tariff comparison much more meaningful — you're comparing real numbers rather than estimates.
 
 For the full analysis of Octopus's tariff options, see our [Octopus Energy review](/blog/octopus-energy-review-solar-users-uk). For general tariff guidance, see our [best energy tariff guide](/blog/best-energy-tariff-plug-in-solar-uk-2026).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Octopus Go vs Intelligent: Solar](/blog/octopus-go-vs-intelligent-solar-uk)
+- [Octopus Flux + Solar: Worth It 2026?](/blog/octopus-flux-tariff-review-uk)
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+- [Plug-In Solar vs Switching Energy Supplier: Which Saves More?](/blog/plug-in-solar-vs-switching-energy-supplier-uk)
+
+<!-- related-auto-end -->
+

@@ -169,3 +169,15 @@ One more thing: even though installation is simple, don't skip the safety basics
 Most systems are genuinely safe. But treating the installation seriously means you'll avoid the rare mishaps.
 
 For more on renter-friendly solar, see [Plug-in Solar for Renters UK: Your Complete Guide](/blog/plug-in-solar-for-renters-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Tenancy & Balcony Solar: What You Can Do](/blog/balcony-solar-renters-ast)
+- [Balcony Rail Mounting: Clamps & Weights](/blog/balcony-rail-mounting-plug-in-solar)
+- [Renters' Rights Act 2025 and Plug-in Solar](/blog/renters-rights-act-2025-solar)
+- [Plug-in Solar for Renters UK: Your Complete Guide](/blog/plug-in-solar-for-renters-uk)
+
+<!-- related-auto-end -->
+

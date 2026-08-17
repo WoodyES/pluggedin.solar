@@ -154,3 +154,12 @@ You're ready to buy when:
 From that point, it's just execution. Unbox, mount, connect, generate. The hard thinking is done.
 
 For a step-by-step walkthrough of installation, see our [full installation guide](/blog/how-to-install-plug-in-solar-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Second-Hand Solar Panels: Worth It?](/blog/buying-second-hand-solar-panels-uk)
+
+<!-- related-auto-end -->
+

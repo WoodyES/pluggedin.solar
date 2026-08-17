@@ -184,3 +184,15 @@ When July 2026 arrives and the first compliant kits hit the shelves at Lidl and 
 That's worth celebrating.
 
 Use our [savings calculator](/calculator) to find out exactly how much you could save at your specific property. Then, when the kits launch, go for it.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Renters' Rights Act 2025 and Plug-in Solar](/blog/renters-rights-act-2025-solar)
+- [Tenancy & Balcony Solar: What You Can Do](/blog/balcony-solar-renters-ast)
+- [Eco-Conscious Renters: Solar Options](/blog/plug-in-solar-eco-renters-uk)
+- [Balcony Mounting for Renters: No Drill](/blog/best-balcony-mounting-options-renters)
+
+<!-- related-auto-end -->
+

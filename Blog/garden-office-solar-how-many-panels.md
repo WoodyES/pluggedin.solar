@@ -201,3 +201,15 @@ If budget is tight, start with 800W (no battery). You'll get real value. If you 
 - Check whether [solar vs cable](/blog/garden-office-solar-vs-electric-cable) is the right choice for you
 
 Size correctly, buy a quality kit, and you'll offset 30–50 per cent of your garden office's electricity use for 20+ years. That's real money and real carbon reduction.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Garden Office Solar: Plug-in Options](/blog/solar-panels-for-garden-office-uk)
+- [Garden Office: Plug-in Solar vs Cable Power](/blog/garden-office-solar-vs-electric-cable)
+- [Can a Garden Office Run Off-Grid with Solar and a Battery?](/blog/garden-office-off-grid-solar)
+- [Best Solar Panels for Garden Rooms UK 2026](/blog/best-solar-panels-garden-room-uk)
+
+<!-- related-auto-end -->
+

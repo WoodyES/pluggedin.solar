@@ -100,3 +100,14 @@ Typical results: 5–15% improvement after cleaning panels that haven't been tou
 A £30 telescopic brush and a container of deionised water is all you need to keep your plug-in solar panels performing at their best. Clean every 2–3 months, monitor the difference with a smart plug, and you'll recover output that dirty panels silently lose.
 
 For the full plug-in solar setup guide, see our [starter kit checklist](/blog/plug-in-solar-starter-kit-checklist-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best 400W Solar Panel UK 2026: Prices, Brands, Buying Guide](/blog/best-400w-solar-panel-uk)
+- [Solar Panel Cleaning Kit Guide for UK Plug-in Solar](/blog/solar-panel-cleaning-kit-guide-uk)
+- [Solar Tilt Brackets: Perfect Angle Mount](/blog/best-adjustable-solar-panel-tilt-brackets-uk)
+
+<!-- related-auto-end -->
+

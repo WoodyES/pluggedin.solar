@@ -77,3 +77,12 @@ Contact the manufacturer. Many kits offer longer AC cable options. Alternatively
 ### Will this rule be relaxed?
 
 Unlikely. The safety reasoning behind the extension lead prohibition is sound and well-established in electrical safety practice. Even the more permissive German regulations advise against extension leads.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Why UK Plug-In Solar Kits Can't Include Batteries](/blog/plug-in-solar-no-battery-rule-uk-explained)
+
+<!-- related-auto-end -->
+

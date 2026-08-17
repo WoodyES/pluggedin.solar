@@ -123,3 +123,15 @@ Tick the boxes:
 If you've ticked all five boxes, balcony mounting is a good choice. It's simple, and you'll generate real electricity.
 
 For more on other mounting options, read our [surface placement guide](/blog/where-to-install-plug-in-solar-uk) and our detailed articles on [ground mounting](/blog/ground-mount-plug-in-solar-uk) and [flat roof ballast systems](/blog/flat-roof-ballast-solar-mount-uk). To estimate your generation, use our [savings calculator](/calculator).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Balcony Solar Installation: A First-Timer's Walkthrough](/blog/balcony-solar-installation-guide-uk)
+- [10 Balcony Solar Mistakes to Avoid](/blog/balcony-solar-mistakes-to-avoid)
+- [Balcony Mounting for Renters: No Drill](/blog/best-balcony-mounting-options-renters)
+- [Flat Roof Ballast: No-Drill Mounting](/blog/flat-roof-ballast-mounting)
+
+<!-- related-auto-end -->
+

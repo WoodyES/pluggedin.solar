@@ -140,3 +140,15 @@ For value, JA Solar 405W Deep Blue at ~£110 is the best pick — tier-1 quality
 ### Can I mix different 400W panel brands in one plug-in solar kit?
 
 Technically yes, but it is not recommended. Mismatched panels (different Vmp, different current) reduce overall system output through the micro inverter's MPPT tracking. Use a matched pair from the same brand and batch for best results. If you must mix, use panels with the same nameplate wattage and similar Vmp specs.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [800W vs 400W Plug-in Solar: Which Should You Actually Buy?](/blog/800w-vs-400w-plug-in-solar)
+- [Best Solar Panel Cleaning Tools for the UK](/blog/best-solar-panel-cleaning-tools-uk)
+- [How to Angle Your Plug-in Solar Panels for Maximum Output](/blog/plug-in-solar-panel-angle)
+- [Solar Panel Calculator: Your Savings](/blog/solar-panel-calculator-uk)
+
+<!-- related-auto-end -->
+

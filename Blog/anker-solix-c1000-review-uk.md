@@ -213,3 +213,15 @@ The only reason to choose the EcoFlow DELTA 2 instead is the extra surge power o
 ---
 
 *Prices and specifications accurate as of April 2026. Check Amazon for current availability and pricing. This review reflects personal testing and UK market conditions.*
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Anker SOLIX RS40P Review UK: The 800W Alternative](/blog/anker-solix-rs40p-review-uk)
+- [EcoFlow vs Anker: Which Kit 2026?](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026)
+- [EcoFlow DELTA 2 Review UK: Is It Worth It for Plug-in Solar?](/blog/ecoflow-delta-2-review-uk)
+- [Tapo P110 for Solar Monitoring: UK Review](/blog/tapo-p110-solar-monitoring-review-uk)
+
+<!-- related-auto-end -->
+

@@ -107,3 +107,15 @@ EcoFlow STREAM has a native first-party app with real-time generation, historica
 ### Can I add a battery to either kit?
 
 Only cleanly to EcoFlow STREAM, via the STREAM Ultra Pro variant. Bright Saver has no native battery integration, so adding storage means a separate solution that does not share monitoring or control. Note that under the UK interim spec, batteries cannot sit in the plug circuit itself — they must be handled outside the microgenerator connection.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+- [EcoFlow STREAM vs DIY Microinverter Kit: Cost Comparison](/blog/ecoflow-stream-vs-diy-microinverter-kit-uk)
+- [EcoFlow vs Anker: Which Kit 2026?](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026)
+- [Bright Saver Plug-In Solar UK: What Buyers Need to Know](/blog/bright-saver-plug-in-solar-review-uk)
+
+<!-- related-auto-end -->
+

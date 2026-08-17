@@ -204,3 +204,12 @@ Don't buy anything before 15 April 2026 unless it explicitly says UKCA or BS 767
 And don't let price alone drive the decision. A £300 kit that fails in year 3 is worse value than a £700 kit that runs for 20. Buy from a manufacturer with proven track record, clear UK support, and a warranty you trust.
 
 Plug-in solar is here. Buy wisely.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [How to Spot a Non-Compliant Plug-In Solar Kit Before You Buy](/blog/how-to-spot-non-compliant-plug-in-solar-kit-uk)
+
+<!-- related-auto-end -->
+

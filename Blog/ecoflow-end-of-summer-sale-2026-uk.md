@@ -87,3 +87,12 @@ Unlikely, as it launches after the sale ends. The [early-bird pre-order](/blog/e
 ### How does this compare to Amazon Prime Day deals?
 
 EcoFlow's own sales typically match or beat Prime Day pricing, with the advantage of longer availability and direct warranty support.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow STREAM Pre-Order: Early Bird Pricing Guide](/blog/ecoflow-stream-early-bird-pre-order-uk)
+
+<!-- related-auto-end -->
+

@@ -113,3 +113,15 @@ For a walkthrough of choosing a location and calculating potential output, see o
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Solar Panel Wall Brackets and Mounts for the UK](/blog/best-solar-panel-wall-brackets-uk)
+- [Solar Cable Management: Tidy & Safe](/blog/solar-panel-cable-management-uk)
+- [Best 400W Solar Panel UK 2026: Prices, Brands, Buying Guide](/blog/best-400w-solar-panel-uk)
+- [Solar Panel Calculator: Your Savings](/blog/solar-panel-calculator-uk)
+
+<!-- related-auto-end -->
+

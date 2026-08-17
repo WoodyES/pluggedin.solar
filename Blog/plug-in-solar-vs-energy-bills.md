@@ -178,3 +178,15 @@ And remember: the longer you keep the system, the better the financial case beco
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+- [Plug-In Solar vs Switching Energy Supplier: Which Saves More?](/blog/plug-in-solar-vs-switching-energy-supplier-uk)
+- [Plug-In Solar and Christmas Energy Bills: What to Expect](/blog/plug-in-solar-christmas-energy-use-uk)
+- [Best Energy Tariff for Plug-in Solar Owners UK 2026](/blog/best-energy-tariff-plug-in-solar-uk-2026)
+
+<!-- related-auto-end -->
+

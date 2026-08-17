@@ -74,3 +74,15 @@ Some tilt brackets allow seasonal angle changes — steeper in winter (50–60 d
 For most UK plug-in solar installations, adjustable tilt brackets on a south-facing wall give the best balance of performance, aesthetics, and ease of installation. Budget £30–60 for a quality set of brackets, spend an extra 30 minutes getting the angle right, and you'll generate noticeably more electricity than a flat or poorly angled setup.
 
 For the complete [installation guide](/blog/how-to-install-plug-in-solar-uk), see our [starter kit checklist](/blog/plug-in-solar-starter-kit-checklist-uk). For cable routing from wall-mounted panels, see our [MC4 extension cable guide](/blog/best-solar-extension-cables-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Solar Cable Management: Tidy & Safe](/blog/solar-panel-cable-management-uk)
+- [Wall-Mounted Plug-in Solar: When & How](/blog/wall-mount-plug-in-solar)
+- [How to Angle Your Plug-in Solar Panels for Maximum Output](/blog/plug-in-solar-panel-angle)
+- [Solar Tilt Brackets: Perfect Angle Mount](/blog/best-adjustable-solar-panel-tilt-brackets-uk)
+
+<!-- related-auto-end -->
+

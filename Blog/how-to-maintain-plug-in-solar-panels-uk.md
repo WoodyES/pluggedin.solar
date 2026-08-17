@@ -133,3 +133,15 @@ Want more detail on specific issues? Check our [troubleshooting guide](/blog/plu
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Storm-Proofing Plug-in Solar Panels UK](/blog/how-to-storm-proof-your-plug-in-solar-panels)
+- [Should You Move Your Panels Seasonally? UK Solar Guide](/blog/plug-in-solar-move-panels-seasonally-uk)
+- [How Many Solar Panels Does a Garden Office Actually Need?](/blog/garden-office-solar-how-many-panels)
+- [How Many Solar Panels Can I Connect to One Socket UK?](/blog/how-many-solar-panels-one-socket-uk)
+
+<!-- related-auto-end -->
+

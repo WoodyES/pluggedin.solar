@@ -160,3 +160,15 @@ The regulatory timeline is clear now: Amendment 4 is done, product standards are
 - Decide whether you want traditional rooftop solar instead — read our [comparison guide](/blog/plug-in-solar-vs-roof-solar-uk)
 
 Plug-in solar is finally legal in the UK. From summer 2026, it will be available in high street shops. Now is the time to understand it, calculate whether it works for you, and be ready when the kits land.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Balcony Solar UK: Everything You Need to Know](/blog/balcony-solar-uk-guide)
+- [Smart Meters & Solar: Complete UK Guide](/blog/smart-meter-solar-panels-complete-guide-uk)
+- [Plug-In Solar in the Midlands: Generation & Savings Guide](/blog/plug-in-solar-midlands-guide-uk)
+- [Plug-in Solar in London: Urban Installation Guide](/blog/plug-in-solar-london-guide)
+
+<!-- related-auto-end -->
+

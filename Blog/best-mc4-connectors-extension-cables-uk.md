@@ -78,3 +78,12 @@ When you're running cable and managing it with clips or ties (see our guide on [
 Your plug-in solar panels might move house with you. Your connectors and cables are likely to outlive your current installation. Buying quality MC4 components is one area where spending an extra fiver per pair genuinely extends the lifespan of your system and keeps it performing reliably. Given that a dodgy connector can slowly waste thousands of pounds in lost generation over five years, it's an investment that pays for itself.
 
 For more on getting everything connected safely, check out our guide on [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk) and our deep dive into [solar cable management](/blog/solar-panel-cable-management-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best MC4 Extension Cables for Plug-in Solar in the UK](/blog/best-solar-extension-cables-uk)
+
+<!-- related-auto-end -->
+

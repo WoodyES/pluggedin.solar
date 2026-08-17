@@ -115,3 +115,13 @@ Either way, pair your panels with quality [battery storage](/blog/battery-storag
 [EcoFlow 400W Portable Panel Review UK](/blog/ecoflow-400w-portable-panel-review-uk)  
 [EcoFlow DELTA 2 Review UK](/blog/ecoflow-delta-2-review-uk)  
 [Best Cable Management for Plug-in Solar UK 2026](/blog/best-cable-management-plug-in-solar-uk-2026)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Portable Solar Panels for Camping in the UK](/blog/best-portable-solar-panels-camping-uk)
+- [Second-Hand Solar Panels: Worth It?](/blog/buying-second-hand-solar-panels-uk)
+
+<!-- related-auto-end -->
+

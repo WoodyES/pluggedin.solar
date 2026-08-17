@@ -283,3 +283,15 @@ Want help understanding your meter readings in detail? See our guide to [reading
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar & Smart Meter Rollout UK](/blog/plug-in-solar-smart-meter-rollout-uk)
+- [Smart Meter Wrong After Solar Install?](/blog/plug-in-solar-smart-meter-issues-uk)
+- [Plug-in Solar and Smart Meters: What You Need to Know](/blog/plug-in-solar-smart-meter-uk)
+- [Economy 7, Smart Meters & Solar UK](/blog/smart-meter-solar-panels-economy-7-uk)
+
+<!-- related-auto-end -->
+

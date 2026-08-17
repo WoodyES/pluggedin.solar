@@ -188,3 +188,15 @@ Pair it with a quality micro-inverter (like [APsystems EZ1-M](/blog/apsystems-ez
 [Eve Energy vs Tapo P110 vs Shelly: Best Solar Smart Plug UK](/blog/eve-energy-vs-tapo-p110-vs-shelly-uk)  
 [APsystems EZ1-M Review UK](/blog/apsystems-ez1-m-review-uk)  
 [TP-Link Tapo P110 Smart Plug Review](/blog/tapo-p110-solar-monitoring-review-uk) *(future article)*
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Lidl Plug-in Solar Kit UK: What to Expect When It Lands](/blog/lidl-plug-in-solar-review-uk)
+- [Bright Saver Plug-In Solar UK: What Buyers Need to Know](/blog/bright-saver-plug-in-solar-review-uk)
+- [Hoymiles HMS-800 Review UK](/blog/hoymiles-hms800-review-uk)
+- [EcoFlow STREAM Review UK: The Official Pick](/blog/ecoflow-stream-review-uk)
+
+<!-- related-auto-end -->
+

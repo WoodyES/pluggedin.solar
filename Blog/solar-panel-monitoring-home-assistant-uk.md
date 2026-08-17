@@ -85,3 +85,15 @@ The minimum setup for solar monitoring in Home Assistant:
 This combination gives you better solar monitoring than most professional rooftop installations provide — and it costs a fraction of the price.
 
 For smart plug comparisons beyond Home Assistant, see our [monitoring guide](/blog/best-smart-plug-monitor-solar-uk). For the complete plug-in solar setup, check our [starter kit checklist](/blog/plug-in-solar-starter-kit-checklist-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Smart Meter vs Solar App: Monitoring](/blog/smart-meter-solar-panel-app-monitoring-uk)
+- [Solar Panel Temperature Coefficient UK](/blog/solar-panel-temperature-coefficient-uk)
+- [Solar Panel Degradation Rate UK](/blog/solar-panel-degradation-rate-uk)
+- [Smart Home Automation for Plug-In Solar: UK Guide](/blog/plug-in-solar-smart-home-automation-uk)
+
+<!-- related-auto-end -->
+

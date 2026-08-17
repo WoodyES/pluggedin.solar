@@ -86,3 +86,12 @@ Practically no, because generation peaks don't perfectly match demand. But 85-90
 ### Does a battery improve self-consumption?
 
 Significantly. A [battery](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) lets you store daytime generation for evening use, potentially reaching 90%+ self-consumption.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Using Your Smart Meter to Maximise Solar Self-Consumption](/blog/smart-meter-solar-self-consumption-uk)
+
+<!-- related-auto-end -->
+

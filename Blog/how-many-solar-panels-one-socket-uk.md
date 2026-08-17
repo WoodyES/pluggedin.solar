@@ -138,3 +138,15 @@ For a deeper dive into expanding your system, see our guide [Expanding Your Plug
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Angling Solar Panels for Max Output UK](/blog/how-to-angle-solar-panels-maximum-output-uk)
+- [How Many Solar Panels Does a Garden Office Actually Need?](/blog/garden-office-solar-how-many-panels)
+- [Solar Panel Output UK: Month-by-Month](/blog/how-much-power-solar-panel-generate-uk)
+- [Storm-Proofing Plug-in Solar Panels UK](/blog/how-to-storm-proof-your-plug-in-solar-panels)
+
+<!-- related-auto-end -->
+

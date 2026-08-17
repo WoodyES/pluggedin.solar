@@ -239,3 +239,15 @@ And you know why £110 per year isn't a guarantee—it's a reasonable baseline t
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Savings: By System Size](/blog/how-much-does-plug-in-solar-save-uk)
+- [How Much Does Balcony Solar Actually Generate?](/blog/how-much-does-balcony-solar-actually-generate)
+- [Can You Make Money from Plug-in Solar in the UK?](/blog/can-you-make-money-plug-in-solar-uk)
+- [Can Plug-in Solar Charge an Electric Car? UK Reality Check](/blog/can-plug-in-solar-charge-ev-uk)
+
+<!-- related-auto-end -->
+

@@ -166,3 +166,14 @@ The 800W UK regulatory cap applies to grid-connected systems only. Off-grid syst
 Start with a clear understanding of your loads. Use a simple spreadsheet to estimate daily consumption in the worst month. Then over-size your panels by 30% and your battery by 20%. That formula ensures comfort without over-engineering.
 
 For more on battery options and sizing calculations, see our [main calculator](/calculator). To explore combining solar with other renewable generation (wind, hydro), contact a specialist installer—they're beyond our scope here, but increasingly popular in rural Scotland and Wales.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Can a Garden Office Run Off-Grid with Solar and a Battery?](/blog/garden-office-off-grid-solar)
+- [Shed Solar: Plug-in vs Off-Grid Battery](/blog/plug-in-solar-vs-off-grid-battery-shed)
+- [Solar for Summerhouses, Log Cabins, and Garden Bars UK](/blog/solar-for-summerhouses-log-cabins)
+
+<!-- related-auto-end -->
+

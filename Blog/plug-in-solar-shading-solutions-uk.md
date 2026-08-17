@@ -110,3 +110,12 @@ Microinverters help significantly (they prevent one shaded panel from dragging d
 If you're getting lower output than expected and you've ruled out other problems ([check our troubleshooting guide](/blog/plug-in-solar-not-generating-uk)), shading is usually the culprit. And if you're planning your first installation, shading assessment before purchase is absolutely worth your time.
 
 For more on system performance and placement, check our guides on [panel angle optimisation](/blog/plug-in-solar-panel-angle-uk), [balcony solar mistakes to avoid](/blog/balcony-solar-mistakes-to-avoid), and [what balcony solar actually generates](/blog/how-much-does-balcony-solar-actually-generate).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Shading & Plug-in Solar Output](/blog/shading-plug-in-solar-output-uk)
+
+<!-- related-auto-end -->
+

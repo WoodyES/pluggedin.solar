@@ -76,3 +76,15 @@ A 400W system at half the cost has the same payback period — the savings and c
 ### Can I use [east-west facing](/blog/east-west-facing-plug-in-solar-uk) panels instead?
 
 If your garden has east or west walls or fences, mounting panels on these can be more effective than north-facing ground placement.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Flats Without Garden: Solar Options](/blog/plug-in-solar-flats-no-garden-uk)
+- [Best Solar Panels for Garden Rooms UK 2026](/blog/best-solar-panels-garden-room-uk)
+- [Garden Office Solar: Plug-in Options](/blog/solar-panels-for-garden-office-uk)
+- [Can a Garden Office Run Off-Grid with Solar and a Battery?](/blog/garden-office-off-grid-solar)
+
+<!-- related-auto-end -->
+

@@ -172,3 +172,15 @@ Pair it with a portable solar panel (like the [EcoFlow 400W Panel](https://www.a
 [EcoFlow DELTA 2 Review UK](/blog/ecoflow-delta-2-review-uk) *(future article)*  
 [Anker SOLIX C1000 Gen 2 Review UK](/blog/anker-solix-c1000-review-uk) *(future article)*  
 [EcoFlow 400W Portable Panel Review UK](/blog/ecoflow-400w-portable-panel-review-uk)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow DELTA 2 Review UK: Is It Worth It for Plug-in Solar?](/blog/ecoflow-delta-2-review-uk)
+- [Tapo P110 for Solar Monitoring: UK Review](/blog/tapo-p110-solar-monitoring-review-uk)
+- [Emporia Vue 3 Review UK: Whole-Home Energy Monitoring](/blog/emporia-vue-3-review-uk)
+- [Lidl Plug-in Solar Kit UK: What to Expect When It Lands](/blog/lidl-plug-in-solar-review-uk)
+
+<!-- related-auto-end -->
+

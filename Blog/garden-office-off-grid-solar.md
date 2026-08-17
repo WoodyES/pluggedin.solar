@@ -222,3 +222,15 @@ It's not as romantic as "I'm completely off-grid," but it's more practical, chea
 - Check [kit options](/blog/best-plug-in-solar-kit-uk) for available systems
 
 Build your garden office thoughtfully. Get the power infrastructure right, and you'll enjoy it for decades. Get it wrong, and you'll regret it every day.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar for Off-Grid Cabins and Outbuildings UK](/blog/plug-in-solar-off-grid-cabins-uk)
+- [Garden Office Solar: Plug-in Options](/blog/solar-panels-for-garden-office-uk)
+- [Garden Office: Plug-in Solar vs Cable Power](/blog/garden-office-solar-vs-electric-cable)
+- [How Many Solar Panels Does a Garden Office Actually Need?](/blog/garden-office-solar-how-many-panels)
+
+<!-- related-auto-end -->
+

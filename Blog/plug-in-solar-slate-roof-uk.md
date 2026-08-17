@@ -115,3 +115,15 @@ Once installed, pair your panel with an [EcoFlow STREAM](https://www.awin1.com/c
 Slate is part of Britain's architectural heritage—protecting it while generating clean energy is entirely compatible. You just need to make smart choices about where the panel sits.
 
 For more on mounting options, see our [balcony vs garden vs roof comparison](/blog/balcony-vs-garden-vs-roof-plug-in-solar-uk). If you're renting and your landlord owns a slate-roofed property, check our [renters' guide](/blog/plug-in-solar-eco-renters-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar on a Garage Roof: UK Installation Guide](/blog/plug-in-solar-garage-roof-uk)
+- [Plug-In Solar on a Conservatory Roof: UK Guide](/blog/plug-in-solar-conservatory-roof-uk)
+- [Can Plug-in Solar Go on Your Roof? A Practical Guide](/blog/plug-in-solar-on-roof-uk)
+- [Plug-in Solar vs Rooftop Solar: The Honest Comparison](/blog/plug-in-solar-vs-roof-solar-uk)
+
+<!-- related-auto-end -->
+

@@ -74,3 +74,13 @@ Yes — the government specifically mentioned social housing in the pilot announ
 ### Do I need to notify my DNO?
 
 Yes — [G98 notification](/blog/g98-dno-notification-step-by-step) is required regardless of tenancy type.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in Supported and Sheltered Housing: UK Guide](/blog/plug-in-solar-supported-housing-uk)
+- [Plug-in Solar for Council and Housing Association Tenants](/blog/plug-in-solar-council-housing-uk)
+
+<!-- related-auto-end -->
+

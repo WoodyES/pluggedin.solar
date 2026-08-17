@@ -74,3 +74,12 @@ Most major UK retailers have confirmed intent to stock plug-in solar but haven't
 ### Is it illegal to sell non-compliant kits after 27 August?
 
 The legislation governs what's permitted to be installed and used on a domestic supply, and retailers marketing kits as suitable for that use will be expected to meet the specification. Enforcement details are still being finalised, but a kit that doesn't meet the spec isn't legally usable on your household circuit regardless of who sold it to you.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Plug-in Solar Kits UK 2026: A Buyer's Guide](/blog/best-plug-in-solar-kit-uk)
+
+<!-- related-auto-end -->
+

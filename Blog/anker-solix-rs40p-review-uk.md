@@ -213,3 +213,15 @@ For government-backed reliability with a longer inverter warranty, consider the 
 For a lower-cost entry point, **wait for Lidl's kit** in summer 2026.
 
 For a complete comparison, see our [buying guide](/blog/best-plug-in-solar-kit-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Anker SOLIX C1000 Gen 2 Review UK](/blog/anker-solix-c1000-review-uk)
+- [EcoFlow vs Anker: Which Kit 2026?](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026)
+- [EcoFlow DELTA 2 Review UK: Is It Worth It for Plug-in Solar?](/blog/ecoflow-delta-2-review-uk)
+- [Tapo P110 for Solar Monitoring: UK Review](/blog/tapo-p110-solar-monitoring-review-uk)
+
+<!-- related-auto-end -->
+

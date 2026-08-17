@@ -105,3 +105,14 @@ And if you're dealing with weather damage or thinking about moving house, we've 
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Bird Proofing Kits for Solar Panels UK](/blog/best-bird-proofing-kits-solar-uk)
+- [Best Solar Panel Carry Bags and Storage Cases for UK Homes](/blog/solar-panel-storage-carry-bag-uk)
+- [Solar Panel Cleaning Kit Guide for UK Plug-in Solar](/blog/solar-panel-cleaning-kit-guide-uk)
+
+<!-- related-auto-end -->
+

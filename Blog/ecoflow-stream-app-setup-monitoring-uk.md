@@ -99,3 +99,15 @@ Yes — log into your EcoFlow account on any device to see your STREAM data.
 ### Does the app work without WiFi?
 
 The STREAM will generate power without WiFi, but monitoring data won't update in the app until connection is restored. Historical data is stored locally on the device and syncs when WiFi reconnects.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Smart Meter vs Solar App: Monitoring](/blog/smart-meter-solar-panel-app-monitoring-uk)
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+- [Plug-in Solar App Not Showing Data? Fix It](/blog/plug-in-solar-monitoring-app-not-working-uk)
+- [How to Install EcoFlow STREAM: Step-by-Step UK Guide](/blog/ecoflow-stream-installation-guide-uk)
+
+<!-- related-auto-end -->
+

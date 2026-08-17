@@ -134,3 +134,12 @@ For the latest on product availability and pricing, see our [Plug-in Solar UK: W
 ---
 
 *This article reflects announcements and timelines as of April 2026. Follow DCMS and BSI updates for the latest on product standard publication.*
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [£25m Government Pilot: Free Plug-In Solar for Low-Income Homes](/blog/25m-government-pilot-plug-in-solar-uk)
+
+<!-- related-auto-end -->
+

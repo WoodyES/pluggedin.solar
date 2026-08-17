@@ -123,3 +123,14 @@ If you're hiring someone to install your mount, ensure they understand UK weathe
 Ask potential installers whether they'd recommend adjustable or fixed for your specific situation. If they immediately reach for the cheapest fixed option without understanding your site, find someone else. Investing an extra few hours upfront to get the angle right pays dividends for years.
 
 For more on getting your whole system installed properly, see our guide to [how to install plug-in solar in the UK](/blog/how-to-install-plug-in-solar-uk). And if you're working with ground-mount or balcony-rail setups, we've got specific guides on [ground-mount plug-in solar](/blog/ground-mount-plug-in-solar-uk), [balcony rail solar mounts](/blog/balcony-rail-solar-mount-uk), and [wall-mount plug-in solar](/blog/wall-mount-plug-in-solar-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Solar Panel Wall Brackets and Mounts for the UK](/blog/best-solar-panel-wall-brackets-uk)
+- [Best 400W Solar Panel UK 2026: Prices, Brands, Buying Guide](/blog/best-400w-solar-panel-uk)
+- [Best Solar Panel Cleaning Tools for the UK](/blog/best-solar-panel-cleaning-tools-uk)
+
+<!-- related-auto-end -->
+

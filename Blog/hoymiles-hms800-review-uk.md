@@ -205,3 +205,15 @@ For UK buyers in 2026, the HMS-800 (whether standalone or integrated in EcoFlow 
 If you're willing to accept occasional DTU reconnection as a minor maintenance task, the HMS-800 offers exceptional value and reliability.
 
 For more on system sizing and performance, see our [single vs dual panel comparison](/blog/single-vs-dual-panel-plug-in-solar-uk) and [monthly performance guide](/blog/plug-in-solar-uk-monthly-performance-guide).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Lidl Plug-in Solar Kit UK: What to Expect When It Lands](/blog/lidl-plug-in-solar-review-uk)
+- [Bright Saver Plug-In Solar UK: What Buyers Need to Know](/blog/bright-saver-plug-in-solar-review-uk)
+- [Shelly Plus Plug UK Review: Best for Solar Monitoring?](/blog/shelly-plus-plug-uk-review)
+- [EcoFlow STREAM Review UK: The Official Pick](/blog/ecoflow-stream-review-uk)
+
+<!-- related-auto-end -->
+

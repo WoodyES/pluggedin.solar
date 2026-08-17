@@ -76,3 +76,15 @@ If you're on a SMETS1 prepayment meter, request a [free upgrade to SMETS2](/blog
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fproducts%2Fstream-ultra-pro" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Renters: Smart Meters & Solar Panels](/blog/smart-meter-solar-panels-renters-uk)
+- [Switch Supplier: Solar & Smart Meter](/blog/smart-meter-solar-panels-supplier-switching-uk)
+- [Using Your Smart Meter to Maximise Solar Self-Consumption](/blog/smart-meter-solar-self-consumption-uk)
+- [Smart Meter Wrong After Solar Install?](/blog/plug-in-solar-smart-meter-issues-uk)
+
+<!-- related-auto-end -->
+

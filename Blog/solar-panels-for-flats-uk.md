@@ -130,3 +130,12 @@ You could:
 But right now, for a north-facing flat with no outdoor space, plug-in solar isn't the answer. It's not going to change that situation tomorrow. And I'd rather be honest about that limitation than pretend everyone's a candidate.
 
 For those of you with a usable balcony facing south, though? You're in a genuinely strong position. Plug-in solar gives you something homeowners have had for years and flat-dwellers have never had: real, affordable access to solar energy.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Taking Your Plug-in Solar Panels When You Move House](/blog/taking-solar-panels-when-moving)
+
+<!-- related-auto-end -->
+

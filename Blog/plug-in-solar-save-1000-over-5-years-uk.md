@@ -106,3 +106,12 @@ Energy prices tend to rise faster than general inflation, which actually improve
 ### Can I calculate my exact savings?
 
 Yes — use our [postcode-specific calculator](/calculator) for a personalised estimate.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar: How Much You'll Save](/blog/how-much-can-plug-in-solar-save)
+
+<!-- related-auto-end -->
+

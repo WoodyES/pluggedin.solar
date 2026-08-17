@@ -74,3 +74,13 @@ Fixed mounts at 30-35° are the best year-round compromise. You'll lose ~10% com
 ### Does the EcoFlow STREAM have adjustable mounts?
 
 The STREAM kit includes adjustable mounting hardware for different scenarios. Check the specific adjustment range for your mount type.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Maintaining Plug-in Solar: Seasonal Calendar](/blog/how-to-maintain-plug-in-solar-panels-uk)
+- [Storm-Proofing Plug-in Solar Panels UK](/blog/how-to-storm-proof-your-plug-in-solar-panels)
+
+<!-- related-auto-end -->
+

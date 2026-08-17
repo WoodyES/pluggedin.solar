@@ -68,3 +68,15 @@ For most conservatories, no. Plug-in solar panels are portable and don't modify 
 ### What about rain drainage?
 
 Panels can alter drainage patterns on conservatory roofs. Ensure water can still flow freely to gutters and doesn't pool around the mounting frame.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar on a Garage Roof: UK Installation Guide](/blog/plug-in-solar-garage-roof-uk)
+- [Plug-in Solar on a Slate Roof UK: What You Need to Know](/blog/plug-in-solar-slate-roof-uk)
+- [Can Plug-in Solar Go on Your Roof? A Practical Guide](/blog/plug-in-solar-on-roof-uk)
+- [Plug-in Solar vs Rooftop Solar: The Honest Comparison](/blog/plug-in-solar-vs-roof-solar-uk)
+
+<!-- related-auto-end -->
+

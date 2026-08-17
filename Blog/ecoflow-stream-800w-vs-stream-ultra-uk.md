@@ -162,3 +162,15 @@ At £499, it is affordable, straightforward, and pays for itself in under 4 year
 For a full review of the STREAM system, see our [EcoFlow STREAM review](/blog/ecoflow-stream-review-uk). For a broader comparison of all available kits, see our [best plug-in solar kits roundup](/blog/best-plug-in-solar-kit-uk).
 
 Looking at how the STREAM stacks up against other brands? Our [battery vs no-battery guide](/blog/battery-storage-vs-no-battery-plug-in-solar-uk) covers the wider question beyond just EcoFlow.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Bright Saver vs EcoFlow STREAM: Which UK Plug-In Kit Wins?](/blog/bright-saver-vs-ecoflow-stream-uk)
+- [EcoFlow STREAM vs DIY Microinverter Kit: Cost Comparison](/blog/ecoflow-stream-vs-diy-microinverter-kit-uk)
+- [EcoFlow vs Anker: Which Kit 2026?](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026)
+- [EcoFlow STREAM Review UK: The Official Pick](/blog/ecoflow-stream-review-uk)
+
+<!-- related-auto-end -->
+

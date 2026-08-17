@@ -76,3 +76,13 @@ No. The [standing charge](/blog/plug-in-solar-standing-charge-impact-uk) is fixe
 ### What if standing charges rise?
 
 If standing charges increase, the proportion of your bill addressable by solar shrinks. This makes unit-rate savings even more important.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Standing Charges and Plug-in Solar: The Catch](/blog/plug-in-solar-standing-charge-impact-uk)
+- [Can Plug-in Solar Charge an Electric Car? UK Reality Check](/blog/can-plug-in-solar-charge-ev-uk)
+
+<!-- related-auto-end -->
+

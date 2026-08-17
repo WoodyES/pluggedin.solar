@@ -269,3 +269,12 @@ That's the entire process. Location, mounting, connecting, cabling, plugging in,
 For location-specific guidance, read our [surface placement guide](/blog/where-to-install-plug-in-solar-uk). For ballpark figures on what you might generate from your location, use our [savings calculator](/calculator). And if you have questions after install, our [tools checklist](/blog/what-tools-for-plug-in-solar-uk) and [G98 notification guide](/blog/g98-dno-notification-plug-in-solar) cover the most common queries.
 
 You've got this. In a few weeks, you'll be generating free electricity and wondering why you didn't do it sooner.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar: Where to Put Panels](/blog/where-to-install-plug-in-solar-uk)
+
+<!-- related-auto-end -->
+

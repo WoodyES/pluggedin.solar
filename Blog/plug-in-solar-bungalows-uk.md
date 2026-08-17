@@ -121,3 +121,12 @@ Bungalows tick every box for plug-in solar: accessible roofs, large roof area, e
 Want to know your bungalow's specific potential? Try our [plug-in solar quiz](https://pluggedin.solar/quiz) for a tailored estimate based on your location and roof orientation.
 
 For regional generation data across the UK, check our comprehensive guide on [best and worst UK regions for plug-in solar](https://pluggedin.solar/blog/best-uk-regions-plug-in-solar-generation).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar for Retirees: Simple Setup](/blog/plug-in-solar-retirement-bungalows-uk)
+
+<!-- related-auto-end -->
+

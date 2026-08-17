@@ -202,3 +202,13 @@ Whichever kit you buy, a [smart plug](/blog/best-smart-plug-monitor-solar-uk) be
 A £600 kit that runs reliably for 20 years beats a £350 kit that fails in 3. Do the maths before you buy.
 
 For a [complete guide](/blog/plug-in-solar-uk) to available options, see our [buying guide](/blog/best-plug-in-solar-kit-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Plug-In Solar Kits Under £500 (UK, 2026)](/blog/best-plug-in-solar-kits-under-500-uk)
+- [Best Bird Proofing Kits for Solar Panels UK](/blog/best-bird-proofing-kits-solar-uk)
+
+<!-- related-auto-end -->
+

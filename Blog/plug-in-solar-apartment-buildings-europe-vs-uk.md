@@ -142,3 +142,15 @@ Apartment-specific considerations link to broader questions about permission and
 Europe's experience is clear: when buildings have clear, simple rules that permit solar, adoption is high. When rules are murky, when approval processes are complicated, or when decision-making is collective, adoption is slower and people get frustrated.
 
 The UK is about to discover this for itself. Some buildings will become solar havens. Others will become no-solar zones, either explicitly or through management company obstruction. If you're in an apartment, your ability to go solar will depend less on the law and more on your building. Check that before you invest.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Cheap vs Premium Solar Panels UK: Is It Worth Paying More?](/blog/cheap-vs-premium-solar-panels-uk)
+- [Battery Storage vs No Battery: Worth It?](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
+- [Balcony vs Garden vs Roof: Best Place](/blog/balcony-vs-garden-vs-roof-plug-in-solar-uk)
+- [Plug-in Solar vs Roof Tiles: Comparison](/blog/plug-in-solar-vs-solar-roof-tiles-uk)
+
+<!-- related-auto-end -->
+

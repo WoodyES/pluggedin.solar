@@ -96,3 +96,15 @@ This gives you everything you need to maximise savings without any guesswork.
 - [Best energy monitors for plug-in solar](/blog/best-energy-monitor-plug-in-solar-uk)
 - [Smart meter not showing solar generation?](/blog/smart-meter-not-showing-solar-generation-uk)
 - [How to read your smart meter with solar](/blog/how-to-read-smart-meter-plug-in-solar-uk)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar & Smart Meter Rollout UK](/blog/plug-in-solar-smart-meter-rollout-uk)
+- [Monitoring Plug-in Solar with Home Assistant in the UK](/blog/solar-panel-monitoring-home-assistant-uk)
+- [EcoFlow STREAM App Setup and Solar Monitoring Guide](/blog/ecoflow-stream-app-setup-monitoring-uk)
+- [Economy 7, Smart Meters & Solar UK](/blog/smart-meter-solar-panels-economy-7-uk)
+
+<!-- related-auto-end -->
+

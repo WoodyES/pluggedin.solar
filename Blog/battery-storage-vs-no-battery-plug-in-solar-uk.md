@@ -249,3 +249,15 @@ If you live in an area with frequent blackouts or you have medical equipment req
 ---
 
 **Questions about battery payback for your situation?** Use our [savings calculator](/calculator) to estimate your solar generation, then cross-reference against our [tariff guide](/) to calculate what battery storage would actually save you. The real answer lives in your specific usage pattern, not generic industry assumptions.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Why UK Plug-In Solar Kits Can't Include Batteries](/blog/plug-in-solar-no-battery-rule-uk-explained)
+- [Cheap vs Premium Solar Panels UK: Is It Worth Paying More?](/blog/cheap-vs-premium-solar-panels-uk)
+- [Apartment Solar: Europe vs UK](/blog/plug-in-solar-apartment-buildings-europe-vs-uk)
+- [Balcony vs Garden vs Roof: Best Place](/blog/balcony-vs-garden-vs-roof-plug-in-solar-uk)
+
+<!-- related-auto-end -->
+

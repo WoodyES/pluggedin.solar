@@ -134,3 +134,15 @@ Off-grid battery systems are the choice for disconnected sheds, seasonal use, or
 Neither is objectively "better"—they solve different problems. The right choice depends on your shed's existing infrastructure and your actual usage pattern.
 
 For detailed guidance on sizing and specific product recommendations, see the [comprehensive shed solar guide](/blog/plug-in-solar-for-shed-uk). If you've got a connected shed and want to estimate your bill savings, use the [calculator](/calculator).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar for Off-Grid Cabins and Outbuildings UK](/blog/plug-in-solar-off-grid-cabins-uk)
+- [Can a Garden Office Run Off-Grid with Solar and a Battery?](/blog/garden-office-off-grid-solar)
+- [How to Power a Shed with Solar: Plug-in vs Off-Grid Battery](/blog/how-to-power-shed-with-solar)
+- [Garden Office: Plug-in Solar vs Cable Power](/blog/garden-office-solar-vs-electric-cable)
+
+<!-- related-auto-end -->
+

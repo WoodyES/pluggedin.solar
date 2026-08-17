@@ -152,3 +152,15 @@ The key is checking your specific site for shading and ensuring your installatio
 Want a tailored estimate for your location? Try our [plug-in solar quiz](https://pluggedin.solar/quiz) for a postcode-specific recommendation.
 
 For a comprehensive regional comparison, see our guide on [best and worst UK regions for plug-in solar](https://pluggedin.solar/blog/best-uk-regions-plug-in-solar-generation).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar in Wales: Regional Output Guide](/blog/plug-in-solar-wales-generation-guide)
+- [Plug-In Solar in Northern Ireland: Guide & Regulations](/blog/plug-in-solar-northern-ireland-guide)
+- [Plug-in Solar in South West England](/blog/plug-in-solar-south-west-england-guide)
+- [Plug-In Solar in South East England: Best Region for Savings](/blog/plug-in-solar-south-east-england-guide)
+
+<!-- related-auto-end -->
+

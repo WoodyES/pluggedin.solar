@@ -76,3 +76,13 @@ Plug-in solar won't make you money in the sense of generating income. It will sa
 Payback in 6-8 years on a product that lasts 25+ years is a solid return. It won't replace your income, but it will permanently reduce one of your fixed costs — and every energy price increase makes the decision look better in hindsight.
 
 For a personalised estimate based on your postcode, orientation, and system size, use our [savings calculator](/calculator).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Can Plug-in Solar Charge an Electric Car? UK Reality Check](/blog/can-plug-in-solar-charge-ev-uk)
+- [Plug-in Solar: How Much You'll Save](/blog/how-much-can-plug-in-solar-save)
+
+<!-- related-auto-end -->
+

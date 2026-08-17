@@ -286,3 +286,12 @@ For everyone else? **Plug-in solar is one of the best investments you can make a
 Ready to get started? Check out our [quiz](/quiz) to find the right kit for your situation, or explore [plug-in solar tariffs](/blog/octopus-go-vs-intelligent-solar-uk) to maximise your savings.
 
 Want real-time monitoring of your savings? Consider a [Tapo P110](https://amzn.to/4m9Yh9U) to track your generation, or an [Emporia Vue 3](https://amzn.to/4bUCQ9E) for whole-home visibility. Both tools help you verify that solar investment is paying off.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Is Plug-in Solar Worth It UK?](/blog/is-plug-in-solar-worth-it-uk)
+
+<!-- related-auto-end -->
+

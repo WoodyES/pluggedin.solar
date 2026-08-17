@@ -213,3 +213,12 @@ A few accessories that sound useful but are not worth the money:
 Most people will spend £50-80 on accessories beyond the kit. Budget £100-150 if you need a tilt bracket and outdoor socket.
 
 For a complete checklist of everything you need before installation day, see our [buying checklist](/blog/plug-in-solar-buying-checklist-uk). And for the full cost picture including the kit and electrician, see our [complete cost breakdown](/blog/plug-in-solar-installation-cost-breakdown-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Weatherproofing Your Plug-in Solar: Essential Accessories](/blog/plug-in-solar-weatherproofing-accessories-uk)
+
+<!-- related-auto-end -->
+

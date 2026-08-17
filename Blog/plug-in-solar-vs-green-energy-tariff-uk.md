@@ -82,3 +82,15 @@ Not exactly, but they're less impactful than often claimed. REGOs support the re
 ### Does plug-in solar reduce my carbon footprint?
 
 Yes — directly. Each kWh you self-consume avoids ~150-200g CO2 from grid electricity. An 800W system avoids roughly **280-350 kg CO2 per year**.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Energy Tariff for Plug-in Solar Owners UK 2026](/blog/best-energy-tariff-plug-in-solar-uk-2026)
+- [Plug-In Solar vs Switching Energy Supplier: Which Saves More?](/blog/plug-in-solar-vs-switching-energy-supplier-uk)
+- [Will Plug-in Solar Actually Reduce My Energy Bills?](/blog/plug-in-solar-vs-energy-bills)
+- [OVO Energy for Solar Owners UK 2026](/blog/ovo-energy-solar-tariff-review-uk)
+
+<!-- related-auto-end -->
+

@@ -195,3 +195,15 @@ For more wattage at a similar price, consider the **[Anker SOLIX](/blog/ecoflow-
 For a lower-cost option, **wait for Lidl's kit** in summer 2026.
 
 For more detail on the options, see our [complete buying guide](/blog/best-plug-in-solar-kit-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow STREAM 5000: 5kWh Battery Model Preview](/blog/ecoflow-stream-5000-review-uk)
+- [EcoFlow DELTA 2 Review UK: Is It Worth It for Plug-in Solar?](/blog/ecoflow-delta-2-review-uk)
+- [EcoFlow STREAM UK Launch: September 2026 Details](/blog/ecoflow-stream-uk-launch-september-2026)
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+
+<!-- related-auto-end -->
+

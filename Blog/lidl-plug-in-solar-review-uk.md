@@ -151,3 +151,15 @@ Lidl will stock the kit from **summer 2026**. Exact date TBC. When they announce
 Until then, this is what we can reasonably expect based on their European track record.
 
 For a complete comparison of all available options, see our [buying guide](/blog/best-plug-in-solar-kit-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Craftstrom Plug-In Solar UK: What Buyers Should Know](/blog/craftstrom-plug-in-solar-review-uk)
+- [Bright Saver Plug-In Solar UK: What Buyers Need to Know](/blog/bright-saver-plug-in-solar-review-uk)
+- [Hoymiles HMS-800 Review UK](/blog/hoymiles-hms800-review-uk)
+- [Shelly Plus Plug UK Review: Best for Solar Monitoring?](/blog/shelly-plus-plug-uk-review)
+
+<!-- related-auto-end -->
+

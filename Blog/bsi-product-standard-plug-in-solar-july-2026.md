@@ -77,3 +77,15 @@ If you want to install now, the current pricing of £500-700 for a complete kit 
 **Either way:** monitor the BSI publication date. We'll publish a detailed analysis of the standard's requirements as soon as it's released. Follow the [pluggedin.solar blog](/blog) for updates.
 
 For the regulatory background, see our [BS 7671 plain English guide](/blog/bs-7671-amendment-4-plain-english-guide) and our [UK law change guide](/blog/uk-plug-in-solar-law-change-2026).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [BSI Standard for Plug-in Solar Explained](/blog/bsi-product-standard-plug-in-solar)
+- [Pre-BSI Plug-in Solar: Need Upgrade?](/blog/plug-in-solar-bsi-standard-july-2026-early-adopters-uk)
+- [Interim Product Specification: What It Covers](/blog/plug-in-solar-interim-product-specification-uk)
+- [Interim Product Specification v2: What It Means for Kits](/blog/interim-product-specification-v2-plug-in-solar-uk)
+
+<!-- related-auto-end -->
+

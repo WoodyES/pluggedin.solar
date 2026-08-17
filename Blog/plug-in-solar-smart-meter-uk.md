@@ -66,3 +66,15 @@ For a step-by-step guide to the DNO notification process, see our [G98 notificat
 ## The Bottom Line
 
 Smart meters and plug-in solar work together seamlessly. Your bills automatically reflect reduced grid consumption, exports are recorded separately, and adding dedicated solar monitoring gives you the full picture. No special meter replacement or configuration needed.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Smart Meter Wrong After Solar Install?](/blog/plug-in-solar-smart-meter-issues-uk)
+- [Plug-in Solar & Smart Meter Rollout UK](/blog/plug-in-solar-smart-meter-rollout-uk)
+- [Plug-in Solar and Your Smart Meter: Will It Record Exports?](/blog/plug-in-solar-smart-meter-exports-uk)
+- [Using Your Smart Meter to Maximise Solar Self-Consumption](/blog/smart-meter-solar-self-consumption-uk)
+
+<!-- related-auto-end -->
+

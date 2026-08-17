@@ -278,3 +278,15 @@ The difference in output between budget and premium is real (15–20%), but not 
 ---
 
 **Related reading:** [How to test panel output with a multimeter](/blog/how-to-test-solar-panel-output-multimeter-uk) to verify you're actually getting the efficiency you paid for. And check [shading assessment](/blog/shading-plug-in-solar-output-uk) before buying—a shaded budget panel is worthless, but premium is still better than nothing.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [SMETS1 vs SMETS2: Which for Solar?](/blog/smets1-vs-smets2-solar-panels-uk)
+- [Apartment Solar: Europe vs UK](/blog/plug-in-solar-apartment-buildings-europe-vs-uk)
+- [Battery Storage vs No Battery: Worth It?](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
+- [Balcony vs Garden vs Roof: Best Place](/blog/balcony-vs-garden-vs-roof-plug-in-solar-uk)
+
+<!-- related-auto-end -->
+

@@ -154,3 +154,15 @@ For more on flat-roof specific installation and ballast mounting, see the [flat 
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Flat Roof Solar UK: Ballast Mounting](/blog/flat-roof-plug-in-solar-uk)
+- [Pitched Roof: Mount Plug-in Solar](/blog/mount-plug-in-solar-pitched-roof-uk)
+- [Plug-in Solar on Decking: Weight, Shading, and Safety](/blog/solar-panels-on-decking)
+- [Plug-in Solar vs Rooftop Solar: The Honest Comparison](/blog/plug-in-solar-vs-roof-solar-uk)
+
+<!-- related-auto-end -->
+

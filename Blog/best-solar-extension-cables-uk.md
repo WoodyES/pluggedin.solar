@@ -102,3 +102,12 @@ After installing extension cables, use a multimeter to check for voltage drop. M
 MC4 extension cables are a straightforward addition to any plug-in solar installation. Buy quality, UV-rated cables with genuine MC4 connectors, size them appropriately for your cable run length, and secure them properly with UV-resistant fixings. It's a one-time investment that should last the lifetime of your panels.
 
 For the full installation checklist, see our [starter kit guide](/blog/plug-in-solar-starter-kit-checklist-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [MC4 Connectors & Extension Cables Guide](/blog/best-mc4-connectors-extension-cables-uk)
+
+<!-- related-auto-end -->
+

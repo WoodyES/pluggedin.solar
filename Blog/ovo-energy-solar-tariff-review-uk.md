@@ -158,3 +158,15 @@ Despite the comparison above, there are situations where staying with OVO is rea
 - **You use OVO's other products:** OVO offers home insurance, boiler cover, and EV tariffs. Bundling may provide overall value that offsets the solar-specific gap
 
 For a broader comparison including British Gas and E.ON, see our [three-way supplier comparison](/blog/british-gas-vs-octopus-vs-eon-solar-uk). And for more on how export payments work with plug-in solar specifically, see our [SEG export guide](/blog/plug-in-solar-export-payments-seg-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Octopus Flux + Solar: Worth It 2026?](/blog/octopus-flux-tariff-review-uk)
+- [Best Energy Tariff for Plug-in Solar Owners UK 2026](/blog/best-energy-tariff-plug-in-solar-uk-2026)
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+- [Octopus Energy Review for Solar Users UK 2026](/blog/octopus-energy-review-solar-users-uk)
+
+<!-- related-auto-end -->
+

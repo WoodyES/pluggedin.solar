@@ -125,3 +125,13 @@ The government's language throughout the consultation suggests strong confidence
 4. **Research your options.** Read our [buying checklist](/blog/plug-in-solar-buying-checklist-uk) and work out where you would mount panels while you wait.
 
 The regulatory finish line is in sight. After years of delay, plug-in solar is weeks away from becoming a legal, mainstream option for UK households.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [BSI Standard Plug-in Solar: July 2026](/blog/bsi-product-standard-plug-in-solar-july-2026)
+- [Pre-BSI Plug-in Solar: Need Upgrade?](/blog/plug-in-solar-bsi-standard-july-2026-early-adopters-uk)
+
+<!-- related-auto-end -->
+

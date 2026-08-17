@@ -257,3 +257,14 @@ For everyone else, run the calculator and trust the numbers. They're based on re
 When the compliant kits launch in July 2026, the products will meet the standard, the pricing will be transparent, and the choice will be yours.
 
 Your instinct says plug-in solar is worth it? Trust that instinct. The maths backs it up.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar in Scotland: Worth It?](/blog/plug-in-solar-scotland-worth-it)
+- [Is Plug-in Solar a Good Investment in 2026?](/blog/is-plug-in-solar-good-investment-uk-2026)
+- [What Is a Plug-In Microgenerator? The Legal Definition](/blog/plug-in-microgenerator-uk-what-is-it)
+
+<!-- related-auto-end -->
+

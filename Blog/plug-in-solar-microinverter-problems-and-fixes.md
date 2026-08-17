@@ -150,3 +150,12 @@ Microinverter problems are frustrating when they happen, but they're usually fix
 If your microinverter is causing repeated issues, don't suffer in silence — contact the manufacturer. If they're good, they'll help. If they're not responsive, note it for your next purchase.
 
 For more on diagnosing why your panels aren't generating at all, check our [troubleshooting guide](/blog/plug-in-solar-not-generating-uk). And if you're still in the buying phase, our guide to [choosing the best plug-in solar kit](/blog/best-plug-in-solar-kit-uk) will help you pick a reliable inverter in the first place.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar WiFi Issues: Troubleshooting Guide](/blog/plug-in-solar-wifi-connection-problems-uk)
+
+<!-- related-auto-end -->
+

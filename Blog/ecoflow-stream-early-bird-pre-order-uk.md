@@ -103,3 +103,13 @@ EcoFlow has been working with DESNZ on certification. Pre-order kits are expecte
 ### Can I pre-order from Amazon instead?
 
 Amazon may also offer pre-orders, but early-bird pricing is typically only available through EcoFlow's direct store.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Bird Proofing Kits for Solar Panels UK](/blog/best-bird-proofing-kits-solar-uk)
+- [EcoFlow End of Summer Sale 2026: Best Deals](/blog/ecoflow-end-of-summer-sale-2026-uk)
+
+<!-- related-auto-end -->
+

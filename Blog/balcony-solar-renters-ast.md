@@ -164,3 +164,14 @@ And if it's not? You know your rights. You know how to escalate. You know the la
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Balcony Mounting for Renters: No Drill](/blog/best-balcony-mounting-options-renters)
+- [Renters' Rights Act 2025 and Plug-in Solar](/blog/renters-rights-act-2025-solar)
+- [Plug-in Solar for Renters UK: Your Complete Guide](/blog/plug-in-solar-for-renters-uk)
+
+<!-- related-auto-end -->
+

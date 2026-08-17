@@ -168,3 +168,12 @@ The installation is the easy part. Choosing the right surface is where the think
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [How to Install Plug-in Solar Panels: A Step-by-Step UK Guide](/blog/how-to-install-plug-in-solar-uk)
+
+<!-- related-auto-end -->
+

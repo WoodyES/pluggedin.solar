@@ -151,3 +151,13 @@ The standing charge is an annoyance, but it doesn't undermine the case for plug-
 For more on realistic payback periods, see our [payback guide](/blog/plug-in-solar-payback-period-uk). And for a broader look at whether plug-in solar is worth it, including all costs and savings, see our [comprehensive assessment](/blog/is-plug-in-solar-worth-it-uk).
 
 The standing charge is the catch in plug-in solar economics — the part of your bill that solar can't shrink. But it's a known quantity, it's predictable, and it doesn't change the fundamental case: plug-in solar reduces your electricity costs by £140-300 per year, pays for itself within 2-4 years, and generates savings for decades. The standing charge is an asterisk, not a dealbreaker.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Can Plug-In Solar Reduce Your Standing Charge Impact?](/blog/plug-in-solar-reduce-standing-charge-uk)
+- [Can Plug-in Solar Charge an Electric Car? UK Reality Check](/blog/can-plug-in-solar-charge-ev-uk)
+
+<!-- related-auto-end -->
+

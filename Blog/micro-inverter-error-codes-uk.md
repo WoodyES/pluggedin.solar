@@ -195,3 +195,12 @@ Next time an error pops up, take a breath. Most are self-healing. But now you kn
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [How to Reset a Hoymiles Micro-Inverter UK](/blog/how-to-reset-hoymiles-micro-inverter-uk)
+
+<!-- related-auto-end -->
+

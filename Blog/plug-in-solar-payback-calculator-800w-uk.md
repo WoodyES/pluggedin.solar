@@ -79,3 +79,15 @@ Panels degrade at roughly [0.5% per year](/blog/solar-panel-degradation-rate-uk)
 ### Can I calculate payback for a 400W system?
 
 Yes — halve the generation figures. Payback is similar in years because both the kit cost and savings are proportionally lower.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar ROI - Calculating Your Return on Investment](/blog/plug-in-solar-roi-calculator-uk)
+- [Plug-in Solar Payback Period Explained](/blog/plug-in-solar-payback-period-uk)
+- [Solar Savings Calculator Accuracy Explained](/blog/plug-in-solar-savings-calculator-accuracy-uk)
+- [Solar Panel Calculator: Your Savings](/blog/solar-panel-calculator-uk)
+
+<!-- related-auto-end -->
+

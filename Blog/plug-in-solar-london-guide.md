@@ -211,3 +211,15 @@ The critical step is **shading assessment**. A unshaded London terrace system pa
 Want a London-specific recommendation? Try our [plug-in solar quiz](https://pluggedin.solar/quiz) (enter your postcode for local generation data).
 
 For regional performance comparisons across the UK, check our guide on [best and worst UK regions for plug-in solar](https://pluggedin.solar/blog/best-uk-regions-plug-in-solar-generation).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in the Midlands: Generation & Savings Guide](/blog/plug-in-solar-midlands-guide-uk)
+- [Plug-In Solar in Yorkshire: Is It Worth It?](/blog/plug-in-solar-yorkshire-guide-uk)
+- [Plug-in Solar in Wales: Regional Output Guide](/blog/plug-in-solar-wales-generation-guide)
+- [Plug-in Solar in East Anglia](/blog/plug-in-solar-east-anglia-guide)
+
+<!-- related-auto-end -->
+

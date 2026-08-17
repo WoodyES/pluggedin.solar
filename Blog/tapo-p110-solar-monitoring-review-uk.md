@@ -86,3 +86,15 @@ At £15, it's the best [return on investment](/blog/is-plug-in-solar-good-invest
 Buy the [Tapo P110 on Amazon](https://amzn.to/4m9Yh9U).
 
 For the broader monitoring picture, see our [best energy monitors guide](/blog/best-whole-home-energy-monitors-uk) and our [Home Assistant integration guide](/blog/solar-panel-monitoring-home-assistant-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Eve Energy vs Tapo P110 vs Shelly: Best Solar Smart Plug UK](/blog/eve-energy-vs-tapo-p110-vs-shelly-uk)
+- [EcoFlow DELTA 2 Review UK: Is It Worth It for Plug-in Solar?](/blog/ecoflow-delta-2-review-uk)
+- [Emporia Vue 3 Review UK: Whole-Home Energy Monitoring](/blog/emporia-vue-3-review-uk)
+- [Lidl Plug-in Solar Kit UK: What to Expect When It Lands](/blog/lidl-plug-in-solar-review-uk)
+
+<!-- related-auto-end -->
+

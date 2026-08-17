@@ -148,3 +148,12 @@ You choose: a 400Wh battery (EcoFlow River Pro) and 600W of solar panels (two 30
 The beauty of modern solar and battery technology is that a small system genuinely works. Your summerhouse, garden bar, or log cabin doesn't need to be dark and powerless. It just needs honest expectations and realistic sizing.
 
 For a detailed sense of what your location would generate, use the [savings calculator](/calculator) with your postcode. (It's built for grid-tie solar, but generation figures are applicable to off-grid systems too.)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar for Off-Grid Cabins and Outbuildings UK](/blog/plug-in-solar-off-grid-cabins-uk)
+
+<!-- related-auto-end -->
+

@@ -139,3 +139,13 @@ After you switch:
 Switching is one of the quickest wins in solar ownership. If you're on a bad tariff or a fixed rate that's expired, don't delay.
 
 Ready to switch? Compare tariffs on [Octopus Go vs. Intelligent](/blog/octopus-go-vs-intelligent-solar-uk) or read our [Octopus Flux review](/blog/octopus-flux-tariff-review-uk) to decide which is best for you.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar vs Switching Energy Supplier: Which Saves More?](/blog/plug-in-solar-vs-switching-energy-supplier-uk)
+- [Switch Supplier: Solar & Smart Meter](/blog/smart-meter-solar-panels-supplier-switching-uk)
+
+<!-- related-auto-end -->
+

@@ -196,3 +196,12 @@ To estimate your before-and-after bills:
 For a detailed walkthrough, see our guides on [how much plug-in solar saves](/blog/how-much-does-plug-in-solar-save-uk), [payback period calculations](/blog/plug-in-solar-payback-period-uk), and [calculator accuracy](/blog/plug-in-solar-savings-calculator-accuracy-uk).
 
 The bottom line: plug-in solar reduces UK electricity bills by £140-300 per year depending on your circumstances. It doesn't eliminate the bill, but it makes a meaningful, measurable dent — and the savings are locked in for 25+ years.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Does Plug-in Solar Affect Your Energy Bill Immediately?](/blog/does-plug-in-solar-affect-energy-bill-immediately-uk)
+
+<!-- related-auto-end -->
+

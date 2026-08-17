@@ -103,3 +103,15 @@ And if you're genuinely undecided? Start with plug-in. The cost is forgiving, th
 ---
 
 **Ready to explore plug-in solar?** Check our [savings calculator](/calculator) to estimate your annual generation, then take the [panel finder quiz](/quiz) to find systems that match your property and budget.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar vs Roof Tiles: Comparison](/blog/plug-in-solar-vs-solar-roof-tiles-uk)
+- [Plug-in Solar vs Heat Pump: Savings](/blog/plug-in-solar-vs-heat-pump-uk)
+- [Plug-in Solar vs Rooftop Solar: The Honest Comparison](/blog/plug-in-solar-vs-roof-solar-uk)
+- [Plug-in vs Rooftop Solar: Which for You?](/blog/plug-in-solar-vs-traditional-solar)
+
+<!-- related-auto-end -->
+

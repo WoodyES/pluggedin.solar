@@ -121,3 +121,13 @@ For systems under 800W, the DNO cannot refuse. They can only acknowledge. For sy
 A battery connected behind the meter (e.g., an [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) that charges from your ring main) doesn't require a separate G98 notification. It's considered part of the domestic installation, not a separate generator.
 
 For more on the regulatory framework, see our [BS 7671 plain English guide](/blog/bs-7671-amendment-4-plain-english-guide) and our [planning permission guide](/blog/plug-in-solar-planning-permission).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [G98: Notify Your DNO About Solar](/blog/g98-dno-notification-plug-in-solar)
+- [G98 DNO Notification: Step-by-Step](/blog/g98-dno-notification-step-by-step)
+
+<!-- related-auto-end -->
+

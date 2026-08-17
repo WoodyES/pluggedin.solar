@@ -70,3 +70,12 @@ All modern sockets should be RCD-protected. If your consumer unit doesn't have R
 ### Does it matter which socket I choose on a ring main?
 
 Not electrically — all sockets on a ring main share the same circuit. Choose based on convenience of cable routing.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Time-of-Use Tariffs: Solar Optimisation](/blog/smart-meter-time-of-use-tariffs-solar-uk)
+
+<!-- related-auto-end -->
+

@@ -145,3 +145,15 @@ Until July 2026, you can prepare: research kits, check your balcony or garden fo
 When July comes and the standard is published, you'll know exactly what to look for. UKCA marking = legally compliant. No UKCA marking = not legally connectable. It's that simple.
 
 For the full legal timeline and what happens at each stage, see our [complete legal guide](/blog/is-plug-in-solar-legal-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [BSI Standard Plug-in Solar: July 2026](/blog/bsi-product-standard-plug-in-solar-july-2026)
+- [Pre-BSI Plug-in Solar: Need Upgrade?](/blog/plug-in-solar-bsi-standard-july-2026-early-adopters-uk)
+- [Interim Product Specification: What It Covers](/blog/plug-in-solar-interim-product-specification-uk)
+- [Interim Product Specification v2: What It Means for Kits](/blog/interim-product-specification-v2-plug-in-solar-uk)
+
+<!-- related-auto-end -->
+

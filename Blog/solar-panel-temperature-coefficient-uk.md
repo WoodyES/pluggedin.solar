@@ -176,3 +176,15 @@ Your panels are most efficient on cool, clear days — which happen often in the
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Solar Panel Degradation Rate UK](/blog/solar-panel-degradation-rate-uk)
+- [Monitoring Plug-in Solar with Home Assistant in the UK](/blog/solar-panel-monitoring-home-assistant-uk)
+- [Solar Panel Output UK: Month-by-Month](/blog/how-much-power-solar-panel-generate-uk)
+- [How to Test Solar Panel Output with a Multimeter UK](/blog/how-to-test-solar-panel-output-multimeter-uk)
+
+<!-- related-auto-end -->
+

@@ -243,3 +243,12 @@ A ballasted [Renogy Tilt Mount](https://amzn.to/4maeAng) with [EcoFlow STREAM](h
 For battery-enabled resilience, add an [EcoFlow DELTA 2](https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fdelta-2-portable-power-station) for enhanced winter savings and blackout protection.
 
 Want a tailored estimate? Try our [plug-in solar quiz](https://pluggedin.solar/quiz) for your postcode and property type.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar for Ex-Council Homes: What to Know](/blog/plug-in-solar-ex-council-homes-uk)
+
+<!-- related-auto-end -->
+

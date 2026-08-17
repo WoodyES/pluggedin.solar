@@ -97,3 +97,13 @@ SI 2026/848 applies to England, Wales, and Scotland. [Northern Ireland](/blog/pl
 ### What happens if I buy a non-compliant kit?
 
 It remains illegal to sell a non-compliant plug-in solar device in the UK after 27 August. Enforcement focuses on retailers, not individual consumers. However, non-compliant kits won't carry the required safety certifications.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [BS 7671 Amendment 4 Explained: What Changed on 15 April 2026](/blog/bs7671-amendment-4-explained)
+- [Why UK Plug-In Solar Kits Can't Include Batteries](/blog/plug-in-solar-no-battery-rule-uk-explained)
+
+<!-- related-auto-end -->
+

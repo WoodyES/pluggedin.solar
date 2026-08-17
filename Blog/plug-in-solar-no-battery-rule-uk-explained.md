@@ -73,3 +73,15 @@ Not necessarily. If the battery operates on the DC side and doesn't feed through
 ### How much does the no-battery rule cost me?
 
 Without a battery, you lose some evening/night self-consumption. Realistically, a battery adds 10-20% more savings, so the impact is £20-40 per year — significant but not transformative.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Why You Can't Use an Extension Lead with Plug-In Solar](/blog/plug-in-solar-no-extension-lead-rule-uk)
+- [Battery Storage vs No Battery: Worth It?](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
+- [BS 7671 Amendment 4 Explained: What Changed on 15 April 2026](/blog/bs7671-amendment-4-explained)
+- [SI 2026 No. 848 Explained: The Law Behind Plug-In Solar](/blog/si-2026-848-plug-in-solar-explained-uk)
+
+<!-- related-auto-end -->
+

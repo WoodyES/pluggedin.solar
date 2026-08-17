@@ -92,3 +92,15 @@ No. From 27 August 2026, UK-compliant plug-in solar kits — including Craftstro
 ### How does Craftstrom compare to EcoFlow STREAM?
 
 Craftstrom typically competes on hardware price and simplicity, drawing on Germany's mature Balkonkraftwerk market. EcoFlow STREAM offers app monitoring, an active UK affiliate presence, and an upgrade path to the Ultra Pro battery variant. For most UK buyers wanting long-term flexibility, STREAM is the safer pick; for buyers focused purely on watts-per-pound, Craftstrom is competitive.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Lidl Plug-in Solar Kit UK: What to Expect When It Lands](/blog/lidl-plug-in-solar-review-uk)
+- [Bright Saver Plug-In Solar UK: What Buyers Need to Know](/blog/bright-saver-plug-in-solar-review-uk)
+- [Hoymiles HMS-800 Review UK](/blog/hoymiles-hms800-review-uk)
+- [Shelly Plus Plug UK Review: Best for Solar Monitoring?](/blog/shelly-plus-plug-uk-review)
+
+<!-- related-auto-end -->
+

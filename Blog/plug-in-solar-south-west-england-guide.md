@@ -120,3 +120,15 @@ The South West's winter advantage is one of its underappreciated strengths. Whil
 Unquestionably. The South West offers the best plug-in solar returns in the UK. An 800W system will typically save £200–£230 per year at current electricity prices, paying for itself within 2–3 years. With a battery to maximise self-consumption, you can push savings even higher.
 
 Whether you live in a Cornish cottage, a Devon bungalow, a Dorset flat, or a Somerset farmhouse, plug-in solar makes financial sense here. Use our [savings calculator](/calculator) to get a personalised estimate for your postcode, or take the [panel finder quiz](/quiz) to find the right system for your property.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in South East England: Best Region for Savings](/blog/plug-in-solar-south-east-england-guide)
+- [Plug-In Solar in the Midlands: Generation & Savings Guide](/blog/plug-in-solar-midlands-guide-uk)
+- [Plug-in Solar in London: Urban Installation Guide](/blog/plug-in-solar-london-guide)
+- [Plug-in Solar in Wales: Regional Output Guide](/blog/plug-in-solar-wales-generation-guide)
+
+<!-- related-auto-end -->
+

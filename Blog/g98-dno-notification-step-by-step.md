@@ -147,3 +147,14 @@ For a full walkthrough of the entire installation process, including what to do 
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fwww.ecoflow.com%2Fuk%2Fportable-solar-panels" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [G98: Notify Your DNO About Solar](/blog/g98-dno-notification-plug-in-solar)
+- [G98 Notification: Step-by-Step Guide for UK Homeowners](/blog/g98-notification-guide-uk-homeowners)
+- [What DNOs Say About Plug-in Solar UK in 2026](/blog/dno-plug-in-solar-uk-2026)
+
+<!-- related-auto-end -->
+

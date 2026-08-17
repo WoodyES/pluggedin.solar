@@ -87,3 +87,15 @@ No. The definition requires a complete system — panels, inverter, cabling, and
 ### Will the definition expand to include batteries?
 
 Possibly. BSI's full product standard (expected 2027) may broaden the definition to allow integrated battery storage under additional safety requirements.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Is Plug-in Solar Worth It UK?](/blog/is-plug-in-solar-worth-it-uk)
+- [What Germany Teaches the UK About Plug-in Solar](/blog/what-germany-teaches-uk-about-plug-in-solar)
+- [My Landlord Refused Plug-in Solar — What Are My Options?](/blog/plug-in-solar-landlord-refused-what-next-uk)
+- [Plug-in Solar in Spain: What the UK Can Learn](/blog/plug-in-solar-in-spain-what-uk-can-learn)
+
+<!-- related-auto-end -->
+

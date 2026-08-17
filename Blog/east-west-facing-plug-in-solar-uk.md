@@ -80,3 +80,12 @@ East and west-facing plug-in solar generates 15-20% less than south-facing. That
 If your only available space faces east or west, don't let the orientation put you off. The economics are solid, the system still pays for itself, and 80% of optimal output is a lot better than 0%.
 
 For realistic savings based on your specific postcode and orientation, use our [calculator](/calculator). For installation guidance, see our [step-by-step guide](/blog/how-to-install-plug-in-solar-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Orientation: South vs East/West](/blog/south-facing-vs-east-west-solar-uk)
+
+<!-- related-auto-end -->
+

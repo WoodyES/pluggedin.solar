@@ -164,3 +164,15 @@ Alternatively, if you install 400W now and discover you're exporting more than y
 - Understand how plug-in solar works with battery systems in our [battery buyer's guide](/blog/battery-storage-vs-no-battery-plug-in-solar-uk)
 - Learn how to optimise generation with [whole-home energy monitoring](/blog/best-whole-home-energy-monitors-uk)
 - Explore [plug-in solar and EV charging](/blog/plug-in-solar-ev-charging-uk) if you own an electric vehicle
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [800W vs 400W Plug-in Solar: Which Should You Actually Buy?](/blog/800w-vs-400w-plug-in-solar)
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+- [Cheap vs Premium Solar Panels UK: Is It Worth Paying More?](/blog/cheap-vs-premium-solar-panels-uk)
+- [Apartment Solar: Europe vs UK](/blog/plug-in-solar-apartment-buildings-europe-vs-uk)
+
+<!-- related-auto-end -->
+

@@ -84,3 +84,15 @@ For more on how to get balcony installations approved, see our [balcony-specific
 Flat living doesn't disqualify you from plug-in solar. Balcony mounts deliver 70% of roof output with near-zero friction. Communal roofs, if accessible, match house performance. Even window sills offer something. The 800W cap means you're not trying to power an entire building—a single panel and battery can offset 20–30% of an urban flat's annual consumption.
 
 Get freeholder or landlord approval in writing, choose your location based on sunlight exposure, and you're on your way to savings. For flats without any external space, portable panels paired with the right battery (more on battery selection soon) remain the path of least resistance.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar with a North-Facing Garden: Is It Worth It?](/blog/plug-in-solar-north-facing-garden-uk)
+- [Best Solar Panels for Garden Rooms UK 2026](/blog/best-solar-panels-garden-room-uk)
+- [Garden Office Solar: Plug-in Options](/blog/solar-panels-for-garden-office-uk)
+- [Can a Garden Office Run Off-Grid with Solar and a Battery?](/blog/garden-office-off-grid-solar)
+
+<!-- related-auto-end -->
+

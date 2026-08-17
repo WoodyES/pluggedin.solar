@@ -78,3 +78,15 @@ Once on Octopus, you can move between their tariff options (Flexible to Go, Go t
 Octopus's own app shows your consumption and costs, including the impact of different rate periods. Combining this with a [Tapo P110](https://amzn.to/4m9Yh9U) on your inverter output gives you both the supply-side view (what you're paying the grid) and the generation-side view (what your solar is producing). The gap between these two numbers is your real savings.
 
 For a comparison against other suppliers, see our [best energy tariff guide](/blog/best-energy-tariff-plug-in-solar-uk-2026) and our [British Gas vs Octopus vs E.ON comparison](/blog/british-gas-vs-octopus-vs-eon-solar-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Octopus Flux + Solar: Worth It 2026?](/blog/octopus-flux-tariff-review-uk)
+- [OVO Energy for Solar Owners UK 2026](/blog/ovo-energy-solar-tariff-review-uk)
+- [Q4 2026 Energy Price Cap and Plug-In Solar Savings](/blog/plug-in-solar-energy-price-cap-q4-2026-uk)
+- [Plug-In Solar and Christmas Energy Bills: What to Expect](/blog/plug-in-solar-christmas-energy-use-uk)
+
+<!-- related-auto-end -->
+

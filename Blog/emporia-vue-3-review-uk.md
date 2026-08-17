@@ -195,3 +195,15 @@ Install it, study the data for a month, and you'll find ways to use more of your
 [TP-Link Tapo P110 Smart Plug Review](/blog/tapo-p110-solar-monitoring-review-uk) *(future article)*  
 [Eve Energy vs Tapo P110 vs Shelly: Best Solar Smart Plug UK](/blog/eve-energy-vs-tapo-p110-vs-shelly-uk)  
 [APsystems EZ1-M Review UK](/blog/apsystems-ez1-m-review-uk)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow DELTA 2 Review UK: Is It Worth It for Plug-in Solar?](/blog/ecoflow-delta-2-review-uk)
+- [Tapo P110 for Solar Monitoring: UK Review](/blog/tapo-p110-solar-monitoring-review-uk)
+- [Lidl Plug-in Solar Kit UK: What to Expect When It Lands](/blog/lidl-plug-in-solar-review-uk)
+- [Bright Saver Plug-In Solar UK: What Buyers Need to Know](/blog/bright-saver-plug-in-solar-review-uk)
+
+<!-- related-auto-end -->
+

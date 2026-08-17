@@ -167,3 +167,14 @@ It's genuinely simple. The most time-consuming part is usually finding the right
 - **Wider installation guide:** See our [installation guide](/blog/how-to-install-plug-in-solar-uk) — coming soon
 
 G98 isn't bureaucratic obstruction — it's a sensible, necessary, and genuinely quick way to keep everyone informed and the grid safe. Do it.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [G98 DNO Notification: Step-by-Step](/blog/g98-dno-notification-step-by-step)
+- [G98 Notification: Step-by-Step Guide for UK Homeowners](/blog/g98-notification-guide-uk-homeowners)
+- [What DNOs Say About Plug-in Solar UK in 2026](/blog/dno-plug-in-solar-uk-2026)
+
+<!-- related-auto-end -->
+

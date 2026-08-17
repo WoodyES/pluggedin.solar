@@ -83,3 +83,15 @@ With a STREAM, you have a single point of warranty contact. With a DIY build, yo
 ### Is the STREAM really plug-and-play?
 
 Yes — it comes with everything you need including mounting hardware. Our [installation guide](/blog/ecoflow-stream-installation-guide-uk) covers the full process.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+- [Bright Saver vs EcoFlow STREAM: Which UK Plug-In Kit Wins?](/blog/bright-saver-vs-ecoflow-stream-uk)
+- [EcoFlow vs Anker: Which Kit 2026?](/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026)
+- [EcoFlow STREAM Review UK: The Official Pick](/blog/ecoflow-stream-review-uk)
+
+<!-- related-auto-end -->
+

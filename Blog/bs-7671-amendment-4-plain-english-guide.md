@@ -213,3 +213,12 @@ For a step-by-step on the legal process and what comes next, read our guide to [
 <div class="pc-cta"><a href="https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=https%3A%2F%2Fuk.ecoflow.com%2Fpages%2Fstream-balcony-solar-system" target="_blank" rel="noopener noreferrer sponsored">View on EcoFlow UK &rarr;</a></div>
 <div class="pc-disclaimer">Affiliate link — we may earn a commission at no extra cost to you.</div>
 </div>
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [BS 7671 Amendment 4 Explained: What Changed on 15 April 2026](/blog/bs7671-amendment-4-explained)
+
+<!-- related-auto-end -->
+

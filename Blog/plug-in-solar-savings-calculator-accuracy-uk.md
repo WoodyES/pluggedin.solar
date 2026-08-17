@@ -232,3 +232,15 @@ Once your system is live, compare real output to our estimate:
 4. **After year 1, compare real output to estimate** – check if your actual generation matches the forecast
 
 **Ready to see how accurate our estimate is for your property?** [Run the calculator](/calculator) with your postcode.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar ROI - Calculating Your Return on Investment](/blog/plug-in-solar-roi-calculator-uk)
+- [800W Plug-In Solar Payback Calculator: UK Postcodes](/blog/plug-in-solar-payback-calculator-800w-uk)
+- [Solar Panel Calculator: Your Savings](/blog/solar-panel-calculator-uk)
+- [Balcony Solar: What Vertical Panels Make](/blog/balcony-solar-output-calculator-uk)
+
+<!-- related-auto-end -->
+

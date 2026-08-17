@@ -71,3 +71,13 @@ No. Even low generation contributes to your annual savings. The system handles l
 ### Will frost damage my panels?
 
 No. Solar panels are designed for extreme temperatures (-40°C to +85°C). Frost doesn't affect them.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [How to Prepare Your Plug-in Solar System for Winter UK](/blog/prepare-plug-in-solar-winter-uk)
+- [Plug-in Solar in Winter: What to Really Expect](/blog/plug-in-solar-in-winter-uk)
+
+<!-- related-auto-end -->
+

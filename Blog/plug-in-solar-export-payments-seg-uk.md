@@ -84,3 +84,12 @@ Don't let this put you off. A well-optimised 800W system with decent self-consum
 The economics work. They just work differently from what some marketing suggests.
 
 For realistic savings calculations based on your postcode, use our [savings calculator](/calculator). For the complete setup guide, see our [starter kit checklist](/blog/plug-in-solar-starter-kit-checklist-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar Generating More Than You Use?](/blog/plug-in-solar-generating-too-much-export-uk)
+
+<!-- related-auto-end -->
+

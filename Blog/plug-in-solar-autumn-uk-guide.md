@@ -112,3 +112,15 @@ For what to expect as the year turns the other way, see our [spring solar guide]
 Autumn is not the end of plug-in solar productivity — it is a transition. September still delivers useful generation, and even November contributes meaningful output. The key is maintenance: keep panels clean, adjust your tilt, check your weatherproofing, and make the most of battery storage if you have it.
 
 The systems that perform best in autumn are the ones that were set up properly and maintained through the year. A clean, well-angled, unshaded panel in November will outperform a dirty, flat, partially shaded one by 30–50%. Those are gains worth capturing when every kilowatt-hour counts.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in the Midlands: Generation & Savings Guide](/blog/plug-in-solar-midlands-guide-uk)
+- [Plug-in Solar UK: The Complete 2026 Guide](/blog/plug-in-solar-uk-complete-guide)
+- [Plug-in Solar in London: Urban Installation Guide](/blog/plug-in-solar-london-guide)
+- [Balcony Solar UK: Everything You Need to Know](/blog/balcony-solar-uk-guide)
+
+<!-- related-auto-end -->
+

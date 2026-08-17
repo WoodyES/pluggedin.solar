@@ -113,3 +113,15 @@ Octopus Flux is a well-designed tariff that genuinely rewards solar + battery in
 Either way, both tariffs are significantly better for plug-in solar than a standard flat-rate tariff. The decision between them is about optimisation, not survival.
 
 Want to compare more tariffs? See our guide to [switching energy suppliers with plug-in solar](/blog/switch-energy-supplier-plug-in-solar-uk) to understand how to make the switch without losing out.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [OVO Energy for Solar Owners UK 2026](/blog/ovo-energy-solar-tariff-review-uk)
+- [Octopus Energy Review for Solar Users UK 2026](/blog/octopus-energy-review-solar-users-uk)
+- [Best Energy Tariff for Plug-in Solar Owners UK 2026](/blog/best-energy-tariff-plug-in-solar-uk-2026)
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+
+<!-- related-auto-end -->
+

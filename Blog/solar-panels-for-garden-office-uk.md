@@ -282,3 +282,15 @@ Don't let marketing push you one way. Run the maths for your specific situation.
 - Use our [savings calculator](/calculator) to work out your specific financial return
 
 Building a garden office is excellent. Powering it thoughtfully is crucial. Get this right, and you'll enjoy the space for decades. Get it wrong, and you'll regret it every day.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Best Solar Panels for Garden Rooms UK 2026](/blog/best-solar-panels-garden-room-uk)
+- [How Many Solar Panels Does a Garden Office Actually Need?](/blog/garden-office-solar-how-many-panels)
+- [Can a Garden Office Run Off-Grid with Solar and a Battery?](/blog/garden-office-off-grid-solar)
+- [Garden Office: Plug-in Solar vs Cable Power](/blog/garden-office-solar-vs-electric-cable)
+
+<!-- related-auto-end -->
+

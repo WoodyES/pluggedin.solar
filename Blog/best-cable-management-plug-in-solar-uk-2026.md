@@ -242,3 +242,13 @@ It's not glamorous, but it's essential. Do it right from the start.
 [Best Flexible Solar Panels for UK Caravans and Campervans](/blog/best-flexible-solar-panels-uk-caravans)  
 [Best Bird Proofing Kits for Solar Panels UK](/blog/best-bird-proofing-kits-solar-uk)  
 [APsystems EZ1-M Review UK](/blog/apsystems-ez1-m-review-uk)
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Solar Cable Management: Tidy & Safe](/blog/solar-panel-cable-management-uk)
+- [IP68 Cable Glands for Solar: Which to Buy UK](/blog/ip68-cable-glands-solar-uk)
+
+<!-- related-auto-end -->
+

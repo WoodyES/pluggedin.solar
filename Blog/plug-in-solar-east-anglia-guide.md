@@ -102,3 +102,15 @@ Absolutely. East Anglia combines strong irradiance with the practical advantages
 The payback period for a typical system is 2.5–3.5 years, after which you are generating free electricity for the remaining lifespan of the panels (25+ years for the panels themselves, 10–15 years for the inverter).
 
 Whether you are in a Norwich terrace, a Suffolk cottage, a Cambridge semi, or an Essex bungalow, plug-in solar is a sound investment in East Anglia. Use our [savings calculator](/calculator) to get a personalised estimate, or take the [panel finder quiz](/quiz) to find the right system for your property.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in South East England: Best Region for Savings](/blog/plug-in-solar-south-east-england-guide)
+- [Plug-In Solar in the Midlands: Generation & Savings Guide](/blog/plug-in-solar-midlands-guide-uk)
+- [Plug-in Solar in London: Urban Installation Guide](/blog/plug-in-solar-london-guide)
+- [Plug-in Solar in Wales: Regional Output Guide](/blog/plug-in-solar-wales-generation-guide)
+
+<!-- related-auto-end -->
+

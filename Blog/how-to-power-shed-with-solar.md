@@ -180,3 +180,14 @@ Let's be concrete.
 **You need high-power tools:** Neither system is right. Plan a proper mains extension instead.
 
 Still deciding? The [detailed shed guide](/blog/plug-in-solar-for-shed-uk) explores the technical side and walks through real-world examples. Use the [calculator](/calculator) to see what solar output you can expect from your location.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Solar Panel Output UK: Month-by-Month](/blog/how-much-power-solar-panel-generate-uk)
+- [How Many Solar Panels Does a Garden Office Actually Need?](/blog/garden-office-solar-how-many-panels)
+- [Shed Solar: Plug-in vs Off-Grid Battery](/blog/plug-in-solar-vs-off-grid-battery-shed)
+
+<!-- related-auto-end -->
+

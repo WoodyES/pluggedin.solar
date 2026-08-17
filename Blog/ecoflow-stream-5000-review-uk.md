@@ -90,3 +90,15 @@ This depends on the configuration. If the battery feeds through the plug circuit
 ### How does it compare to a Tesla Powerwall?
 
 The Powerwall (13.5kWh, ~£8,000 installed) is designed for full rooftop solar systems. The STREAM 5000 is a fraction of the cost and capacity but pairs specifically with plug-in solar. They serve different markets.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [EcoFlow STREAM Review UK: The Official Pick](/blog/ecoflow-stream-review-uk)
+- [EcoFlow DELTA 2 Review UK: Is It Worth It for Plug-in Solar?](/blog/ecoflow-delta-2-review-uk)
+- [EcoFlow STREAM UK Launch: September 2026 Details](/blog/ecoflow-stream-uk-launch-september-2026)
+- [EcoFlow STREAM vs STREAM Ultra: Which?](/blog/ecoflow-stream-800w-vs-stream-ultra-uk)
+
+<!-- related-auto-end -->
+

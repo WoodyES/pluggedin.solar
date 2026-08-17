@@ -169,3 +169,13 @@ Most of these checks are visual and require only basic tools. The maintenance mi
 Autumn maintenance takes a Saturday afternoon and prevents winter failures. A clean, well-maintained system enters winter resilient and ready to capture whatever low-angle sun rays arrive across the shortest days of the year.
 
 For context on winter performance itself, read our guide to [January generation data](/blog/plug-in-solar-january-uk-generation) and the [full seasonal performance picture](/blog/plug-in-solar-uk-monthly-performance-guide).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Preparing Your Plug-In Solar for Winter 2026/27](/blog/plug-in-solar-winter-preparation-2026-uk)
+- [Plug-in Solar in Winter: What to Really Expect](/blog/plug-in-solar-in-winter-uk)
+
+<!-- related-auto-end -->
+

@@ -99,3 +99,15 @@ For households with battery storage, an EV, or a willingness to manage timing, *
 Whichever tariff you choose, the key insight is that your energy deal is as important as your panel orientation. A poorly chosen tariff can halve the financial value of a perfectly installed system.
 
 For tariff-specific deep dives, see our guides on [Octopus Agile](/blog/plug-in-solar-octopus-agile-uk), [Octopus Flux](/blog/octopus-flux-tariff-review-uk), and [SEG export payments](/blog/plug-in-solar-export-payments-seg-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar vs Green Energy Tariff: Which Is Greener?](/blog/plug-in-solar-vs-green-energy-tariff-uk)
+- [OVO Energy for Solar Owners UK 2026](/blog/ovo-energy-solar-tariff-review-uk)
+- [Plug-In Solar and Christmas Energy Bills: What to Expect](/blog/plug-in-solar-christmas-energy-use-uk)
+- [Will Plug-in Solar Actually Reduce My Energy Bills?](/blog/plug-in-solar-vs-energy-bills)
+
+<!-- related-auto-end -->
+

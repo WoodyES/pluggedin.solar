@@ -107,3 +107,14 @@ Not through the plug circuit. You could theoretically use a separate battery sys
 ### What about multiple plug-in solar kits?
 
 The IPS v2 limits you to one plug-in microgenerator per household. [Multiple units on one circuit](/blog/multiple-plug-in-solar-units-one-circuit-uk) are not permitted under the current specification.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Interim Product Specification: What It Covers](/blog/plug-in-solar-interim-product-specification-uk)
+- [BSI Standard for Plug-in Solar Explained](/blog/bsi-product-standard-plug-in-solar)
+- [BSI Standard Plug-in Solar: July 2026](/blog/bsi-product-standard-plug-in-solar-july-2026)
+
+<!-- related-auto-end -->
+

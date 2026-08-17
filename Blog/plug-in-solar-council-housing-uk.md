@@ -85,3 +85,13 @@ Social housing tenants can absolutely benefit from plug-in solar. The barriers a
 Write to your housing provider, reference the March 2026 announcement, and make the case clearly. Most will say yes. Those that don't should explain why — and in most cases, their objections won't hold up.
 
 For the complete [renter](/blog/rented-flat-solar-panels-uk) guide, see our [renters guide](/blog/plug-in-solar-for-renters-uk). For balcony-specific installation, see our [balcony guide](/blog/balcony-solar-installation-guide-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-In Solar in Housing Association Properties: UK Rules](/blog/plug-in-solar-housing-association-uk)
+- [Plug-In Solar in Supported and Sheltered Housing: UK Guide](/blog/plug-in-solar-supported-housing-uk)
+
+<!-- related-auto-end -->
+

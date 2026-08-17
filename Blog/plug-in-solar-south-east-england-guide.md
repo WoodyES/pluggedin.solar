@@ -52,3 +52,15 @@ Broadly yes — [London](/blog/plug-in-solar-london-guide) generates similarly t
 ### What's the best time to install in the South East?
 
 Spring (March-April) captures the most generation in your first year. But [September 2026](/blog/ecoflow-stream-uk-launch-september-2026) — when kits launch — is still excellent.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar in South West England](/blog/plug-in-solar-south-west-england-guide)
+- [Plug-in Solar in East Anglia](/blog/plug-in-solar-east-anglia-guide)
+- [Plug-In Solar in the Midlands: Generation & Savings Guide](/blog/plug-in-solar-midlands-guide-uk)
+- [Plug-in Solar in London: Urban Installation Guide](/blog/plug-in-solar-london-guide)
+
+<!-- related-auto-end -->
+

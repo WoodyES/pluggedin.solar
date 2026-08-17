@@ -163,3 +163,12 @@ You're a [renter](/blog/rented-flat-solar-panels-uk). The Renters' Rights Act 20
 If you're paying for your own electricity, you're bearing the cost of generation. You deserve a say in how that electricity is produced. A properly installed, reversible solar system is one of the lowest-risk modifications a tenant can propose.
 
 Ask respectfully, document everything, and know that the law is now on your side. For more on portable panels and [battery storage](/blog/battery-storage-vs-no-battery-plug-in-solar-uk), check out our [off-grid guide](/blog/plug-in-solar-off-grid-cabins-uk).
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar for Renters UK: Your Complete Guide](/blog/plug-in-solar-for-renters-uk)
+
+<!-- related-auto-end -->
+

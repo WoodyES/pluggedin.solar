@@ -75,3 +75,15 @@ Yes — a south-facing garage wall works, though vertical mounting reduces outpu
 ### What about detached garages far from the house?
 
 If the garage is more than 10m from a socket, consider extending the DC cable run (safer than long AC runs) or installing an outdoor socket closer to the panels.
+
+<!-- related-auto-start -->
+
+## Related reading
+
+- [Plug-in Solar on a Slate Roof UK: What You Need to Know](/blog/plug-in-solar-slate-roof-uk)
+- [Plug-In Solar on a Conservatory Roof: UK Guide](/blog/plug-in-solar-conservatory-roof-uk)
+- [Can Plug-in Solar Go on Your Roof? A Practical Guide](/blog/plug-in-solar-on-roof-uk)
+- [Plug-in Solar vs Rooftop Solar: The Honest Comparison](/blog/plug-in-solar-vs-roof-solar-uk)
+
+<!-- related-auto-end -->
+
