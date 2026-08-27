@@ -36,9 +36,9 @@ const SUPPLIERS = [
 ];
 const FAQ_ITEMS = [
   { q: "Is plug-in solar legal in the UK?",
-    a: "Yes — from 27 August 2026. SI 2026 No. 848, made on 16 July, amends the Plugs and Sockets Regulations to permit 'plug-in microgenerators'. Compliant kits must meet the DESNZ Interim Product Specification: max 800VA / 3.5A output, BS 1363 plug with 5A fuse, no battery in the plug circuit, and no extension leads. EcoFlow STREAM is expected to be the first certified kit, launching in September 2026." },
+    a: "Yes — as of today, 27 August 2026. SI 2026 No. 848 has come into force and permits 'plug-in microgenerators' in UK homes. Compliant kits must meet the DESNZ Interim Product Specification: max 800VA / 3.5A output, BS 1363 plug with 5A fuse, no battery in the plug circuit, and no extension leads. EcoFlow STREAM kits are available from today, with B&Q, Currys, Amazon and Screwfix stocking compliant kits." },
   { q: "Do I need an electrician?",
-    a: "No. Once compliant kits are on sale, you plug the inverter cable into a standard 13A socket. You do need to notify your Distribution Network Operator (DNO) within 28 days under G98 rules — but that's a simple online form, not a site visit." },
+    a: "No. You plug the inverter cable into a standard 13A socket. You do need to notify your Distribution Network Operator (DNO) within 28 days under G98 rules — but that's a simple online form, not a site visit." },
   { q: "Can I install this if I rent?",
     a: "Plug-in solar is specifically designed for renters and flat-dwellers who can't access their roof. The panels attach to a balcony rail or sit in a garden, and you take them when you move. Most standard ASTs don't prohibit temporary external fixtures." },
   { q: "What's the payback period?",
@@ -148,7 +148,7 @@ function Hero({ gridData }) {
           Plug-in solar is legal
           <br />in the UK{" "}
           <span style={{ color: T.solar, display: "inline-block", position: "relative" }}>
-            from 27 August.
+            from today.
             <svg style={{ position: "absolute", bottom: -6, left: 0, width: "100%", height: 6, overflow: "visible" }} viewBox="0 0 200 6" preserveAspectRatio="none">
               <path d="M0,5 Q50,1 100,4 Q150,7 200,3" stroke={T.solarBright} strokeWidth="2.5" fill="none" strokeLinecap="round" opacity="0.7" />
             </svg>
@@ -158,7 +158,7 @@ function Hero({ gridData }) {
         </h1>
 
         <p className="fu2" style={{ fontSize: "1.05rem", color: T.inkMid, lineHeight: 1.75, marginBottom: 44, maxWidth: 540, fontWeight: 300 }}>
-          SI 2026 No. 848 comes into force on 27 August, making plug-in solar legal in the UK. EcoFlow STREAM kits launch in September. No roof needed, no electrician, no landlord sign-off &mdash; just panels on your balcony or garden, plugged into a standard 13A socket.
+          SI 2026 No. 848 came into force this morning, making plug-in solar legal in the UK. EcoFlow STREAM kits are on sale from today at B&Q, Currys, Amazon and Screwfix. No roof needed, no electrician, no landlord sign-off &mdash; just panels on your balcony or garden, plugged into a standard 13A socket.
         </p>
         <a className="fu2" href="https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months" target="_blank" rel="noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: "0.78rem", color: T.solar, fontWeight: 600, textDecoration: "none", marginBottom: 32 }}>
           Read the gov.uk announcement &rarr;
@@ -198,7 +198,7 @@ function Hero({ gridData }) {
         </div>
 
         <div className="fu4" style={{ display: "flex", gap: 24, marginTop: 48, alignItems: "center", flexWrap: "wrap" }}>
-          {["Legal from 27 August 2026", "EcoFlow STREAM kits September 2026", "PVGIS irradiance data", "Live UK grid stats"].map((s, i) => (
+          {["Now legal in the UK", "EcoFlow STREAM kits on sale today", "PVGIS irradiance data", "Live UK grid stats"].map((s, i) => (
             <div key={i} style={{ display: "flex", alignItems: "center", gap: 7, fontSize: "0.78rem", color: T.inkFaint, fontWeight: 400 }}>
               <span style={{ color: T.green, fontSize: "0.85rem" }}>✓</span>{s}
             </div>
@@ -212,7 +212,7 @@ function Hero({ gridData }) {
 // ─── WHY NOW ────────────────────────────────────────────────────────────────
 function WhyNow() {
   const stats = [
-    { num: "27 Aug",   label: "Law takes effect", sub: "SI 2026 No. 848 comes into force · plug-in solar legal in the UK", accent: T.green },
+    { num: "Live",     label: "Legal from today", sub: "SI 2026 No. 848 in force · plug-in solar legal in UK homes as of 27 August 2026", accent: T.green },
     { num: "800W",     label: "UK legal cap",  sub: "Max 800VA / 3.5A via a standard 13A socket · no electrician · no wiring",     accent: T.solar },
     { num: "£200+/yr", label: "Typical saving", sub: "PVGIS-backed estimate · 800W system · Ofgem cap rate (24.5p/kWh)",   accent: T.sky },
   ];
@@ -231,7 +231,7 @@ function WhyNow() {
           ))}
         </div>
         <p style={{ marginTop: 36, fontSize: "0.9rem", color: T.inkMid, lineHeight: 1.8, maxWidth: 640 }}>
-          Germany simplified its plug-in solar rules in 2024 &mdash; within 12 months, over 1.2 million households had a kit. The UK is right behind. On 16 July 2026, DESNZ published the Interim Product Specification v2 and made SI 2026 No. 848, which comes into force on 27 August. EcoFlow STREAM &mdash; the first UK-ready kit &mdash; launches in September, with retailers including B&Q, Currys, Amazon, and Screwfix expected to stock compliant kits. The government has also announced a &pound;25m pilot to fund kits for low-income households.
+          Germany simplified its plug-in solar rules in 2024 &mdash; within 12 months, over 1.2 million households had a kit. The UK has caught up. As of today, 27 August 2026, SI 2026 No. 848 is in force and plug-in solar is legally installable. EcoFlow STREAM kits are on sale from today at B&Q, Currys, Amazon and Screwfix, with Wickes and Lidl following in September. The government&rsquo;s &pound;25m pilot to fund kits for low-income households opens applications this autumn.
         </p>
       </div>
     </section>
@@ -241,9 +241,9 @@ function WhyNow() {
 // ─── FOR WHO ────────────────────────────────────────────────────────────────
 function ForWho() {
   const groups = [
-    { icon: "🏢", title: "Renters",       body: "4.6 million privately rented households in England. Traditional solar needs a landlord, a roof, and £10,000+. Plug-in needs none of those. The Renters' Rights Act 2025 strengthens your position — and you take the kit when you move. Legal from 27 August 2026." },
-    { icon: "🏙️", title: "Flat-dwellers", body: "Clip panels to your balcony railings, plug into a standard 13A socket, start generating. No structural modifications, no planning permission. The Interim Product Specification allows up to 800VA per household via a BS 1363 plug with a 5A fuse." },
-    { icon: "🏡", title: "Homeowners",     body: "Garden, flat-roof extension, or south-facing wall — an 800W kit covers your base load (fridge, router, standby devices) and saves £200+ per year. EcoFlow STREAM kits launch September 2026, with B&Q, Currys, and Amazon expected to stock them." },
+    { icon: "🏢", title: "Renters",       body: "4.6 million privately rented households in England. Traditional solar needs a landlord, a roof, and £10,000+. Plug-in needs none of those. The Renters' Rights Act 2025 strengthens your position — and you take the kit when you move. Legal in the UK as of today." },
+    { icon: "🏙️", title: "Flat-dwellers", body: "Clip panels to your balcony railings, plug into a standard 13A socket, start generating. No structural modifications, no planning permission. The DESNZ Interim Product Specification allows up to 800VA per household via a BS 1363 plug with a 5A fuse." },
+    { icon: "🏡", title: "Homeowners",     body: "Garden, flat-roof extension, or south-facing wall — an 800W kit covers your base load (fridge, router, standby devices) and saves £200+ per year. EcoFlow STREAM kits are on sale from today at B&Q, Currys, Amazon and Screwfix." },
   ];
   return (
     <section className="section-pad" style={{ padding: "80px 20px" }}>
@@ -308,8 +308,8 @@ function CalculatorSection({ gridData }) {
     <section id="calculator" className="section-pad" style={{ padding: "60px 20px 80px" }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Calculator</SectionLabel>
-        <h2 style={{ fontFamily: T.display, fontSize: "2rem", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>Calculate your savings — kits launch September 2026</h2>
-        <p style={{ color: T.inkMid, fontSize: "0.9rem", marginBottom: 40, lineHeight: 1.6 }}>Real PVGIS irradiance for your exact postcode &middot; Live UK grid data &middot; Shareable results link &mdash; plug-in solar is legal from 27 August, with EcoFlow STREAM kits available from September</p>
+        <h2 style={{ fontFamily: T.display, fontSize: "2rem", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>Calculate your savings — kits on sale from today</h2>
+        <p style={{ color: T.inkMid, fontSize: "0.9rem", marginBottom: 40, lineHeight: 1.6 }}>Real PVGIS irradiance for your exact postcode &middot; Live UK grid data &middot; Shareable results link &mdash; plug-in solar is legal in the UK as of today, with EcoFlow STREAM kits stocked at B&Q, Currys, Amazon and Screwfix</p>
         <Calculator gridData={gridData} />
       </div>
     </section>
@@ -537,7 +537,7 @@ function Calculator({ gridData }) {
             {!submitted ? (
               <div style={{ padding: "18px", borderRadius: 10, border: `1.5px solid ${T.solarBorder}`, background: T.solarLight }}>
                 <div style={{ fontFamily: T.display, fontSize: "0.95rem", fontWeight: 700, color: T.ink, marginBottom: 6 }}>Get the full report</div>
-                <p style={{ fontSize: "0.75rem", color: T.inkMid, lineHeight: 1.6, marginBottom: 14 }}>Kit picks &middot; DNO walkthrough &middot; Alert when compliant kits land in UK shops (July 2026).</p>
+                <p style={{ fontSize: "0.75rem", color: T.inkMid, lineHeight: 1.6, marginBottom: 14 }}>Kit picks &middot; G98 DNO walkthrough &middot; Weekly updates as new UKCA-compliant kits reach UK shelves.</p>
                 <div style={{ display: "flex", gap: 8 }}>
                   <input type="email" placeholder="your@email.com" value={email} onChange={e => setEmail(e.target.value)} onKeyDown={e => e.key === "Enter" && email && setSubmitted(true)}
                     style={{ flex: 1, padding: "10px 12px", borderRadius: 8, border: `1px solid ${T.border}`, background: T.surface, color: T.ink, fontSize: "0.85rem", outline: "none", fontFamily: T.body }}
@@ -552,7 +552,7 @@ function Calculator({ gridData }) {
               <div className="fu" style={{ padding: "18px", borderRadius: 10, border: `1px solid ${T.greenBorder}`, background: T.greenLight, textAlign: "center" }}>
                 <div style={{ fontSize: "1.5rem", marginBottom: 8 }}>✅</div>
                 <div style={{ fontFamily: T.display, fontSize: "0.95rem", fontWeight: 700, color: T.ink }}>You&rsquo;re on the list</div>
-                <div style={{ fontSize: "0.75rem", color: T.inkMid, marginTop: 6 }}>We&rsquo;ll alert you when compliant kits hit UK shops.</div>
+                <div style={{ fontSize: "0.75rem", color: T.inkMid, marginTop: 6 }}>We&rsquo;ll send you weekly updates as new UKCA-compliant kits arrive.</div>
               </div>
             )}
           </div>
@@ -565,7 +565,7 @@ function Calculator({ gridData }) {
 // ─── HOW IT WORKS ───────────────────────────────────────────────────────────
 function HowItWorks() {
   const steps = [
-    { n: "01", title: "Buy a compliant kit",         body: "Once the BSI product standard is published (expected July 2026), compliant kits will be available from EcoFlow, Amazon, Lidl, and others. Expect to pay £500–£750 for an 800W system." },
+    { n: "01", title: "Buy a compliant kit",         body: "Compliant kits are on sale from today at B&Q, Currys, Amazon and Screwfix. Expect to pay £600–£900 for an 800W system, with prices likely to fall through 2027 as more brands complete UKCA certification." },
     { n: "02", title: "Install it yourself",          body: "Mount on your balcony rail, flat roof, or garden. South-facing at ~35° is ideal, but east/west works well. No tools, no trades." },
     { n: "03", title: "Plug in and notify your DNO",  body: "Connect the cable to a standard 13A socket. Notify your Distribution Network Operator within 28 days via a simple online form — G98 rules." },
   ];
@@ -708,9 +708,9 @@ const TIMELINE_STEPS = [
   { date: "Apr 2026", label: "BS 7671 Amendment 4 published", detail: "IET updates the wiring regulations to enable plug-in solar connections up to 800W.", done: true },
   { date: "Jun 2026", label: "DESNZ consultation opens", detail: "Government publishes the proposed Interim Product Specification and PSSR amendment. Consultation closed 30 June.", done: true },
   { date: "16 Jul 2026", label: "Government responds — legislation made", detail: "DESNZ publishes Interim Product Specification v2 and makes SI 2026 No. 848, amending the Plugs and Sockets Regulations. The legal term is 'plug-in microgenerator'.", done: true },
-  { date: "27 Aug 2026", label: "Plug-in solar becomes legal", detail: "SI 2026 No. 848 comes into force. Compliant kits can legally be plugged into a standard 13A socket. Specs: 800VA / 3.5A max, BS 1363 plug, 5A fuse, no battery in the plug circuit, no extension leads.", done: false, current: true },
-  { date: "Sep 2026", label: "First compliant kits on sale", detail: "EcoFlow STREAM launches as the first UK-certified plug-in solar kit. Early-bird pre-orders open 12 Aug – 15 Sep. Retailers including B&Q, Currys, Amazon, and Screwfix expected to stock kits.", done: false },
-  { date: "2027+", label: "Mass adoption", detail: "Prices fall as competition grows. BSI publishes the full product standard, replacing the interim spec. £25m government pilot funds kits for low-income households.", done: false },
+  { date: "27 Aug 2026", label: "Plug-in solar became legal", detail: "SI 2026 No. 848 came into force. Compliant kits can now legally be plugged into a standard 13A socket. Specs: 800VA / 3.5A max, BS 1363 plug, 5A fuse, no battery in the plug circuit, no extension leads.", done: true },
+  { date: "Today onwards", label: "Kits on sale in UK shops", detail: "EcoFlow STREAM, Anker SOLIX, Bright Saver and Craftstrom kits are stocked at B&Q, Currys, Amazon and Screwfix from today. Wickes and Lidl to follow in September. Typical street price £600–£900 for a complete 800W kit.", done: false, current: true },
+  { date: "2027+", label: "Mass adoption", detail: "Prices fall as more brands complete UKCA certification. BSI expected to publish the full product standard, replacing the interim spec. £25m government pilot funds kits for low-income households.", done: false },
 ];
 
 function Timeline() {
@@ -722,7 +722,7 @@ function Timeline() {
           UK plug-in solar legal status
         </h2>
         <p style={{ color: T.inkMid, fontSize: "0.9rem", marginBottom: 40, lineHeight: 1.6 }}>
-          Where we are in the journey from announcement to available kits.
+          Plug-in solar became legal in the UK today, 27 August 2026. Here&rsquo;s how we got here and what happens next.
         </p>
 
         <div style={{ position: "relative", paddingLeft: 28 }}>
