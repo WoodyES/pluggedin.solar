@@ -24,7 +24,7 @@ The rollout has been staged deliberately by retailers to align with today's date
 - **B&Q** has opened its plug-in solar category page listing four UK-compliant kits, with in-store stock at 240+ larger stores. The [retailer stocking guide](/blog/retailers-stocking-plug-in-solar-uk-2026) has the current list.
 - **Currys** flipped its online listings to "available for delivery" for EcoFlow, Anker SOLIX and Bright Saver kits at 07:00.
 - **Screwfix** started taking trade-account orders yesterday afternoon for click-and-collect from today.
-- **Amazon UK** listings have gone live for EcoFlow's [STREAM 800W Garden Ground Kit](/blog/ecoflow-stream-uk-launch-september-2026), the [STREAM Balcony](/blog/ecoflow-stream-review-uk) system, and the higher-end [STREAM Ultra Pro](/blog/ecoflow-stream-800w-vs-stream-ultra-uk) with battery pairing.
+- **Amazon UK** listings have gone live for EcoFlow's [STREAM 800W Garden Ground Kit](/blog/ecoflow-stream-uk-launch-september-2026), the [STREAM Balcony](/blog/ecoflow-stream-review-uk) system, and the higher-end [STREAM Ultra Pro](/blog/ecoflow-stream-800w-vs-stream-ultra-uk) with battery pairing. Direct Amazon UK searches: [EcoFlow STREAM 800W](https://www.amazon.co.uk/s?k=ecoflow+stream+800w&tag=pluggedinsola-21), [STREAM Balcony](https://www.amazon.co.uk/s?k=ecoflow+stream+balcony&tag=pluggedinsola-21), [STREAM Ultra Pro](https://www.amazon.co.uk/s?k=ecoflow+stream+ultra+pro&tag=pluggedinsola-21).
 - **Wickes** and **Lidl** are following in September; Lidl's rumoured budget SKU is expected around £399 but not yet confirmed.
 
 The [EcoFlow UK launch](/blog/ecoflow-stream-uk-launch-september-2026) piece has the fuller retail timeline. The short version: today is genuine day one, not a soft launch — you can walk into a B&Q this afternoon, put an 800W kit in a trolley, drive home and be generating solar this weekend.
@@ -39,7 +39,7 @@ If you have been waiting for legalisation before you commit, here is the honest 
 
 **This weekend.** Physical install. On a compliant kit this is one to two hours with a screwdriver and a Phillips-head. See [how to install plug-in solar](/blog/how-to-install-plug-in-solar-uk) for the step-by-step and [first-week setup](/blog/plug-in-solar-first-week-setup-guide-uk) for what to expect once it is running.
 
-**Week two onwards.** Start monitoring. A [TP-Link Tapo P110 smart plug](/blog/tapo-p110-solar-monitoring-review-uk) between inverter and wall socket gives you socket-level truth about how much you are actually generating, independent of the manufacturer's app. Follow the [monthly performance guide](/blog/plug-in-solar-uk-monthly-performance-guide) to sanity-check against the seasonal curve.
+**Week two onwards.** Start monitoring. A [TP-Link Tapo P110 smart plug](https://amzn.to/4m9Yh9U) (~£15 on Amazon UK) between inverter and wall socket gives you socket-level truth about how much you are actually generating, independent of the manufacturer's app — see the [Tapo P110 review](/blog/tapo-p110-solar-monitoring-review-uk). Follow the [monthly performance guide](/blog/plug-in-solar-uk-monthly-performance-guide) to sanity-check against the seasonal curve. Other Amazon UK accessories worth budgeting for: a [Renogy adjustable tilt mount](https://amzn.to/4maeAng) (~£45) and [IP68 cable glands](https://amzn.to/4dB57TY) for weatherproof cable runs.
 
 <div class="product-card featured">
 <div class="pc-accent"></div>
@@ -86,7 +86,7 @@ Yes. From 27 August 2026, SI 2026/848 makes plug-in microgenerators up to 800VA 
 
 ### What can I buy in UK shops today?
 
-B&Q, Currys, Amazon UK and Screwfix all have UK-compliant plug-in solar kits available for delivery or collection from today. Wickes and Lidl follow in September. EcoFlow, Anker SOLIX, Bright Saver and Craftstrom are the four main brands with UKCA-certified kits in the UK market on launch day, with prices ranging from around £500 for a Bright Saver 400W entry unit up to £1,499 for the EcoFlow STREAM Ultra Pro with battery.
+B&Q, Currys, [Amazon UK](https://www.amazon.co.uk/s?k=plug+in+solar+kit&tag=pluggedinsola-21) and Screwfix all have UK-compliant plug-in solar kits available for delivery or collection from today. Wickes and Lidl follow in September. EcoFlow, [Anker SOLIX](https://www.amazon.co.uk/s?k=anker+solix&tag=pluggedinsola-21), Bright Saver and Craftstrom are the four main brands with UKCA-certified kits in the UK market on launch day, with prices ranging from around £500 for a Bright Saver 400W entry unit up to £1,499 for the EcoFlow STREAM Ultra Pro with battery.
 
 ### Do I still need to tell my DNO if I install today?
 
