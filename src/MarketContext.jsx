@@ -33,44 +33,39 @@ const MarketContext = createContext({
 });
 
 export function MarketProvider({ children }) {
-  // Synchronous initial pick order:
-  //   1. localStorage user override (highest)
-  //   2. pin-market cookie set by /api/geo on a previous visit (zero-flicker for repeats)
-  //   3. UK default (for the very first visit — corrected by /api/geo below if wrong)
-  const initialMarket = (() => {
-    if (typeof window === "undefined") return DEFAULT_MARKET;
-    try {
-      const stored = localStorage.getItem(STORAGE_KEY);
-      if (stored && MARKETS[stored]) return stored;
-    } catch (_) {}
-    const cookie = readCookieMarket();
-    if (cookie && MARKETS[cookie]) return cookie;
-    return DEFAULT_MARKET;
-  })();
-
-  const [market, setMarketState] = useState(initialMarket);
+  // IMPORTANT: initial state must match SSG output (which always renders UK).
+  // Reading localStorage/cookies at first render breaks hydration and kills
+  // event handlers site-wide. All detection happens post-mount below.
+  const [market, setMarketState] = useState(DEFAULT_MARKET);
   const [detected, setDetected] = useState(null);
-  const [userOverride, setUserOverride] = useState(() => {
-    if (typeof window === "undefined") return false;
-    try { return !!localStorage.getItem(STORAGE_KEY); } catch (_) { return false; }
-  });
+  const [userOverride, setUserOverride] = useState(false);
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
-    // Fetch /api/geo to (a) refresh detection, (b) set the pin-market cookie
-    // for next visit, and (c) correct our optimistic default if it was wrong.
+    // Post-hydration: pick market in priority order — user override > cookie > /api/geo.
+    let stored = null;
+    try { stored = localStorage.getItem(STORAGE_KEY); } catch (_) {}
+    if (stored && MARKETS[stored]) {
+      setMarketState(stored);
+      setUserOverride(true);
+      setReady(true);
+      // Background: refresh detection for the "your detected market differs" hint,
+      // but never overwrite the user's explicit choice.
+      fetch("/api/geo").then(r => r.json()).then(d => setDetected(d)).catch(() => {});
+      return;
+    }
+    const cookie = readCookieMarket();
+    if (cookie && MARKETS[cookie]) {
+      setMarketState(cookie);
+    }
     fetch("/api/geo")
       .then(r => r.ok ? r.json() : Promise.reject())
       .then(d => {
         setDetected(d);
-        // Only overwrite if the user hasn't picked something manually already
-        if (!userOverride && d.market && MARKETS[d.market] && d.market !== market) {
-          setMarketState(d.market);
-        }
+        if (d.market && MARKETS[d.market]) setMarketState(d.market);
       })
-      .catch(() => { /* silent — stay on current choice */ })
+      .catch(() => { /* silent — stay on cookie or default */ })
       .finally(() => setReady(true));
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const setMarket = useCallback((next) => {
