@@ -107,3 +107,17 @@ This grassroots momentum is powerful. It explains why the legislature is moving 
 5. Once legislation passes and products arrive (expected late 2026), we'll have detailed reviews of options available in New York.
 
 New York is on the cusp of a renewable energy revolution for renters. The state's high electricity rates make plug-in solar financially viable. The pending legislation will make it legally protected. The combination will transform solar access in America's most densely populated state.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Amazon US pick</div>
+<div class="pc-name"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Portable balcony solar kits on Amazon US</a></div>
+<div class="pc-price">From ~$200</div>
+<ul class="pc-features">
+<li>Foldable and rigid options that clip to a balcony rail — no landlord permission needed</li>
+<li>Pair with a UL-listed portable power station for evening use</li>
+<li>Sub-800W setups sit inside most utility notification thresholds</li>
+</ul>
+<div class="pc-cta"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Browse on Amazon &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a small commission at no cost to you.</div>
+</div>

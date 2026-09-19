@@ -111,3 +111,17 @@ Spring and fall offer excellent generation periods. Even winter generates electr
 6. Research your location's cloud cover and sun exposure. Even in cloud-prone Jersey, a sunny balcony can generate meaningful electricity.
 
 New Jersey is poised for rapid plug-in solar adoption once legislation passes. High electricity rates, dense housing, excellent net metering, and SREC credits all favor plug-in solar. By late 2026, New Jersey renters and apartment dwellers should have clear legal status and multiple product options.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Amazon US pick</div>
+<div class="pc-name"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Portable balcony solar kits on Amazon US</a></div>
+<div class="pc-price">From ~$200</div>
+<ul class="pc-features">
+<li>Foldable and rigid options that clip to a balcony rail — no landlord permission needed</li>
+<li>Pair with a UL-listed portable power station for evening use</li>
+<li>Sub-800W setups sit inside most utility notification thresholds</li>
+</ul>
+<div class="pc-cta"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Browse on Amazon &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a small commission at no cost to you.</div>
+</div>

@@ -119,3 +119,17 @@ But rooftop solar is not an option for renters. It's not great for people with s
 Plug-in solar is simpler, more flexible, more portable, and way cheaper to try. It's perfect for renters, apartments, testing the waters, and supplementing rooftop generation. It's not a complete replacement for rooftop if you have the option to go big, but it's often overlooked by people who think they have to choose one or the other.
 
 The best question to ask yourself isn't "Which one should I choose?" but "What does my specific situation actually need?" For many people, the answer is plug-in solar, either now or as a complement to rooftop later. And that's a conversation worth having.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Amazon US pick</div>
+<div class="pc-name"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Portable balcony solar kits on Amazon US</a></div>
+<div class="pc-price">From ~$200</div>
+<ul class="pc-features">
+<li>Foldable and rigid options that clip to a balcony rail — no landlord permission needed</li>
+<li>Pair with a UL-listed portable power station for evening use</li>
+<li>Sub-800W setups sit inside most utility notification thresholds</li>
+</ul>
+<div class="pc-cta"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Browse on Amazon &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a small commission at no cost to you.</div>
+</div>

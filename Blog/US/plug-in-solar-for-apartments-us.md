@@ -297,3 +297,16 @@ Ask permission (it's polite and protective), start small if you're uncertain, an
 
 Ready to get started? See [balcony installation details](/us/blog/balcony-solar-installation-guide-us) or [system sizing](/us/blog/400w-vs-800w-vs-1200w-plug-in-solar).
 
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Amazon US pick</div>
+<div class="pc-name"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Portable balcony solar kits on Amazon US</a></div>
+<div class="pc-price">From ~$200</div>
+<ul class="pc-features">
+<li>Foldable and rigid options that clip to a balcony rail — no landlord permission needed</li>
+<li>Pair with a UL-listed portable power station for evening use</li>
+<li>Sub-800W setups sit inside most utility notification thresholds</li>
+</ul>
+<div class="pc-cta"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Browse on Amazon &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a small commission at no cost to you.</div>
+</div>

@@ -134,3 +134,17 @@ Once SB 868 is signed (expected very soon), check back for our updated Californi
 For now, read our [complete plug-in solar guide](/us/blog/plug-in-solar-us-complete-guide) to understand the basics. Check our [HOA guide](/us/blog/plug-in-solar-and-your-hoa) for specific strategies. And for renters, see our [renter-focused guide](/us/blog/plug-in-solar-for-renters-us).
 
 California's moment is here. Balcony solar is about to be legal, accessible, and mainstream.
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Amazon US pick</div>
+<div class="pc-name"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Portable balcony solar kits on Amazon US</a></div>
+<div class="pc-price">From ~$200</div>
+<ul class="pc-features">
+<li>Foldable and rigid options that clip to a balcony rail — no landlord permission needed</li>
+<li>Pair with a UL-listed portable power station for evening use</li>
+<li>Sub-800W setups sit inside most utility notification thresholds</li>
+</ul>
+<div class="pc-cta"><a href="https://www.amazon.com/s?k=balcony+solar+panel+kit&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Browse on Amazon &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a small commission at no cost to you.</div>
+</div>

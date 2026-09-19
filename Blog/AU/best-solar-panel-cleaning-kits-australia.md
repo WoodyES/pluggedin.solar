@@ -132,3 +132,17 @@ The ~$100 kit investment is worthwhile if you're planning to maintain panels you
 [Understand maintenance schedules](/au/blog/solar-panel-maintenance-australia)
 
 [Explore when professional cleaning makes sense](/au/blog/best-energy-monitors-solar-australia)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Amazon AU pick</div>
+<div class="pc-name"><a href="https://www.amazon.com.au/s?k=400w+solar+panel+monocrystalline&tag=pluggedinsola-22" target="_blank" rel="noopener noreferrer sponsored">Rigid and portable solar panels on Amazon AU</a></div>
+<div class="pc-price">From ~$149</div>
+<ul class="pc-features">
+<li>Monocrystalline panels with high efficiency (21%+) at typical Tier-1 prices</li>
+<li>MC4 connectors pre-attached for plug-and-play kit builds</li>
+<li>Fast shipping from AU warehouses</li>
+</ul>
+<div class="pc-cta"><a href="https://www.amazon.com.au/s?k=400w+solar+panel+monocrystalline&tag=pluggedinsola-22" target="_blank" rel="noopener noreferrer sponsored">Browse on Amazon &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a small commission at no cost to you.</div>
+</div>

@@ -166,3 +166,17 @@ Workshop environments can be harsh on equipment. A covered storage area for pane
 ---
 
 **Related:** [Best portable power stations](/us/blog/best-portable-power-stations-us), [how to install plug-in solar](/us/blog/how-to-install-plug-in-solar-us).
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Amazon US pick</div>
+<div class="pc-name"><a href="https://www.amazon.com/s?k=portable+power+station+lifepo4&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Portable power stations on Amazon US</a></div>
+<div class="pc-price">From ~$399</div>
+<ul class="pc-features">
+<li>LiFePO4 chemistry with 3,000+ cycle life — outlasts NMC by 2-3×</li>
+<li>Solar input via MC4 for direct panel charging</li>
+<li>UL 1741 grid-safety and pure sine wave AC output</li>
+</ul>
+<div class="pc-cta"><a href="https://www.amazon.com/s?k=portable+power+station+lifepo4&tag=pluggedinsola-20" target="_blank" rel="noopener noreferrer sponsored">Browse on Amazon &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a small commission at no cost to you.</div>
+</div>

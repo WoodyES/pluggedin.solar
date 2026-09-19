@@ -4,6 +4,8 @@ import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
 import SEO from "../components/SEO";
 import GridDataContext from "../GridDataContext";
+import { useMarket } from "../MarketContext";
+import { MARKET_CALC, geocodeForMarket } from "../calc/marketCalc";
 
 // ─── DATA ───────────────────────────────────────────────────────────────────
 const PLACEMENTS = [
@@ -15,23 +17,12 @@ const PLACEMENTS = [
 const PANEL_SIZES = [
   { watts: 400, kWp: 0.4, label: "400W", cost: 450, panels: "1 panel", desc: "Good for small balconies or limited space" },
   { watts: 600, kWp: 0.6, label: "600W", cost: 600, panels: "2 panels", desc: "Mid-size — popular in Europe" },
-  { watts: 800, kWp: 0.8, label: "800W", cost: 750, panels: "2 panels", max: true, desc: "UK maximum — best value per watt" },
+  { watts: 800, kWp: 0.8, label: "800W", cost: 750, panels: "2 panels", max: true, desc: "Best value per watt" },
 ];
 const PRESENCE = [
   { id: "home",  label: "Mostly home", sc: 0.75, icon: "🏠", desc: "Working from home, retired, or home during daylight hours" },
   { id: "mixed", label: "In and out",  sc: 0.55, icon: "🔄", desc: "Some days home, some days out — typical for most households" },
   { id: "out",   label: "Mostly out",  sc: 0.35, icon: "💼", desc: "At work 9–5 — appliances run but you're not actively using power" },
-];
-const SUPPLIERS = [
-  { id: "ofgem",  label: "Ofgem cap (default)", rate: 24.50 },
-  { id: "oe",     label: "Octopus Flexible",    rate: 24.50 },
-  { id: "agile",  label: "Octopus Agile ⚡",    rate: null },
-  { id: "bg",     label: "British Gas",          rate: 24.50 },
-  { id: "edf",    label: "EDF Energy",           rate: 24.50 },
-  { id: "eon",    label: "E.ON Next",            rate: 24.50 },
-  { id: "sp",     label: "ScottishPower",        rate: 24.50 },
-  { id: "ovo",    label: "Ovo Energy",           rate: 24.50 },
-  { id: "manual", label: "Enter manually",       rate: null },
 ];
 
 const TOTAL_STEPS = 5;
@@ -41,22 +32,31 @@ function encodeCalcState(s) {
   const p = new URLSearchParams({ pc: s.postcode, w: s.watts, pl: s.placementId, pr: s.presenceId, t: s.tariff.toFixed(2), su: s.supplierId });
   return `${window.location.origin}/calculator?${p}`;
 }
-function decodeCalcState() {
-  if (typeof window === "undefined") return { postcode: "", watts: 800, placementId: "garden", presenceId: "mixed", tariff: 24.50, supplierId: "ofgem" };
+function decodeCalcState(cfg) {
+  if (typeof window === "undefined") return { postcode: "", watts: 800, placementId: "garden", presenceId: "mixed", tariff: cfg.tariffDefault, supplierId: cfg.suppliers[0].id };
   const p = new URLSearchParams(window.location.search);
-  return { postcode: p.get("pc") || "", watts: parseInt(p.get("w")) || 800, placementId: p.get("pl") || "garden", presenceId: p.get("pr") || "mixed", tariff: parseFloat(p.get("t")) || 24.50, supplierId: p.get("su") || "ofgem" };
+  return {
+    postcode: p.get("pc") || "",
+    watts: parseInt(p.get("w")) || 800,
+    placementId: p.get("pl") || "garden",
+    presenceId: p.get("pr") || "mixed",
+    tariff: parseFloat(p.get("t")) || cfg.tariffDefault,
+    supplierId: p.get("su") || cfg.suppliers[0].id,
+  };
 }
 
 // ─── PAGE ───────────────────────────────────────────────────────────────────
 export default function CalculatorPage() {
   const gridData = useContext(GridDataContext);
-  const init = decodeCalcState();
+  const { market } = useMarket();
+  const cfg = MARKET_CALC[market] || MARKET_CALC.uk;
+  const init = decodeCalcState(cfg);
 
   // If URL has full state (postcode + other params), skip straight to results
   // If URL has only a postcode (from homepage mini-calc), skip to step 2
   const p = typeof window !== "undefined" ? new URLSearchParams(window.location.search) : new URLSearchParams();
-  const hasFullParams = init.postcode.length >= 4 && p.has("w");
-  const hasPostcodeOnly = init.postcode.length >= 4 && !p.has("w");
+  const hasFullParams = init.postcode.length >= 3 && p.has("w");
+  const hasPostcodeOnly = init.postcode.length >= 3 && !p.has("w");
 
   const [step, setStep] = useState(hasFullParams ? TOTAL_STEPS + 1 : hasPostcodeOnly ? 2 : 1);
   const [postcodeInput, setPostcodeInput] = useState(init.postcode);
@@ -68,12 +68,24 @@ export default function CalculatorPage() {
   const [panelSize, setPanelSize] = useState(PANEL_SIZES.find(p => p.watts === init.watts) || PANEL_SIZES[2]);
   const [placement, setPlacement] = useState(PLACEMENTS.find(p => p.id === init.placementId) || PLACEMENTS[0]);
   const [presence, setPresence] = useState(PRESENCE.find(p => p.id === init.presenceId) || PRESENCE[1]);
-  const [supplier, setSupplier] = useState(SUPPLIERS.find(s => s.id === init.supplierId) || SUPPLIERS[0]);
+  const [supplier, setSupplier] = useState(cfg.suppliers.find(s => s.id === init.supplierId) || cfg.suppliers[0]);
   const [tariff, setTariff] = useState(init.tariff);
   const [email, setEmail] = useState("");
   const [emailStatus, setEmailStatus] = useState("idle");
   const [copied, setCopied] = useState(false);
   const [showYearly, setShowYearly] = useState(true);
+
+  // If user switches market mid-flow, reset to the new market's defaults
+  useEffect(() => {
+    setSupplier(cfg.suppliers[0]);
+    setTariff(cfg.tariffDefault);
+    setLocation(null);
+    setPvgisKwh(null);
+    setMonthlyKwh(null);
+    setPostcodeInput("");
+    setPvgisError(null);
+    setStep(1);
+  }, [market]);
 
   useEffect(() => { if (hasFullParams || hasPostcodeOnly) geocodeAndFetch(init.postcode); }, []);
   useEffect(() => {
@@ -81,17 +93,15 @@ export default function CalculatorPage() {
   }, [panelSize, placement]);
 
   async function geocodeAndFetch(pc) {
-    const clean = pc.replace(/\s/g, "").toUpperCase();
-    if (clean.length < 4) return;
+    if (!pc || pc.replace(/\s/g, "").length < 3) return;
     setPvgisError(null);
     try {
-      const r = await fetch(`https://api.postcodes.io/postcodes/${clean}`);
-      const j = await r.json();
-      if (j.status !== 200) { setPvgisError("Postcode not found — please check it."); return; }
-      const { latitude: lat, longitude: lon, admin_district } = j.result;
-      setLocation({ lat, lon, area: admin_district || clean });
-      fetchPVGIS(lat, lon, panelSize.kWp, placement.angle, placement.aspect);
-    } catch (_) { setPvgisError("Could not look up postcode. Check your connection."); }
+      const loc = await geocodeForMarket(market, pc);
+      setLocation(loc);
+      fetchPVGIS(loc.lat, loc.lon, panelSize.kWp, placement.angle, placement.aspect);
+    } catch (_) {
+      setPvgisError(`${cfg.postcodeName} not found — please check it.`);
+    }
   }
 
   async function fetchPVGIS(lat, lon, kWp, angle, aspect) {
@@ -107,10 +117,16 @@ export default function CalculatorPage() {
         else setMonthlyKwh(null);
       } else throw 0;
     } catch (_) {
-      const n = Math.max(0, Math.min(1, (58 - lat) / 8));
+      // Fallback: rough insolation estimate from absolute latitude.
+      // Works for both hemispheres (US ~35°N, AU ~35°S both give reasonable ~1100 kWh/kWp).
+      const absLat = Math.abs(lat);
+      const n = Math.max(0, Math.min(1, (58 - absLat) / 8));
       const annual = kWp * (870 + n * 180) * (aspect !== 0 ? 0.82 : (angle >= 80 ? 0.78 : 1.0));
       setPvgisKwh(annual);
-      const dist = [0.04, 0.05, 0.08, 0.10, 0.12, 0.13, 0.13, 0.12, 0.09, 0.07, 0.04, 0.03];
+      // Southern hemisphere: flip the monthly seasonal distribution
+      const dist = lat < 0
+        ? [0.13, 0.12, 0.09, 0.07, 0.04, 0.03, 0.04, 0.05, 0.08, 0.10, 0.12, 0.13]
+        : [0.04, 0.05, 0.08, 0.10, 0.12, 0.13, 0.13, 0.12, 0.09, 0.07, 0.04, 0.03];
       setMonthlyKwh(dist.map(d => annual * d));
       setPvgisError("Latitude estimate used — PVGIS temporarily unavailable.");
     } finally { setPvgisLoading(false); }
@@ -144,10 +160,10 @@ export default function CalculatorPage() {
   const lifetime = annualSaving * 15 - panelSize.cost;
   const co2Kg = selfConsumed * 0.207;
   const showResults = step > TOTAL_STEPS && annualGen > 0;
-  const tariffPct = ((tariff - 10) / 40) * 100;
+  const tariffPct = ((tariff - cfg.tariffMin) / (cfg.tariffMax - cfg.tariffMin)) * 100;
 
   // Can advance from current step?
-  const canNext = step === 1 ? postcodeInput.replace(/\s/g, "").length >= 4
+  const canNext = step === 1 ? postcodeInput.replace(/\s/g, "").length >= 3
     : step <= TOTAL_STEPS;
 
   return (
@@ -164,7 +180,7 @@ export default function CalculatorPage() {
         </h1>
         <p style={{ color: T.inkMid, fontSize: "0.95rem", marginBottom: 36, lineHeight: 1.6 }}>
           {showResults
-            ? `Based on real PVGIS data for ${location?.area || "your postcode"}`
+            ? `Based on real PVGIS data for ${location?.area || `your ${cfg.postcodeName}`}`
             : "Answer 5 quick questions to get a personalised savings estimate"}
         </p>
 
@@ -185,10 +201,10 @@ export default function CalculatorPage() {
           <StepCard>
             <StepHeader num={1} title="Where are your panels going?" />
             <p style={{ fontSize: "0.85rem", color: T.inkMid, marginBottom: 20, lineHeight: 1.6 }}>
-              We use your postcode to get real solar irradiance data from the EU&rsquo;s PVGIS satellite system.
+              {cfg.stepIntroPostcode}
             </p>
             <div style={{ display: "flex", gap: 8, marginBottom: 8 }}>
-              <input type="text" placeholder="e.g. BN1 1AA" value={postcodeInput}
+              <input type="text" placeholder={cfg.postcodePlaceholder} value={postcodeInput}
                 onChange={e => setPostcodeInput(e.target.value.toUpperCase())}
                 onKeyDown={e => e.key === "Enter" && canNext && goNext()}
                 autoFocus
@@ -235,12 +251,12 @@ export default function CalculatorPage() {
         {/* ─── STEP 4: SUPPLIER ─── */}
         {step === 4 && (
           <StepCard>
-            <StepHeader num={4} title="Who is your energy supplier?" />
+            <StepHeader num={4} title={market === "uk" ? "Who is your energy supplier?" : "What's your electricity rate?"} />
             <p style={{ fontSize: "0.85rem", color: T.inkMid, marginBottom: 20, lineHeight: 1.6 }}>
-              Your tariff determines how much each kWh of solar saves you. All major suppliers are currently at the Ofgem cap.
+              {cfg.stepIntroSupplier}
             </p>
             <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 8 }}>
-              {SUPPLIERS.map(s => (
+              {cfg.suppliers.map(s => (
                 <button key={s.id} onClick={() => pickSupplier(s)}
                   style={{
                     padding: "12px 14px", borderRadius: 10, textAlign: "left",
@@ -257,14 +273,14 @@ export default function CalculatorPage() {
             {supplier.id === "manual" && (
               <div style={{ marginTop: 16 }}>
                 <div style={{ display: "flex", alignItems: "center", gap: 14, marginBottom: 4 }}>
-                  <input type="range" min="10" max="50" step="0.5" value={tariff}
+                  <input type="range" min={cfg.tariffMin} max={cfg.tariffMax} step="0.5" value={tariff}
                     onChange={e => setTariff(parseFloat(e.target.value))}
                     style={{ flex: 1, background: `linear-gradient(to right,${T.solar} 0%,${T.solar} ${tariffPct}%,${T.border} ${tariffPct}%,${T.border} 100%)`, height: 4, borderRadius: 2, outline: "none" }}
                   />
-                  <span style={{ fontFamily: T.display, fontSize: "1.3rem", fontWeight: 800, color: T.solar, minWidth: 54, textAlign: "right" }}>{tariff.toFixed(1)}p</span>
+                  <span style={{ fontFamily: T.display, fontSize: "1.3rem", fontWeight: 800, color: T.solar, minWidth: 54, textAlign: "right" }}>{tariff.toFixed(1)}{cfg.subUnit}</span>
                 </div>
                 <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.68rem", color: T.inkFaint }}>
-                  <span>10p</span><span>50p/kWh</span>
+                  <span>{cfg.tariffMin}{cfg.subUnit}</span><span>{cfg.tariffMax}{cfg.subUnit}/kWh</span>
                 </div>
               </div>
             )}
@@ -276,7 +292,7 @@ export default function CalculatorPage() {
           <StepCard>
             <StepHeader num={5} title="What system size?" />
             <p style={{ fontSize: "0.85rem", color: T.inkMid, marginBottom: 20, lineHeight: 1.6 }}>
-              The UK regulatory cap is 800W. Bigger systems generate more but cost more upfront.
+              {cfg.stepIntroSize}
             </p>
             <div style={{ display: "grid", gap: 10 }}>
               {PANEL_SIZES.map(p => (
@@ -299,10 +315,10 @@ export default function CalculatorPage() {
                   <div style={{ flex: 1 }}>
                     <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
                       <span style={{ fontFamily: T.display, fontWeight: 700, fontSize: "0.95rem", color: panelSize.watts === p.watts ? T.solar : T.ink }}>{p.panels}</span>
-                      {p.max && <span style={{ fontSize: "0.55rem", padding: "2px 6px", borderRadius: 3, background: `${T.solar}20`, color: T.solar, fontWeight: 700 }}>UK MAX</span>}
+                      {p.max && market === "uk" && <span style={{ fontSize: "0.55rem", padding: "2px 6px", borderRadius: 3, background: `${T.solar}20`, color: T.solar, fontWeight: 700 }}>UK MAX</span>}
                     </div>
                     <div style={{ fontSize: "0.75rem", color: T.inkMid, marginTop: 2 }}>{p.desc}</div>
-                    <div style={{ fontSize: "0.72rem", color: T.inkFaint, marginTop: 2 }}>~&pound;{p.cost} estimated kit cost</div>
+                    <div style={{ fontSize: "0.72rem", color: T.inkFaint, marginTop: 2 }}>~{cfg.currency}{p.cost} estimated kit cost</div>
                   </div>
                 </button>
               ))}
@@ -366,31 +382,31 @@ export default function CalculatorPage() {
               const period = showYearly ? "year" : "month";
               return (
                 <div className="rcards" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
-                  <RCard label={`Generation / ${period}`} value={`${gen.toFixed(0)} kWh`} sub="PVGIS · your postcode" hi />
-                  <RCard label={`Saving / ${period}`} value={`£${sav.toFixed(sav < 10 ? 2 : 0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
+                  <RCard label={`Generation / ${period}`} value={`${gen.toFixed(0)} kWh`} sub={`PVGIS · your ${cfg.postcodeName}`} hi />
+                  <RCard label={`Saving / ${period}`} value={`${cfg.currency}${sav.toFixed(sav < 10 ? 2 : 0)}`} sub={`at ${tariff.toFixed(1)}${cfg.subUnit}/kWh`} hi />
                   <RCard label="Payback period" value={`${payback.toFixed(1)} yrs`} />
-                  <RCard label="CO₂ offset / yr" value={`${co2Kg.toFixed(0)} kg`} sub="207g/kWh · DESNZ" />
+                  <RCard label="CO₂ offset / yr" value={`${co2Kg.toFixed(0)} kg`} sub={market === "uk" ? "207g/kWh · DESNZ" : "estimated grid intensity"} />
                 </div>
               );
             })()}
 
             {/* Context cards */}
-            <ContextCards annualSaving={annualSaving} selfConsumed={selfConsumed} showYearly={showYearly} />
+            <ContextCards annualSaving={annualSaving} selfConsumed={selfConsumed} showYearly={showYearly} cfg={cfg} />
 
             {/* Seasonal savings graph */}
-            {monthlyKwh && <SavingsGraph monthlyKwh={monthlyKwh} selfConsumption={presence.sc} tariff={tariff} />}
+            {monthlyKwh && <SavingsGraph monthlyKwh={monthlyKwh} selfConsumption={presence.sc} tariff={tariff} currency={cfg.currency} />}
 
             {/* 15-year net saving */}
             <div style={{ padding: "20px", borderRadius: 12, background: lifetime > 0 ? T.greenLight : T.redLight, border: `1.5px solid ${lifetime > 0 ? T.greenBorder : "rgba(220,38,38,0.18)"}`, textAlign: "center", marginBottom: 16 }}>
-              <div style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint, marginBottom: 10 }}>15-year net saving after &pound;{panelSize.cost} system cost</div>
+              <div style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint, marginBottom: 10 }}>15-year net saving after {cfg.currency}{panelSize.cost} system cost</div>
               <div style={{ fontFamily: T.display, fontSize: "3rem", fontWeight: 800, color: lifetime > 0 ? T.green : T.red, lineHeight: 1, letterSpacing: "-0.03em" }}>
-                {lifetime >= 0 ? "+" : ""}&pound;{Math.abs(lifetime).toFixed(0)}
+                {lifetime >= 0 ? "+" : ""}{cfg.currency}{Math.abs(lifetime).toFixed(0)}
               </div>
-              <div style={{ fontSize: "0.72rem", color: T.inkFaint, marginTop: 8 }}>Based on constant {tariff.toFixed(1)}p tariff</div>
+              <div style={{ fontSize: "0.72rem", color: T.inkFaint, marginTop: 8 }}>Based on constant {tariff.toFixed(1)}{cfg.subUnit} tariff</div>
             </div>
 
-            {/* Live grid */}
-            {gridData && (
+            {/* Live grid (UK-only for now — US/AU need EIA/OpenNEM keys) */}
+            {gridData && market === "uk" && (
               <div style={{ padding: "14px 16px", borderRadius: 10, border: `1px solid ${T.border}`, background: T.bg, marginBottom: 16 }}>
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 8 }}>
                   <span style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint }}>UK grid right now</span>
@@ -503,7 +519,6 @@ function OptionCard({ active, onClick, icon, label, desc }) {
 }
 
 // ─── CONTEXT CARDS ─────────────────────────────────────────────────────────
-const AVG_UK_BILL = 1568;
 const APPLIANCES = [
   { name: "washing machine loads", kwh: 1.2 },
   { name: "laptop charges", kwh: 0.05 },
@@ -511,8 +526,8 @@ const APPLIANCES = [
   { name: "kettle boils", kwh: 0.1 },
 ];
 
-function ContextCards({ annualSaving, selfConsumed, showYearly }) {
-  const billPct = ((annualSaving / AVG_UK_BILL) * 100).toFixed(0);
+function ContextCards({ annualSaving, selfConsumed, showYearly, cfg }) {
+  const billPct = ((annualSaving / cfg.avgBill) * 100).toFixed(0);
   const kwhUsed = showYearly ? selfConsumed : selfConsumed / 12;
   const best = APPLIANCES.map(a => ({ ...a, count: Math.round(kwhUsed / a.kwh) }))
     .find(a => a.count >= 5 && a.count <= 999) || { name: "kettle boils", count: Math.round(kwhUsed / 0.1) };
@@ -523,7 +538,7 @@ function ContextCards({ annualSaving, selfConsumed, showYearly }) {
       <div style={{ padding: "12px 14px", borderRadius: 10, border: `1px solid ${T.border}`, background: T.bg }}>
         <div style={{ fontSize: "0.68rem", color: T.inkFaint, marginBottom: 4 }}>That&rsquo;s roughly</div>
         <div style={{ fontFamily: T.display, fontSize: "1.2rem", fontWeight: 800, color: T.ink }}>{billPct}%</div>
-        <div style={{ fontSize: "0.68rem", color: T.inkMid }}>of the avg UK electricity bill</div>
+        <div style={{ fontSize: "0.68rem", color: T.inkMid }}>of the {cfg.avgBillLabel}</div>
       </div>
       <div style={{ padding: "12px 14px", borderRadius: 10, border: `1px solid ${T.border}`, background: T.bg }}>
         <div style={{ fontSize: "0.68rem", color: T.inkFaint, marginBottom: 4 }}>Equivalent to</div>
@@ -537,7 +552,7 @@ function ContextCards({ annualSaving, selfConsumed, showYearly }) {
 // ─── SAVINGS GRAPH ─────────────────────────────────────────────────────────
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-function SavingsGraph({ monthlyKwh, selfConsumption, tariff }) {
+function SavingsGraph({ monthlyKwh, selfConsumption, tariff, currency = "£" }) {
   const monthlySavings = monthlyKwh.map(kwh => (kwh * selfConsumption * tariff) / 100);
   const maxSaving = Math.max(...monthlySavings);
   const W = 400, H = 180, PAD_L = 38, PAD_R = 10, PAD_T = 10, PAD_B = 28;
@@ -559,7 +574,7 @@ function SavingsGraph({ monthlyKwh, selfConsumption, tariff }) {
           return (
             <g key={t}>
               <line x1={PAD_L} y1={y} x2={W - PAD_R} y2={y} stroke={T.border} strokeWidth="0.5" />
-              <text x={PAD_L - 6} y={y + 3} textAnchor="end" fill={T.inkFaint} fontSize="8" fontFamily={T.body}>£{t}</text>
+              <text x={PAD_L - 6} y={y + 3} textAnchor="end" fill={T.inkFaint} fontSize="8" fontFamily={T.body}>{currency}{t}</text>
             </g>
           );
         })}
@@ -572,7 +587,7 @@ function SavingsGraph({ monthlyKwh, selfConsumption, tariff }) {
               <rect x={x} y={y} width={barW} height={barH} rx={3} fill={T.solar} opacity={0.85} />
               {barH > 18 && (
                 <text x={x + barW / 2} y={y + 12} textAnchor="middle" fill="#fff" fontSize="7.5" fontWeight="600" fontFamily={T.display}>
-                  £{s.toFixed(0)}
+                  {currency}{s.toFixed(0)}
                 </text>
               )}
               <text x={x + barW / 2} y={H - 6} textAnchor="middle" fill={T.inkFaint} fontSize="7.5" fontFamily={T.body}>
@@ -584,10 +599,10 @@ function SavingsGraph({ monthlyKwh, selfConsumption, tariff }) {
       </svg>
       <div style={{ display: "flex", justifyContent: "space-between", marginTop: 6 }}>
         <span style={{ fontSize: "0.68rem", color: T.inkMid }}>
-          Peak: <strong>£{Math.max(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.max(...monthlySavings))]})
+          Peak: <strong>{currency}{Math.max(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.max(...monthlySavings))]})
         </span>
         <span style={{ fontSize: "0.68rem", color: T.inkMid }}>
-          Low: <strong>£{Math.min(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.min(...monthlySavings))]})
+          Low: <strong>{currency}{Math.min(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.min(...monthlySavings))]})
         </span>
       </div>
     </div>

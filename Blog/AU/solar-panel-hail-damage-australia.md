@@ -139,3 +139,17 @@ Don't let hail risk deter you from solar, but do ensure you're properly insured 
 [Understand heat performance impacts in Australian summer](/au/blog/solar-panel-heat-performance-australia)
 
 [Check overall troubleshooting guidance](/au/blog/solar-not-working-troubleshooting-australia)
+
+<div class="product-card featured">
+<div class="pc-accent"></div>
+<div class="pc-badge">Amazon AU pick</div>
+<div class="pc-name"><a href="https://www.amazon.com.au/s?k=400w+solar+panel+monocrystalline&tag=pluggedinsola-22" target="_blank" rel="noopener noreferrer sponsored">Rigid and portable solar panels on Amazon AU</a></div>
+<div class="pc-price">From ~$149</div>
+<ul class="pc-features">
+<li>Monocrystalline panels with high efficiency (21%+) at typical Tier-1 prices</li>
+<li>MC4 connectors pre-attached for plug-and-play kit builds</li>
+<li>Fast shipping from AU warehouses</li>
+</ul>
+<div class="pc-cta"><a href="https://www.amazon.com.au/s?k=400w+solar+panel+monocrystalline&tag=pluggedinsola-22" target="_blank" rel="noopener noreferrer sponsored">Browse on Amazon &rarr;</a></div>
+<div class="pc-disclaimer">Affiliate link — we may earn a small commission at no cost to you.</div>
+</div>
