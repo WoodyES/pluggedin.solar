@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import T from "../tokens";
+import CountrySwitcher from "./CountrySwitcher";
 
 export default function Nav() {
   const [scrolled, setScrolled] = useState(false);
@@ -70,6 +71,7 @@ export default function Nav() {
             onMouseEnter={e => { e.target.style.background = "#c27f00"; e.target.style.boxShadow = `0 4px 20px ${T.solarBorder}`; }}
             onMouseLeave={e => { e.target.style.background = T.solar; e.target.style.boxShadow = `0 2px 12px ${T.solarBorder}`; }}
           >Calculate savings</Link>
+          <CountrySwitcher />
         </div>
 
         {/* Hamburger button (hidden on desktop via CSS) */}
@@ -110,7 +112,7 @@ export default function Nav() {
               borderBottom: `1px solid ${T.borderFaint}`,
             }}>{label}</Link>
           ))}
-          <div style={{ padding: "14px 24px" }}>
+          <div style={{ padding: "14px 24px", display: "flex", flexDirection: "column", gap: 12 }}>
             <Link to="/calculator" style={{
               display: "block", padding: "12px", borderRadius: 10, textAlign: "center",
               background: T.solar, color: "#fff",
@@ -118,6 +120,9 @@ export default function Nav() {
               textDecoration: "none", fontFamily: T.display,
               boxShadow: `0 2px 12px ${T.solarBorder}`,
             }}>Calculate savings</Link>
+            <div style={{ display: "flex", justifyContent: "center" }}>
+              <CountrySwitcher />
+            </div>
           </div>
         </div>
       )}

@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 import { Analytics } from "@vercel/analytics/react";
 import T from "./tokens";
+import { MarketProvider } from "./MarketContext";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import HomePage from "./pages/HomePage";
@@ -54,11 +55,12 @@ export default function App() {
   if (!mounted) return <div style={{ background: T.bg, minHeight: "100vh" }} />;
 
   return (
-    <BrowserRouter>
-      <ScrollToTop />
-      <div style={{ background: T.bg, color: T.ink, fontFamily: T.body, minHeight: "100vh" }}>
-        <GlobalStyles />
-        <Nav />
+    <MarketProvider>
+      <BrowserRouter>
+        <ScrollToTop />
+        <div style={{ background: T.bg, color: T.ink, fontFamily: T.body, minHeight: "100vh" }}>
+          <GlobalStyles />
+          <Nav />
         <Routes>
           <Route path="/" element={<HomePage gridData={gridData} />} />
           <Route path="/calculator" element={<CalculatorPage gridData={gridData} />} />
@@ -71,11 +73,12 @@ export default function App() {
           <Route path="/au/blog/:slug" element={<BlogPost market="au" />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
-        <Footer />
-        <SpeedInsights />
-        <Analytics />
-      </div>
-    </BrowserRouter>
+          <Footer />
+          <SpeedInsights />
+          <Analytics />
+        </div>
+      </BrowserRouter>
+    </MarketProvider>
   );
 }
 

@@ -5,6 +5,59 @@ import SectionLabel from "../components/SectionLabel";
 import PanelFinderQuiz from "../components/PanelFinderQuiz";
 import SEO from "../components/SEO";
 import GridDataContext from "../GridDataContext";
+import { useMarket } from "../MarketContext";
+
+// ─── MARKET-SPECIFIC COPY ────────────────────────────────────────────────────
+const MARKET_COPY = {
+  uk: {
+    heroH1a: "Plug-in solar is legal",
+    heroH1b: "in the UK.",
+    heroSub: "SI 2026 No. 848 came into force this morning, making plug-in solar legal in the UK. EcoFlow STREAM kits are on sale from today at B&Q, Currys, Amazon and Screwfix. No roof needed, no electrician, no landlord sign-off — just panels on your balcony or garden, plugged into a standard 13A socket.",
+    heroCTA: "Read the gov.uk announcement →",
+    heroCTAUrl: "https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months",
+    bullets: ["Now legal in the UK", "EcoFlow STREAM kits on sale today", "PVGIS irradiance data", "Live UK grid stats"],
+    showTimeline: true,
+    calcSubtitle: "Real PVGIS irradiance for your exact postcode · Live UK grid data · Shareable results link — plug-in solar is legal in the UK, with EcoFlow STREAM kits stocked at B&Q, Currys, Amazon and Screwfix",
+    calcHeading: "Calculate your savings — kits on sale from today",
+    postcodeLabel: "Enter your postcode...",
+    postcodePlaceholder: "e.g. BN1 1AA",
+    tariffRate: 24.5,
+    tariffLabel: "24.5p/kWh",
+    currency: "£",
+  },
+  us: {
+    heroH1a: "Plug-in solar in the US",
+    heroH1b: "— quietly, already.",
+    heroSub: "Small plug-in solar systems occupy a grey area of US electrical code. Article 705 (UL 1741 inverters, 120V branch circuits) doesn't neatly cover them, but thousands of homeowners run 200-800W kits with utility notification. Here's what's legal in your state, which kits ship UL-listed, and how much you'd save.",
+    heroCTA: "See how US plug-in solar works →",
+    heroCTAUrl: "/us/blog",
+    bullets: ["UL-listed inverters", "State-by-state guidance", "NREL PVWatts data", "Real utility rates"],
+    showTimeline: false,
+    calcSubtitle: "Real NREL PVWatts irradiance for your ZIP · Utility-rate lookup · Shareable results — plug-in solar is a grey area in most US states but works with the right kit and utility notification",
+    calcHeading: "Calculate your savings",
+    postcodeLabel: "Enter your ZIP code...",
+    postcodePlaceholder: "e.g. 94103",
+    tariffRate: 16.5,
+    tariffLabel: "16.5¢/kWh",
+    currency: "$",
+  },
+  au: {
+    heroH1a: "Plug-in solar in Australia",
+    heroH1b: "— what actually ships.",
+    heroSub: "Australia's AS/NZS 4777 rules require grid-connected inverters to be CEC-approved and installed by a licensed electrician. Plug-in systems technically fall outside that framework, but portable and off-grid setups are widely used. Here's what's compliant, what's tolerated, and what's genuinely off-grid.",
+    heroCTA: "See how AU plug-in solar works →",
+    heroCTAUrl: "/au/blog",
+    bullets: ["CEC-approved options", "AS/NZS 4777 explained", "PVGIS irradiance", "Real AU tariffs"],
+    showTimeline: false,
+    calcSubtitle: "Real PVGIS irradiance for your postcode · CEC-approved kit shortlist · Shareable results — Australia's AS/NZS 4777 rules are stricter than the UK's, but portable and off-grid kits are widely used",
+    calcHeading: "Calculate your savings",
+    postcodeLabel: "Enter your postcode...",
+    postcodePlaceholder: "e.g. 2000",
+    tariffRate: 33.0,
+    tariffLabel: "33c/kWh",
+    currency: "A$",
+  },
+};
 
 // ─── CALCULATOR DATA ────────────────────────────────────────────────────────
 const PLACEMENTS = [
@@ -82,6 +135,8 @@ const FAQ_LD = {
 
 export default function HomePage() {
   const gridData = useContext(GridDataContext);
+  const { market } = useMarket();
+  const copy = MARKET_COPY[market] || MARKET_COPY.uk;
   return (
     <>
       <SEO
@@ -91,12 +146,12 @@ export default function HomePage() {
         noSuffix
         jsonLd={[ORG_LD, FAQ_LD]}
       />
-      <Hero gridData={gridData} />
+      <Hero gridData={gridData} copy={copy} />
       <WhyNow />
-      <Timeline />
+      {copy.showTimeline && <Timeline />}
       <ForWho />
       <QuizSection />
-      <CalculatorSection gridData={gridData} />
+      <CalculatorSection gridData={gridData} copy={copy} />
       <HowItWorks />
       <FAQSection />
     </>
@@ -104,7 +159,7 @@ export default function HomePage() {
 }
 
 // ─── HERO ───────────────────────────────────────────────────────────────────
-function Hero({ gridData }) {
+function Hero({ gridData, copy }) {
   const [pc, setPC] = useState("");
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
@@ -145,10 +200,10 @@ function Hero({ gridData }) {
         )}
 
         <h1 className="fu1" style={{ fontFamily: T.display, fontSize: "clamp(2.8rem,6vw,4.6rem)", fontWeight: 800, lineHeight: 1.08, letterSpacing: "-0.03em", marginBottom: 24, maxWidth: 800 }}>
-          Plug-in solar is legal
+          {copy.heroH1a}
           <br />
           <span style={{ color: T.solar, display: "inline-block", position: "relative" }}>
-            in the UK.
+            {copy.heroH1b}
             <svg style={{ position: "absolute", bottom: -6, left: 0, width: "100%", height: 6, overflow: "visible" }} viewBox="0 0 200 6" preserveAspectRatio="none">
               <path d="M0,5 Q50,1 100,4 Q150,7 200,3" stroke={T.solarBright} strokeWidth="2.5" fill="none" strokeLinecap="round" opacity="0.7" />
             </svg>
@@ -158,10 +213,10 @@ function Hero({ gridData }) {
         </h1>
 
         <p className="fu2" style={{ fontSize: "1.05rem", color: T.inkMid, lineHeight: 1.75, marginBottom: 44, maxWidth: 540, fontWeight: 300 }}>
-          SI 2026 No. 848 came into force this morning, making plug-in solar legal in the UK. EcoFlow STREAM kits are on sale from today at B&Q, Currys, Amazon and Screwfix. No roof needed, no electrician, no landlord sign-off &mdash; just panels on your balcony or garden, plugged into a standard 13A socket.
+          {copy.heroSub}
         </p>
-        <a className="fu2" href="https://www.gov.uk/government/news/government-to-make-plug-in-solar-available-within-months" target="_blank" rel="noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: "0.78rem", color: T.solar, fontWeight: 600, textDecoration: "none", marginBottom: 32 }}>
-          Read the gov.uk announcement &rarr;
+        <a className="fu2" href={copy.heroCTAUrl} target={copy.heroCTAUrl.startsWith("http") ? "_blank" : "_self"} rel="noreferrer" style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: "0.78rem", color: T.solar, fontWeight: 600, textDecoration: "none", marginBottom: 32 }}>
+          {copy.heroCTA}
         </a>
 
         <div className="fu3" style={{ maxWidth: 500 }}>
@@ -198,7 +253,7 @@ function Hero({ gridData }) {
         </div>
 
         <div className="fu4" style={{ display: "flex", gap: 24, marginTop: 48, alignItems: "center", flexWrap: "wrap" }}>
-          {["Now legal in the UK", "EcoFlow STREAM kits on sale today", "PVGIS irradiance data", "Live UK grid stats"].map((s, i) => (
+          {copy.bullets.map((s, i) => (
             <div key={i} style={{ display: "flex", alignItems: "center", gap: 7, fontSize: "0.78rem", color: T.inkFaint, fontWeight: 400 }}>
               <span style={{ color: T.green, fontSize: "0.85rem" }}>✓</span>{s}
             </div>
@@ -303,13 +358,13 @@ function QuizSection() {
 }
 
 // ─── CALCULATOR SECTION ─────────────────────────────────────────────────────
-function CalculatorSection({ gridData }) {
+function CalculatorSection({ gridData, copy }) {
   return (
     <section id="calculator" className="section-pad" style={{ padding: "60px 20px 80px" }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Calculator</SectionLabel>
-        <h2 style={{ fontFamily: T.display, fontSize: "2rem", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>Calculate your savings — kits on sale from today</h2>
-        <p style={{ color: T.inkMid, fontSize: "0.9rem", marginBottom: 40, lineHeight: 1.6 }}>Real PVGIS irradiance for your exact postcode &middot; Live UK grid data &middot; Shareable results link &mdash; plug-in solar is legal in the UK as of today, with EcoFlow STREAM kits stocked at B&Q, Currys, Amazon and Screwfix</p>
+        <h2 style={{ fontFamily: T.display, fontSize: "2rem", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>{copy.calcHeading}</h2>
+        <p style={{ color: T.inkMid, fontSize: "0.9rem", marginBottom: 40, lineHeight: 1.6 }}>{copy.calcSubtitle}</p>
         <Calculator gridData={gridData} />
       </div>
     </section>
