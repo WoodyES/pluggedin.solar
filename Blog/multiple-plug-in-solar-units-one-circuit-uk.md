@@ -1,7 +1,7 @@
 ---
-title: "Can You Connect Multiple Plug-in Solar Units to One Circuit?"
+title: "How Many Plug-In Solar Panels Can I Have? UK 2026 Rules"
 slug: multiple-plug-in-solar-units-one-circuit-uk
-excerpt: "One 800W kit is legal. But what happens if you plug in two or three? The safety case gets complicated fast."
+excerpt: "The UK legal cap is one 800VA plug-in microgenerator per household. Here's what happens if you try to run more, and legal ways to expand."
 date: "2026-04-11"
 category: Troubleshooting
 cluster: "Legal & Regulatory"

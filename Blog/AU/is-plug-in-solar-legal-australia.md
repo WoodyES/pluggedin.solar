@@ -1,7 +1,7 @@
 ---
-title: Is Plug-in Solar Legal in Australia? The Straight Answer
+title: "Is Plug-In Solar Legal in Australia? (2026 Definitive Guide)"
 slug: is-plug-in-solar-legal-australia
-excerpt: No—plug-in solar is not legal for grid connection in Australia. Here's why, what the standards say, and what you can do instead.
+excerpt: "Grid-tied plug-in solar isn't legal in Australia under AS/NZS 4777 — but portable and off-grid setups are. Here's exactly what works."
 date: "2026-04-06"
 category: Getting Started
 cluster: 1

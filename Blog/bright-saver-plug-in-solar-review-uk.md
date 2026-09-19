@@ -1,7 +1,7 @@
 ---
-title: "Bright Saver Plug-In Solar UK: What Buyers Need to Know"
+title: "Bright Saver Review 2026: Honest Buyer's Verdict (UK)"
 slug: bright-saver-plug-in-solar-review-uk
-excerpt: "A UK buyer's guide to Bright Saver plug-in solar — availability, how the kits fit the 27 August 2026 rules, and the main alternatives."
+excerpt: "Independent Bright Saver plug-in solar review: what you actually get, price vs EcoFlow STREAM, and whether the UK regulatory fit stacks up."
 date: 2026-08-14
 category: Reviews & Comparisons
 cluster: brand-reviews
