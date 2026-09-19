@@ -87,20 +87,122 @@ const SUPPLIERS = [
   { id: "ovo",    label: "Ovo Energy",          rate: 24.50 },
   { id: "manual", label: "Enter manually",      rate: null },
 ];
-const FAQ_ITEMS = [
-  { q: "Is plug-in solar legal in the UK?",
-    a: "Yes — as of today, 27 August 2026. SI 2026 No. 848 has come into force and permits 'plug-in microgenerators' in UK homes. Compliant kits must meet the DESNZ Interim Product Specification: max 800VA / 3.5A output, BS 1363 plug with 5A fuse, no battery in the plug circuit, and no extension leads. EcoFlow STREAM kits are available from today, with B&Q, Currys, Amazon and Screwfix stocking compliant kits." },
-  { q: "Do I need an electrician?",
-    a: "No. You plug the inverter cable into a standard 13A socket. You do need to notify your Distribution Network Operator (DNO) within 28 days under G98 rules — but that's a simple online form, not a site visit." },
-  { q: "Can I install this if I rent?",
-    a: "Plug-in solar is specifically designed for renters and flat-dwellers who can't access their roof. The panels attach to a balcony rail or sit in a garden, and you take them when you move. Most standard ASTs don't prohibit temporary external fixtures." },
-  { q: "What's the payback period?",
-    a: "Typically 4–6 years for an 800W system in southern England at the Ofgem Q2 2026 cap (24.5p/kWh). The Carbon Brief analysis puts 15-year net savings at ~£1,100 for a typical London household." },
-  { q: "Can I get paid for electricity I export?",
-    a: "Yes, but at much lower rates. The Smart Export Guarantee (SEG) pays ~3–6p per kWh exported, versus 24p+ to import. Maximise savings by using solar when it's generating — fridges, routers, and always-on devices are ideal." },
-  { q: "What size system should I buy?",
-    a: "800W is the UK regulatory cap and best value. Smaller 400W systems work if you have limited space. Use the calculator to compare payback periods for your postcode and placement." },
-];
+
+// Per-market calculator config: suppliers, tariff defaults, currency and geocoding.
+// PVGIS covers UK, US and AU natively (ERA5 satellite dataset), so we keep it for all
+// three markets. Only the geocoding layer, tariff labels and currency change.
+const MARKET_CALC = {
+  uk: {
+    suppliers: SUPPLIERS,
+    tariffDefault: 24.5, tariffMin: 10, tariffMax: 50,
+    currency: "£", subUnit: "p", tariffNote: "Ofgem Q2 2026",
+    postcodeLabel: "Your postcode", postcodePlaceholder: "e.g. BN1 1AA",
+    postcodeVerifyLabel: "verify", postcodeVerifyUrl: "https://www.ofgem.gov.uk/check-if-energy-price-cap-affects-you",
+    inputLabel: "Enter your postcode...",
+  },
+  us: {
+    suppliers: [
+      { id: "avg",  label: "US average",     rate: 16.5 },
+      { id: "ca",   label: "California avg", rate: 27.0 },
+      { id: "hi",   label: "Hawaii avg",     rate: 39.0 },
+      { id: "ny",   label: "New York avg",   rate: 22.0 },
+      { id: "ma",   label: "Massachusetts",  rate: 24.5 },
+      { id: "tx",   label: "Texas avg",      rate: 14.5 },
+      { id: "fl",   label: "Florida avg",    rate: 14.0 },
+      { id: "manual", label: "Enter manually", rate: null },
+    ],
+    tariffDefault: 16.5, tariffMin: 8, tariffMax: 50,
+    currency: "$", subUnit: "¢", tariffNote: "EIA 2026",
+    postcodeLabel: "Your ZIP code", postcodePlaceholder: "e.g. 94103",
+    postcodeVerifyLabel: "EIA rates", postcodeVerifyUrl: "https://www.eia.gov/electricity/state/",
+    inputLabel: "Enter your ZIP code...",
+  },
+  au: {
+    suppliers: [
+      { id: "avg", label: "AU peak avg",     rate: 33.0 },
+      { id: "nsw", label: "NSW average",     rate: 34.0 },
+      { id: "vic", label: "Victoria avg",    rate: 31.0 },
+      { id: "qld", label: "Queensland avg",  rate: 27.0 },
+      { id: "sa",  label: "South Australia", rate: 41.0 },
+      { id: "wa",  label: "WA average",      rate: 30.0 },
+      { id: "tas", label: "Tasmania avg",    rate: 29.0 },
+      { id: "manual", label: "Enter manually", rate: null },
+    ],
+    tariffDefault: 33.0, tariffMin: 15, tariffMax: 60,
+    currency: "A$", subUnit: "c", tariffNote: "AER 2026",
+    postcodeLabel: "Your postcode", postcodePlaceholder: "e.g. 2000",
+    postcodeVerifyLabel: "AER prices", postcodeVerifyUrl: "https://www.aer.gov.au/consumers/energy-prices",
+    inputLabel: "Enter your postcode...",
+  },
+};
+
+// Geocoding: UK stays on postcodes.io (best accuracy). US + AU use zippopotam.us
+// (free, no key, covers both). All return { lat, lon, area }.
+async function geocodeUK(pc) {
+  const clean = pc.replace(/\s/g, "").toUpperCase();
+  if (clean.length < 4) throw new Error("too short");
+  const r = await fetch(`https://api.postcodes.io/postcodes/${clean}`);
+  const j = await r.json();
+  if (j.status !== 200) throw new Error("not found");
+  return { lat: j.result.latitude, lon: j.result.longitude, area: j.result.admin_district || clean };
+}
+async function geocodeZip(pc, country) {
+  const clean = pc.replace(/\s/g, "");
+  const r = await fetch(`https://api.zippopotam.us/${country}/${clean}`);
+  if (!r.ok) throw new Error("not found");
+  const j = await r.json();
+  const p = j.places?.[0];
+  if (!p) throw new Error("not found");
+  return {
+    lat: parseFloat(p.latitude),
+    lon: parseFloat(p.longitude),
+    area: `${p["place name"] || clean}${p["state abbreviation"] ? ", " + p["state abbreviation"] : ""}`,
+  };
+}
+const MARKET_FAQ = {
+  uk: [
+    { q: "Is plug-in solar legal in the UK?",
+      a: "Yes — as of 27 August 2026, SI 2026 No. 848 permits 'plug-in microgenerators' in UK homes. Compliant kits must meet the DESNZ Interim Product Specification: max 800VA / 3.5A output, BS 1363 plug with 5A fuse, no battery in the plug circuit, and no extension leads. B&Q, Currys, Amazon and Screwfix stock UKCA-compliant kits." },
+    { q: "Do I need an electrician?",
+      a: "No. You plug the inverter cable into a standard 13A socket. You do need to notify your Distribution Network Operator (DNO) within 28 days under G98 rules — but that's a simple online form, not a site visit." },
+    { q: "Can I install this if I rent?",
+      a: "Plug-in solar is specifically designed for renters and flat-dwellers who can't access their roof. Panels attach to a balcony rail or sit in a garden, and you take the kit when you move. Most standard ASTs don't prohibit temporary external fixtures." },
+    { q: "What's the payback period?",
+      a: "Typically 4–6 years for an 800W system in southern England at the Ofgem cap (24.5p/kWh). Carbon Brief modelling puts 15-year net savings at ~£1,100 for a typical London household." },
+    { q: "Can I get paid for electricity I export?",
+      a: "Yes, but at much lower rates. The Smart Export Guarantee (SEG) pays ~4–15p per kWh exported, versus 24.5p to import. Maximise savings by using solar as it generates — fridges, routers, and always-on devices are ideal." },
+    { q: "What size system should I buy?",
+      a: "800W is the UK regulatory cap and best value. Smaller 400W systems work if you have limited space. Use the calculator to compare payback periods for your postcode and placement." },
+  ],
+  us: [
+    { q: "Is plug-in solar legal in the US?",
+      a: "It's a grey area. NEC Article 705 governs grid interconnection, and most utility interconnection agreements require UL 1741-listed inverters and an approved installer. Small plug-in systems (200–800W) using UL-listed inverters are widely used but may still require utility notification — check your specific utility's tariff and interconnection rules." },
+    { q: "Do I need an electrician?",
+      a: "For a UL 1741-listed plug-in inverter feeding a dedicated branch circuit, no. But many utilities require a licensed electrician to sign off on any grid-tied installation. Off-grid setups (charging a battery, not backfeeding the grid) avoid this entirely." },
+    { q: "Can I install this if I rent?",
+      a: "Portable and battery-based systems are ideal — panels sit on a balcony or in a window, feed a portable power station, and you take everything when you move. Grid-tied plug-in kits are trickier for renters; check with your landlord and utility first." },
+    { q: "What's the payback period?",
+      a: "Highly state-dependent. Payback runs from about 3 years (California, Hawaii, high-tariff states) to 8+ years (low-tariff states like Louisiana). Use the calculator to model your ZIP." },
+    { q: "Can I get paid for electricity I export?",
+      a: "Only under net metering or net billing arrangements, which vary by state and utility. Most plug-in setups do not qualify. Focus on self-consumption — running loads when the sun is up gives you the full retail-rate offset." },
+    { q: "What size system should I buy?",
+      a: "Match to your daytime base load. A 400W kit covers fridges, routers, and standby loads for most homes. 800W kits are worth it if you're home during the day or run a home office. Larger than 800W generally needs a full utility interconnection." },
+  ],
+  au: [
+    { q: "Is plug-in solar legal in Australia?",
+      a: "Grid-connected inverters in Australia must be CEC-approved under AS/NZS 4777, and installation requires a licensed electrician. Plug-and-play grid-tied systems technically fall outside this framework. Off-grid systems (portable batteries, camping/shed setups) are common and legal." },
+    { q: "Do I need an electrician?",
+      a: "For any grid-tied installation, yes — AS/NZS 4777 requires a licensed installer for connection to your home's wiring. For off-grid or portable battery setups that don't backfeed the grid, no." },
+    { q: "Can I install this if I rent?",
+      a: "Portable, battery-based setups are the easiest fit — a panel plus an EcoFlow or Anker power station gives you daytime capture without touching the property's wiring. Grid-tied plug-in isn't practical for renters under current AU rules." },
+    { q: "What's the payback period?",
+      a: "For a small portable/off-grid setup, payback depends on how much peak-time consumption you displace. At ~33c/kWh evening rates, an 800W setup with a battery can pay back in 3–5 years for a household with high peak evening use." },
+    { q: "Can I get paid for electricity I export?",
+      a: "Feed-in tariffs (FiTs) apply only to CEC-approved installations. Plug-in and off-grid setups don't qualify — the value is in self-consumption. Solar Sponge tariffs (cheap daytime rates) are worth combining with battery arbitrage." },
+    { q: "What size system should I buy?",
+      a: "For portable/off-grid, sizing depends on your target loads. 200–400W plus a 1kWh battery covers a fridge and lights overnight. 800W plus 2kWh handles a home-office and evening cooking. Use the calculator to model your postcode." },
+  ],
+};
 
 // ─── SHARE URL ──────────────────────────────────────────────────────────────
 function encodeCalcState(s) {
@@ -123,10 +225,12 @@ const ORG_LD = {
   description: "UK plug-in solar comparison, savings calculator, and buying guides.",
 };
 
+// JSON-LD stays UK-canonical for SEO — UK is our primary indexed market.
+// The rendered FAQ swaps client-side based on detected market.
 const FAQ_LD = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  mainEntity: FAQ_ITEMS.map(item => ({
+  mainEntity: MARKET_FAQ.uk.map(item => ({
     "@type": "Question",
     name: item.q,
     acceptedAnswer: { "@type": "Answer", text: item.a },
@@ -160,29 +264,40 @@ export default function HomePage() {
 
 // ─── HERO ───────────────────────────────────────────────────────────────────
 function Hero({ gridData, copy }) {
+  const { market } = useMarket();
+  const cfg = MARKET_CALC[market] || MARKET_CALC.uk;
   const [pc, setPC] = useState("");
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(false);
   const [err, setErr] = useState(null);
 
+  // Reset the mini result when the user switches market
+  useEffect(() => { setResult(null); setPC(""); setErr(null); }, [market]);
+
   async function quickCalc(postcode) {
-    if (postcode.replace(/\s/g, "").length < 4) return;
+    if (postcode.replace(/\s/g, "").length < 3) return;
     setLoading(true); setErr(null);
+    const notFoundLabel = market === "us" ? "ZIP" : "postcode";
     try {
-      const r = await fetch(`https://api.postcodes.io/postcodes/${postcode.replace(/\s/g, "")}`);
-      const json = await r.json();
-      if (json.status !== 200) { setErr("Postcode not found — try the full calculator below"); setLoading(false); return; }
-      const { latitude: lat, longitude: lon, admin_district } = json.result;
+      let loc;
       try {
-        const pr = await fetch(`https://re.jrc.ec.europa.eu/api/v5_2/PVcalc?lat=${lat}&lon=${lon}&peakpower=0.8&loss=14&outputformat=json&mountingplace=free&angle=35&aspect=0`);
-        const pj = await pr.json();
-        const kwh = pj.outputs?.totals?.fixed?.E_y || (0.8 * (870 + Math.max(0, Math.min(1, (58 - lat) / 8)) * 180));
-        setResult({ area: admin_district || postcode.toUpperCase(), saving: Math.round(kwh * 0.55 * 24.50 / 100), kwh: Math.round(kwh) });
+        if (market === "uk") loc = await geocodeUK(postcode);
+        else if (market === "us") loc = await geocodeZip(postcode, "us");
+        else if (market === "au") loc = await geocodeZip(postcode, "au");
+        else loc = await geocodeUK(postcode);
       } catch (_) {
-        const kwh = 0.8 * (870 + Math.max(0, Math.min(1, (58 - lat) / 8)) * 180);
-        setResult({ area: admin_district || postcode.toUpperCase(), saving: Math.round(kwh * 0.55 * 24.50 / 100), kwh: Math.round(kwh) });
+        setErr(`${notFoundLabel} not found — try the full calculator below`); setLoading(false); return;
       }
-    } catch (_) { setErr("Could not look up postcode — check your connection"); }
+      try {
+        const pr = await fetch(`https://re.jrc.ec.europa.eu/api/v5_2/PVcalc?lat=${loc.lat}&lon=${loc.lon}&peakpower=0.8&loss=14&outputformat=json&mountingplace=free&angle=35&aspect=0`);
+        const pj = await pr.json();
+        const kwh = pj.outputs?.totals?.fixed?.E_y || (0.8 * (870 + Math.max(0, Math.min(1, (58 - Math.abs(loc.lat)) / 8)) * 180));
+        setResult({ area: loc.area, saving: Math.round(kwh * 0.55 * cfg.tariffDefault / 100), kwh: Math.round(kwh) });
+      } catch (_) {
+        const kwh = 0.8 * (870 + Math.max(0, Math.min(1, (58 - Math.abs(loc.lat)) / 8)) * 180);
+        setResult({ area: loc.area, saving: Math.round(kwh * 0.55 * cfg.tariffDefault / 100), kwh: Math.round(kwh) });
+      }
+    } catch (_) { setErr(`Could not look up ${notFoundLabel} — check your connection`); }
     setLoading(false);
   }
 
@@ -192,7 +307,7 @@ function Hero({ gridData, copy }) {
       <div style={{ position: "absolute", bottom: "5%", left: "-12%", width: 360, height: 360, borderRadius: "50%", background: `radial-gradient(circle,${T.skyLight} 0%,transparent 65%)`, pointerEvents: "none", zIndex: 0 }} />
 
       <div style={{ position: "relative", zIndex: 1 }}>
-        {gridData && (
+        {gridData && market === "uk" && (
           <div className="fu" style={{ display: "inline-flex", alignItems: "center", gap: 8, padding: "6px 14px", borderRadius: 20, border: `1.5px solid ${T.border}`, background: T.surface, marginBottom: 32, fontSize: "0.78rem", color: T.inkMid, fontWeight: 500, boxShadow: "0 1px 4px rgba(0,0,0,0.06)" }}>
             <span style={{ width: 7, height: 7, borderRadius: "50%", background: T.green, animation: "pulse 2s infinite", flexShrink: 0 }} />
             Solar providing <span style={{ color: T.solar, fontWeight: 700, margin: "0 3px" }}>{gridData.solar.toFixed(1)}%</span> of UK electricity right now
@@ -221,7 +336,7 @@ function Hero({ gridData, copy }) {
 
         <div className="fu3" style={{ maxWidth: 500 }}>
           <div className="hero-postcode" style={{ display: "flex", gap: 10, marginBottom: 12 }}>
-            <input type="text" placeholder="Enter your postcode..." value={pc}
+            <input type="text" placeholder={cfg.inputLabel} value={pc}
               onChange={e => setPC(e.target.value.toUpperCase())}
               onKeyDown={e => e.key === "Enter" && quickCalc(pc)}
               style={{ flex: 1, padding: "15px 18px", borderRadius: 10, border: `1.5px solid ${result ? T.solarBorder : T.border}`, background: T.surface, color: T.ink, fontSize: "1rem", outline: "none", fontFamily: T.body, letterSpacing: "0.05em", boxShadow: "0 1px 4px rgba(0,0,0,0.05)" }}
@@ -237,7 +352,7 @@ function Hero({ gridData, copy }) {
           {result && (
             <div className="fu hero-result" style={{ padding: "20px 24px", borderRadius: 12, border: `1.5px solid ${T.solarBorder}`, background: T.surface, display: "flex", gap: 24, alignItems: "center", boxShadow: `0 4px 24px ${T.solarGlow}` }}>
               <div>
-                <div style={{ fontFamily: T.display, fontSize: "2.6rem", fontWeight: 800, color: T.solar, lineHeight: 1 }}>&pound;{result.saving}</div>
+                <div style={{ fontFamily: T.display, fontSize: "2.6rem", fontWeight: 800, color: T.solar, lineHeight: 1 }}>{cfg.currency}{result.saving}</div>
                 <div style={{ fontSize: "0.75rem", color: T.inkFaint, marginTop: 4, fontWeight: 500 }}>estimated annual saving</div>
               </div>
               <div style={{ width: 1, background: T.border, alignSelf: "stretch" }} />
@@ -265,41 +380,79 @@ function Hero({ gridData, copy }) {
 }
 
 // ─── WHY NOW ────────────────────────────────────────────────────────────────
+const MARKET_WHYNOW = {
+  uk: {
+    stats: [
+      { num: "Live",     label: "Legal in the UK", sub: "SI 2026 No. 848 in force · plug-in solar legal in UK homes as of 27 August 2026" },
+      { num: "800W",     label: "UK legal cap",    sub: "Max 800VA / 3.5A via a standard 13A socket · no electrician · no wiring" },
+      { num: "£200+/yr", label: "Typical saving",  sub: "PVGIS-backed estimate · 800W system · Ofgem cap rate (24.5p/kWh)" },
+    ],
+    body: "Germany simplified its plug-in solar rules in 2024 — within 12 months, over 1.2 million households had a kit. The UK caught up on 27 August 2026 when SI 2026 No. 848 came into force. EcoFlow STREAM kits are stocked at B&Q, Currys, Amazon and Screwfix, with Wickes and Lidl following. The government’s £25m pilot to fund kits for low-income households opens this autumn.",
+  },
+  us: {
+    stats: [
+      { num: "50 states", label: "Different rules", sub: "Interconnection under NEC 705 is utility-specific · check your local co-op or IOU tariff before installing" },
+      { num: "UL 1741",   label: "Inverter standard", sub: "Every legit grid-tied plug-in kit uses a UL-listed inverter · anti-islanding required for backfeed" },
+      { num: "16.5¢/kWh", label: "US average tariff", sub: "EIA residential average · high-tariff states (CA, HI, MA) see 2-3× that and much faster payback" },
+    ],
+    body: "The US is a patchwork. NEC Article 705 governs any grid-connected microgeneration, and interconnection agreements vary utility by utility. Small plug-in kits (200-800W) with UL 1741-listed inverters are widely used, often without formal utility notification, but you should check your utility's specific tariff. Off-grid setups (portable battery, no backfeed) avoid the regulatory tangle entirely.",
+  },
+  au: {
+    stats: [
+      { num: "AS/NZS", label: "4777 standard", sub: "Grid-connected inverters must be CEC-approved · installation by a licensed electrician is mandatory" },
+      { num: "CEC",    label: "Approved list", sub: "Clean Energy Council maintains the master list of approved inverters and installers" },
+      { num: "33c/kWh", label: "Peak tariff", sub: "Typical evening rate across NEM regions · self-consumption savings scale from this" },
+    ],
+    body: "Australia's rules are stricter than the UK's. Anything grid-tied needs a CEC-approved inverter and a licensed installer under AS/NZS 4777. But portable and off-grid setups — panels feeding a power station, camping rigs, shed solar — are widely used and completely legal. The real value for AU households is combining these with time-of-use tariff arbitrage.",
+  },
+};
+
 function WhyNow() {
-  const stats = [
-    { num: "Live",     label: "Legal from today", sub: "SI 2026 No. 848 in force · plug-in solar legal in UK homes as of 27 August 2026", accent: T.green },
-    { num: "800W",     label: "UK legal cap",  sub: "Max 800VA / 3.5A via a standard 13A socket · no electrician · no wiring",     accent: T.solar },
-    { num: "£200+/yr", label: "Typical saving", sub: "PVGIS-backed estimate · 800W system · Ofgem cap rate (24.5p/kWh)",   accent: T.sky },
-  ];
+  const { market } = useMarket();
+  const copy = MARKET_WHYNOW[market] || MARKET_WHYNOW.uk;
+  const accents = [T.green, T.solar, T.sky];
   return (
     <section className="section-pad" style={{ padding: "80px 20px", background: T.surface, borderTop: `1px solid ${T.border}`, borderBottom: `1px solid ${T.border}` }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Why now</SectionLabel>
         <div className="grid-3" style={{ display: "grid", gridTemplateColumns: "repeat(3,1fr)", gap: 24, marginTop: 40 }}>
-          {stats.map((s, i) => (
+          {copy.stats.map((s, i) => (
             <div key={i} style={{ padding: "36px 32px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.bg, position: "relative", overflow: "hidden" }}>
-              <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: 3, background: `linear-gradient(90deg,${s.accent},${s.accent}00)`, borderRadius: "16px 16px 0 0" }} />
-              <div style={{ fontFamily: T.display, fontSize: "2.6rem", fontWeight: 800, color: s.accent, lineHeight: 1, marginBottom: 12, letterSpacing: "-0.02em" }}>{s.num}</div>
+              <div style={{ position: "absolute", top: 0, left: 0, right: 0, height: 3, background: `linear-gradient(90deg,${accents[i]},${accents[i]}00)`, borderRadius: "16px 16px 0 0" }} />
+              <div style={{ fontFamily: T.display, fontSize: "2.6rem", fontWeight: 800, color: accents[i], lineHeight: 1, marginBottom: 12, letterSpacing: "-0.02em" }}>{s.num}</div>
               <div style={{ fontSize: "1rem", fontWeight: 600, color: T.ink, marginBottom: 8, fontFamily: T.display }}>{s.label}</div>
               <div style={{ fontSize: "0.82rem", color: T.inkMid, lineHeight: 1.55 }}>{s.sub}</div>
             </div>
           ))}
         </div>
-        <p style={{ marginTop: 36, fontSize: "0.9rem", color: T.inkMid, lineHeight: 1.8, maxWidth: 640 }}>
-          Germany simplified its plug-in solar rules in 2024 &mdash; within 12 months, over 1.2 million households had a kit. The UK has caught up. As of today, 27 August 2026, SI 2026 No. 848 is in force and plug-in solar is legally installable. EcoFlow STREAM kits are on sale from today at B&Q, Currys, Amazon and Screwfix, with Wickes and Lidl following in September. The government&rsquo;s &pound;25m pilot to fund kits for low-income households opens applications this autumn.
-        </p>
+        <p style={{ marginTop: 36, fontSize: "0.9rem", color: T.inkMid, lineHeight: 1.8, maxWidth: 640 }}>{copy.body}</p>
       </div>
     </section>
   );
 }
 
 // ─── FOR WHO ────────────────────────────────────────────────────────────────
-function ForWho() {
-  const groups = [
-    { icon: "🏢", title: "Renters",       body: "4.6 million privately rented households in England. Traditional solar needs a landlord, a roof, and £10,000+. Plug-in needs none of those. The Renters' Rights Act 2025 strengthens your position — and you take the kit when you move. Legal in the UK as of today." },
+const MARKET_FORWHO = {
+  uk: [
+    { icon: "🏢", title: "Renters",       body: "4.6 million privately rented households in England. Traditional solar needs a landlord, a roof, and £10,000+. Plug-in needs none of those. The Renters' Rights Act 2025 strengthens your position — and you take the kit when you move. Legal in the UK as of 27 August 2026." },
     { icon: "🏙️", title: "Flat-dwellers", body: "Clip panels to your balcony railings, plug into a standard 13A socket, start generating. No structural modifications, no planning permission. The DESNZ Interim Product Specification allows up to 800VA per household via a BS 1363 plug with a 5A fuse." },
-    { icon: "🏡", title: "Homeowners",     body: "Garden, flat-roof extension, or south-facing wall — an 800W kit covers your base load (fridge, router, standby devices) and saves £200+ per year. EcoFlow STREAM kits are on sale from today at B&Q, Currys, Amazon and Screwfix." },
-  ];
+    { icon: "🏡", title: "Homeowners",     body: "Garden, flat-roof extension, or south-facing wall — an 800W kit covers your base load (fridge, router, standby devices) and saves £200+ per year. EcoFlow STREAM kits are stocked at B&Q, Currys, Amazon and Screwfix." },
+  ],
+  us: [
+    { icon: "🏢", title: "Renters",         body: "Portable, battery-based kits are ideal — panels on a balcony feed a power station, and everything comes with you when you move. No landlord sign-off, no changes to the property, no utility notification for pure off-grid setups." },
+    { icon: "🏙️", title: "Apartment residents", body: "Balcony and window-mounted panels feeding a portable battery are the easiest fit. Grid-tied plug-in in an apartment gets tangled in HOA rules and utility interconnection — off-grid avoids all of it." },
+    { icon: "🏡", title: "Homeowners",       body: "For grid-tied setups, check your utility's interconnection agreement and NEC 705 compliance. Off-grid battery-based setups need no permission at all. Both scale well from 200W hobby projects to 800W-plus purposeful builds." },
+  ],
+  au: [
+    { icon: "🏢", title: "Renters",           body: "Portable panels and battery-based systems are the natural fit — no changes to the property, no strata approvals, no CEC installer needed. Take everything with you when you move." },
+    { icon: "🏙️", title: "Apartment/unit residents", body: "Balcony setups feeding an EcoFlow or Anker power station give you daytime capture without touching the building's wiring. Grid-tied plug-in isn't practical under AS/NZS 4777 rules." },
+    { icon: "🏡", title: "Homeowners",         body: "For a full rooftop install, use a CEC-accredited installer. For camping, shed, garage or workshop setups, plug-in and portable kits work brilliantly and don't need any accreditation. Combine with time-of-use tariff arbitrage for best results." },
+  ],
+};
+
+function ForWho() {
+  const { market } = useMarket();
+  const groups = MARKET_FORWHO[market] || MARKET_FORWHO.uk;
   return (
     <section className="section-pad" style={{ padding: "80px 20px" }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
@@ -359,20 +512,22 @@ function QuizSection() {
 
 // ─── CALCULATOR SECTION ─────────────────────────────────────────────────────
 function CalculatorSection({ gridData, copy }) {
+  const { market } = useMarket();
   return (
     <section id="calculator" className="section-pad" style={{ padding: "60px 20px 80px" }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>Calculator</SectionLabel>
         <h2 style={{ fontFamily: T.display, fontSize: "2rem", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>{copy.calcHeading}</h2>
         <p style={{ color: T.inkMid, fontSize: "0.9rem", marginBottom: 40, lineHeight: 1.6 }}>{copy.calcSubtitle}</p>
-        <Calculator gridData={gridData} />
+        <Calculator gridData={gridData} market={market} />
       </div>
     </section>
   );
 }
 
 // ─── FULL CALCULATOR ────────────────────────────────────────────────────────
-function Calculator({ gridData }) {
+function Calculator({ gridData, market = "uk" }) {
+  const cfg = MARKET_CALC[market] || MARKET_CALC.uk;
   const init = decodeCalcState();
   const [postcodeInput, setPostcodeInput] = useState(init.postcode);
   const [location, setLocation] = useState(null);
@@ -383,28 +538,42 @@ function Calculator({ gridData }) {
   const [panelSize, setPanelSize] = useState(PANEL_SIZES.find(p => p.watts === init.watts) || PANEL_SIZES[2]);
   const [placement, setPlacement] = useState(PLACEMENTS.find(p => p.id === init.placementId) || PLACEMENTS[0]);
   const [presence, setPresence] = useState(PRESENCE.find(p => p.id === init.presenceId) || PRESENCE[1]);
-  const [supplier, setSupplier] = useState(SUPPLIERS.find(s => s.id === init.supplierId) || SUPPLIERS[0]);
-  const [tariff, setTariff] = useState(init.tariff);
+  const [supplier, setSupplier] = useState(cfg.suppliers.find(s => s.id === init.supplierId) || cfg.suppliers[0]);
+  const [tariff, setTariff] = useState(init.tariff || cfg.tariffDefault);
   const [email, setEmail] = useState("");
   const [submitted, setSubmitted] = useState(false);
   const [copied, setCopied] = useState(false);
   const [showYearly, setShowYearly] = useState(true);
 
+  // When the market changes at runtime (user picks a different country in the switcher),
+  // reset supplier + tariff to the new market's defaults and clear stale postcode results.
+  useEffect(() => {
+    setSupplier(cfg.suppliers[0]);
+    setTariff(cfg.tariffDefault);
+    setLocation(null);
+    setPvgisKwh(null);
+    setMonthlyKwh(null);
+    setPostcodeInput("");
+    setPvgisError(null);
+  }, [market]);
+
   useEffect(() => { if (init.postcode) geocodeAndFetch(init.postcode); }, []);
   useEffect(() => { if (location) fetchPVGIS(location.lat, location.lon, panelSize.kWp, placement.angle, placement.aspect); }, [panelSize, placement]);
 
   async function geocodeAndFetch(pc) {
-    const clean = pc.replace(/\s/g, "").toUpperCase();
-    if (clean.length < 4) return;
+    if (!pc || pc.replace(/\s/g, "").length < 3) return;
     setPvgisError(null);
     try {
-      const r = await fetch(`https://api.postcodes.io/postcodes/${clean}`);
-      const j = await r.json();
-      if (j.status !== 200) { setPvgisError("Postcode not found — please check it."); return; }
-      const { latitude: lat, longitude: lon, admin_district } = j.result;
-      setLocation({ lat, lon, area: admin_district || clean });
-      fetchPVGIS(lat, lon, panelSize.kWp, placement.angle, placement.aspect);
-    } catch (_) { setPvgisError("Could not look up postcode. Check your connection."); }
+      let loc;
+      if (market === "uk") loc = await geocodeUK(pc);
+      else if (market === "us") loc = await geocodeZip(pc, "us");
+      else if (market === "au") loc = await geocodeZip(pc, "au");
+      else loc = await geocodeUK(pc);
+      setLocation(loc);
+      fetchPVGIS(loc.lat, loc.lon, panelSize.kWp, placement.angle, placement.aspect);
+    } catch (e) {
+      setPvgisError(`${market === "us" ? "ZIP" : "Postcode"} not found — please check it.`);
+    }
   }
 
   async function fetchPVGIS(lat, lon, kWp, angle, aspect) {
@@ -444,15 +613,15 @@ function Calculator({ gridData }) {
   const lifetime = annualSaving * 15 - panelSize.cost;
   const co2Kg = selfConsumed * 0.207;
   const hasResults = annualGen > 0;
-  const tariffPct = ((tariff - 10) / 40) * 100;
+  const tariffPct = ((tariff - cfg.tariffMin) / (cfg.tariffMax - cfg.tariffMin)) * 100;
 
   return (
     <div className="grid-2-calc" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 24, alignItems: "start" }}>
       {/* LEFT — inputs */}
       <div style={{ padding: "24px", borderRadius: 16, border: `1px solid ${T.border}`, background: T.bg }}>
-        <CLabel>Your postcode</CLabel>
+        <CLabel>{cfg.postcodeLabel}</CLabel>
         <div style={{ display: "flex", gap: 8, marginBottom: 8 }}>
-          <input type="text" placeholder="e.g. BN1 1AA" value={postcodeInput}
+          <input type="text" placeholder={cfg.postcodePlaceholder} value={postcodeInput}
             onChange={e => setPostcodeInput(e.target.value.toUpperCase())}
             onKeyDown={e => e.key === "Enter" && geocodeAndFetch(postcodeInput)}
             style={{ flex: 1, padding: "12px 14px", borderRadius: 9, border: `1.5px solid ${location ? T.solarBorder : T.border}`, background: T.surface, color: T.ink, fontSize: "0.95rem", outline: "none", fontFamily: T.body, letterSpacing: "0.05em", boxShadow: "0 1px 3px rgba(0,0,0,0.04)" }}
@@ -471,7 +640,7 @@ function Calculator({ gridData }) {
         <div style={{ display: "flex", gap: 8, marginBottom: 20 }}>
           {PANEL_SIZES.map(p => (
             <CChip key={p.watts} active={panelSize.watts === p.watts} onClick={() => setPanelSize(p)}>
-              {p.label}{p.max && <CBadge>UK max</CBadge>}
+              {p.label}{p.max && market === "uk" && <CBadge>UK max</CBadge>}
             </CChip>
           ))}
         </div>
@@ -490,9 +659,9 @@ function Calculator({ gridData }) {
           ))}
         </div>
 
-        <CLabel>Supplier &middot; Ofgem Q2 2026 &middot; <a href="https://www.ofgem.gov.uk/check-if-energy-price-cap-affects-you" target="_blank" rel="noreferrer" style={{ color: T.sky }}>verify &nearr;</a></CLabel>
+        <CLabel>Rate &middot; {cfg.tariffNote} &middot; <a href={cfg.postcodeVerifyUrl} target="_blank" rel="noreferrer" style={{ color: T.sky }}>{cfg.postcodeVerifyLabel} &nearr;</a></CLabel>
         <div className="supplier-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 7, marginBottom: 14 }}>
-          {SUPPLIERS.map(s => (
+          {cfg.suppliers.map(s => (
             <button key={s.id} onClick={() => pickSupplier(s)}
               style={{ padding: "9px 10px", borderRadius: 7, border: `1.5px solid ${supplier.id === s.id ? T.solar : T.border}`, background: supplier.id === s.id ? T.solarLight : T.surface, color: supplier.id === s.id ? T.solar : T.inkMid, fontSize: "0.75rem", fontWeight: supplier.id === s.id ? 600 : 400, fontFamily: T.body, textAlign: "left" }}>
               {s.label}
@@ -501,14 +670,14 @@ function Calculator({ gridData }) {
         </div>
 
         <div style={{ display: "flex", alignItems: "center", gap: 14, marginBottom: 4 }}>
-          <input type="range" min="10" max="50" step="0.5" value={tariff}
-            onChange={e => { setTariff(parseFloat(e.target.value)); pickSupplier(SUPPLIERS.find(s => s.id === "manual")); }}
+          <input type="range" min={cfg.tariffMin} max={cfg.tariffMax} step="0.5" value={tariff}
+            onChange={e => { setTariff(parseFloat(e.target.value)); pickSupplier(cfg.suppliers.find(s => s.id === "manual")); }}
             style={{ flex: 1, background: `linear-gradient(to right,${T.solar} 0%,${T.solar} ${tariffPct}%,${T.border} ${tariffPct}%,${T.border} 100%)`, height: 4, borderRadius: 2, outline: "none" }}
           />
-          <span style={{ fontFamily: T.display, fontSize: "1.3rem", fontWeight: 800, color: T.solar, minWidth: 54, textAlign: "right", letterSpacing: "-0.02em" }}>{tariff.toFixed(1)}p</span>
+          <span style={{ fontFamily: T.display, fontSize: "1.3rem", fontWeight: 800, color: T.solar, minWidth: 54, textAlign: "right", letterSpacing: "-0.02em" }}>{tariff.toFixed(1)}{cfg.subUnit}</span>
         </div>
         <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.68rem", color: T.inkFaint }}>
-          <span>10p</span><span>50p/kWh</span>
+          <span>{cfg.tariffMin}{cfg.subUnit}</span><span>{cfg.tariffMax}{cfg.subUnit}/kWh</span>
         </div>
       </div>
 
@@ -517,8 +686,8 @@ function Calculator({ gridData }) {
         {!hasResults ? (
           <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", textAlign: "center", gap: 16, padding: "40px 20px" }}>
             <div style={{ width: 64, height: 64, borderRadius: 16, background: T.solarLight, display: "flex", alignItems: "center", justifyContent: "center", fontSize: "2rem" }}>📍</div>
-            <div style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, lineHeight: 1.5 }}>Enter your postcode to see your estimate</div>
-            <div style={{ fontSize: "0.78rem", color: T.inkFaint, lineHeight: 1.6 }}>Real PVGIS irradiance &mdash; no two postcodes are identical</div>
+            <div style={{ fontFamily: T.display, fontSize: "1.1rem", fontWeight: 700, color: T.ink, lineHeight: 1.5 }}>Enter your {market === "us" ? "ZIP code" : "postcode"} to see your estimate</div>
+            <div style={{ fontSize: "0.78rem", color: T.inkFaint, lineHeight: 1.6 }}>Real PVGIS irradiance &mdash; no two {market === "us" ? "ZIP codes" : "postcodes"} are identical</div>
           </div>
         ) : (
           <div className="fi">
@@ -549,7 +718,7 @@ function Calculator({ gridData }) {
               return (
                 <div className="rcards" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 10, marginBottom: 12 }}>
                   <RCard label={`Generation / ${period}`} value={`${gen.toFixed(0)} kWh`} sub="PVGIS · your postcode" hi />
-                  <RCard label={`Saving / ${period}`} value={`£${sav.toFixed(sav < 10 ? 2 : 0)}`} sub={`at ${tariff.toFixed(1)}p/kWh`} hi />
+                  <RCard label={`Saving / ${period}`} value={`${cfg.currency}${sav.toFixed(sav < 10 ? 2 : 0)}`} sub={`at ${tariff.toFixed(1)}${cfg.subUnit}/kWh`} hi />
                   <RCard label="Payback period" value={`${payback.toFixed(1)} yrs`} />
                   <RCard label="CO₂ offset / yr" value={`${co2Kg.toFixed(0)} kg`} sub="207g/kWh · DESNZ" />
                 </div>
@@ -557,17 +726,17 @@ function Calculator({ gridData }) {
             })()}
 
             {/* Seasonal savings graph */}
-            {monthlyKwh && <SavingsGraph monthlyKwh={monthlyKwh} selfConsumption={presence.sc} tariff={tariff} />}
+            {monthlyKwh && <SavingsGraph monthlyKwh={monthlyKwh} selfConsumption={presence.sc} tariff={tariff} currency={cfg.currency} />}
 
             <div style={{ padding: "20px", borderRadius: 12, background: lifetime > 0 ? T.greenLight : T.redLight, border: `1.5px solid ${lifetime > 0 ? T.greenBorder : "rgba(220,38,38,0.18)"}`, textAlign: "center", marginBottom: 16 }}>
-              <div style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint, marginBottom: 10 }}>15-year net saving after &pound;{panelSize.cost} system cost</div>
+              <div style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint, marginBottom: 10 }}>15-year net saving after {cfg.currency}{panelSize.cost} system cost</div>
               <div style={{ fontFamily: T.display, fontSize: "3rem", fontWeight: 800, color: lifetime > 0 ? T.green : T.red, lineHeight: 1, letterSpacing: "-0.03em" }}>
-                {lifetime >= 0 ? "+" : ""}&pound;{Math.abs(lifetime).toFixed(0)}
+                {lifetime >= 0 ? "+" : ""}{cfg.currency}{Math.abs(lifetime).toFixed(0)}
               </div>
-              <div style={{ fontSize: "0.72rem", color: T.inkFaint, marginTop: 8 }}>Based on constant {tariff.toFixed(1)}p tariff</div>
+              <div style={{ fontSize: "0.72rem", color: T.inkFaint, marginTop: 8 }}>Based on constant {tariff.toFixed(1)}{cfg.subUnit} tariff</div>
             </div>
 
-            {gridData && (
+            {gridData && market === "uk" && (
               <div style={{ padding: "14px 16px", borderRadius: 10, border: `1px solid ${T.border}`, background: T.bg, marginBottom: 16 }}>
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 8 }}>
                   <span style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint }}>UK grid right now</span>
@@ -645,12 +814,14 @@ function HowItWorks() {
 // ─── FAQ ────────────────────────────────────────────────────────────────────
 function FAQSection() {
   const [open, setOpen] = useState(null);
+  const { market } = useMarket();
+  const items = MARKET_FAQ[market] || MARKET_FAQ.uk;
   return (
     <section id="faq" className="section-pad" style={{ padding: "80px 20px", background: T.surface, borderTop: `1px solid ${T.border}` }}>
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
         <SectionLabel>FAQ</SectionLabel>
         <div className="faq-grid" style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: 1, background: T.border, borderRadius: 16, overflow: "hidden", marginTop: 40 }}>
-          {FAQ_ITEMS.map((item, i) => (
+          {items.map((item, i) => (
             <div key={i} style={{ background: T.surface }}>
               <button onClick={() => setOpen(open === i ? null : i)}
                 style={{ width: "100%", padding: "22px 26px", background: "transparent", border: "none", textAlign: "left", display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 16, fontFamily: T.body }}>
@@ -674,7 +845,7 @@ function FAQSection() {
 // ─── SAVINGS GRAPH (homepage) ──────────────────────────────────────────────
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
 
-function SavingsGraph({ monthlyKwh, selfConsumption, tariff }) {
+function SavingsGraph({ monthlyKwh, selfConsumption, tariff, currency = "£" }) {
   const monthlySavings = monthlyKwh.map(kwh => (kwh * selfConsumption * tariff) / 100);
   const maxSaving = Math.max(...monthlySavings);
   const W = 400, H = 180, PAD_L = 38, PAD_R = 10, PAD_T = 10, PAD_B = 28;
@@ -696,7 +867,7 @@ function SavingsGraph({ monthlyKwh, selfConsumption, tariff }) {
           return (
             <g key={t}>
               <line x1={PAD_L} y1={y} x2={W - PAD_R} y2={y} stroke={T.border} strokeWidth="0.5" />
-              <text x={PAD_L - 6} y={y + 3} textAnchor="end" fill={T.inkFaint} fontSize="8" fontFamily={T.body}>£{t}</text>
+              <text x={PAD_L - 6} y={y + 3} textAnchor="end" fill={T.inkFaint} fontSize="8" fontFamily={T.body}>{currency}{t}</text>
             </g>
           );
         })}
@@ -709,7 +880,7 @@ function SavingsGraph({ monthlyKwh, selfConsumption, tariff }) {
               <rect x={x} y={y} width={barW} height={barH} rx={3} fill={T.solar} opacity={0.85} />
               {barH > 18 && (
                 <text x={x + barW / 2} y={y + 12} textAnchor="middle" fill="#fff" fontSize="7.5" fontWeight="600" fontFamily={T.display}>
-                  £{s.toFixed(0)}
+                  {currency}{s.toFixed(0)}
                 </text>
               )}
               <text x={x + barW / 2} y={H - 6} textAnchor="middle" fill={T.inkFaint} fontSize="7.5" fontFamily={T.body}>
@@ -721,10 +892,10 @@ function SavingsGraph({ monthlyKwh, selfConsumption, tariff }) {
       </svg>
       <div style={{ display: "flex", justifyContent: "space-between", marginTop: 6 }}>
         <span style={{ fontSize: "0.68rem", color: T.inkMid }}>
-          Peak: <strong>£{Math.max(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.max(...monthlySavings))]})
+          Peak: <strong>{currency}{Math.max(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.max(...monthlySavings))]})
         </span>
         <span style={{ fontSize: "0.68rem", color: T.inkMid }}>
-          Low: <strong>£{Math.min(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.min(...monthlySavings))]})
+          Low: <strong>{currency}{Math.min(...monthlySavings).toFixed(2)}</strong>/mo ({MONTHS[monthlySavings.indexOf(Math.min(...monthlySavings))]})
         </span>
       </div>
     </div>
