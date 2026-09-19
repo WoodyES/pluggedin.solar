@@ -146,9 +146,9 @@ function Hero({ gridData }) {
 
         <h1 className="fu1" style={{ fontFamily: T.display, fontSize: "clamp(2.8rem,6vw,4.6rem)", fontWeight: 800, lineHeight: 1.08, letterSpacing: "-0.03em", marginBottom: 24, maxWidth: 800 }}>
           Plug-in solar is legal
-          <br />in the UK{" "}
+          <br />
           <span style={{ color: T.solar, display: "inline-block", position: "relative" }}>
-            from today.
+            in the UK.
             <svg style={{ position: "absolute", bottom: -6, left: 0, width: "100%", height: 6, overflow: "visible" }} viewBox="0 0 200 6" preserveAspectRatio="none">
               <path d="M0,5 Q50,1 100,4 Q150,7 200,3" stroke={T.solarBright} strokeWidth="2.5" fill="none" strokeLinecap="round" opacity="0.7" />
             </svg>
