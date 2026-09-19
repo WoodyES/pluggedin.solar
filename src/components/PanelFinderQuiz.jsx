@@ -2,10 +2,48 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import T from "../tokens";
 import EmailCapture from "./EmailCapture";
+import { useMarket } from "../MarketContext";
+
+// ─── MARKET-SPECIFIC COPY ──────────────────────────────────────────────────
+const MARKET_QUIZ = {
+  uk: {
+    currency: "£",
+    budgetOptions: [
+      { id: "low",  label: "Under £400", desc: "Entry-level 400W panel-only kit" },
+      { id: "mid",  label: "£400–£700",  desc: "Mid-range 600–800W kit, best value per watt" },
+      { id: "high", label: "£700+",      desc: "Premium 800W kit with battery or smart features" },
+    ],
+    budgetSub: "Prices are current UK estimates. Compliant kits on sale now via B&Q, Currys, Amazon and Screwfix.",
+    disclaimer: "Plug-in solar became legal in the UK on 27 August 2026. Compliant kits from EcoFlow, Anker SOLIX, Bright Saver and Craftstrom are on sale now at B&Q, Currys, Amazon and Screwfix.",
+    ctaLabel: "Calculate exact savings →",
+  },
+  us: {
+    currency: "$",
+    budgetOptions: [
+      { id: "low",  label: "Under $500",  desc: "Entry-level 400W panel + basic inverter" },
+      { id: "mid",  label: "$500–$900",   desc: "Mid-range 800W kit with UL-listed inverter" },
+      { id: "high", label: "$900+",       desc: "Premium 800W kit with battery / whole-home integration" },
+    ],
+    budgetSub: "Prices are US-market estimates. Small plug-in kits (200–800W) with UL 1741-listed inverters are widely available on Amazon US.",
+    disclaimer: "US plug-in solar sits in a grey area of NEC Article 705. Small kits (200–800W) with UL 1741-listed inverters are widely used; utility notification requirements vary by state and provider — check yours before install.",
+    ctaLabel: "Calculate your savings →",
+  },
+  au: {
+    currency: "A$",
+    budgetOptions: [
+      { id: "low",  label: "Under A$500",  desc: "Portable panel + camping-grade inverter" },
+      { id: "mid",  label: "A$500–A$1000", desc: "Portable panel + LFP power station combo" },
+      { id: "high", label: "A$1000+",      desc: "High-capacity portable + battery for evening use" },
+    ],
+    budgetSub: "Prices are AU-market estimates. Portable and off-grid kits from EcoFlow, Anker and Jackery are widely available on Amazon AU.",
+    disclaimer: "Grid-tied plug-in solar in Australia requires CEC-approved inverters and a licensed installer under AS/NZS 4777. Portable and off-grid kits — panels feeding a power station — are widely used and legal without accreditation.",
+    ctaLabel: "Calculate your savings →",
+  },
+};
 
 // ─── QUIZ DATA ─────────────────────────────────────────────────────────────
 
-const QUESTIONS = [
+const BASE_QUESTIONS = [
   {
     id: "location",
     label: "Where will you install?",
@@ -48,27 +86,31 @@ const QUESTIONS = [
       { id: "no",    icon: "⚡",       label: "No thanks",    desc: "I'll use solar as it generates — keep it simple" },
     ],
   },
-  {
-    id: "budget",
-    label: "What's your budget?",
-    sub: "Prices are estimates for when compliant kits arrive (~July 2026).",
-    options: [
-      { id: "low",  icon: "💷", label: "Under £400",  desc: "Entry-level 400W panel-only kit" },
-      { id: "mid",  icon: "💷", label: "£400–£700",  desc: "Mid-range 600–800W kit, best value per watt" },
-      { id: "high", icon: "💷", label: "£700+",       desc: "Premium 800W kit with battery or smart features" },
-    ],
-  },
+  // Budget question is spliced in at render time from MARKET_QUIZ (currency-specific)
 ];
 
-// ─── PLACEHOLDER PRODUCT CATALOGUE ─────────────────────────────────────────
+// Build the final question list for a given market
+function questionsForMarket(mCopy) {
+  return [
+    ...BASE_QUESTIONS,
+    {
+      id: "budget",
+      label: "What's your budget?",
+      sub: mCopy.budgetSub,
+      options: mCopy.budgetOptions.map(o => ({ ...o, icon: "💷" })),
+    },
+  ];
+}
+
+// ─── PRODUCT CATALOGUE ────────────────────────────────────────────────────
 const AWIN_BASE = "https://www.awin1.com/cread.php?awinmid=51797&awinaffid=2846734&ued=";
 const PRODUCTS = [
-  { id: "ecoflow-800",        name: "EcoFlow PowerStream 800W",         brand: "EcoFlow", watts: 800, battery: true,  price: "~£799",   features: ["800W dual-panel kit", "600Wh plug-in battery", "App with live monitoring", "Balcony & garden mount"], best: ["garden", "flat_roof", "shed"], badge: "Best overall",    accent: T.solar, image: "/images/products/stream-hero.png",  link: AWIN_BASE + encodeURIComponent("https://www.ecoflow.com/uk/stream-balcony-solar-system") },
-  { id: "anker-800",          name: "Anker SOLIX 800W Balcony Kit",     brand: "Anker",   watts: 800, battery: false, price: "~£599",   features: ["800W dual-panel", "Micro-inverter included", "Lightweight balcony brackets", "Wi-Fi monitoring"],     best: ["balcony"],                    badge: "Best for balconies", accent: T.sky, image: "/images/products/panel400-hero.jpg", link: null },
-  { id: "ecoflow-600",        name: "EcoFlow PowerStream 600W",         brand: "EcoFlow", watts: 600, battery: true,  price: "~£649",   features: ["600W dual-panel kit", "600Wh battery option", "App monitoring", "Compact balcony mount"],             best: ["balcony"],                    badge: "Mid-range pick",    accent: T.solar, image: "/images/products/stream-balcony.jpg", link: AWIN_BASE + encodeURIComponent("https://www.ecoflow.com/uk/stream-balcony-solar-system") },
-  { id: "generic-400",        name: "Plug-in Solar Starter 400W",       brand: "Various", watts: 400, battery: false, price: "~£349",   features: ["Single 400W panel", "Micro-inverter included", "Simple bracket mount", "No app required"],            best: ["balcony", "garden"],          badge: "Budget friendly",   accent: T.green, image: "/images/products/panel400-hero.jpg", link: null },
-  { id: "premium-800-battery", name: "EcoFlow PowerStream 800W + Delta", brand: "EcoFlow", watts: 800, battery: true,  price: "~£1,099", features: ["800W dual-panel kit", "1kWh Delta battery", "Full home backup mode", "Smart scheduling"],             best: ["garden", "flat_roof", "shed"], badge: "Premium choice",    accent: T.solar, image: "/images/products/stream-ultra.png", link: AWIN_BASE + encodeURIComponent("https://www.ecoflow.com/uk/stream-balcony-solar-system") },
-  { id: "anker-600",          name: "Anker SOLIX 600W Kit",             brand: "Anker",   watts: 600, battery: false, price: "~£449",   features: ["600W dual-panel", "Micro-inverter included", "Balcony & ground mount", "App monitoring"],             best: ["balcony", "garden"],          badge: "Great value",       accent: T.sky, image: "/images/products/panel400-lifestyle.jpg", link: null },
+  { id: "ecoflow-800",        name: "EcoFlow STREAM 800W Garden Kit",      brand: "EcoFlow", watts: 800, battery: false, price: "~£599",   features: ["800W microinverter + 2 rigid solar panels", "True plug-and-play into 13A socket", "App monitoring with AI assistant", "Garden, balcony & flat-roof mounts"],          best: ["garden", "flat_roof", "shed"], badge: "Best overall",      accent: T.solar, image: "/images/products/stream-hero.png",       link: AWIN_BASE + encodeURIComponent("https://uk.ecoflow.com/products/stream-garden-ground-kit") },
+  { id: "anker-solarbank2",   name: "Anker SOLIX Solarbank 2 E1600",      brand: "Anker",   watts: 800, battery: true,  price: "~£899",   features: ["800W with built-in 1.6kWh battery", "Microinverter & battery in one unit", "Clip-on balcony railing mount", "Wi-Fi & Bluetooth monitoring"],                      best: ["balcony"],                     badge: "Best for balconies", accent: T.sky,   image: "/images/products/panel400-hero.jpg",     link: null },
+  { id: "ecoflow-balcony",    name: "EcoFlow STREAM Balcony Kit",          brand: "EcoFlow", watts: 800, battery: false, price: "~£499",   features: ["800W microinverter + balcony panels", "Compact clip-on railing mount", "App monitoring included", "No drilling required"],                                         best: ["balcony"],                     badge: "Mid-range pick",    accent: T.solar, image: "/images/products/stream-balcony.jpg",    link: AWIN_BASE + encodeURIComponent("https://uk.ecoflow.com/pages/stream-balcony-solar-system") },
+  { id: "generic-400",        name: "Budget 400W Starter Kit",             brand: "Various", watts: 400, battery: false, price: "~£299",   features: ["Single 400W panel + microinverter", "Basic plug-and-play setup", "Suitable for small spaces", "No app — use a smart plug to monitor"],                             best: ["balcony", "garden"],           badge: "Budget friendly",   accent: T.green, image: "/images/products/panel400-hero.jpg",     link: null },
+  { id: "ecoflow-ultra",      name: "EcoFlow STREAM Ultra",                brand: "EcoFlow", watts: 800, battery: true,  price: "~£899",   features: ["1.92kWh LFP battery + 800W solar", "AI-driven TOU energy management", "Expandable up to 11.52kWh", "Requires electrician installation"],                         best: ["garden", "flat_roof", "shed"], badge: "Premium choice",    accent: T.solar, image: "/images/products/stream-ultra.png",     link: AWIN_BASE + encodeURIComponent("https://uk.ecoflow.com/products/stream-ultra-pro") },
+  { id: "anker-solarbank4",   name: "Anker SOLIX Solarbank 4 E5000 Pro",  brand: "Anker",   watts: 800, battery: true,  price: "~£1,299", features: ["5kWh LFP battery storage", "Up to 2,500W output via PluginPower 2.0", "4 MPPT channels for max solar capture", "Premium all-in-one system"],                      best: ["balcony", "garden"],           badge: "Premium battery",   accent: T.sky,   image: "/images/products/panel400-lifestyle.jpg", link: null },
 ];
 
 function recommend(answers) {
@@ -99,6 +141,9 @@ function recommend(answers) {
 // ─── COMPONENT ─────────────────────────────────────────────────────────────
 
 export default function PanelFinderQuiz() {
+  const { market } = useMarket();
+  const mCopy = MARKET_QUIZ[market] || MARKET_QUIZ.uk;
+  const QUESTIONS = questionsForMarket(mCopy);
   const [step, setStep] = useState(0);
   const [answers, setAnswers] = useState({});
   const [results, setResults] = useState(null);
@@ -144,7 +189,7 @@ export default function PanelFinderQuiz() {
         </div>
 
         <div style={{ marginTop: 32, padding: "16px 20px", borderRadius: 12, border: `1px solid ${T.border}`, background: T.surfaceAlt, fontSize: "0.78rem", color: T.inkMid, lineHeight: 1.7 }}>
-          <strong style={{ color: T.ink }}>Placeholder products.</strong> BSI-compliant plug-in solar kits are not yet available in the UK. These recommendations are based on expected specifications. We&rsquo;ll update with real, buyable products as soon as they launch (~July 2026).
+          {mCopy.disclaimer}
         </div>
 
         {/* Email signup */}
@@ -157,7 +202,7 @@ export default function PanelFinderQuiz() {
             Retake quiz
           </button>
           <Link to="/calculator" style={{ flex: 1, padding: "14px", borderRadius: 10, border: "none", background: T.solar, color: "#fff", fontSize: "0.85rem", fontWeight: 600, fontFamily: T.display, textDecoration: "none", textAlign: "center", boxShadow: `0 2px 12px ${T.solarBorder}`, cursor: "pointer" }}>
-            Calculate exact savings &rarr;
+            {mCopy.ctaLabel}
           </Link>
         </div>
       </div>
@@ -276,15 +321,12 @@ function ProductCard({ product: p, primary }) {
           onMouseEnter={e => e.currentTarget.style.opacity = "0.88"}
           onMouseLeave={e => e.currentTarget.style.opacity = "1"}
         >
-          View on EcoFlow &rarr;
+          View on {p.brand} &rarr;
         </a>
       )}
 
-      {primary && (
-        <div style={{ marginTop: 16, padding: "12px 20px", borderRadius: 10, background: T.surfaceAlt, border: `1px solid ${T.border}`, fontSize: "0.78rem", color: T.inkMid, textAlign: "center" }}>
-          Available when BSI-compliant kits launch &middot; we&rsquo;ll notify you
-        </div>
-      )}
+      {/* Legal-status note removed here — the market-specific disclaimer at the
+          bottom of the results panel already communicates this per market. */}
     </div>
   );
 }

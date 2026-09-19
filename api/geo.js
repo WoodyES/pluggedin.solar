@@ -34,6 +34,9 @@ export default function handler(req) {
         // 1 hour cache per country (Vary on the geo header)
         "cache-control": "public, max-age=3600, s-maxage=3600",
         "vary": "x-vercel-ip-country",
+        // Client-readable cookie so MarketProvider can pick the correct
+        // market synchronously on repeat visits (no fetch round-trip flicker).
+        "set-cookie": `pin-market=${market}; Path=/; Max-Age=2592000; SameSite=Lax`,
       },
     },
   );

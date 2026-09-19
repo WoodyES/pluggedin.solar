@@ -4,6 +4,18 @@ import { createContext, useContext, useEffect, useState, useCallback } from "rea
 // Detection: fetch /api/geo (Vercel edge). User override persists to localStorage.
 const DEFAULT_MARKET = "uk";
 const STORAGE_KEY = "pluggedin-market";
+const COOKIE_KEY = "pin-market";
+
+// Synchronously read the geo-detection cookie set by /api/geo on the previous
+// visit. Lets us render the right market on first paint for repeat visitors —
+// no fetch, no flicker.
+function readCookieMarket() {
+  if (typeof document === "undefined") return null;
+  try {
+    const match = document.cookie.match(new RegExp(`(?:^|;\\s*)${COOKIE_KEY}=([^;]+)`));
+    return match ? match[1] : null;
+  } catch (_) { return null; }
+}
 
 export const MARKETS = {
   uk: { code: "uk", country: "GB", label: "United Kingdom", flag: "🇬🇧", currency: "£", currencyCode: "GBP" },
@@ -21,32 +33,44 @@ const MarketContext = createContext({
 });
 
 export function MarketProvider({ children }) {
-  const [market, setMarketState] = useState(DEFAULT_MARKET);
+  // Synchronous initial pick order:
+  //   1. localStorage user override (highest)
+  //   2. pin-market cookie set by /api/geo on a previous visit (zero-flicker for repeats)
+  //   3. UK default (for the very first visit — corrected by /api/geo below if wrong)
+  const initialMarket = (() => {
+    if (typeof window === "undefined") return DEFAULT_MARKET;
+    try {
+      const stored = localStorage.getItem(STORAGE_KEY);
+      if (stored && MARKETS[stored]) return stored;
+    } catch (_) {}
+    const cookie = readCookieMarket();
+    if (cookie && MARKETS[cookie]) return cookie;
+    return DEFAULT_MARKET;
+  })();
+
+  const [market, setMarketState] = useState(initialMarket);
   const [detected, setDetected] = useState(null);
-  const [userOverride, setUserOverride] = useState(false);
+  const [userOverride, setUserOverride] = useState(() => {
+    if (typeof window === "undefined") return false;
+    try { return !!localStorage.getItem(STORAGE_KEY); } catch (_) { return false; }
+  });
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
-    // 1. If the user has already picked a market, honour that immediately.
-    let stored = null;
-    try { stored = localStorage.getItem(STORAGE_KEY); } catch (_) {}
-    if (stored && MARKETS[stored]) {
-      setMarketState(stored);
-      setUserOverride(true);
-      setReady(true);
-      // Still fetch geo in the background so we can flag "detected different from selected".
-      fetch("/api/geo").then(r => r.json()).then(d => setDetected(d)).catch(() => {});
-      return;
-    }
-    // 2. Otherwise, ask the edge for the detected country.
+    // Fetch /api/geo to (a) refresh detection, (b) set the pin-market cookie
+    // for next visit, and (c) correct our optimistic default if it was wrong.
     fetch("/api/geo")
       .then(r => r.ok ? r.json() : Promise.reject())
       .then(d => {
         setDetected(d);
-        if (d.market && MARKETS[d.market]) setMarketState(d.market);
+        // Only overwrite if the user hasn't picked something manually already
+        if (!userOverride && d.market && MARKETS[d.market] && d.market !== market) {
+          setMarketState(d.market);
+        }
       })
-      .catch(() => { /* silent — stay on default */ })
+      .catch(() => { /* silent — stay on current choice */ })
       .finally(() => setReady(true));
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const setMarket = useCallback((next) => {

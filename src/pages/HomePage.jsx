@@ -307,10 +307,10 @@ function Hero({ gridData, copy }) {
       <div style={{ position: "absolute", bottom: "5%", left: "-12%", width: 360, height: 360, borderRadius: "50%", background: `radial-gradient(circle,${T.skyLight} 0%,transparent 65%)`, pointerEvents: "none", zIndex: 0 }} />
 
       <div style={{ position: "relative", zIndex: 1 }}>
-        {gridData && market === "uk" && (
+        {gridData && (
           <div className="fu" style={{ display: "inline-flex", alignItems: "center", gap: 8, padding: "6px 14px", borderRadius: 20, border: `1.5px solid ${T.border}`, background: T.surface, marginBottom: 32, fontSize: "0.78rem", color: T.inkMid, fontWeight: 500, boxShadow: "0 1px 4px rgba(0,0,0,0.06)" }}>
-            <span style={{ width: 7, height: 7, borderRadius: "50%", background: T.green, animation: "pulse 2s infinite", flexShrink: 0 }} />
-            Solar providing <span style={{ color: T.solar, fontWeight: 700, margin: "0 3px" }}>{gridData.solar.toFixed(1)}%</span> of UK electricity right now
+            <span style={{ width: 7, height: 7, borderRadius: "50%", background: gridData.static ? T.inkFaint : T.green, animation: gridData.static ? "none" : "pulse 2s infinite", flexShrink: 0 }} />
+            Solar providing <span style={{ color: T.solar, fontWeight: 700, margin: "0 3px" }}>{gridData.solar.toFixed(1)}%</span> of {market === "uk" ? "UK" : market === "us" ? "US" : "AU"} electricity {gridData.static ? "(recent avg)" : "right now"}
           </div>
         )}
 
@@ -736,12 +736,12 @@ function Calculator({ gridData, market = "uk" }) {
               <div style={{ fontSize: "0.72rem", color: T.inkFaint, marginTop: 8 }}>Based on constant {tariff.toFixed(1)}{cfg.subUnit} tariff</div>
             </div>
 
-            {gridData && market === "uk" && (
+            {gridData && (
               <div style={{ padding: "14px 16px", borderRadius: 10, border: `1px solid ${T.border}`, background: T.bg, marginBottom: 16 }}>
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 8 }}>
-                  <span style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint }}>UK grid right now</span>
-                  <span style={{ display: "flex", alignItems: "center", gap: 5, fontSize: "0.68rem", color: T.green, fontWeight: 500 }}>
-                    <span style={{ width: 5, height: 5, borderRadius: "50%", background: T.green, display: "inline-block", animation: "pulse 2s infinite" }} /> Live
+                  <span style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint }}>{market === "uk" ? "UK" : market === "us" ? "US" : "AU"} grid {gridData.static ? "(recent avg)" : "right now"}</span>
+                  <span style={{ display: "flex", alignItems: "center", gap: 5, fontSize: "0.68rem", color: gridData.static ? T.inkFaint : T.green, fontWeight: 500 }}>
+                    <span style={{ width: 5, height: 5, borderRadius: "50%", background: gridData.static ? T.inkFaint : T.green, display: "inline-block", animation: gridData.static ? "none" : "pulse 2s infinite" }} /> {gridData.static ? "Avg" : "Live"}
                   </span>
                 </div>
                 <div style={{ height: 7, borderRadius: 4, overflow: "hidden", display: "flex", marginBottom: 8, background: T.border }}>

@@ -405,13 +405,13 @@ export default function CalculatorPage() {
               <div style={{ fontSize: "0.72rem", color: T.inkFaint, marginTop: 8 }}>Based on constant {tariff.toFixed(1)}{cfg.subUnit} tariff</div>
             </div>
 
-            {/* Live grid (UK-only for now — US/AU need EIA/OpenNEM keys) */}
-            {gridData && market === "uk" && (
+            {/* Live grid — uses real API when a key is present, otherwise a market-specific static baseline */}
+            {gridData && (
               <div style={{ padding: "14px 16px", borderRadius: 10, border: `1px solid ${T.border}`, background: T.bg, marginBottom: 16 }}>
                 <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 8 }}>
-                  <span style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint }}>UK grid right now</span>
-                  <span style={{ display: "flex", alignItems: "center", gap: 5, fontSize: "0.68rem", color: T.green, fontWeight: 500 }}>
-                    <span style={{ width: 5, height: 5, borderRadius: "50%", background: T.green, display: "inline-block", animation: "pulse 2s infinite" }} /> Live
+                  <span style={{ fontSize: "0.65rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: T.inkFaint }}>{market === "uk" ? "UK" : market === "us" ? "US" : "AU"} grid {gridData.static ? "(recent avg)" : "right now"}</span>
+                  <span style={{ display: "flex", alignItems: "center", gap: 5, fontSize: "0.68rem", color: gridData.static ? T.inkFaint : T.green, fontWeight: 500 }}>
+                    <span style={{ width: 5, height: 5, borderRadius: "50%", background: gridData.static ? T.inkFaint : T.green, display: "inline-block", animation: gridData.static ? "none" : "pulse 2s infinite" }} /> {gridData.static ? "Avg" : "Live"}
                   </span>
                 </div>
                 <div style={{ height: 7, borderRadius: 4, overflow: "hidden", display: "flex", marginBottom: 8, background: T.border }}>

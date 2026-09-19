@@ -4,6 +4,7 @@ import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
 import EmailCapture from "../components/EmailCapture";
 import SEO from "../components/SEO";
+import MarketRerouteBanner from "../components/MarketReroutBanner";
 import allPosts from "../data/posts";
 
 const MARKET_INFO = {
@@ -117,6 +118,9 @@ export default function BlogPost({ market = "uk" }) {
         hreflang={hreflang}
       />
       <div style={{ maxWidth: 680, margin: "0 auto" }}>
+        {/* Suggest visitor's market blog if they're viewing a different market's content */}
+        <MarketRerouteBanner pageMarket={market} subpath={`/blog/${slug}`} />
+
         {/* Breadcrumb */}
         <nav style={{ fontSize: "0.78rem", color: T.inkFaint, marginBottom: 24, display: "flex", alignItems: "center", gap: 6, flexWrap: "wrap" }}>
           <Link to="/" style={{ color: T.inkFaint, textDecoration: "none" }}>Home</Link>

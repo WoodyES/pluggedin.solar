@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import T from "../tokens";
 import SectionLabel from "../components/SectionLabel";
 import SEO from "../components/SEO";
+import MarketRerouteBanner from "../components/MarketReroutBanner";
 import allPosts from "../data/posts";
 
 const MARKETS = [
@@ -51,6 +52,7 @@ export default function BlogIndex({ market = "uk" }) {
     <section className="section-pad" style={{ padding: "100px 20px 80px" }}>
       <SEO title={`${MARKETS.find(m => m.id === market)?.name || "UK"} Plug-in Solar Blog`} description={info.desc} path={seoPath} />
       <div style={{ maxWidth: 960, margin: "0 auto" }}>
+        <MarketRerouteBanner pageMarket={market} subpath="/blog" />
         <SectionLabel>Blog</SectionLabel>
         <h1 style={{ fontFamily: T.display, fontSize: "clamp(2rem,4vw,2.8rem)", fontWeight: 800, marginTop: 12, marginBottom: 8, letterSpacing: "-0.02em" }}>News, guides &amp; analysis</h1>
         <p style={{ color: T.inkMid, fontSize: "0.95rem", marginBottom: 32, lineHeight: 1.6, maxWidth: 600 }}>

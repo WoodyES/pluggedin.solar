@@ -3,7 +3,8 @@ import { BrowserRouter, Routes, Route, useLocation } from "react-router-dom";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 import { Analytics } from "@vercel/analytics/react";
 import T from "./tokens";
-import { MarketProvider } from "./MarketContext";
+import { MarketProvider, useMarket } from "./MarketContext";
+import useGridData from "./useGridData";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import HomePage from "./pages/HomePage";
@@ -20,7 +21,6 @@ function ScrollToTop() {
 }
 
 export default function App() {
-  const [gridData, setGridData] = useState(null);
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
@@ -29,28 +29,7 @@ export default function App() {
     link.href = "https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=Epilogue:wght@300;400;500;600&display=swap";
     document.head.appendChild(link);
     setTimeout(() => setMounted(true), 60);
-    fetchGrid();
-    const t = setInterval(fetchGrid, 5 * 60 * 1000);
-    return () => clearInterval(t);
   }, []);
-
-  async function fetchGrid() {
-    try {
-      const r = await fetch("https://api.carbonintensity.org.uk/generation");
-      const json = await r.json();
-      const mix = json.data.generationmix;
-      const get = f => mix.find(m => m.fuel === f)?.perc || 0;
-      setGridData({
-        solar: get("solar"),
-        wind: get("wind") + get("wind_offshore") + get("wind_onshore"),
-        nuclear: get("nuclear"),
-        gas: get("gas"),
-        biomass: get("biomass"),
-        imports: get("imports"),
-        at: new Date(),
-      });
-    } catch (_) {}
-  }
 
   if (!mounted) return <div style={{ background: T.bg, minHeight: "100vh" }} />;
 
@@ -58,27 +37,38 @@ export default function App() {
     <MarketProvider>
       <BrowserRouter>
         <ScrollToTop />
-        <div style={{ background: T.bg, color: T.ink, fontFamily: T.body, minHeight: "100vh" }}>
-          <GlobalStyles />
-          <Nav />
-        <Routes>
-          <Route path="/" element={<HomePage gridData={gridData} />} />
-          <Route path="/calculator" element={<CalculatorPage gridData={gridData} />} />
-          <Route path="/quiz" element={<QuizPage />} />
-          <Route path="/blog" element={<BlogIndex />} />
-          <Route path="/blog/:slug" element={<BlogPost />} />
-          <Route path="/us/blog" element={<BlogIndex market="us" />} />
-          <Route path="/us/blog/:slug" element={<BlogPost market="us" />} />
-          <Route path="/au/blog" element={<BlogIndex market="au" />} />
-          <Route path="/au/blog/:slug" element={<BlogPost market="au" />} />
-          <Route path="*" element={<NotFound />} />
-        </Routes>
-          <Footer />
-          <SpeedInsights />
-          <Analytics />
-        </div>
+        <AppShell />
       </BrowserRouter>
     </MarketProvider>
+  );
+}
+
+// AppShell reads market from context and passes market-appropriate grid data down.
+// Split into its own component so the grid hook runs inside MarketProvider.
+function AppShell() {
+  const { market } = useMarket();
+  const gridData = useGridData(market);
+
+  return (
+    <div style={{ background: T.bg, color: T.ink, fontFamily: T.body, minHeight: "100vh" }}>
+      <GlobalStyles />
+      <Nav />
+      <Routes>
+        <Route path="/" element={<HomePage gridData={gridData} />} />
+        <Route path="/calculator" element={<CalculatorPage gridData={gridData} />} />
+        <Route path="/quiz" element={<QuizPage />} />
+        <Route path="/blog" element={<BlogIndex />} />
+        <Route path="/blog/:slug" element={<BlogPost />} />
+        <Route path="/us/blog" element={<BlogIndex market="us" />} />
+        <Route path="/us/blog/:slug" element={<BlogPost market="us" />} />
+        <Route path="/au/blog" element={<BlogIndex market="au" />} />
+        <Route path="/au/blog/:slug" element={<BlogPost market="au" />} />
+        <Route path="*" element={<NotFound />} />
+      </Routes>
+      <Footer />
+      <SpeedInsights />
+      <Analytics />
+    </div>
   );
 }
 
