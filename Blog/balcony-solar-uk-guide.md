@@ -1,6 +1,6 @@
 ---
 title: "Balcony Solar UK: Everything You Need to Know"
-slug: "balcony-solar-uk"
+slug: "balcony-solar-uk-guide"
 excerpt: "A practical guide to balcony-mounted solar panels in the UK — how they work, where to mount them, what to expect, and whether they're right for you."
 date: "2026-04-05"
 category: Getting Started

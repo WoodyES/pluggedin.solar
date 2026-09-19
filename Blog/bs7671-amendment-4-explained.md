@@ -1,6 +1,6 @@
 ---
 title: "BS 7671 Amendment 4 Explained: What Changed on 15 April 2026"
-slug: "bs7671-amendment-4-plug-in-solar"
+slug: "bs7671-amendment-4-explained"
 excerpt: "BS 7671 Amendment 4 explained in plain English. What changed for plug-in solar and what you still need to know."
 date: "2026-04-05"
 category: Regulations & Policy

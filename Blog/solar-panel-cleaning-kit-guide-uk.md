@@ -1,6 +1,6 @@
 ---
 title: "Solar Panel Cleaning Kit Guide for UK Plug-in Solar"
-slug: solar-panel-cleaning-kit-uk
+slug: solar-panel-cleaning-kit-guide-uk
 excerpt: "Dirty panels lose 5-25% of their output. Learn what cleaning kit actually works and what to avoid."
 date: "2026-04-06"
 category: Maintenance

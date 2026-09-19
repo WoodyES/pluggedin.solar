@@ -1,6 +1,6 @@
 ---
 title: "Best Multimeters for DIY Plug-in Solar Testing in the UK"
-slug: best-multimeter-diy-solar-uk
+slug: best-multimeters-for-diy-solar-uk
 excerpt: "A good multimeter costs £15-40 and is essential for troubleshooting your solar panels. Here's how to choose one and use it safely."
 date: "2026-04-06"
 category: Troubleshooting

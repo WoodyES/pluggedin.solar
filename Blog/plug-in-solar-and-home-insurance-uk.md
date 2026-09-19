@@ -1,6 +1,6 @@
 ---
 title: "Plug-in Solar and Home Insurance: What You Need to Know"
-slug: plug-in-solar-home-insurance-uk
+slug: plug-in-solar-and-home-insurance-uk
 excerpt: "Plug-in solar and home insurance UK. What to tell your insurer and why BS 7671 compliance matters for your cover."
 date: "2026-04-06"
 category: Regulations & Policy

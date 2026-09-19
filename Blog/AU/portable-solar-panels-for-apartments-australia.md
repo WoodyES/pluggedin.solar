@@ -1,6 +1,6 @@
 ---
 title: Portable Solar Panels for Apartments in Australia
-slug: portable-solar-panels-apartments-australia
+slug: portable-solar-panels-for-apartments-australia
 excerpt: The legal alternative to plug-in solar. How portable panels and power stations actually work for apartment dwellers.
 date: "2026-04-06"
 category: Renters & Flats

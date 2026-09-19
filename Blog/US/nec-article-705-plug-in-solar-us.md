@@ -32,7 +32,7 @@ The practical reality:
 - **Kits 400–800W** sit in a grey zone. Some utilities require notification; others explicitly allow small microgeneration under a de minimis threshold.
 - **Anything above 800W** almost certainly triggers full interconnection requirements in most jurisdictions.
 
-For clarity on the whole regulatory landscape, see the [complete US plug-in solar guide](/us/blog/is-plug-in-solar-legal-us).
+For clarity on the whole regulatory landscape, see the [complete US plug-in solar guide](/us/blog/is-plug-in-solar-legal-in-my-state).
 
 ## Utility notification: the practical step
 
@@ -70,7 +70,7 @@ For a plug-in kit that never sees the service panel directly (it feeds a branch 
 
 ## Bottom line
 
-For most US homes, a 200–800W plug-in kit with a UL 1741-listed microinverter is defensible under current NEC interpretations. The safest path: use listed equipment, notify your utility even if not strictly required, keep the paperwork. See our [utility notification guide](/us/blog/is-plug-in-solar-legal-us) for the specific process.
+For most US homes, a 200–800W plug-in kit with a UL 1741-listed microinverter is defensible under current NEC interpretations. The safest path: use listed equipment, notify your utility even if not strictly required, keep the paperwork. See our [utility notification guide](/us/blog/is-plug-in-solar-legal-in-my-state) for the specific process.
 
 ### Do I need a permit for a plug-in solar kit under 800W?
 

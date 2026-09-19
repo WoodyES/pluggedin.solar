@@ -1,6 +1,6 @@
 ---
 title: "Plug-in Solar Microinverter Problems & Fixes"
-slug: plug-in-solar-microinverter-problems-uk
+slug: plug-in-solar-microinverter-problems-and-fixes
 excerpt: "Wi-Fi dropouts, firmware bugs, overnight battery drain, and overheating shutdowns. Here's what actually goes wrong with microinverters and how to fix it."
 date: "2026-04-06"
 category: Troubleshooting

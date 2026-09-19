@@ -1,6 +1,6 @@
 ---
 title: "Tenancy & Balcony Solar: What You Can Do"
-slug: "rented-flat-solar-panels-uk"
+slug: "balcony-solar-renters-ast"
 excerpt: "Most standard ASTs don't prohibit plug-in balcony solar. Here's how to read your agreement and approach your landlord."
 date: "2026-04-05"
 category: Renters & Flats

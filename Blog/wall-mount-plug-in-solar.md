@@ -1,6 +1,6 @@
 ---
 title: "Wall-Mounted Plug-in Solar: When & How"
-slug: "wall-mount-plug-in-solar-uk"
+slug: "wall-mount-plug-in-solar"
 excerpt: "Wall mounting is niche but valid. Best case: a tall south-facing blank wall where ground stakes won't work. The trade-offs and when it's worth it."
 date: "2026-04-05"
 category: Installation

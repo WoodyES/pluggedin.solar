@@ -1,6 +1,6 @@
 ---
 title: "Solar for Summerhouses, Log Cabins, and Garden Bars UK"
-slug: "summerhouse-solar-panels-uk"
+slug: "solar-for-summerhouses-log-cabins"
 category: Property Guides
 cluster: "Sheds & Outbuildings"
 priority: "MED"

@@ -1,6 +1,6 @@
 ---
 title: "BSI Standard for Plug-in Solar Explained"
-slug: "bsi-plug-in-solar-standard-uk"
+slug: "bsi-product-standard-plug-in-solar"
 excerpt: "The BSI product standard for plug-in solar. Why it matters, what it covers, and what to expect when it publishes July 2026."
 date: "2026-04-05"
 category: Regulations & Policy

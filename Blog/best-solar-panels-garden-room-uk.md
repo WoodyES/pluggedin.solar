@@ -1,6 +1,6 @@
 ---
 title: "Best Solar Panels for Garden Rooms UK 2026"
-slug: "solar-panels-for-garden-room-uk"
+slug: "best-solar-panels-garden-room-uk"
 excerpt: "Product-focused guide to solar panels for garden rooms. What to buy at different budgets, from plug-in kits to off-grid systems."
 date: "2026-04-05"
 category: Property Guides

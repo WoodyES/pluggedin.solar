@@ -19,7 +19,7 @@
     },
     {
       "source": "/blog/bsi-plug-in-solar-standard-uk",
-      "destination": "/blog/bsi-product-standard-plug-in-solar-july-2026",
+      "destination": "/blog/bsi-product-standard-plug-in-solar",
       "permanent": true
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "source": "/blog/g98-plug-in-solar-uk",
-      "destination": "/blog/g98-notification-guide-uk-homeowners",
+      "destination": "/blog/g98-dno-notification-plug-in-solar",
       "permanent": true
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "source": "/blog/moving-home-plug-in-solar-uk",
-      "destination": "/blog/moving-house-with-plug-in-solar-uk",
+      "destination": "/blog/taking-solar-panels-when-moving",
       "permanent": true
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "source": "/blog/plug-in-solar-not-generating-uk",
-      "destination": "/blog/plug-in-solar-not-generating-troubleshooting-uk",
+      "destination": "/blog/plug-in-solar-not-generating-troubleshooting",
       "permanent": true
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "source": "/blog/plug-in-solar-savings-uk",
-      "destination": "/blog/how-much-does-plug-in-solar-save-uk",
+      "destination": "/blog/how-much-can-plug-in-solar-save",
       "permanent": true
     },
     {
@@ -99,7 +99,7 @@
     },
     {
       "source": "/blog/rented-flat-solar-panels-uk",
-      "destination": "/blog/plug-in-solar-for-renters-uk",
+      "destination": "/blog/balcony-solar-renters-ast",
       "permanent": true
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "source": "/blog/shed-solar-panels-off-grid-uk",
-      "destination": "/blog/how-to-power-shed-with-solar",
+      "destination": "/blog/plug-in-solar-vs-off-grid-battery-shed",
       "permanent": true
     },
     {
@@ -140,6 +140,106 @@
     {
       "source": "/blog/will-plug-in-solar-reduce-my-bills",
       "destination": "/blog/plug-in-solar-vs-energy-bills",
+      "permanent": true
+    },
+    {
+      "source": "/blog/how-to-power-shed-with-solar-uk",
+      "destination": "/blog/how-to-power-shed-with-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/bs7671-amendment-4-plug-in-solar",
+      "destination": "/blog/bs7671-amendment-4-explained",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-uk",
+      "destination": "/blog/plug-in-solar-uk-complete-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-multimeter-diy-solar-uk",
+      "destination": "/blog/best-multimeters-for-diy-solar-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/lidl-solar-panel-kit-uk",
+      "destination": "/blog/lidl-plug-in-solar-review-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/best-solar-panel-tilt-brackets-uk",
+      "destination": "/blog/best-adjustable-solar-panel-tilt-brackets-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/800w-vs-400w-plug-in-solar-uk",
+      "destination": "/blog/800w-vs-400w-plug-in-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-vs-rooftop-solar-uk",
+      "destination": "/blog/plug-in-solar-vs-traditional-solar",
+      "permanent": true
+    },
+    {
+      "source": "/blog/balcony-solar-uk",
+      "destination": "/blog/balcony-solar-uk-guide",
+      "permanent": true
+    },
+    {
+      "source": "/blog/summerhouse-solar-panels-uk",
+      "destination": "/blog/solar-for-summerhouses-log-cabins",
+      "permanent": true
+    },
+    {
+      "source": "/blog/neighbours-plug-in-solar-uk",
+      "destination": "/blog/neighbours-and-plug-in-solar-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/plug-in-solar-spain-lessons-uk",
+      "destination": "/blog/plug-in-solar-in-spain-what-uk-can-learn",
+      "permanent": true
+    },
+    {
+      "source": "/blog/g98-dno-notification-plug-in-solar",
+      "destination": "/blog/g98-dno-notification-step-by-step",
+      "permanent": true
+    },
+    {
+      "source": "/blog/anker-solix-plug-in-solar-uk",
+      "destination": "/blog/anker-solix-rs40p-review-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/cheapest-plug-in-solar-uk",
+      "destination": "/blog/cheapest-plug-in-solar-kits-uk",
+      "permanent": true
+    },
+    {
+      "source": "/blog/solar-panels-for-garden-room-uk",
+      "destination": "/blog/best-solar-panels-garden-room-uk",
+      "permanent": true
+    },
+    {
+      "source": "/au/blog/portable-solar-panels-apartments-australia",
+      "destination": "/au/blog/portable-solar-panels-for-apartments-australia",
+      "permanent": true
+    },
+    {
+      "source": "/au/blog/solar-for-ev-charging-australia",
+      "destination": "/au/blog/solar-for-electric-vehicle-charging-australia",
+      "permanent": true
+    },
+    {
+      "source": "/au/blog/what-europe-teaches-australia-plug-in-solar",
+      "destination": "/au/blog/what-europe-teaches-australia-about-plug-in-solar",
+      "permanent": true
+    },
+    {
+      "source": "/au/blog/community-solar-australia",
+      "destination": "/au/blog/community-solar-australia-guide",
       "permanent": true
     }
   ],

@@ -1,6 +1,6 @@
 ---
 title: Plug-in Solar in Spain: What the UK Can Learn
-slug: plug-in-solar-spain-lessons-uk
+slug: plug-in-solar-in-spain-what-uk-can-learn
 excerpt: Spain has twice the sunshine hours of the UK but different regulations. Here's what translates—and what doesn't.
 date: "2026-04-06"
 category: Regulations & Policy

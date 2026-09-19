@@ -1,6 +1,6 @@
 ---
 title: "Flat Roof Ballast: No-Drill Mounting"
-slug: "flat-roof-ballast-solar-mount-uk"
+slug: "flat-roof-ballast-mounting"
 excerpt: "Flat roof ballast mounting for plug-in solar. No drilling required. How it works, weight needed, and what to check first."
 date: "2026-04-05"
 category: Installation

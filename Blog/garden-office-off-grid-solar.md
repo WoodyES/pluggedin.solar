@@ -1,6 +1,6 @@
 ---
 title: "Can a Garden Office Run Off-Grid with Solar and a Battery?"
-slug: "garden-office-off-grid-solar-uk"
+slug: "garden-office-off-grid-solar"
 excerpt: "The off-grid dream vs reality. What truly off-grid solar costs, what it powers, and whether it's practical for UK garden offices."
 date: "2026-04-05"
 category: Property Guides

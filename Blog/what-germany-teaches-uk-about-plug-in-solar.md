@@ -1,6 +1,6 @@
 ---
 title: What Germany Teaches the UK About Plug-in Solar
-slug: what-germany-teaches-uk-plug-in-solar
+slug: what-germany-teaches-uk-about-plug-in-solar
 excerpt: Germany's 4 million balcony solar systems offer crucial lessons for UK policy, safety standards, and what works in practice. Here's what we should learn.
 date: "2026-04-06"
 category: Regulations & Policy

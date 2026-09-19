@@ -1,6 +1,6 @@
 ---
 title: "Storm-Proofing Plug-in Solar Panels UK"
-slug: storm-proof-plug-in-solar-uk
+slug: how-to-storm-proof-your-plug-in-solar-panels
 excerpt: "Storm-proof your plug-in solar panels. How to secure them for 60–80mph winds and what to do before a Met Office warning."
 date: "2026-04-06"
 category: Maintenance

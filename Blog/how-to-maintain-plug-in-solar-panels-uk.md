@@ -1,6 +1,6 @@
 ---
 title: "Maintaining Plug-in Solar: Seasonal Calendar"
-slug: maintain-plug-in-solar-panels-uk
+slug: how-to-maintain-plug-in-solar-panels-uk
 excerpt: "Year-round plug-in solar maintenance calendar. What to check each season and why 15 minutes keeps your system at full capacity."
 date: "2026-04-06"
 category: Maintenance

@@ -1,6 +1,6 @@
 ---
 title: "Plug-in Solar: How Much You'll Save"
-slug: "plug-in-solar-savings-uk"
+slug: "how-much-can-plug-in-solar-save"
 excerpt: "Concrete numbers for how much you'll save based on your system size, location, and how you use electricity."
 date: "2026-04-05"
 category: Savings & Costs

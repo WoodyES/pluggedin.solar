@@ -1,6 +1,6 @@
 ---
 title: "How to Angle Your Plug-in Solar Panels for Maximum Output"
-slug: "plug-in-solar-panel-angle-uk"
+slug: "plug-in-solar-panel-angle"
 excerpt: "Optimal plug-in solar panel angle UK. Best tilt (30–35°) and direction (due south) for maximum annual generation."
 date: "2026-04-05"
 category: Installation

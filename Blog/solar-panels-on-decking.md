@@ -1,6 +1,6 @@
 ---
 title: "Plug-in Solar on Decking: Weight, Shading, and Safety"
-slug: "solar-panels-on-decking-uk"
+slug: "solar-panels-on-decking"
 category: Installation
 cluster: "Installation Surfaces"
 priority: "MED"
