@@ -2,43 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pluggedin.solar/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/calculator</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/report</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/quiz</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/blog</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/about</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/faq</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/25m-government-pilot-plug-in-solar-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -115,6 +121,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/bandq-vs-screwfix-vs-currys-wickes-plug-in-solar-uk</loc>
+    <lastmod>2026-09-09</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/battery-storage-vs-no-battery-plug-in-solar-uk</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -122,7 +134,7 @@
   </url>
   <url>
     <loc>https://pluggedin.solar/blog/best-400w-solar-panel-uk</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -176,7 +188,7 @@
   </url>
   <url>
     <loc>https://pluggedin.solar/blog/best-micro-inverters-plug-in-solar-uk</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -193,8 +205,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/best-plug-in-solar-accessories-uk-2026</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/best-plug-in-solar-kit-uk</loc>
     <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/best-plug-in-solar-kits-under-500-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -206,7 +230,7 @@
   </url>
   <url>
     <loc>https://pluggedin.solar/blog/best-portable-power-stations-plug-in-solar-uk</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -271,6 +295,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/bright-saver-plug-in-solar-review-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/bright-saver-vs-ecoflow-stream-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/british-gas-vs-octopus-vs-eon-solar-uk</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -331,8 +367,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/craftstrom-plug-in-solar-review-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/dc-optimisers-plug-in-solar-uk</loc>
     <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/desnz-plug-in-solar-consultation-july-2026</loc>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -345,6 +393,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/do-i-need-smart-meter-for-solar-panels-uk</loc>
     <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/does-plug-in-solar-add-value-to-your-home-uk</loc>
+    <lastmod>2026-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -373,14 +427,62 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/ecoflow-end-of-summer-sale-2026-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/ecoflow-stream-5000-review-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/ecoflow-stream-800w-vs-stream-ultra-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/ecoflow-stream-app-setup-monitoring-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/ecoflow-stream-early-bird-pre-order-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/ecoflow-stream-installation-guide-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/ecoflow-stream-review-uk</loc>
     <lastmod>2026-04-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/ecoflow-stream-uk-launch-september-2026</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026</loc>
     <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/ecoflow-stream-vs-diy-microinverter-kit-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -399,6 +501,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/expanding-plug-in-solar-system-uk</loc>
     <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/fence-mounted-plug-in-solar-panels-uk</loc>
+    <lastmod>2026-09-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -529,6 +637,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/how-to-spot-non-compliant-plug-in-solar-kit-uk</loc>
+    <lastmod>2026-08-16</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/storm-proof-plug-in-solar-uk</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -543,6 +657,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/hoymiles-hms800-review-uk</loc>
     <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/interim-product-specification-v2-plug-in-solar-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -567,6 +687,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/is-plug-in-solar-legal-uk</loc>
     <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/is-plug-in-solar-noisy-uk</loc>
+    <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -655,8 +781,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/ovo-energy-solar-tariff-review-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-microgenerator-uk-what-is-it</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-13-days-countdown-checklist-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-5a-fuse-blown-what-it-means-uk</loc>
+    <lastmod>2026-08-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-airbnb-hosts-uk</loc>
     <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-allotments-uk</loc>
+    <lastmod>2026-08-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -669,6 +825,48 @@
   <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-apartments-europe-vs-uk</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-autumn-uk-guide</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-base-load-coverage-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-battery-arbitrage-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-best-appliances-to-run-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-birmingham-guide-uk</loc>
+    <lastmod>2026-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-black-friday-deals-2026-uk</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-bristol-guide-uk</loc>
+    <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -703,8 +901,68 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-cardiff-guide-uk</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-christmas-energy-use-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-cloudy-day-output-uk</loc>
+    <lastmod>2026-08-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-coastal-areas-salt-corrosion-uk</loc>
+    <lastmod>2026-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-common-install-mistakes-bank-holiday-uk</loc>
+    <lastmod>2026-08-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-conservation-areas-uk</loc>
+    <lastmod>2026-09-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-conservatory-roof-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-cost-per-kwh-vs-grid-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-council-housing-uk</loc>
     <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-council-tax-band-uk</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-east-anglia-guide</loc>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -715,14 +973,56 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-edinburgh-guide-uk</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-electricity-bill-before-after-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-energy-price-cap-q4-2026-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-epc-rating-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-ev-charging-uk</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-ex-council-homes-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-export-payments-seg-uk</loc>
     <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-faulty-return-consumer-rights-uk</loc>
+    <lastmod>2026-08-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-finance-buy-now-pay-later-uk</loc>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -735,6 +1035,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-first-time-buyers-uk</loc>
     <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-first-week-setup-guide-uk</loc>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -763,6 +1069,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-garage-roof-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-generating-less-than-expected-uk</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -775,8 +1087,32 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-glasgow-guide-uk</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-grants-funding-uk-2026</loc>
     <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-greenhouses-polytunnels-uk</loc>
+    <lastmod>2026-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-ground-floor-flat-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-heatwave-performance-august-2026-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -793,6 +1129,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-hot-tub-uk</loc>
+    <lastmod>2026-09-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-housing-association-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-spain-lessons-uk</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -801,6 +1149,24 @@
   <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-winter-uk-output</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-installation-cost-breakdown-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-insurance-notification-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-interim-product-specification-uk</loc>
+    <lastmod>2026-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -823,8 +1189,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-launch-day-bank-holiday-weekend-uk</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-leeds-guide-uk</loc>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-legal-27-august-2026-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-legal-today-uk</loc>
+    <lastmod>2026-08-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-listed-buildings-uk</loc>
     <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-liverpool-guide-uk</loc>
+    <lastmod>2026-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -835,8 +1231,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-low-output-causes-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-maisonettes-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-manchester-guide-uk</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-meter-reading-guide-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-microinverter-problems-uk</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-midlands-guide-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -853,6 +1279,18 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-move-panels-seasonally-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-narrowboats-canal-boats-uk</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-neighbour-disputes-shading-uk</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -865,8 +1303,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-newcastle-guide-uk</loc>
+    <lastmod>2026-09-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-no-battery-rule-uk-explained</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-no-extension-lead-rule-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-north-facing-garden-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-northern-england-generation</loc>
     <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-northern-ireland-guide</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -879,6 +1347,24 @@
   <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-not-generating-uk</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-nottingham-guide-uk</loc>
+    <lastmod>2026-09-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-october-clocks-change-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-october-generation-uk</loc>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -907,8 +1393,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-one-month-legal-uk</loc>
+    <lastmod>2026-09-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-one-week-later-uk</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-panel-angle-uk</loc>
     <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-payback-calculator-800w-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -937,8 +1441,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-power-cut-uk</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-rcd-tripping-uk</loc>
     <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-reduce-standing-charge-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -949,8 +1465,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-retirement-bungalows-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-roi-calculator-uk</loc>
     <lastmod>2026-05-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-save-1000-over-5-years-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -967,14 +1495,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-self-consumption-tips-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-semi-detached-uk</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-september-generation-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-shading-solutions-uk</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-shared-ownership-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-sheffield-guide-uk</loc>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -987,6 +1539,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-small-businesses-uk</loc>
     <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-smart-home-automation-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1015,6 +1573,24 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-south-east-england-guide</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-south-west-england-guide</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-standing-charge-impact-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-starter-kit-checklist-uk</loc>
     <lastmod>2026-04-08</lastmod>
     <changefreq>monthly</changefreq>
@@ -1027,8 +1603,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-student-accommodation-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-summer-uk-tips</loc>
     <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-supported-housing-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-terraced-houses-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-theft-security-uk</loc>
+    <lastmod>2026-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-tripping-breaker-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1075,6 +1681,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-vs-green-energy-tariff-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-vs-heat-pump-uk</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -1105,8 +1717,26 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-vs-switching-energy-supplier-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-vs-rooftop-solar-uk</loc>
     <lastmod>2026-04-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-wales-generation-guide</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-warranty-guide-uk</loc>
+    <lastmod>2026-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1117,8 +1747,38 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-what-to-expect-first-year-uk</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-which-socket-to-use-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-wifi-connection-problems-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-winter-preparation-2026-uk</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-year-2-3-maintenance-uk</loc>
     <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-yorkshire-guide-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1135,6 +1795,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/retailers-stocking-plug-in-solar-uk-2026</loc>
+    <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/shading-plug-in-solar-output-uk</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -1143,6 +1809,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/shelly-plus-plug-uk-review</loc>
     <lastmod>2026-04-13</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/si-2026-848-plug-in-solar-explained-uk</loc>
+    <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1417,6 +2089,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/when-can-i-buy-plug-in-solar-uk-2026</loc>
+    <lastmod>2026-07-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/when-does-plug-in-solar-get-good-uk-spring</loc>
     <lastmod>2026-04-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -1436,7 +2114,7 @@
   </url>
   <url>
     <loc>https://pluggedin.solar/us/blog</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -1459,6 +2137,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/best-400w-solar-panel-us-2026</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/best-energy-monitors-plug-in-solar-us</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1471,8 +2155,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/best-plug-in-solar-california-2026</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/best-plug-in-solar-kits-us</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/us/blog/best-portable-power-stations-us-2026</loc>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1519,6 +2215,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/hoa-rules-plug-in-solar-us</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/how-much-can-plug-in-solar-save-us</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1545,6 +2247,18 @@
   <url>
     <loc>https://pluggedin.solar/us/blog/is-plug-in-solar-worth-it-us</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/us/blog/nec-article-705-plug-in-solar-us</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/us/blog/net-metering-vs-net-billing-plug-in-solar-us</loc>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1651,6 +2365,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-hawaii-2026-guide</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-hurricane-resilience-us</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/plug-in-solar-illinois</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1687,6 +2413,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-rv-airstream-us</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/plug-in-solar-safety-guide-us</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1717,6 +2449,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-vs-full-rooftop-tax-credit-us</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/plug-in-solar-vs-rooftop-solar-us</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1741,6 +2479,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/ul-1741-vs-ieee-1547-plug-in-solar-us</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/what-is-ul-3700-plug-in-solar</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1754,13 +2498,31 @@
   </url>
   <url>
     <loc>https://pluggedin.solar/au/blog</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/au/blog/as-nzs-4777-plain-english-plug-in-solar-au</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/best-400w-solar-panel-australia-2026</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/au/blog/best-energy-monitors-solar-australia</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/best-portable-power-stations-au-2026</loc>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1813,6 +2575,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/au/blog/camping-caravan-plug-in-solar-grey-nomad-au</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/au/blog/cheapest-solar-panels-australia-2026</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -1861,8 +2629,44 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/au/blog/off-grid-solar-remote-au-properties</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/au/blog/plug-in-solar-australia-complete-guide</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/plug-in-solar-bushfire-resilience-au</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/plug-in-solar-granny-flat-secondary-dwelling-au</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/plug-in-solar-nsw-solar-sponge-au</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/plug-in-solar-queensland-heat-temperature-coefficient-au</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/plug-in-solar-victoria-fit-portable-au</loc>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2043,6 +2847,12 @@
   <url>
     <loc>https://pluggedin.solar/au/blog/solar-payback-period-australia</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/solar-sponge-sa-tariff-plug-in-au</loc>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>

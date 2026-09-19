@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useEffect } from "react";
 import { Outlet, useLocation } from "react-router-dom";
 import { SpeedInsights } from "@vercel/speed-insights/react";
 import { Analytics } from "@vercel/analytics/react";
@@ -7,6 +7,8 @@ import T from "./tokens";
 import Nav from "./components/Nav";
 import Footer from "./components/Footer";
 import GridDataContext from "./GridDataContext";
+import { MarketProvider, useMarket } from "./MarketContext";
+import useGridData from "./useGridData";
 
 function ScrollToTop() {
   const { pathname } = useLocation();
@@ -17,32 +19,18 @@ function ScrollToTop() {
 }
 
 export default function Layout() {
-  const [gridData, setGridData] = useState(null);
+  return (
+    <MarketProvider>
+      <LayoutInner />
+    </MarketProvider>
+  );
+}
 
-  useEffect(() => {
-    if (typeof window === "undefined") return;
-    fetchGrid();
-    const t = setInterval(fetchGrid, 5 * 60 * 1000);
-    return () => clearInterval(t);
-  }, []);
-
-  async function fetchGrid() {
-    try {
-      const r = await fetch("https://api.carbonintensity.org.uk/generation");
-      const json = await r.json();
-      const mix = json.data.generationmix;
-      const get = f => mix.find(m => m.fuel === f)?.perc || 0;
-      setGridData({
-        solar: get("solar"),
-        wind: get("wind") + get("wind_offshore") + get("wind_onshore"),
-        nuclear: get("nuclear"),
-        gas: get("gas"),
-        biomass: get("biomass"),
-        imports: get("imports"),
-        at: new Date(),
-      });
-    } catch (_) {}
-  }
+// LayoutInner reads market from MarketProvider (must be inside the provider),
+// then plumbs the market-aware grid data down through GridDataContext.
+function LayoutInner() {
+  const { market } = useMarket();
+  const gridData = useGridData(market);
 
   return (
     <GridDataContext.Provider value={gridData}>
