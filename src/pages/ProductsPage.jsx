@@ -10,6 +10,69 @@ function priceFor(ref) {
   return (kitPrices.prices && kitPrices.prices[ref]) || null;
 }
 
+// Local product image lookup. Files live in /public/images/kits/. The lookup
+// works by ENA-ref prefix + model text so a whole manufacturer's line-up gets
+// covered without listing every ref individually. Per-ref overrides in
+// kitPrices.json (price.image) win when present.
+function imageFor(device) {
+  const price = priceFor(device.ref);
+  if (price?.image) return price.image;
+  const ref = device.ref || "";
+  const model = (device.model || "").toLowerCase();
+  const base = "/images/kits/";
+
+  // EcoFlow — pick variant by model keyword
+  if (ref.startsWith("ECOFL")) {
+    if (/flat.?roof/.test(model)) return base + "ecoflow-stream-flat-roof-kit-800w.webp";
+    if (/pitched|roof/.test(model)) return base + "ecoflow-stream-pitched-roof-kit-900w.webp";
+    if (/1000/.test(model)) return base + "ecoflow-stream-facade-kit-1000w.webp";
+    if (/900/.test(model)) return base + "ecoflow-stream-facade-kit-900w.webp";
+    return base + "ecoflow-stream-facade-kit-800w.webp";
+  }
+  // City Plumbing — 1-panel vs 2-panel
+  if (ref.startsWith("CITYP")) {
+    return /2x|two|two panel/.test(model)
+      ? base + "city-plumbing-plug-in-solar-kits-2-panel.webp"
+      : base + "city-plumbing-plug-in-solar-kits.webp";
+  }
+  // Octopus Energy — 1-panel vs 2-panel
+  if (ref.startsWith("OCTOQ")) {
+    return /2|two|920/.test(model)
+      ? base + "octopus-energy-two-panel-plug-in-solar-bundle-920w.webp"
+      : base + "octopus-energy-one-panel-plug-in-solar-bundle-460w.webp";
+  }
+  // Modular Solar — 340W vs 475W
+  if (ref.startsWith("MODUL")) {
+    return /340/.test(model)
+      ? base + "modular-solar-340w-plug-in-solar-unit.webp"
+      : base + "modular-solar-475w-plug-in-solar-unit.webp";
+  }
+  // PatioSun — Lite / Lite+ / Duo / Max / Max+
+  if (ref.startsWith("PATIO")) {
+    if (/max\+|max plus/i.test(model)) return base + "patiosun-max-plus.webp";
+    if (/max/.test(model)) return base + "patiosun-max.webp";
+    if (/duo/.test(model)) return base + "patiosun-duo.webp";
+    if (/lite\+|lite plus/i.test(model)) return base + "patiosun-lite-plus.webp";
+    return base + "patiosun-lite.webp";
+  }
+  // UKSOL — Compact / Duo / Plus / Max, hybrid vs ground
+  if (ref.startsWith("UKSOL")) {
+    const isGround = /ground/.test(model);
+    if (/max|1260/.test(model)) return base + "uksol-plug-in-solar-pro-max-1260w-hybrid.webp";
+    if (/plus|1030/.test(model)) return base + "uksol-plug-in-solar-pro-plus-1030w-hybrid.webp";
+    if (/duo|890/.test(model)) return base + (isGround
+      ? "uksol-plug-in-solar-pro-duo-890w-ground.webp"
+      : "uksol-plug-in-solar-pro-duo-890w-hybrid.webp");
+    return base + "uksol-plug-in-solar-pro-compact-460w-ground.webp";
+  }
+  // Thunder Energy
+  if (ref.startsWith("THUNE")) return base + "thunder-bolt-920w.webp";
+  // PowerXpress
+  if (ref.startsWith("POWEZA")) return base + "powerxpress-plug-in-solar-920w-90012.webp";
+  // No image known — caller falls back to the initials tile
+  return null;
+}
+
 // Stable colour per manufacturer for the placeholder image tile.
 // Uses a small palette from our design tokens so tiles look on-brand.
 function tileColour(manufacturer) {
@@ -402,7 +465,8 @@ function KitCard({ d, calcCtx }) {
 
   const bg = tileColour(d.manufacturer);
   const [imgFailed, setImgFailed] = useState(false);
-  const hasImage = price?.image && !imgFailed;
+  const imgSrc = imageFor(d);
+  const hasImage = imgSrc && !imgFailed;
 
   return (
     <article className="kit-card" style={{
@@ -418,7 +482,7 @@ function KitCard({ d, calcCtx }) {
       }}>
         {hasImage ? (
           <img
-            src={price.image}
+            src={imgSrc}
             alt={`${d.manufacturer} ${d.model.split("+")[0].trim().slice(0, 60)}`}
             loading="lazy"
             onError={() => setImgFailed(true)}
