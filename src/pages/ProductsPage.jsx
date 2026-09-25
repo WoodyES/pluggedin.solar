@@ -69,8 +69,24 @@ function imageFor(device) {
   if (ref.startsWith("THUNE")) return base + "thunder-bolt-920w.webp";
   // PowerXpress
   if (ref.startsWith("POWEZA")) return base + "powerxpress-plug-in-solar-920w-90012.webp";
+  // Manufacturer logo fallbacks — used when we don't have product photography
+  // but do have the brand mark. Rendered with `isLogo` styling downstream.
+  if (ref.startsWith("SOLAW"))  return base + "logo-solarfy.png";
+  if (ref.startsWith("THESO"))  return base + "logo-solar-centre.png";
+  if (ref.startsWith("SEGEN"))  return base + "logo-segen.png";
+  if (ref.startsWith("ALTEN"))  return base + "logo-apsystems.png";
+  if (ref.startsWith("HDMSO"))  return base + "logo-hdm-solar.png";
+  if (ref.startsWith("THEIM"))  return base + "logo-impact-crowd.png";
+  if (ref.startsWith("INSTA"))  return base + "logo-instagroup.png";
+  if (ref.startsWith("SHENZR")) return base + "logo-shenzhen-skyworth.png";
   // No image known — caller falls back to the initials tile
   return null;
+}
+
+// True when the image is a small brand logo rather than a product photo —
+// used to render on a white background with extra padding.
+function imageIsLogo(src) {
+  return typeof src === "string" && src.includes("/logo-");
 }
 
 // Stable colour per manufacturer for the placeholder image tile.
@@ -481,6 +497,7 @@ function KitCard({ d, calcCtx }) {
   const [imgFailed, setImgFailed] = useState(false);
   const imgSrc = imageFor(d);
   const hasImage = imgSrc && !imgFailed;
+  const isLogo = hasImage && imageIsLogo(imgSrc);
 
   return (
     <article className="kit-card" style={{
@@ -500,7 +517,11 @@ function KitCard({ d, calcCtx }) {
             alt={`${d.manufacturer} ${d.model.split("+")[0].trim().slice(0, 60)}`}
             loading="lazy"
             onError={() => setImgFailed(true)}
-            style={{ maxWidth: "100%", maxHeight: 120, objectFit: "contain" }}
+            style={{
+              maxWidth: isLogo ? "70%" : "100%",
+              maxHeight: isLogo ? 70 : 120,
+              objectFit: "contain",
+            }}
           />
         ) : (
           <span>{initials(d.manufacturer)}</span>
