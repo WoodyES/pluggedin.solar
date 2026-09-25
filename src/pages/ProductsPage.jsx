@@ -66,14 +66,22 @@ function capacityBand(kw) {
   return "800W";
 }
 
-// Mounting style detected from model name (best-effort, for filtering).
-function mountingType(model = "") {
-  const m = model.toLowerCase();
-  if (/balcony|balcon|facade/i.test(m)) return "Balcony";
-  if (/wall/i.test(m)) return "Wall";
-  if (/roof|flat.?roof|pitched/i.test(m)) return "Roof";
-  if (/ground|floor|ballast/i.test(m)) return "Ground";
-  return "Other";
+// Mounting style detected from model name/comments (best-effort, for filtering).
+// Kits often list multiple mount options — we return every one that matches.
+function mountingTypes(model = "", comments = "") {
+  const text = `${model} ${comments}`.toLowerCase();
+  const types = new Set();
+  if (/balcony|balcon(?!y)|rail/.test(text)) types.add("Balcony");
+  if (/\bwall\b|facade|façade/.test(text)) types.add("Wall");
+  if (/roof|pitched|tile/.test(text)) types.add("Roof");
+  if (/ground|floor|garden|ballast|mesh fence/.test(text)) types.add("Ground");
+  if (types.size === 0) types.add("Other");
+  return [...types];
+}
+// Back-compat single-value for tile labelling (returns first / most-specific match).
+function primaryMount(model, comments) {
+  const list = mountingTypes(model, comments);
+  return list[0];
 }
 
 // Get unique sorted values for a field across all devices.
@@ -109,7 +117,7 @@ export default function ProductsPage() {
     let out = devices.slice();
     if (manufacturer !== "all") out = out.filter(d => d.manufacturer === manufacturer);
     if (band !== "all") out = out.filter(d => capacityBand(d.capacityKw) === band);
-    if (mount !== "all") out = out.filter(d => mountingType(d.model) === mount);
+    if (mount !== "all") out = out.filter(d => mountingTypes(d.model, d.comments).includes(mount));
     if (priceMax !== "all") {
       const cap = parseInt(priceMax, 10);
       out = out.filter(d => {
@@ -206,9 +214,9 @@ export default function ProductsPage() {
           <Link to="/calculator" style={{ color: T.solar, textDecoration: "underline" }}>savings estimate</Link>.
         </p>
 
-        <div className="grid-2-calc" style={{ display: "grid", gridTemplateColumns: "260px 1fr", gap: 32, alignItems: "start" }}>
+        <div className="products-grid">
           {/* SIDEBAR FILTERS */}
-          <aside style={{
+          <aside className="products-sidebar" style={{
             padding: 20, borderRadius: 14, border: `1px solid ${T.border}`,
             background: T.surface, position: "sticky", top: 82,
           }}>
@@ -376,7 +384,8 @@ function KitCard({ d, calcCtx }) {
   const price = priceFor(d.ref);
   const cap = typeof d.capacityKw === "number" ? `${(d.capacityKw * 1000).toFixed(0)}W` : "—";
   const pub = (d.published || "").split("T")[0];
-  const mount = mountingType(d.model);
+  const allMounts = mountingTypes(d.model, d.comments);
+  const mount = allMounts.join(", ");
   const enaLink = `https://connect-direct.energynetworks.org/device-databases/search-gen?device_type_id=14&compliance_status_id=Compliant`;
 
   // Personalised savings: if the user has run the calculator, compute per-kit
@@ -392,24 +401,37 @@ function KitCard({ d, calcCtx }) {
   }
 
   const bg = tileColour(d.manufacturer);
+  const [imgFailed, setImgFailed] = useState(false);
+  const hasImage = price?.image && !imgFailed;
 
   return (
-    <article style={{
+    <article className="kit-card" style={{
       borderRadius: 14, border: `1px solid ${T.border}`, background: T.surface,
-      display: "grid", gridTemplateColumns: "120px 1fr", gap: 0, overflow: "hidden",
+      gap: 0, overflow: "hidden",
     }}>
-      {/* Image tile — manufacturer-coloured branded placeholder */}
-      <div style={{
-        background: `linear-gradient(135deg, ${bg}, ${bg}dd)`,
+      {/* Image tile — real product image if available, manufacturer-coloured initials fallback */}
+      <div className="kit-tile" style={{
+        background: hasImage ? "#fff" : `linear-gradient(135deg, ${bg}, ${bg}dd)`,
         color: "#fff", display: "flex", alignItems: "center", justifyContent: "center",
         fontFamily: T.display, fontSize: "1.8rem", fontWeight: 800, letterSpacing: "-0.02em",
-        minHeight: 140, position: "relative",
+        minHeight: 140, position: "relative", padding: hasImage ? 10 : 0,
       }}>
-        <span>{initials(d.manufacturer)}</span>
+        {hasImage ? (
+          <img
+            src={price.image}
+            alt={`${d.manufacturer} ${d.model.split("+")[0].trim().slice(0, 60)}`}
+            loading="lazy"
+            onError={() => setImgFailed(true)}
+            style={{ maxWidth: "100%", maxHeight: 120, objectFit: "contain" }}
+          />
+        ) : (
+          <span>{initials(d.manufacturer)}</span>
+        )}
         <span style={{
           position: "absolute", bottom: 8, left: 0, right: 0, textAlign: "center",
           fontSize: "0.62rem", fontWeight: 500, letterSpacing: "0.06em", textTransform: "uppercase",
-          opacity: 0.85, fontFamily: T.body,
+          opacity: hasImage ? 1 : 0.85, fontFamily: T.body,
+          color: hasImage ? T.inkFaint : "#fff",
         }}>
           {cap}
         </span>

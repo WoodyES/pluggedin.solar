@@ -108,6 +108,19 @@ function GlobalStyles() {
       .reading-progress { position: fixed; top: 0; left: 0; height: 3px; background: ${T.solar}; z-index: 200; transition: width 0.1s linear; }
 
       /* ─── RESPONSIVE ─────────────────────────────────── */
+      /* ─── PRODUCTS DIRECTORY ────────────────────────────────── */
+      /* Desktop: 260px sidebar + fluid content. Mobile: stack, un-stick sidebar. */
+      .products-grid { display: grid; grid-template-columns: 260px 1fr; gap: 32px; align-items: start; }
+      @media (max-width: 900px) {
+        .products-grid { grid-template-columns: 1fr; gap: 16px; }
+        .products-sidebar { position: static !important; top: auto !important; }
+      }
+      .kit-card { display: grid; grid-template-columns: 120px 1fr; }
+      @media (max-width: 560px) {
+        .kit-card { grid-template-columns: 1fr; }
+        .kit-tile { min-height: 100px !important; }
+      }
+
       @media (max-width: 768px) {
         .nav-links { display: none !important; }
         .nav-hamburger { display: flex !important; }
