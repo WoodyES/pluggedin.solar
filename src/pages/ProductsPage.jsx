@@ -169,7 +169,7 @@ export default function ProductsPage() {
   const [band, setBand] = useState("all");
   const [mount, setMount] = useState("all");
   const [priceMax, setPriceMax] = useState("all");
-  const [sort, setSort] = useState("newest");
+  const [sort, setSort] = useState("featured");
   const [search, setSearch] = useState("");
 
   const manufacturers = useMemo(() => uniqueSorted(devices, d => d.manufacturer), [devices]);
@@ -195,6 +195,19 @@ export default function ProductsPage() {
         (d.model || "").toLowerCase().includes(q) ||
         (d.ref || "").toLowerCase().includes(q)
       );
+    }
+    if (sort === "featured") {
+      // Featured order: EcoFlow first, then any other kit with a product photo,
+      // then unphotographed kits — within each tier, newest first.
+      const rank = d => {
+        if ((d.ref || "").startsWith("ECOFL")) return 0;
+        return imageFor(d) ? 1 : 2;
+      };
+      out.sort((a, b) => {
+        const r = rank(a) - rank(b);
+        if (r !== 0) return r;
+        return (b.published || "").localeCompare(a.published || "");
+      });
     }
     if (sort === "newest") out.sort((a, b) => (b.published || "").localeCompare(a.published || ""));
     if (sort === "capacity-desc") out.sort((a, b) => (b.capacityKw || 0) - (a.capacityKw || 0));
@@ -332,6 +345,7 @@ export default function ProductsPage() {
                   fontSize: "0.85rem", fontFamily: T.body, cursor: "pointer",
                 }}
               >
+                <option value="featured">Featured</option>
                 <option value="newest">Newest first</option>
                 <option value="price-asc">Price: low to high</option>
                 <option value="price-desc">Price: high to low</option>
