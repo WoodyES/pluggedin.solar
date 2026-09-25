@@ -7,3 +7,5 @@ dist
 # Local-only files (not for GitHub)
 claude.md
 *.docx
+
+.claude/worktrees/
