@@ -18,9 +18,9 @@ export default function Footer() {
           </div>
           <div className="footer-cols" style={{ display: "flex", gap: 56 }}>
             {[
-              { heading: "Tools", links: [{ label: "Calculator", to: "/calculator" }, { label: "Find your kit", to: "/quiz" }] },
+              { heading: "Tools", links: [{ label: "Calculator", to: "/calculator" }, { label: "All kits", to: "/products" }, { label: "Find your kit", to: "/quiz" }] },
               { heading: "Learn", links: [{ label: "Blog", to: "/blog" }, { label: "FAQ", to: "/faq" }, { label: "About", to: "/about" }] },
-              { heading: "Compare", links: [{ label: "EcoFlow", to: "/blog/ecoflow-stream-review-uk" }, { label: "Anker SOLIX", to: "/blog/anker-solix-plug-in-solar-uk" }, { label: "800W kits", to: "/blog/800w-vs-400w-plug-in-solar-uk" }] },
+              { heading: "Legal", links: [{ label: "Privacy", to: "/privacy" }, { label: "Terms", to: "/terms" }, { label: "Cookies", to: "/cookies" }, { label: "Affiliate disclosure", to: "/disclosure" }] },
             ].map(col => (
               <div key={col.heading}>
                 <div style={{ fontSize: "0.65rem", fontWeight: 700, letterSpacing: "0.12em", textTransform: "uppercase", color: T.inkFaint, marginBottom: 16, fontFamily: T.display }}>{col.heading}</div>

@@ -7,6 +7,11 @@ import BlogIndex from "./pages/BlogIndex";
 import BlogPost from "./pages/BlogPost";
 import AboutPage from "./pages/AboutPage";
 import FAQPage from "./pages/FAQPage";
+import ProductsPage from "./pages/ProductsPage";
+import PrivacyPage from "./pages/PrivacyPage";
+import TermsPage from "./pages/TermsPage";
+import CookiesPage from "./pages/CookiesPage";
+import DisclosurePage from "./pages/DisclosurePage";
 import NotFound from "./pages/NotFound";
 import posts from "./data/posts";
 
@@ -25,6 +30,11 @@ export const routes = [
       { path: "quiz", element: <QuizPage /> },
       { path: "about", element: <AboutPage /> },
       { path: "faq", element: <FAQPage /> },
+      { path: "products", element: <ProductsPage /> },
+      { path: "privacy", element: <PrivacyPage /> },
+      { path: "terms", element: <TermsPage /> },
+      { path: "cookies", element: <CookiesPage /> },
+      { path: "disclosure", element: <DisclosurePage /> },
       { path: "blog", element: <BlogIndex /> },
       {
         path: "blog/:slug",

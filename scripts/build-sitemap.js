@@ -41,6 +41,11 @@ urls.push({ loc: "/quiz", priority: "0.8", changefreq: "monthly" });
 urls.push({ loc: "/blog", priority: "0.8", changefreq: "daily" });
 urls.push({ loc: "/about", priority: "0.6", changefreq: "monthly" });
 urls.push({ loc: "/faq", priority: "0.7", changefreq: "monthly" });
+urls.push({ loc: "/products", priority: "0.9", changefreq: "daily" });
+urls.push({ loc: "/privacy", priority: "0.3", changefreq: "yearly" });
+urls.push({ loc: "/terms", priority: "0.3", changefreq: "yearly" });
+urls.push({ loc: "/cookies", priority: "0.3", changefreq: "yearly" });
+urls.push({ loc: "/disclosure", priority: "0.4", changefreq: "yearly" });
 
 // UK blog posts
 for (const { slug, date } of getSlugs(join(root, "Blog"))) {

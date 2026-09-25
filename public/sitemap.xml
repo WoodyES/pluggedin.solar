@@ -2,45 +2,75 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pluggedin.solar/</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/calculator</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/report</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/quiz</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/blog</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/about</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/faq</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/products</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/privacy</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/terms</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/cookies</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/disclosure</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/blog/25m-government-pilot-plug-in-solar-uk</loc>
@@ -475,6 +505,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/ecoflow-stream-ultra-pro-review-uk</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/ecoflow-stream-vs-anker-solix-rs40p-uk-2026</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>monthly</changefreq>
@@ -865,6 +901,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-brighton-guide-uk</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-bristol-guide-uk</loc>
     <lastmod>2026-08-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -891,6 +933,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-cable-routing-weatherproofing-reality-uk</loc>
     <lastmod>2026-04-11</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-cambridge-guide-uk</loc>
+    <lastmod>2026-09-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -939,6 +987,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-conservatory-roof-uk</loc>
     <lastmod>2026-08-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-cornwall-guide-uk</loc>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -1357,6 +1411,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-november-generation-uk</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-october-clocks-change-uk</loc>
     <lastmod>2026-08-14</lastmod>
     <changefreq>monthly</changefreq>
@@ -1401,6 +1461,12 @@
   <url>
     <loc>https://pluggedin.solar/blog/plug-in-solar-one-week-later-uk</loc>
     <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/blog/plug-in-solar-oxford-guide-uk</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -2047,6 +2113,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/blog/uk-compliant-plug-in-solar-devices-live</loc>
+    <lastmod>2026-09-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/blog/uk-government-plug-in-solar-announcement-2026</loc>
     <lastmod>2026-04-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -2114,7 +2186,7 @@
   </url>
   <url>
     <loc>https://pluggedin.solar/us/blog</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -2311,6 +2383,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-connecticut</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/plug-in-solar-electrical-safety-120v</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2365,6 +2443,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-georgia</loc>
+    <lastmod>2026-09-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/plug-in-solar-hawaii-2026-guide</loc>
     <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
@@ -2383,6 +2467,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-massachusetts</loc>
+    <lastmod>2026-09-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-nevada</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/us/blog/plug-in-solar-new-jersey</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2391,6 +2487,12 @@
   <url>
     <loc>https://pluggedin.solar/us/blog/plug-in-solar-new-york</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-north-carolina</loc>
+    <lastmod>2026-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2409,6 +2511,12 @@
   <url>
     <loc>https://pluggedin.solar/us/blog/plug-in-solar-payback-period-us</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/us/blog/plug-in-solar-pennsylvania</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2498,13 +2606,19 @@
   </url>
   <url>
     <loc>https://pluggedin.solar/au/blog</loc>
-    <lastmod>2026-09-19</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pluggedin.solar/au/blog/as-nzs-4777-plain-english-plug-in-solar-au</loc>
     <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/battery-storage-vs-no-battery-plug-in-solar-australia</loc>
+    <lastmod>2026-09-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2593,6 +2707,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/au/blog/daylight-saving-solar-monitoring-australia</loc>
+    <lastmod>2026-09-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/au/blog/ecoflow-australia-review</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2647,8 +2767,20 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/au/blog/plug-in-solar-cec-approved-inverters-au</loc>
+    <lastmod>2026-09-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/au/blog/plug-in-solar-granny-flat-secondary-dwelling-au</loc>
     <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/plug-in-solar-home-insurance-australia</loc>
+    <lastmod>2026-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2755,6 +2887,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://pluggedin.solar/au/blog/solar-guide-northern-territory</loc>
+    <lastmod>2026-09-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://pluggedin.solar/au/blog/solar-guide-nsw</loc>
     <lastmod>2026-04-06</lastmod>
     <changefreq>monthly</changefreq>
@@ -2841,6 +2979,12 @@
   <url>
     <loc>https://pluggedin.solar/au/blog/solar-panel-size-guide-australia</loc>
     <lastmod>2026-04-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pluggedin.solar/au/blog/solar-panel-warranty-guide-australia</loc>
+    <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
