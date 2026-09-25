@@ -8,6 +8,11 @@
       "permanent": true
     },
     {
+      "source": "/blog/plug-in-solar-panel-angle-uk",
+      "destination": "/blog/plug-in-solar-panel-angle",
+      "permanent": true
+    },
+    {
       "source": "/blog/balcony-rail-solar-mount-uk",
       "destination": "/blog/balcony-rail-mounting-plug-in-solar",
       "permanent": true
