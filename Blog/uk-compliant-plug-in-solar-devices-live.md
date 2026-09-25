@@ -9,6 +9,8 @@ cluster: compliance-registry
 
 The **Energy Networks Association (ENA)** maintains the official register of grid-code compliant plug-in solar devices for Great Britain. Every kit that has passed G98 or G99 testing appears here — and if a kit *isn't* here, your DNO has grounds to object to your G98 notification. This page auto-syncs from the [ENA Connect Direct registry](https://connect-direct.energynetworks.org/device-databases/search-gen?device_type_id=14&compliance_status_id=Compliant) every day so what you see is what the network operators actually accept.
 
+**Prefer a filterable directory with prices and buy-buttons?** See our [full UK plug-in solar kits directory](/products) — same data, but with price filters, mount-type filters, and per-kit savings estimates.
+
 ## What "compliant" means (in plain English)
 
 To sell a plug-in solar kit into the UK market under [SI 2026 No. 848](/blog/si-2026-848-plug-in-solar-explained-uk), the inverter must pass:

@@ -155,6 +155,26 @@ export default function CalculatorPage() {
 
   const annualGen = pvgisKwh || 0;
   const selfConsumed = annualGen * presence.sc;
+
+  // Persist calculator context to localStorage so /products can show per-kit
+  // personalised savings using this user's postcode, tariff and self-consumption.
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    if (!location || !pvgisKwh || !panelSize.kWp) return;
+    try {
+      localStorage.setItem("pin-calc-context", JSON.stringify({
+        area: location.area,
+        lat: location.lat,
+        lon: location.lon,
+        annualKwhPerKw: pvgisKwh / panelSize.kWp, // per-kWp yield for this location + placement
+        selfConsumption: presence.sc,
+        tariff: tariff,
+        placementId: placement.id,
+        market: market,
+        savedAt: new Date().toISOString(),
+      }));
+    } catch (_) { /* localStorage may be blocked — silent */ }
+  }, [location, pvgisKwh, panelSize.kWp, presence.sc, tariff, placement.id, market]);
   const annualSaving = (selfConsumed * tariff) / 100;
   const payback = annualSaving > 0 ? panelSize.cost / annualSaving : 0;
   const lifetime = annualSaving * 15 - panelSize.cost;
