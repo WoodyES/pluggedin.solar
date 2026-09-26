@@ -251,6 +251,7 @@ export default function HomePage() {
         jsonLd={[ORG_LD, FAQ_LD]}
       />
       <Hero gridData={gridData} copy={copy} />
+      <AmazonStorefronts />
       <WhyNow />
       {copy.showTimeline && <Timeline />}
       <ForWho />
@@ -259,6 +260,39 @@ export default function HomePage() {
       <HowItWorks />
       <FAQSection />
     </>
+  );
+}
+
+// ─── AMAZON STOREFRONTS ─────────────────────────────────────────────────────
+// Always-visible row linking each Amazon marketplace with the corresponding
+// Associates tracking ID (pluggedinsola-21 UK, -20 US, -22 AU). Amazon's
+// application reviewers land on this homepage; having all three tagged
+// storefront links here proves the tracking IDs are in active use.
+function AmazonStorefronts() {
+  const links = [
+    { region: "UK", flag: "🇬🇧", href: "https://www.amazon.co.uk/s?k=plug+in+solar+kit&tag=pluggedinsola-21" },
+    { region: "US", flag: "🇺🇸", href: "https://www.amazon.com/s?k=plug+in+solar+kit&tag=pluggedinsola-20" },
+    { region: "AU", flag: "🇦🇺", href: "https://www.amazon.com.au/s?k=plug+in+solar+kit&tag=pluggedinsola-22" },
+  ];
+  return (
+    <section className="section-pad" style={{ padding: "28px 20px", background: T.surface, borderTop: `1px solid ${T.border}`, borderBottom: `1px solid ${T.border}` }}>
+      <div style={{ maxWidth: 960, margin: "0 auto", display: "flex", alignItems: "center", justifyContent: "center", flexWrap: "wrap", gap: 20 }}>
+        <span style={{ fontSize: "0.82rem", color: T.inkMid, fontWeight: 500 }}>Shop plug-in solar kits on Amazon:</span>
+        {links.map(l => (
+          <a
+            key={l.region}
+            href={l.href}
+            target="_blank"
+            rel="noopener noreferrer sponsored"
+            style={{ display: "inline-flex", alignItems: "center", gap: 6, fontSize: "0.85rem", color: T.solar, fontWeight: 600, textDecoration: "none", padding: "6px 12px", borderRadius: 8, border: `1px solid ${T.solarBorder}`, background: T.solarLight }}
+          >
+            <span aria-hidden="true">{l.flag}</span>
+            Amazon {l.region} →
+          </a>
+        ))}
+        <span style={{ fontSize: "0.7rem", color: T.inkFaint }}>(affiliate links)</span>
+      </div>
+    </section>
   );
 }
 
