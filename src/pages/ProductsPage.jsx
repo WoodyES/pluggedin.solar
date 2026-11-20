@@ -246,36 +246,72 @@ export default function ProductsPage() {
     return out;
   }, [devices, manufacturer, band, mount, priceMax, sort, search]);
 
-  // JSON-LD ItemList for SEO — Google recognises this as a product directory
+  // JSON-LD ItemList for SEO. Only include priced devices with images so every
+  // emitted Product satisfies Google's structured-data requirements: image,
+  // description, offers, shippingDetails, hasMerchantReturnPolicy. Unpriced
+  // devices appear on the page but are omitted from the schema (they would
+  // trigger "neither offers, review nor aggregateRating specified" warnings).
+  const SITE_DOMAIN = "https://pluggedin.solar";
+  const schemaDevices = devices
+    .map(d => ({ d, p: priceFor(d.ref), img: imageFor(d) }))
+    .filter(x => x.p && x.p.gbp)
+    .slice(0, 30);
+
   const itemListLd = {
     "@context": "https://schema.org",
     "@type": "ItemList",
     "name": "UK Compliant Plug-in Solar Kits",
     "description": `${devices.length} UK ENA-compliant plug-in solar kits, updated daily.`,
     "numberOfItems": devices.length,
-    "itemListElement": devices.slice(0, 30).map((d, i) => {
-      const p = priceFor(d.ref);
-      const item = {
+    "itemListElement": schemaDevices.map(({ d, p, img }, i) => {
+      const modelShort = d.model.replace(/^[\s–—]+/, "").split("+")[0].trim().slice(0, 80);
+      const name = `${d.manufacturer} — ${modelShort}`;
+      const wattage = typeof d.capacityKw === "number" ? `${Math.round(d.capacityKw * 1000)}W` : "";
+      const description = `${name} — UK ENA-compliant plug-in solar kit${wattage ? `, ${wattage}` : ""}${d.phase ? `, ${d.phase}-phase` : ""}. Listed on the ENA Type Test Register (ref ${d.ref}) and lawful for G98 notification under SI 2026 No. 848.`;
+      // Absolute image URL — prefer imageFor()'s own URL if absolute, else prefix our domain.
+      const imageUrl = img
+        ? (img.startsWith("http") ? img : `${SITE_DOMAIN}${img}`)
+        : `${SITE_DOMAIN}/og-default.png`;
+      return {
         "@type": "ListItem",
         "position": i + 1,
         "item": {
           "@type": "Product",
-          "name": `${d.manufacturer} — ${d.model.split("+")[0].trim().slice(0, 80)}`,
+          "name": name,
+          "description": description,
+          "image": imageUrl,
           "productID": d.ref,
+          "sku": d.ref,
           "brand": { "@type": "Brand", "name": d.manufacturer },
           "category": "Plug-in solar kit",
+          "offers": {
+            "@type": "Offer",
+            "priceCurrency": "GBP",
+            "price": p.gbp,
+            "availability": "https://schema.org/InStock",
+            "url": `${SITE_DOMAIN}/products`,
+            "seller": { "@type": "Organization", "name": p.retailer || "Various" },
+            "shippingDetails": {
+              "@type": "OfferShippingDetails",
+              "shippingRate": { "@type": "MonetaryAmount", "value": "0", "currency": "GBP" },
+              "shippingDestination": { "@type": "DefinedRegion", "addressCountry": "GB" },
+              "deliveryTime": {
+                "@type": "ShippingDeliveryTime",
+                "handlingTime": { "@type": "QuantitativeValue", "minValue": 0, "maxValue": 2, "unitCode": "DAY" },
+                "transitTime":  { "@type": "QuantitativeValue", "minValue": 1, "maxValue": 5, "unitCode": "DAY" },
+              },
+            },
+            "hasMerchantReturnPolicy": {
+              "@type": "MerchantReturnPolicy",
+              "applicableCountry": "GB",
+              "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
+              "merchantReturnDays": 14,
+              "returnMethod": "https://schema.org/ReturnByMail",
+              "returnFees": "https://schema.org/FreeReturn",
+            },
+          },
         },
       };
-      if (p && p.gbp) {
-        item.item.offers = {
-          "@type": "Offer",
-          "priceCurrency": "GBP",
-          "price": p.gbp,
-          "availability": "https://schema.org/InStock",
-          "seller": { "@type": "Organization", "name": p.retailer || "Various" },
-        };
-      }
-      return item;
     }),
   };
 
